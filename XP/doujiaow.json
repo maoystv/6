@@ -1,0 +1,118 @@
+{
+    "author": "春风",
+    "ua": "",
+    "homeUrl": "https://m.doujiaow1.com/",
+    "dcVipFlag": "true",
+    "dcPlayUrl": "true",
+    "cateManual": {
+        "电影": "1",
+        "连续剧": "2",
+        "视频大全": "25",
+        "动漫": "4",
+        "综艺": "3"
+    },
+    "homeVodNode": "//div[@class='con']/a",
+    "homeVodName": "/@title",
+    "homeVodId": "/@href",
+    "homeVodIdR": "/vodhtml/(\\w+)/",
+    "homeVodImg": "//@data-src",
+    "homeVodImgR": "",
+    "homeVodMark": "//em/text()",
+    "cateUrl": "https://m.doujiaow1.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by-time-class--year--letter--area--lang-.html/page/.html",
+    "cateVodNode": "//div[@class='con']/a",
+    "cateVodName": "/@title",
+    "cateVodId": "/@href",
+    "cateVodIdR": "/vodhtml/(\\w+)/",
+    "cateVodImg": "//@data-src",
+    "cateVodImgR": "",
+    "cateVodMark": "//em/text()",
+    "dtUrl": "https://m.doujiaow1.com/vodhtml/{vid}/",
+    "dtNode": "//section[@class='main']",
+    "dtName": "//h1/text()",
+    "dtNameR": "",
+    "dtImg": "//div[@class='posterPic']/a//@src",
+    "dtImgR": "",
+    "dtCate": "//p[@class='pBottom']/span[4]/text()",
+    "dtCateR": "类型/评分：(.*)",
+    "dtYear": "//p[@class='pBottom']/span[3]/text()",
+    "dtYearR": "地区/年代：\\S+ / (\\S+)",
+    "dtArea": "//p[@class='pBottom']/span[3]/text()",
+    "dtAreaR": "地区/年代：(\\S+) / \\S+",
+    "dtDirector": "//p[@class='pBottom']/span[5]/text()",
+    "dtDirectorR": "导演：(\\S+)",
+    "dtActor": "//p[@class='pBottom']/span[6]/text()",
+    "dtActorR": "主演：(\\S+)",
+    "dtDesc": "//div[@class='tabCon']/p[2]/text()",
+    "dtDescR": "剧情:(.*)",
+    "dtFromNode": "//dt[@class='tabt3']/span[@id and and not(contains(text(),'迅雷')) and not(contains(text(),'百度'))]",
+    "dtFromName": "/text()",
+    "dtFromNameR": "",
+    "dtUrlNode": "//ul[contains(@class,'ulNumList')]",
+    "dtUrlSubNode": "/li/a",
+    "dtUrlId": "@href",
+    "dtUrlIdR": "/vodplayhtml/(\\S+)",
+    "dtUrlName": "/text()",
+    "dtUrlNameR": "",
+    "playUrl": "https://m.doujiaow1.com/vodplayhtml/{playUrl}.html",
+    "playUa": "",
+    "searchUrl": "https://m.doujiaow1.com/index.php?m=vod-search&wd={wd}",
+    "scVodNode": "//div[@class='pic']/a",
+    "scVodName": "/@title",
+    "scVodId": "/@href",
+    "scVodIdR": "/vodhtml/(\\w+)/",
+    "scVodImg": "//@data-src",
+    "scVodMark": "//text()",
+    "filter":{
+      "1":[
+        {
+          "key": "cateId",
+          "name": "类型",
+          "value": [
+            {"n": "电影","v": "1"},
+            {"n": "动作片","v": "5"},
+            {"n": "喜剧片","v": "6"},
+            {"n": "爱情片","v": "7"},
+            {"n": "科幻片","v": "8"},
+            {"n": "恐怖片","v": "9"},
+            {"n": "剧情片","v": "10"},
+            {"n": "战争片","v": "11"}
+          ]}
+      ],
+      "2":[
+        {
+          "key": "cateId",
+          "name": "类型",
+          "value": [
+            {"n": "电视剧","v": ""},
+            {"n": "国产","v": "12"},
+            {"n": "韩剧","v": "15"},
+            {"n": "港剧","v": "13"},
+            {"n": "台剧","v": "14"},
+            {"n": "泰剧","v": "26"},
+            {"n": "日剧","v": "17"},
+            {"n": "美剧","v": "16"},
+            {"n": "海外剧","v": "18"}
+            ]}
+      ],
+      "25":[
+        {
+          "key": "cateId",
+          "name": "类型",
+          "value": [
+            {"n": "视频大全","v": ""},
+            {"n": "电视剧大全","v": "39"},
+            {"n": "电影大全","v": "38"},
+            {"n": "动漫大全","v": "40"}
+          ]}
+      ],
+      "4":[
+        {
+          "key": "cateId",
+          "name": "类型",
+          "value": [
+            {"n": "动漫","v": ""},
+            {"n": "动漫剧集","v": "37"},
+            {"n": "动漫电影","v": "35"}
+          ]}
+      ]}
+    }
