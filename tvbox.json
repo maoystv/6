@@ -63,8 +63,8 @@
 
 {"key":"影视〔TV〕","name":"↓影视〔TV〕↓","type":0,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"csp_appysv2_天空〔TV〕","name":"天空〔TV〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
-{"key":"csp_appysv2_芒迅〔TV〕","name":"芒迅〔TV〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.hdyangtv.com/api.php/iptv/vod/"},
+{"key":"csp_appysv2_天空影视〔TV〕","name":"天空影视〔TV〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
+{"key":"csp_appysv2_芒迅影视〔TV〕","name":"芒迅影视〔TV〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.hdyangtv.com/api.php/iptv/vod/"},
 {"key":"csp_appysv2_独优影视〔TV〕","name":"独优影视〔TV〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 
 {"key":"csp_appysv2_APP影视","name":"↓APP影视↓","type":0,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0},
@@ -138,6 +138,8 @@
 {"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/骚火电影.json"},
 {"key":"csp_biubiu_剧白白","name":"剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/剧白白.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/瓜皮TV.json"},
+{"key":"csp_biubiu_天空影视","name":"天空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/天空影视.json"},
+{"key":"csp_biubiu_特狗影视","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/特狗影视.json"},
 {"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/在线之家.json"},
 {"key":"csp_biubiu_花猫TV","name":"花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/花猫TV.json"},
 {"key":"csp_biubiu_饭团","name":"饭团(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/饭团.json"},
@@ -207,12 +209,16 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"江湖","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905","优播线路","腾播线路"]}},
+{"name": "keyu","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {"name":"腾讯云","type":1,"url":"http://106.52.218.221:88/?url="},
-{"name": "盘古","type": 0,"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
 {"name": "左岸","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua"]}},
-{"name": "keyu","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent": "okhttp/4.1.0"}}},
-{"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"M3U8视频解析系统","type":0,"url":"https://jx.m3u8.pw/?url="}
+{"name": "随便","type": 1,"url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="},
+{"name": "LTRX","type": 1,"url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext": {"flag": ["rx"]}},
+{"name": "线路NX","type": 1,"url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
+{"name": "parwix手动","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]}},
+{"name": "盘古手动","type": 0,"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
+{"name":"m3u8手动","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"M3U8解析手动","type":0,"url":"https://jx.m3u8.pw/?url="}
 
 ],
 
