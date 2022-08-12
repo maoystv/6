@@ -2,7 +2,7 @@
 {
 "spider":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/qiaoji0809.jar",
 //直播源Base64编码转换
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vemhhbmdob25nL1RWQk9YWlkvcmF3L2JyYW5jaC9tYWluL1RWL2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uMDVrci5jb20vZG93bi5waHAvNjdlZjM4NmViZTM4YmQ5MzkyM2UwN2U5YmRmMDM2ZGMudHh0JjgzMDMxOAo="]}]}],
 "wallpaper":"http://css.lc/api.php",
 "sites":[
 {"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
