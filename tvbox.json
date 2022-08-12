@@ -192,9 +192,6 @@
 {"key": "花椒资源","name": "花椒资源","type": 0,"api": "https://apihjzy.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "酷豆资源网","name": "酷豆资源网","type": 1,"api": "https://api.kdapi.info/api.php/provide/vod/","playUrl": "https://jx.kubohk.com/jx/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "*酷豆资源网","name": "*酷豆资源网","type": 1,"api": "https://api.kdapi.info/api.php/provide/vod/?ac=list","playUrl": "https://jx.kubohk.com/jx/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "影库资源-伦理","name": "影库资源-伦理","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "影库资源2-伦理","name": "影库资源-伦理","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "酷伦理","name": "酷伦理-伦理","type": 1,"api": "https://api.kudian70.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"*探探资源","name":"探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*奶茶资源","name":"奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*美少女源","name":"美少女源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
@@ -205,7 +202,12 @@
 {"key":"*大地资源","name":"大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 {"key": "色窝资源","name": "色窝资源","type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/?ac=list","playUrl": "https://player.sewozyplayer.com/m3u8/?url=","searchable": 1,"quickSearch": 0,"filterable": 0},
-
+{"key":"黄瓜TV资源","name":"黄瓜TV资源","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"草榴视频","name":"草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"佳丽资源","name":"佳丽资源","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"影库资源-伦理","name":"影库资源-伦理","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"酷伦理","name":"酷伦理-伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"博天堂","name":"博天堂-伦理","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_XBiubiu_斗鱼","name": "斗鱼〔直播〕","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/斗鱼.json"},{"key":"csp_xpath_huya","name":"虎牙〔直播〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/huya.json"}],
 
 
