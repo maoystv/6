@@ -4847,6 +4847,12 @@ IPTV北京4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/
 
 
 【辽宁】,#genre#
+大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
+大连生活,http://live.cooltv.top/tv/cutv.php?id=dlsh
+大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
+大连影视,http://live.cooltv.top/tv/cutv.php?id=dlzhys
+大连少儿,http://live.cooltv.top/tv/cutv.php?id=dlse
+大连购物,http://live.cooltv.top/tv/cutv.php?id=dlgw
 丹东公共,http://59.47.133.234:64231/live
 丹东新闻综合,http://59.47.133.234:64230/live
 丹东新闻综合,http://pili-live-hdl.zhdd.tianma3600.com/zhddgbds/dspd1.m3u8
