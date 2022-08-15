@@ -12,13 +12,13 @@
   "cateId": "/@href",
   "cateIdR": "/vodtype/(\\d+).html",
   "cateManual": {
-    "电影": "1",
-    "电视剧": "2",
-    "综艺": "5",
-    "动漫": "4",
-    "纪录片": "3",
-    "Bilibili": "24",
-    "少儿": "29"
+    "电影": "dianying",
+    "电视剧": "lianxuju",
+    "综艺": "zongyi",
+    "动漫": "dongman",
+    "纪录片": "jishi",
+    "Bilibili": "Bilibili",
+    "少儿": "shaoer"
   },
   "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
   "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
@@ -63,19 +63,19 @@
   "scVodImg": "pic",
   "scVodMark": "",
   "filter": {
-    "1": [
+    "dianying": [
       {
         "key": "cateId",
         "name": "分类",
         "value": [
           { "n": "全部", "v": "" },
-          { "n": "動作片", "v": "6" },
-          { "n": "喜劇片", "v": "7" },
-          { "n": "愛情片", "v": "8" },
+          { "n": "动作片", "v": "6" },
+          { "n": "喜剧片", "v": "7" },
+          { "n": "爱情片", "v": "8" },
           { "n": "科幻片", "v": "9" },
           { "n": "恐怖片", "v": "10" },
-          { "n": "劇情片", "v": "11" },
-          { "n": "戰爭片", "v": "12" },
+          { "n": "剧情片", "v": "11" },
+          { "n": "战争片", "v": "12" },
           { "n": "其他片", "v": "23" }
         ]
       },
@@ -129,7 +129,7 @@
         ]
       }
     ],
-    "2": [
+    "lianxuju": [
       {
         "key": "cateId",
         "name": "分类",
@@ -194,7 +194,7 @@
         ]
       }
     ],
-    "4": [
+    "dongman": [
       {
         "key": "area",
         "name": "地区",
@@ -242,7 +242,7 @@
         ]
       }
     ],
-    "5": [
+    "zongyi": [
       {
         "key": "area",
         "name": "地区",
@@ -292,7 +292,7 @@
         ]
       }
     ],
-    "3": [
+    "jishi": [
       {
         "key": "year",
         "name": "年份",
@@ -329,7 +329,7 @@
         ]
       }
     ],
-    "24": [
+    "Bilibili": [
       {
         "key": "cateId",
         "name": "分类",
@@ -391,7 +391,7 @@
         ]
       }
     ],
-    "29": [
+    "shaoer": [
       {
         "key": "area",
         "name": "地区",
