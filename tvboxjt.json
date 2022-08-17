@@ -35,6 +35,7 @@
 {"key":"csp_Bttoo","name":"两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"在线之家〔SP〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"Auete〔SP〕","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_EEEDY","name":"3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_IQIYI","name":"爱奇艺〔SP〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/0724.jar"},
