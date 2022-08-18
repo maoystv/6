@@ -1,5 +1,5 @@
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] },
-{"spider":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/0818.jar",
+{"spider":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/0818w.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uMDVrci5jb20vZG93bi5waHAvMzZhZjM4Y2VjODM0YjQzYzY0ZWU0ODk0NDUyMDY4MjQudHh0JjgzMDMxMA=="]}]}],
 "wallpaper":"http://css.lc/api.php",
 "sites":[
