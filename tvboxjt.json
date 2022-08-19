@@ -17,7 +17,7 @@
 {
 "spider":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/0818w.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uMDVrci5jb20vZG93bi5waHAvZjM2MjQ4ZGI1MmU4MjExOGExNTQ0NWNhMmQ3NmFjODcudHh0JjgzMDMxMA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uMDVrci5jb20vZG93bi5waHAvNDgwNGNjNjFmODEzN2MyN2I4MzA0N2EyOGNiYjRiODQudHh0JjgzMDMxMA=="]}]}],
 "wallpaper":"http://css.lc/api.php",
 "sites":[
 {"key":"csp_Kunyu77","name":"酷云七七〔公众号：云星日记〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
