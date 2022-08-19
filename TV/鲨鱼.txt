@@ -367,6 +367,14 @@ TVB经典功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_1
 
 
 【体育频道】,#genre#
+足篮解说一鸣,https://p-play.gcppjmk.cn/kqzb/750958546_1660904552.m3u8?txSecret=60db706422c3a86c99e8fb1e9be97fcc&txTime=62FF6468
+足篮解说清流,https://p-play.gcppjmk.cn/kqzb/642652637_1660903998.m3u8?txSecret=99d0ae0f3052847faa82c994171f6cea&txTime=62FF623E
+足篮解说小四儿,https://p-play.gcppjmk.cn/kqzb/982116501_1660906111.m3u8?txSecret=e3621daad9e6343b983e54b0972d6965&txTime=62FF6A7F
+足篮解说哈曼,https://p-play.gcppjmk.cn/public/395835080_1660904612.m3u8?txSecret=34deca2b0e4e7ff7886fd65feb23b88d&txTime=62FF64A4
+足篮解说汤圆,https://p-play.gcppjmk.cn/kqzb/512628929_1660910001.m3u8?txSecret=d02572b6cadd223c6f5b49602bf351f4&txTime=62FF79B1
+足篮解说小乔,https://p-play.gcppjmk.cn/public/380811486_1660906860.m3u8?txSecret=5a60aae41a6d61d4c8ff195736170e37&txTime=62FF6D6C
+足篮解说牙签,https://p-play.gcppjmk.cn/public/257350433_1660909725.m3u8?txSecret=aa2ea92e7c8d2ebf7a1e627b51266acc&txTime=62FF789D
+足篮解说梦回伯纳乌https://p-play.gcppjmk.cn/public/954234185_1660905831.m3u8?txSecret=8bdeb156e3dbef5f963749282b25cee0&txTime=62FF6967
 1场,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
 2场,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
 3场,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
