@@ -17,7 +17,8 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
-  
+  "fubiaotiqian": "sNum\">",
+  "fubiaotihou": "<em",
   "sousuoqian": "/index.php?m=vod-search&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/vodhtml/",
@@ -39,7 +40,6 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  
   "bfjiequshuzuqian": "class=\"ulNumList",
   "bfjiequshuzuhou": "</ul>",
   "zhuangtaiqian": "状态：",
@@ -53,7 +53,6 @@
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
-  
   "bfyjiequshuzuqian": "<li",
   "bfyjiequshuzuhou": "li>",
   "bfbiaotiqian": "title=\"",
