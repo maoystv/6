@@ -114,6 +114,7 @@
 {"key": "csp_xpath_wanmeikk","name": "完美看看(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/wanmeikk.json"},
 {"key":"csp_xpath_rttks","name":"人人影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/rttks.json"},
 {"key":"csp_xpath_juhuang","name":"剧荒TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/juhuang.json"},
+{"key":"csp_xpath_94sm","name":"94神马(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/94sm.json"},
 {"key":"csp_xpath_vip1280","name":"VIP电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/vip1280.json"},
 {"key":"csp_xpath_tjyy","name":"奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/huigutongying.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/lezhutv.json"},
@@ -138,12 +139,16 @@
 
 {"key":"自定义资源〔XB〕","name":"↓自定义资源〔XB〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"csp_biubiu_555电影","name":"555电影(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/555电影.json"},
-{"key":"csp_biubiu_影视工厂","name":"影视工厂(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/影视工厂.json"},
-{"key":"csp_biubiu_剧白白","name":"剧白白(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/剧白白.json"},
-{"key":"csp_XBiubiu_600影视","name":"600影视(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/600影视.json"},
-{"key":"csp_biubiu_小强迷","name":"小强迷(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/小强迷.json"},
-{"key":"csp_biubiu_80S磁力","name":"80S磁力(需要外置MX播放器QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/80S磁力.json"},
+{"key":"csp_QXBiubiu_555电影","name":"555电影(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/555电影.json"},
+{"key":"csp_QXBiubiu_影视工厂","name":"影视工厂(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/影视工厂.json"},
+{"key":"csp_QXBiubiu_剧白白","name":"剧白白(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/剧白白.json"},
+{"key":"csp_QXBiubiu_600影视","name":"600影视(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/600影视.json"},
+{"key":"csp_QXBiubiu_小强迷","name":"小强迷(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/小强迷.json"},
+{"key":"csp_QXBiubiu_歪片星球","name":"歪片星球(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/歪片星球.json"},
+{"key":"csp_QXBiubiu_蚂蚁4K","name":"蚂蚁4K(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/蚂蚁4K.json"},
+{"key":"csp_QXBiubiu_80S磁力","name":"80S磁力(需要外置MX播放器QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/80S磁力.json"},
+{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XYQB/分享短视频.json"},
+{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XYQB/虎牙代理直链.json"},
 
 {"key":"csp_biubiu_黑狐影院","name":"黑狐影院(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/黑狐影院.json"},
 {"key":"csp_biubiu_真不卡影院","name":"真不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/真不卡影院.json"},
@@ -172,12 +177,13 @@
 {"key":"csp_biubiu_七年影视","name":"七年影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/七年影视.json"},
 {"key":"csp_biubiu_完美看看","name":"完美看看(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/完美看看.json"},
 {"key":"csp_biubiu_人人影视","name":"人人影视(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/人人影视.json"},
+{"key":"csp_biubiu_蓝豆TV","name":"蓝豆TV(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/蓝豆TV.json"},
 {"key":"csp_biubiu_桔子TV","name":"桔子TV(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/桔子tv.json"},
 {"key":"csp_biubiu_GIMY影视","name":"GIMY影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/GimyTV.json"},{"key":"csp_biubiu_茶杯狐","name":"茶杯狐(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/茶杯狐.json"},
 {"key":"csp_biubiu_GIMY影视","name":"GIMY影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/GimyTV.json"},
 {"key":"csp_biubiu_F7好看剧","name":"F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/F7好看剧.json"},
 {"key":"csp_biubiu_大米星球","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/大米星球.json"},
-
+{"key":"csp_biubiu_听书网","name":"听书网(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/听书网.json"},
 {"key":"csp_XBiubiu_斗鱼","name":"斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/斗鱼.json"},{"key":"csp_xpath_huya","name":"虎牙〔直播〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/huya.json"}],
 
 
