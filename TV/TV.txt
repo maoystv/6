@@ -1,48 +1,3 @@
-【足球直播】,#genre#
-直播1,https://play.lanjing.live/notrans/1571486.m3u8?auth_key=1660952092-22819471-0-b1277c328da4e2b1d351a947b4c7aad8
-直播2,https://play.lanjing.live/notrans/1019444.m3u8?auth_key=1660952453-16270-0-e8264d81198681dc0dabca666ad8bd51
-直播3,https://play.lanjing.live/notrans/1166772.m3u8?auth_key=1660952553-42140089-0-45ccfa91734f886e1dd9aabd3a727c25
-直播4,https://play.lanjing.live/notrans/1103603.m3u8?auth_key=1660952642-68796650-0-6264d436971af6ccbe5273ee15c165e4
-直播5,https://play.lanjing.live/notrans/1049216.m3u8?auth_key=1660952707-72148473-0-0f55e96a29e5d84ec4ee389ee7257cd2
-直播6,https://play.lanjing.live/notrans/1012702.m3u8?auth_key=1660952859-85503746-0-fb0ac0b296c010db0df8cc1d59b43ad2
-直播7,https://play.lanjing.live/notrans/1370134.m3u8?auth_key=1660952932-30217955-0-84127554475682d1a103740ec436f843
-直播8,https://play.lanjing.live/notrans/1975961.m3u8?auth_key=1660953086-43177212-0-a9325ee359ba13a92f4c91e6d24c0109
-直播9,https://play.lanjing.live/notrans/1022986.m3u8?auth_key=1660953211-46159992-0-12e0f2016b5460f62212a5b8d4c6f063
-直播10,https://play.lanjing.live/notrans/1331033.m3u8?auth_key=1660953328-5541275-0-04b6a8c07aa264c45f775535b7a5e54d
-直播11,https://play.lanjing.live/notrans/2029030.m3u8?auth_key=1660953417-39017401-0-7ff1f6a291f83fd327d02d3f6ef7e4da
-直播12,https://play.lanjing.live/notrans/1990172.m3u8?auth_key=1660953488-30259909-0-058edad8eeac61b40a82a27dd824627d
-直播13,https://play.lanjing.live/notrans/2005983.m3u8?auth_key=1660953567-2187670-0-730165466ef26cd1be75770ed90446f6
-直播14,https://play.lanjing.live/notrans/1003120.m3u8?auth_key=1660953651-89057678-0-d78f665ae719b1c2e32c162a3770ed2e
-直播15,https://play.lanjing.live/notrans/1022865.m3u8?auth_key=1660953721-43489687-0-fcf719026200ef43df505d0d1d12a77d
-直播16,https://play.lanjing.live/notrans/2065171.m3u8?auth_key=1660953805-66610662-0-44b267e0a4885ce2b3122f92b7ac32c7
-直播17,https://play.lanjing.live/notrans/1065046.m3u8?auth_key=1660953870-58837671-0-31aac1d78f542882f8e3695bf6696ba5
-直播18,https://play.lanjing.live/notrans/1049216.m3u8?auth_key=1660953939-16965522-0-441b822939c40c0e605f380d22b0b069
-直播19,https://play.lanjing.live/notrans/1041550.m3u8?auth_key=1660954070-97949508-0-0260b2d246f7f0be98b6449d274c3c5f
-直播20,https://play.lanjing.live/notrans/1921960.m3u8?auth_key=1660954152-39261495-0-0fa8c6ca1f7d38112c83b337e81dabe6
-直播21,https://play.lanjing.live/notrans/1001640.m3u8?auth_key=1660954254-17715161-0-8360745d21160eb3104b9835e6390b2a
-直播22,https://play.lanjing.live/notrans/1665223.m3u8?auth_key=1660954364-76722936-0-304fc6f1b0ff7b92af505aa2f287e206
-直播23,https://play.lanjing.live/notrans/1016203.m3u8?auth_key=1660954499-35381107-0-c9e14d94e05d7a0c924fd891c33243fd
-直播24,https://play.lanjing.live/notrans/1946827.m3u8?auth_key=1660954580-27099845-0-73bd221fe6292bdfc3b4569ed3dbd4e2
-直播25,https://play.lanjing.live/notrans/1002468.m3u8?auth_key=1660954671-86261744-0-4f5d9512af84beebcd47d3dd6a06c130
-直播26,https://play.lanjing.live/notrans/1050233.m3u8?auth_key=1660954740-85092059-0-3ca537c8c5075ea619273f040420de2e
-直播27,https://play.lanjing.live/notrans/1000050.m3u8?auth_key=1660954820-65606478-0-daa4142032699129c2e80639c7cb12eb
-直播28,https://play.lanjing.live/notrans/1454860.m3u8?auth_key=1660954879-65044121-0-c88ddca651ba4201d292b8a2f6b0ed25
-直播29,https://play.lanjing.live/notrans/1352106.m3u8?auth_key=1660954948-58110984-0-1b4c943875dff5aa3553ea8f7effa5ea
-直播30,https://play.lanjing.live/notrans/1587031.m3u8?auth_key=1660955020-17610156-0-fa3f701a646436158918ba0e8b640664
-直播31,https://play.lanjing.live/notrans/1019338.m3u8?auth_key=1660955172-45408930-0-c02a00c60ea5575dfc09edfaa813a178
-直播32,https://play.lanjing.live/notrans/1020684.m3u8?auth_key=1660955239-54193577-0-87f6d5d025ad580feb0f5b8ed95e5984
-直播33,https://play.lanjing.live/notrans/1063344.m3u8?auth_key=1660955302-23657208-0-1a87f787cde40f9bb6839425ba2a5cbf
-直播34,https://play.lanjing.live/notrans/2087764.m3u8?auth_key=1660955387-44752820-0-06bdebde35c63d31a088be111c80cbc8
-直播35,https://play.lanjing.live/notrans/1761267.m3u8?auth_key=1660955443-49583965-0-c922930522b99a69312d2f36f0116cee
-直播36,https://play.lanjing.live/notrans/1568460.m3u8?auth_key=1660955522-51798686-0-cc000a007e7c1929a7c3d05cc17f6698
-直播37,https://play.lanjing.live/notrans/1529632.m3u8?auth_key=1660955590-14901968-0-41110b4297260f33ce891b8ae3e1975d
-直播38,https://play.lanjing.live/notrans/1556384.m3u8?auth_key=1660955652-9323888-0-4a8cb1936f6ce4ecb30944be553fc7b5
-直播39,https://play.lanjing.live/notrans/2060695.m3u8?auth_key=1660955739-96760075-0-6bc929bef89d8d88cf645e707a1cf44a
-【网球直播】,#genre#
-直播1,https://play.lanjing.live/notrans/1364727.m3u8?auth_key=1660956220-64235330-0-8498558afe80408d3cd60b6de06e76de
-直播2,https://play.lanjing.live/notrans/2011014.m3u8?auth_key=1660956300-40029054-0-75c0b523032df140378b3198d07b4c34
-直播3,https://play.lanjing.live/notrans/1001646.m3u8?auth_key=1660956353-43511084-0-922e7ada00b60b0748b335dd92486fc4
-直播4,https://play.lanjing.live/notrans/1000188.m3u8?auth_key=1660956418-41516780-0-d4d23a95b2b18037e9cd5613bf4e9631
 【央视频道】,#genre#
 CCTV-1综合,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
 CCTV-1综合,http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
@@ -166,6 +121,10 @@ CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV-17农业农村,http://111.20.33.93/PLTV/88888893/224/3221226198/index.m3u8
 CCTV-17农业农村,http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8
 CCTV-17农业农村,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+CETV-1教育综合,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+CETV-2继续教育,http://txycsbl.centv.cn/zb/0728cetv2.m3u8
+CETV-3人文记录,http://txycsbl.centv.cn/zb/0728cetv3.m3u8
+CETV-4空中课堂,http://txycsbl.centv.cn/zb/0728cetv4.m3u8
 CCTV-世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 CCTV-兵器科技,rtsp://221.203.83.35/PLTV/88888888/224/3221226704/10000100000000060000000006385167_0.smil
 CCTV-女性时尚,http://111.20.33.93/PLTV/88888893/224/3221226237/index.m3u8
@@ -173,9 +132,6 @@ CCTV-怀旧剧场,rtsp://221.203.83.35/PLTV/88888888/224/3221226700/100001000000
 CCTV-精品记录,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
 CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
 CCTV-风云剧场,rtsp://221.203.83.35/PLTV/88888888/224/3221226671/10000100000000060000000006385152_0.smil
-CETV-1,https://php.52sf.ga/jmstvbf.php?id=135
-CETV-3,http://111.20.33.93/PLTV/88888893/224/3221226226/index.m3u8
-CETV-4,http://111.20.33.93/PLTV/88888893/224/3221226225/index.m3u8
 
 
 
@@ -459,7 +415,6 @@ TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 足球5,http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
 足球7,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-
 
 【SiTV】,#genre#
 SiTV全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
@@ -1672,6 +1627,10 @@ H正在直播,http://mmitv.top/pltv/yy.php?id=1461725670
 甜酷辣妹暖心子,http://mmitv.top/pltv/yy.php?id=1354997439
 妩媚女神冉冉,http://mmitv.top/pltv/yy.php?id=1382701787
 
+
+
+
+
 【湖南】,#genre#
 东安综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_Twis7r.m3u8
 中方综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_d2uN5m.m3u8
@@ -2563,7 +2522,8 @@ IPTV北京4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/
 大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
 大连影视,http://live.cooltv.top/tv/cutv.php?id=dlzhys
 大连少儿,http://live.cooltv.top/tv/cutv.php?id=dlse
-大连购物,http://live.cooltv.top/tv/cutv.php?id=dlgw丹东公共,http://59.47.133.234:64231/live
+大连购物,http://live.cooltv.top/tv/cutv.php?id=dlgw
+丹东公共,http://59.47.133.234:64231/live
 丹东新闻综合,http://59.47.133.234:64230/live
 丹东新闻综合,http://pili-live-hdl.zhdd.tianma3600.com/zhddgbds/dspd1.m3u8
 朝阳教育,https://play.cytv01.cygbdst.com/live/jypdtv.m3u8
