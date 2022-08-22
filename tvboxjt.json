@@ -2,7 +2,7 @@
 
 {"spider":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/0821w.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xNjUwOC9UVi50eHQ/c2lnbj1hLXVTdHowVnVCZ1VwZW5oSG9pS1VfM0FlVHpzVmRpQ2tHMTJ3SjFpWTJFJTNEJTNBMA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xNjY3Ny9UVi50eHQ/c2lnbj16MzdPaEVpaldyX0xSbXJQVm0yZU9jcU9RaHFVVlFneDhScXpmc1FIdmxRJTNEJTNBMA=="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
