@@ -9,7 +9,6 @@
 {"key":"csp_Lib","name":"Libvio〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_007","name":"零零柒(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
 {"key":"csp_appysv2_amhys","name":"爱麻花影院〔SP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
-{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%8E%82%E9%95%BF%E8%93%9D%E5%85%89.json"},
 {"key":"csp_biubiu_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/555%E7%94%B5%E5%BD%B1.json"},
 {"key": "csp_XYQBiu_凌云影视", "name": "凌云影视(XYQ)", "type":3, "api": "csp_XYQBiu", "searchable":1, "quickSearch":1, "filterable":0, "ext": "https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_xpath_UM", "name":"UM影院(XPMF)", "type":3, "api":"csp_XPathMacFilter", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/UM.json"},
