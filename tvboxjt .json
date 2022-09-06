@@ -10,7 +10,6 @@
 {"key":"csp_xpath_007","name":"零零柒(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
 {"key":"csp_appysv2_amhys","name":"爱麻花影院〔SP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
 {"key":"csp_XPath_bidiys","name":"哔嘀影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XP/bidiys.json"},
-{"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQ/czspp.json"},
 {"key": "csp_xpath_112","name": "工人影视","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/hongdeng98/TVBox/raw/branch/main/XP/gongreng.json"},
 {"key": "csp_XYQBiu_影子工厂","name":"影子工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQ/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"},
