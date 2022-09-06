@@ -457,7 +457,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
- {"name":"萝卜","type": 0,"url": "https://ys.lbbb.cc/?url="},"ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
+{"name":"萝卜","type": 0,"url": "https://ys.lbbb.cc/?url="},
 {"name":"扶风","type":1,"url":"https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"全民","type":0,"url":"http://api.wpsseo.cn/?v=","ext":{"flag": ["qq","qiyi","youku","pptv","le","sohu","bilibili","xigua","1905"]}},
 { "name": "搬运","type": 1,"url": "https://jx.bynote.top/API.php?url=","ext": {"flag": ["qiyi","iqiyi", "奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili", "哔哩哔哩",  "哔哩", "mgtv","芒果", "xigua", "西瓜","sohu", "搜狐", "cntv", "cctv","央视","1905", "m1905" ] } },
