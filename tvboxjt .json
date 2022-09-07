@@ -27,8 +27,6 @@
 "ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/剧荒电影.json","jar": "https://gitea.com/yuegu09/wailian/raw/branch/main/jar/XYQBiu_0826fix%20.jar"},
 {"key": "万能影院(XYQ)","name": "万能影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/万能影院(XYQ).json"},
 {"key": "歪片星球","name": "歪片星球(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/%E6%AD%AA%E7%89%87%E6%98%9F%E7%90%83_xyq_.json" },
-{"key": "csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQ/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83%20.json"},
-{"key": "csp_XYQBiu_小猫咪","name":"小猫咪(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQ/%E5%B0%8F%E7%8C%AB%E5%92%AA.json"},
 {"key":"花猫影视","name":"花猫影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"},
 {"key":"云播看看","name":"云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"},
 {"key":"比特影视","name":"比特影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"},
