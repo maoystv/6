@@ -34,7 +34,6 @@
 {"key":"csp_xpath_UM", "name":"UM影院(XPMF)", "type":3, "api":"csp_XPathMacFilter", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/UM.json"},
 {"key": "剧荒影院","name": "剧荒影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/剧荒电影.json","jar": "https://gitea.com/yuegu09/wailian/raw/branch/main/jar/XYQBiu_0826fix%20.jar"},
-{"key": "万能影院","name": "万能影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/万能影院(XYQ).json"},
 {"key": "歪片星球","name": "歪片星球(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/%E6%AD%AA%E7%89%87%E6%98%9F%E7%90%83_xyq_.json" },
 {"key": "csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQ/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83%20.json"},
 {"key":"csp_xml_小猫咪","name":"小 猫 咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
