@@ -1,6 +1,6 @@
 ﻿//{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] },
 
-{"spider":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/0907.jar",
+{"spider":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/0910.jar",
  "spider": "http://刚刚.live/jar2/0901.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
