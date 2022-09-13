@@ -116,8 +116,6 @@
 {"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/cuijw/tvbox/raw/branch/main/XB/%E6%88%8F%E6%9B%B2.json"},
 {"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"TT","name":"TT(爬虫)","type": 3,"api":"csp_AppTT","searchable": 1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"},
-{"key": "天堂","name": "天堂(官源)","type": 0,"api": "http://vipmv.cc/api.php/provide/vod/at/xml","playUrl": "json:https://cache.json.icu/home/api?type=ys&uid=292796&key=gjotvwxyABEMVWXYZ6&url=",
-"searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_biubiu_真不卡cerrd","name": "真不卡影院","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://gitea.com/wjj415/jn/raw/branch/main/xb/zhenbuka.json","jar": "https://gitea.com/wjj415/wjj/raw/branch/main/gg.jar;md5;0c2e2027461c439565a00a8b39b0a154"},
 {"key": "csp_biubiu_特狗影院","name": "特狗影院","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,
