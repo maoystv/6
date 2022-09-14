@@ -239,7 +239,7 @@
           
           {"key":"csp_biubiu_红领巾","name":"🚘红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/longlx/tvb/raw/branch/main/xb/%e7%ba%a2%e9%a2%86%e5%b7%be.json"}
             
-        ],
+        ,
 {"key":"csp_appysv2_APP影视","name":"↓APP影视↓","type":0,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_appysv2_零刻影院〔APP〕","name":"零刻影院〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_萌蛋蛋〔APP〕","name":"萌蛋蛋〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
