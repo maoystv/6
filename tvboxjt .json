@@ -1,4 +1,4 @@
-{"spider":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/0906.jar;md5;86cfdb829f2d843c9f302906efdbd451",
+{"spider":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/0915.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vemhhbmdob25nL1RWQk9YWlkvcmF3L2JyYW5jaC9tYWluL1RWL1RWLnR4dA=="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
