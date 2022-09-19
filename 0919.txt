@@ -439,7 +439,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"}
+            "ext": "14ab7929c5724ffd9c3431d8fa19d421"},
         {"key": "py_huya","name": "🔥虎牙","type": 3,"api": "py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_huya.py"},
     {"key": "py_douyu","name": "🔥斗鱼","type": 3,"api": "py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_douyu.py"},
 	  
