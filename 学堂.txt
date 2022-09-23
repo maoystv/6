@@ -45,11 +45,7 @@
    
    {"key": "美食","name": "🅱️美食乐欢天","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
    "ext":"http://dlj.bz/NcBi4M"
-  },
-   
-  {"key": "UP主","name": "🅱️UP测评","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://dlj.bz/qpG0as"},
-{"key": "EXCEL","name": "🅱️表格学习","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://dlj.bz/KL4bH4"}, {"key": "jiaocheng","name": "🅱️站教程①","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/138001380000/MHQTV/raw/commit/b66ac4d6a5c0043e2297e301325adb07d73b8e3d/XB/%e6%95%99%e7%a8%8b.txt","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar"},
-	   	{"key": "软件","name": "🅱️软件教程②","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExpVGVRX0J1M3J6RUtRYlJY.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar"}],
+  }],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
