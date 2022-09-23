@@ -7,13 +7,13 @@
 //Y2xhbiUzQS8vVFZCb3gvdHYveG0udHh0
 "sites":[
    {"key": "学堂1",
-      "name": "🅱️学习乐园",
+      "name": "学习乐园",
       "type": 3,
       "api": "csp_Bili","searchable":0,              "quickSearch": 0,
       "filterable": 1,
   "ext": "https://share.nite07.com/api/v3/file/source/16456/%E6%95%99%E8%82%B2.txt?sign=XPnAY-vON_7a_G70kXbcMpT7_af-5cceqRvK1lhZSCs%3D%3A0"},
         {"key": "学堂2",
-        "name": "🅱️小学学习",
+        "name": "小学学习",
         "type": 3,
         "api": "csp_Bili",
         "searchable":0,
@@ -21,17 +21,17 @@
         "filterable": 1,
         "ext": "http://dlj.bz/Ec3sbk"},
           {"key": "学堂3",
-          "name": "🅱️初中学习",
+          "name": "初中学习",
           "type": 3,
           "api": "csp_Bili",
           "searchable":0,
           "quickSearch": 0,
           "filterable": 1,
           "ext": "http://dlj.bz/DL64q9"},
-  {"key": "学堂4","name": "🅱️高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://dlj.bz/7FcWku"},
+  {"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://dlj.bz/7FcWku"},
   {"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://dlj.bz/k19XIj","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar"},
 {"key": "csp_Bliyc",
-      "name": "🅱️歌手会",
+      "name": "歌手会",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -41,12 +41,11 @@
 	"jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar"
     },   
 	
-   {"key": "MV","name": "🅱️歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://dlj.bz/E6t9DT","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar"}, 
+   {"key": "MV","name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://dlj.bz/E6t9DT","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar"}, 
    
-   {"key": "美食","name": "🅱️美食乐欢天","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
+   {"key": "美食","name": "美食乐欢天","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
    "ext":"http://dlj.bz/NcBi4M"
   }],
-
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
