@@ -59,7 +59,7 @@
             "key": "dr_LIBVIO",
             "name": "LIBVIO(道长)",
             "type": 1,
-            "api": "https://drpy.aqingyuan.repl.co/vod?rule=Libvio",
+            "api": "https://drpy.aqingyuan.repl.co/vod?rule=LIBVIO",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
