@@ -1,4 +1,4 @@
-﻿{"spider":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/cp0921.jar;md5;77634a6d6a6134526fecfd986bdd5bce",
+﻿{"spider":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/999.jarmd5;3e92f56bd34dbc49f26ebce77b845255",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2hlcm9ha3UvVFZib3hvL3Jhdy9tYWluL3R2L2JjLnR4dA=="]}]}],
 
@@ -914,6 +914,7 @@
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"佳宸","type":0,"url":"http://1link.atwebpages.com/?url="},
 {"name": "GGTV","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},
 {"name": "OKjx嗅探","type": 0,"url": "https://okjx.cc/?url="},
