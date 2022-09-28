@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar",
+"spider":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/999.png;md5;3E92F56BD34DBC49F26EBCE77B845255",
 
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi9tdHYudHh0"]}]}],
