@@ -1,4 +1,4 @@
-﻿{"spider":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/999.jarmd5;3e92f56bd34dbc49f26ebce77b845255",
+﻿{"spider":"https://agit.ai/hongdeng98/XZY/src/branch/main/jar/999.png;md5;3E92F56BD34DBC49F26EBCE77B845255",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2hlcm9ha3UvVFZib3hvL3Jhdy9tYWluL3R2L2JjLnR4dA=="]}]}],
 
