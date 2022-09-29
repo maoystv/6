@@ -338,6 +338,8 @@
 "filterable": 0,
 "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---",
 "jar": "https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/XBiu.jar"},
+{"key": "dr_酷云777", "name": "酷云77(道长)", "type": 1, "api": "http://43.139.29.179:5705/vod?rule=酷云77", "searchable": 2, "quickSearch": 0, "filterable": 1},
+{key: 'dr_007影视', name:'007影视(道长)', type:1, api:'https://drpy.justmiss.repl.co/vod?rule=007影视', searchable:2, quickSearch:0, filterable:0},
 {"key": "dr_555影视","name": "555影视(道长)","type": 1,"api": "https://drpy.aqingyuan.repl.co/vod?rule=555影视","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key": "dr_AnFuns","name": "AnFuns(道长)","type": 1,"api": "https://drpy.aqingyuan.repl.co/vod?rule=AnFuns",
 "searchable": 2,"quickSearch": 0,"filterable": 0},
