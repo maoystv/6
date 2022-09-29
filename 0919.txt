@@ -433,15 +433,7 @@
             "quickSearch": 0,
             "filterable": 0
         },
-        {
-            "key": "dr_夜空",
-            "name": "夜空(道长)",
-            "type": 1,
-            "api": "https://drpy.aqingyuan.repl.co/vod?rule=夜空",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+        
         {
             "key": "dr_大米星球",
             "name": "大米星球(道长)",
