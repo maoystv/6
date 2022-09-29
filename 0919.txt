@@ -8,7 +8,7 @@
 {"key": "剧荒TV（SP）","name": "剧荒影视(SP)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu_spider","name": "乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_xBPQ_在线之家","name":"️xBPQ | 在线之家","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,
-"filterable":0,"ext":"https://agit.ai/hongdeng98/Q/raw/branch/master/xBPQ/zxzj.json"}
+"filterable":0,"ext":"https://agit.ai/hongdeng98/Q/raw/branch/master/xBPQ/zxzj.json"},
 {"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/SP293.jar;md5;B0E36660C3DAC82272D197ED16C7C6E2"},
 {"key": "csp_xb_lgyy","name": "蓝光影院(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/XBiu.jar"},
 {"key": "csp_hbys","name": "简影(SP)","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 1,
