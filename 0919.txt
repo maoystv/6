@@ -1227,7 +1227,6 @@
 { "name": "搬运","type": 1,"url": "https://jx.bynote.top/API.php?url=","ext": {"flag": ["qiyi","iqiyi", "奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili", "哔哩哔哩",  "哔哩", "mgtv","芒果", "xigua", "西瓜","sohu", "搜狐", "cntv", "cctv","央视","1905", "m1905" ] } },
 { "name": "视界","type": 1,"url": "http://150.230.216.174/tvjx.php?url=","ext": { "flag": ["qiyi", "iqiyi", "奇艺",  "爱奇艺", "qq",  "腾讯", "youku", "优酷", "pptv","PPTV","letv","乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果","xigua","西瓜", "sohu", "搜狐", "cntv","cctv","央视","1905", "m1905" ],"header": { "User-Agent": "Dart/2.14 (dart:io)" } }},
 {"name":"泡沫","type":1,"url":"https://jx.paoomo.com/jiami.php?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}},
-{"name":"1","type": 1,"url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},	
 {"name":"2","type": 1,"url": "https://hc.izny.cn/json.php?url="},
 {"name":"3","type":1,"url":"https://vip.nxflv.com/home/aphttps://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"4","type": 1,"url": "https://json.freejx.in/?url=",
