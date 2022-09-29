@@ -6,7 +6,6 @@
 {"key":"csp_LibVio","name":"LibVio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch": 1,"filterable":1},{"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"五五五(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "剧荒TV（SP）","name": "剧荒影视(SP)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/影视工厂.json"},
 {"key": "Lezhu_spider","name": "乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_xBPQ_在线之家","name":"️xBPQ | 在线之家","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,
 "filterable":0,"ext":"https://agit.ai/hongdeng98/Q/raw/branch/master/xBPQ/zxzj.json"}
@@ -366,7 +365,187 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "http://www.kyikan.cc/vodtypehtml/{cateId}/index-{catePg}.html","jar":"https://agit.ai/hongdeng98/Q/raw/branch/master/jar/XBiu.jar"},{"key": "dr_酷云777", "name": "酷云77(道长)", "type": 1, "api": "http://43.139.29.179:5705/vod?rule=酷云77", "searchable": 2, "quickSearch": 0, "filterable": 1},
+  "ext": "http://www.kyikan.cc/vodtypehtml/{cateId}/index-{catePg}.html","jar":"https://agit.ai/hongdeng98/Q/raw/branch/master/jar/XBiu.jar"}, {"key": "csp_xf_cs","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
+"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#剧集$2#综艺$4#动漫$3#今日更新$38\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/\",
+\"年份\":\"1990-2022\",
+\"筛选\":\"1\"}"}, 
+
+ {"key": "csp_xBPQ_zizi ","name": "子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"},   {"key": "csp_xBPQ_极品影视","name": "极品影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/hongdeng98/mao/raw/commit/7a2c9d10f6ac90df0264d07610eafb6d59b9c020/json/极品影视.json"},
+
+{
+"key": "csp_xBPQ_皮皮泡影视",
+"name": "皮皮泡影视(XBPQ)",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{
+\"免嗅\":\"0\",
+\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+\"导演\": \"导演：&&</div\",
+\"主演\": \"主演：&&</div\",
+\"播放标题\":\">&&<\",
+\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
+\"分类\":\"国产剧$13#电视剧$dianshiju#动漫$dongman#电影$dianying#综艺$zongyi#纪录片$jilupian\",
+\"分类url\":\"https://www.pipipao.com/vodshow/id/{cateId}/page/{catePg}.htmll\",
+\"年份\":\"2000-2022\",
+\"筛选\":\"1\"
+}"},
+
+{"key": "csp_xBPQ_奇粹视频",
+"name": "奇粹视频(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
+"ext": "{\"免嗅\":\"1\",
+\"播放标题\":\">&&<\",
+\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",  
+\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
+\"线路标题\": \"<span>&&</span>[替换:多多广告>>极速秒播]\",
+
+\"播放数组\":\"class=\\\"module-play-list-content  module-play-list-base&&</div>\",
+\"播放标题\":\"<span>&&</span>\",
+
+\"分类\":\"电视剧$21#动漫$22#电影$20#综艺$24#外国片$23#动画片$25\",
+\"分类url\":\"http://www.blssv.com/index.php/vod/show/area/{area}/by/time/id/{cateId}/page/{catePg}/year/{year}.html\",
+
+
+
+\"年份\":\"2000-2022\",
+\"筛选\":\"1\"
+}"
+},  
+
+{
+"key": "csp_xBPQ_酷客影视",
+"name": "酷客影视(XBPQ)",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{
+\"免嗅\":\"0\",
+\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+
+\"导演\": \"导演：&&</div\",
+\"主演\": \"主演：&&</div\",
+\"简介\": \"简介：&&</li>\",
+
+\"播放标题\":\">&&<\",
+\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
+\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",
+\"分类url\":\"http://www.2kuke.com/list/{cateId}_{catePg}.html\",
+\"年份\":\"2000-2022\",
+\"筛选\":\"1\"
+}"},
+
+{"key":"csp_xBPQ_ voflixHD","name":"voflixHD(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/mao/raw/branch/master/json/voflixHD.json"},
+
+{"key": "csp_xBPQ_素白白","name": "素白白(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/素白白.json"},
+
+{"key": "csp_xBPQ_大米星球","name": "️大米星球(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</small>\",\"播放标题\":\"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$20#电视剧$21#综艺$22#动漫$23\",\"分类url\":\"https://www.dmxq.me/vodshow/{cateId}--------{catePg}---.html\",
+\"年份\":\"1990-2022\",
+\"筛选\":\"1\"}"},
+
+{
+    "key": "csp_xBPQ_牛马tv影视",
+    "name": "牛马影视(XBPQ)",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "{
+\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+
+
+
+\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
+\"播放标题\":\">&&<\",
+
+\"线路数组\": \"class=\\\"more text-muted pull-right\\\">&&/h3>\",
+\"线路标题\": \"\\\">&&<\",
+
+\"分类\":\"国产剧(我)$guochanju#电视剧(❤️)$dianshiju#动漫(祖)$dongman#电影(国)$dianying#综艺(🇨🇳)$zongyi\",
+
+\"分类url\":\"https://www.niumatv.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html\",
+\"年份\":\"2000-2022\",
+\"筛选\":\"1\"
+}"},
+
+ {
+            "key":"csp_xBPQ_胖虎影视",
+            "name":"️胖虎影视(XBPQ)",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/66666/mao/raw/branch/master/json/胖虎筛选.json"
+        },
+
+{
+  "key": "csp_xb_COKEMV",
+  "name": "COKEMV(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://cokemv.me/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+      "key": "csp_xBPQ_98影院",
+      "name": "98影院(XBPQ) ",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ0927%e9%80%82%e9%85%8d%e6%97%a0%e5%9b%be%e6%90%9c%e7%b4%a2.jar"},
+{
+  "key": "csp_xb_shdy",
+  "name": "骚火电影(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://shdy2.com/list/{cateId}-{catePg}.html","jar":"https://agit.ai/hongdeng98/mao/raw/branch/master/jar/XBiu.jar"
+ },
+{"key": "csp_xb_dym",
+  "name": "电影猫(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.dym8.com/vod/type/{cateId}-{catePg}.html","jar":"https://agit.ai/hongdeng98/mao/raw/branch/master/jar/XBiu.jar"},
+{"key": "csp_xb_543ys",
+  "name": "543影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "  http://543mv.com/vodshow/{cateId}--------{catePg}---/","jar": "https://agit.ai/hongdeng98/mao/raw/branch/master/jar/XBiu.jar"},
+{
+  "key": "csp_xb_aiku",
+  "name": "爱酷影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html","jar":"https://agit.ai/hongdeng98/mao/raw/branch/master/jar/XBiu.jar"},
+{"key":"csp_cBq_工厂","name":"影视工厂(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"副标题\":\"class=\\\"handle-btn-name\\\">&&</span>\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"myui-content__list&&</ul>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#国产剧$13#港台剧$14\",\"分类url\":\"http://www.ysgc.cc/vodshow/{cateId}--------{catePg}---.html\", \"年份\":\"1990-2022\",
+\"筛选\":\"1\"}"},
+
+{"key": "csp_xBPQ_花猫","name": "️花猫tv(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "{\"副标题\":\"class=\\\"pic-text\\\">&&</span>\",\"线路数组\": \"/span><h3 class=\\\"title&&/h3>\",
+\"线路标题\": \">&&<\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"http://www.huamaotv.com/type/{cateId}-{catePg}.html\",
+\"年份\":\"1990-2022\",
+\"筛选\":\"1\"}"},
+
 {key: 'dr_007影视', name:'007影视(道长)', type:1, api:'https://drpy.justmiss.repl.co/vod?rule=007影视', ho:2, quickSearch:0, filterable:0},
 {"key": "dr_555影视","name": "555影视(道长)","type": 1,"api": "https://drpy.aqingyuan.repl.co/vod?rule=555影视","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key": "dr_AnFuns","name": "AnFuns(道长)","type": 1,"api": "https://drpy.aqingyuan.repl.co/vod?rule=AnFuns",
