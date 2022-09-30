@@ -448,17 +448,6 @@
 \"年份\":\"2000-2022\",
 \"筛选\":\"1\"
 }"},
-{"key": "csp_xBPQ_voflix","name": "voflix","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
-\"免嗅\":\"1\",
-\"导演\": \"导演：&&</div\",
-\"主演\": \"主演：&&</div\",
-\"简介\": \"module-info-introduction-content&&</div>\",
-\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
-\"线路标题\": \"<span>&&</span>\",
-\"播放标题\":\"span>&&<\",
-\"播放数组\":\"class=\\\"module-play-list&&</div>\",
-\"分类url\":\"https://www.voflix.com/show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}"},
 {"key": "csp_xBPQ_奇粹视频",
 "name": "奇粹视频(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",
