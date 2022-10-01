@@ -423,6 +423,7 @@
 	"quickSearch": 1,
 	"filterable": 0,
 	"ext": "https://www.35ju.com/HAO/{cateId}-{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"},
+{"key":"csp_xBPQ_爱看","name":"爱看(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"副标题\":\"class=\\\"handle-btn-name\\\">&&</span>\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"myui-content__list&&</ul>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4#日韩剧$15#美剧$16\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---.html\",\"年份\":\"2004-2022\",\"筛选\":\"1\"}"},
 {"key": "csp_xf_cs","name": "️FREEOK(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#剧集$2#综艺$4#动漫$3#今日更新$38\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/\",
 \"年份\":\"1990-2022\",
