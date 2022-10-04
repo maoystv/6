@@ -1,4 +1,4 @@
-﻿{"spider":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/KFC.jar;md5;231642f7ca9a174468141e4e9a3aa3a0",
+﻿{"spider":"https://notabug.org/hongdeng98/XZY/raw/branch/main/jar/KFC.jar;md5;231642f7ca9a174468141e4e9a3aa3a0",
 "wallpaper":"https://tool.weetai.cn/api",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzU0Mi9saXZlLnR4dD9zaWduPXZEUmpEc1NGM1RRUnkxdEg1dEx0V19GX1pPT05mWmVpdFNUTTdOZ1Vld2slM0QlM0Ew"]}]}],
 "sites":[
@@ -14,6 +14,7 @@
 {"key":"csp_biubiu_VIP1280","name":"Vip电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/VIP1280.json"},
 {"key": "csp_Jianying","name": "简影影视（SP）","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzEyMywiQ3JlYXRlZEF0IjoiMjAyMi0wOS0wNlQwOTo1Mjo0Mi42MDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA2VDA5OjUyOjQyLjYwNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6Ijc2NjAyNTk4MkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjNWY1Yzc4Yy1hMzM4LTQ3MTQtOWM4Zi1hNmE2ZDMyMDAyZWMiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2MzAzMzk2NiwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.8fY0j9TBEz6OVuVXNrtXuU9NsdW3CMCzwyIX0WNCiIU","jar":"http://刚刚.live/jar2/0920.jar"},
 {"key":"csp_xpath_007","name":"玲玲影视（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/hongdeng98/Q/raw/branch/master/XB/007.json"},
+{"key":"zbk-test-DRPY-JS","name":"真不卡测试[DRPY][JS]","type":3,"api":"https://ghproxy.com /https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"},
 {"key": "csp_xBPQ_buka","name":"️不卡影院（SP）","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://神器每日推送.tk/xbpq/不卡.json"},
 {"key":"csp_xBPQ_极品","name":"极品影视（SP）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/极品.json"},
 {"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1, "jar": "https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/LZ0923%283%29+TT%e4%b8%8d%e7%a8%b3%e5%ae%9a.jar"},
