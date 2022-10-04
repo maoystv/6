@@ -1,4 +1,4 @@
-﻿{"spider":"https://notabug.org/hongdeng98/XZY/raw/branch/main/jar/KFC.jar;md5;231642f7ca9a174468141e4e9a3aa3a0",
+﻿{"spider":"https://notabug.org/hongdeng98/XZY/raw/branch/main/jar/KFC.jar;md5;7dce83663b899ef6df33fef9bbe241f8",
 "wallpaper":"https://tool.weetai.cn/api",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzU0Mi9saXZlLnR4dD9zaWduPXZEUmpEc1NGM1RRUnkxdEg1dEx0V19GX1pPT05mWmVpdFNUTTdOZ1Vld2slM0QlM0Ew"]}]}],
 "sites":[
