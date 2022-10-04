@@ -1,4 +1,4 @@
-﻿{"spider":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/999.png;md5;3E92F56BD34DBC49F26EBCE77B845255",
+﻿{"spider":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/KFC.jar;md5;231642f7ca9a174468141e4e9a3aa3a0",
 "wallpaper":"https://tool.weetai.cn/api",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzU0Mi9saXZlLnR4dD9zaWduPXZEUmpEc1NGM1RRUnkxdEg1dEx0V19GX1pPT05mWmVpdFNUTTdOZ1Vld2slM0QlM0Ew"]}]}],
 "sites":[
@@ -9,8 +9,7 @@
 {"key": "Lezhu_spider","name": "乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_xBPQ_在线之家","name":"️在线之家","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,
 "filterable":0,"ext":"https://agit.ai/hongdeng98/Q/raw/branch/master/xBPQ/zxzj.json"},
-//{"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/SP293.jar;md5;B0E36660C3DAC82272D197ED16C7C6E2"},
-{"key":"csp_Bd","name":"哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_ZJMiao","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"293视频","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":""}, {"key":"csp_Bd","name":"哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_ZJMiao","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_VIP1280","name":"Vip电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/VIP1280.json"},
 {"key": "csp_Jianying","name": "简影影视（SP）","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzEyMywiQ3JlYXRlZEF0IjoiMjAyMi0wOS0wNlQwOTo1Mjo0Mi42MDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA2VDA5OjUyOjQyLjYwNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6Ijc2NjAyNTk4MkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjNWY1Yzc4Yy1hMzM4LTQ3MTQtOWM4Zi1hNmE2ZDMyMDAyZWMiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2MzAzMzk2NiwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.8fY0j9TBEz6OVuVXNrtXuU9NsdW3CMCzwyIX0WNCiIU","jar":"http://刚刚.live/jar2/0920.jar"},
