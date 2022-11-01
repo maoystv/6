@@ -2,7 +2,7 @@
 //"spider":"./jar/vob.jar;md5;48c4cbca73b33274fea2d156603a6b0b",
 //"spider":"./jar/tang.jar;md5;456e591b3f88da9e9398e33d657d2a9a",
 //"spider":"./jar/1028.jar?sign=K7Kd9pBTGxEOYWhnmbDLxU9Q1_N5ajn9JMY-q8_8UtY%3D%3A0",
-"spider":"./jar/xzy1029.jar",
+"spider":"https://notabug.org/ygfxz/6/raw/main/xzy1029.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./tv/zb.txt"]}]}],
 
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
