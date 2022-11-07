@@ -783,7 +783,7 @@
 {"key":"mtv_pc_奥特影视","name":"🔥奥特影视","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_视界影视","name":"🔥视界影视","type":3,"api":"csp_KanSJ"         ,"filterable":1,"quickSearch":1,"searchable":1},
 
- {"key":"csp_Wmkk","name":"🔥完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+ {"key":"csp_Wmkk","name":"🔥完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1667819239.txt;md5;f6e93e53b2384e118aa1afb6286970fe"},
 
 {"key":"mtv_pc_三亿影视","name":"🔥三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"mtv_pc_亿看影视","name":"🔥易看影视","type":3,"api":"csp_Ekan"          ,"filterable":1,"quickSearch":1,"searchable":1}, 
@@ -1248,7 +1248,7 @@
 
 //jar+壁纸
 
-"spider":"https://notabug.org/ygfxz/6/raw/main/xo1104.jar;md5;6ED6888207D72417F10C9E1E4C9B1B28","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://agit.ai/66666/XC/raw/branch/master/jar/xo1104.jar;md5;B417901835117651530CA2C4DA026080","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
