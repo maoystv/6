@@ -242,6 +242,7 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"
     },
+    {"key":"csp_hbys",		"name":"简影影视（SP）",		"type":3,"api":"csp_JianYing","filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDEwMiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNlQyMTo0Nzo1Ni44NDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE2VDIxOjQ3OjU2Ljg0NSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjI0Mjk0OTc3NTZAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiZTI2MmY0NTEtZjE4Ni00OGQwLWE1MjctZjc5M2Q5MjUyYmYyIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjgzODk0MzcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.2BnwO03h_AL4CaEYWl5wtToaOo9cNFSlIeTr0zf4Dqs"},
     {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
   {"key":"csp_CZSPP","name":"🔥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
@@ -257,15 +258,15 @@
             "quickSearch":1,
             "filterable":1,
             "playerType":2,
-            "ext":"","jar": "./qj.txt;md5;A087FBF95858758AAB6095DF558E9E12"        
+            "ext":"","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"        
         },
 
-{"key":"MiniYs_spider","name":"🩸迷你影视","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"./qj.txt;md5;A087FBF95858758AAB6095DF558E9E12"},{"key":"棉花影视","name":"🎉棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"jar":"./qj.txt;md5;A087FBF95858758AAB6095DF558E9E12"},{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar":"./qj.txt;md5;A087FBF95858758AAB6095DF558E9E12"},
+{"key":"MiniYs_spider","name":"🩸迷你影视","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"},{"key":"棉花影视","name":"🎉棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"},{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"},
 
-{"key":"csp_Wmkk","name":"🔥完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"./qj.txt;md5;A087FBF95858758AAB6095DF558E9E12"},
+{"key":"csp_Wmkk","name":"🔥完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":""},
 
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/293.jar"}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
+  {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":""}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
   {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
  {"key": "csp_xf_cs","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
@@ -807,8 +808,6 @@
 {"key":"mtv_pc_两个磁力","name":"🔥两个磁力","type":3,"api":"csp_Bttoo"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_爱看影视","name":"🔥爱看影视","type":3,"api":"csp_IKan"          ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_美剧星球","name":"🔥美剧星球","type":3,"api":"csp_Mjxq"          ,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_hbys",		"name":"简影影视（SP）",		"type":3,"api":"csp_JianYing","filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDEwMiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNlQyMTo0Nzo1Ni44NDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE2VDIxOjQ3OjU2Ljg0NSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjI0Mjk0OTc3NTZAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiZTI2MmY0NTEtZjE4Ni00OGQwLWE1MjctZjc5M2Q5MjUyYmYyIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjgzODk0MzcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.2BnwO03h_AL4CaEYWl5wtToaOo9cNFSlIeTr0zf4Dqs"},
 
 {"key":"mtv_pc_官方资源","name":"🔥官方资源","type":3,"api":"csp_SP360"         ,"searchable":1,"quickSearch":1,"filterable":1},
 
