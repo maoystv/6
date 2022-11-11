@@ -157,6 +157,8 @@
 {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_Dy1010","name":"双十电影（SP）","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
 
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
@@ -169,7 +171,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e6%9f%a0%e6%aa%acTV.json",
-"jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1023.jar"
+"jar":""
 },
 
 {
@@ -263,7 +265,7 @@
 
 {"key":"MiniYs_spider","name":"🩸迷你影视","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"},{"key":"棉花影视","name":"🎉棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"},{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"},
 
-{"key":"csp_Wmkk","name":"🔥完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/zz.jar;md5;7CD67797A9194FECCD12A7EC12920469"},
+{"key":"csp_Wmkk","name":"🔥完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":""},
 
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":""}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
@@ -1279,7 +1281,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo1104.jar;md5;F73CD3DB2CFD5FA130260440981179FA","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo1112.jar;md5;52AD1EDC82B5C9E611474504C35C25D4","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
