@@ -957,6 +957,8 @@
 {"name":"并发02","type":2,"url":"Parallel"},
 {"name":"轮询03","type":2,"url":"Sequence"},
 
+{"name":"分享者1","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},{"name":"分享者2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+
 {
 		"name": "可遇不可求",
 		"type": 1,
