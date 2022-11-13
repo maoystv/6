@@ -82,7 +82,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "csp_AppTT" ,"name": "☸️图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {
      "key": "T4a",
      "name": "🍁T4聚合",
@@ -157,11 +157,15 @@
 {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Dy1010","name":"双十电影（SP）","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy1010","name":"✝️双十电影（SP）","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Bd","name":"🚕滴滴┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_EEEDY","name":"🌸飘花┃SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
 
-{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
+{"key":"csp_Nmys","name":"🌾农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
 
 {"key": "csp_XYQ_lu1",
 "name": "️柠檬电视┃直播",
@@ -830,14 +834,12 @@
     }, {"key":"csp_Lib","name": "LIBvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mtv_pc_酷猫影视","name":"🔥酷猫影视","type":3,"api":"csp_Kmys"          ,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"mtv_pc_奥特影视","name":"🔥奥特影视","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_视界影视","name":"🔥视界影视","type":3,"api":"csp_KanSJ"         ,"filterable":1,"quickSearch":1,"searchable":1},
 
-{"key":"mtv_pc_三亿影视","name":"🔥三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"mtv_pc_亿看影视","name":"🔥易看影视","type":3,"api":"csp_Ekan"          ,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"mtv_pc_神马影视","name":"🔥神马影视","type":3,"api":"csp_Smdyy"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
 
 {"key":"mtv_pc_小熊影视","name":"🔥小熊影视","type":3,"api":"csp_Xxys"          ,"searchable":1,"quickSearch":1,"filterable":1}, 
-{"key":"mtv_pc_两个磁力","name":"🔥两个磁力","type":3,"api":"csp_Bttoo"         ,"searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"mtv_pc_爱看影视","name":"🔥爱看影视","type":3,"api":"csp_IKan"          ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_美剧星球","name":"🔥美剧星球","type":3,"api":"csp_Mjxq"          ,"searchable":1,"quickSearch":1,"filterable":1},
 
