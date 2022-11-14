@@ -151,7 +151,7 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/牛马TV.js"
     },
 
-{"key":"Tian","name":"🌅天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/cs.jar"},
+{"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1102.jar;md5;e32038569f2e456f90e4371472a5bd5a"},
 
 {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 
