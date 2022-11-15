@@ -296,10 +296,12 @@
             "quickSearch":1,
             "filterable":1,
             "playerType":2,
-            "ext":"","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"        
+            "ext":"","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/qj_1.jar;md5;0B75403CD04E5B4740A08F468C6703D7"        
         },
 
-{"key":"MiniYs_spider","name":"🩸迷你影视","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"},{"key":"棉花影视","name":"🎉棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"},{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj.txt;md5;3FB701AFF48F371C004323CB520E3981"},
+{"key":"MiniYs_spider","name":"🩸迷你影视","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj_1.jar;md5;0B75403CD04E5B4740A08F468C6703D7"},{"key":"棉花影视","name":"🎉棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj_1.jar;md5;0B75403CD04E5B4740A08F468C6703D7"},{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj_1.jar;md5;0B75403CD04E5B4740A08F468C6703D7"},
+
+{"key":"mayi_spider","name":"🐜蚂蚁影视","api":"csp_Mayiys","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj_1.jar;md5;0B75403CD04E5B4740A08F468C6703D7"},
 
 {"key":"csp_Wmkk","name":"🔥完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":""},
 
