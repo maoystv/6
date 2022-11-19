@@ -163,7 +163,7 @@
 
 {"key":"csp_Bd","name":"🚕滴滴┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_EEEDY","name":"🌸飘花┃SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj1119.jar;md5; 0C15A37BE3B2154921B68F5E6B05E269"},
+{"key":"3EDY","name":"🌼飘花|SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj1119.jar;md5; 0C15A37BE3B2154921B68F5E6B05E269"},
 
 {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
 
@@ -282,7 +282,7 @@
        }
      },
     {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-  {"key":"csp_CZSPP","name":"🔥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://framagit.org/ygfxz/000/-/raw/master/ZL.jar;md5; 2B6E3B29A5E8FA4453D0C3C787222B63"},
+  {"key":"csp_CZSPP","name":"🔥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj1119.jar;md5; 0C15A37BE3B2154921B68F5E6B05E269"},
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
   {"key":"csp_fant","name":"🍙饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
   {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
