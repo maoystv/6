@@ -83,6 +83,7 @@
       "filterable": 0
     },
     {"key": "csp_AppTT" ,"name": "☸️图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Tutu_spider","name":"🛟图图2","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj1119.jar;md5; 0C15A37BE3B2154921B68F5E6B05E269"},
 {
      "key": "T4a",
      "name": "🍁T4聚合",
@@ -128,14 +129,8 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js",
       "ext": "https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/腾云驾雾.js"
     },
-        {
-      "key": "drpy_js_优酷",
-      "name": "🔭优酷🔭",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/优酷.js"
-    },
-    {"key": "dr_优酷2","name": "优酷(drpy)","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
+      
+    {"key": "dr_优酷2","name": "🔭优酷🔭","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
     {
 "key": "drpy_js_喵喵", 
 "name": "2345看(道长)", 
@@ -1181,7 +1176,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo19.jar;md5; 33055C7A5B62A2041901B7C14D063466","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo20.jar;md5; 5FBAF69307A3A5F526FE075D93463EB7","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
