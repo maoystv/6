@@ -175,8 +175,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e6%9f%a0%e6%aa%acTV.json",
-"jar":""
+"ext": "https://agit.ai/66666/yueg/raw/branch/master/柠檬TV.json"
 },
 
 {
@@ -190,6 +189,8 @@
     },
 
 {"key":"csp_xBPQ_dszb","name":"🏆电视直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ga/x/xbpq/电视直播.json"},
+
+{"key":"csp_Sp_电视直播","name":"🌏港澳台|直播","type": 4,"api": "http://120.53.102.254/live2?url=https://notabug.org/qizhen15800/My9394/raw/master/live/gt.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 	{
       "key": "ksxjj",
@@ -245,6 +246,13 @@
 {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_MGTV","name":"🥭芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+
+{ "key": "速优影视",
+      "name": "🏂速优影视(SP)",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]
+    },
 
 {
         "key": "csp_xb_7xiady",
@@ -307,7 +315,7 @@
        }
      },
     {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-  {"key":"csp_CZSPP","name":"🔥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj1119.jar;md5; 0C15A37BE3B2154921B68F5E6B05E269"},
+  {"key":"csp_CZSPP","name":"🔥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://framagit.org/ygfxz/000/-/raw/master/ZL.jar;md5;  2B6E3B29A5E8FA4453D0C3C787222B63"},
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
   {"key":"csp_fant","name":"🍙饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
   {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
@@ -322,6 +330,18 @@
   {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"360_spider","name":"🍎360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""}, 
+
+{"key":"csp_Lgyy","name":"🧿蓝光影视（SP）","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+       
+        {
+			"key": "小苹果",
+			"name": "🍎小  苹  果（SP）",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 
  {"key": "csp_xf_cs","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#剧集$2#综艺$4#动漫$3#今日更新$38\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/\",
@@ -571,7 +591,7 @@
  },
 
 {"key":"csp_xpath_007","name":"零零柒(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
-{"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"mtv_pc_利奥影视","name":"🔥利奥影视","type":3,"api":"csp_Lib"           ,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {
