@@ -315,7 +315,7 @@
        }
      },
     {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-  {"key":"csp_CZSPP","name":"🔥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://framagit.org/ygfxz/000/-/raw/master/ZL.jar;md5;  2B6E3B29A5E8FA4453D0C3C787222B63"},
+  {"key":"csp_CZSPP","name":"🔥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/CZ%20LG.jar;md5; DBAE0AE894A09449674B0D9B5F7B1B0D"},
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
   {"key":"csp_fant","name":"🍙饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
   {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
@@ -334,7 +334,7 @@
 
 {"key":"360_spider","name":"🍎360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""}, 
 
-{"key":"csp_Lgyy","name":"🧿蓝光影视（SP）","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lgyy","name":"🧿蓝光影视（SP）","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/CZ%20LG.jar;md5; DBAE0AE894A09449674B0D9B5F7B1B0D"},
        
         {
 			"key": "小苹果",
