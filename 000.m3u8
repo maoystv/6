@@ -96,9 +96,9 @@
 
 {"key":"七七","name":"🔥七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 
-{"key":"YQK_spider","name":"👀一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar": "http://rl1eetffv.bkt.clouddn.com/yqk1122.jar;md5;591bf6a064fb74746d4581fe75f2e715"},
+{"key":"YQK_spider","name":"👀一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 
-{"key":"百影视频","name":"🍳百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"http://rl1eetffv.bkt.clouddn.com/yqk1122.jar;md5;591bf6a064fb74746d4581fe75f2e715"},
+{"key":"百影视频","name":"🍳百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 
  {
       "key": "drpy_js_360影视",
@@ -162,7 +162,7 @@
 
 {"key":"csp_Bd","name":"🚕滴滴┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"3EDY","name":"🌼飘花|SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj1119.jar;md5; 0C15A37BE3B2154921B68F5E6B05E269"},
+{"key":"3EDY","name":"🌼飘花|SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 
 {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
 
@@ -321,14 +321,14 @@
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
   {"key":"csp_fant","name":"🍙饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
   {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"棉花","name":"🌳棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar": "http://rl1eetffv.bkt.clouddn.com/yqk1122.jar;md5;591bf6a064fb74746d4581fe75f2e715"},
-{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "http://rl1eetffv.bkt.clouddn.com/yqk1122.jar;md5;591bf6a064fb74746d4581fe75f2e715"},
+{"key":"棉花","name":"🌳棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
+{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 
-{"key":"dm77_spider","name":"🎡齐齐动漫","api":"csp_DM77","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1 ,"jar": "http://rl1eetffv.bkt.clouddn.com/yqk1122.jar;md5;591bf6a064fb74746d4581fe75f2e715"},
-{"key":"yanetflix_spider","name":"🦆鸭奶飞","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1 ,"jar": "http://rl1eetffv.bkt.clouddn.com/yqk1122.jar;md5;591bf6a064fb74746d4581fe75f2e715"},
-{"key":"niketv_spider","name":"🏖耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1 ,"jar": "http://rl1eetffv.bkt.clouddn.com/yqk1122.jar;md5;591bf6a064fb74746d4581fe75f2e715"},
+{"key":"dm77_spider","name":"🎡齐齐动漫","api":"csp_DM77","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1 ,"jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
+{"key":"yanetflix_spider","name":"🦆鸭奶飞","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1 ,"jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
+{"key":"niketv_spider","name":"🏖耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1 ,"jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 
-{"key":"csp_Wmkk","name":"🔥完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1 ,"jar": "http://rl1eetffv.bkt.clouddn.com/yqk1122.jar;md5;591bf6a064fb74746d4581fe75f2e715"},
+{"key":"csp_Wmkk","name":"🔥完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1 ,"jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
