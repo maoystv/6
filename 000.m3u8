@@ -164,7 +164,7 @@
 
 {"key":"3EDY","name":"🌼飘花|SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/qj1119.jar;md5; 0C15A37BE3B2154921B68F5E6B05E269"},
 
-{"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
+{"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"img+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-8f718e33-92c3-4e6d-b76b-e8fb9d8e4006/accce5de-feb5-4589-91d8-dd916bdae468.bmp;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e"},
 
 {"key":"csp_Nmys","name":"🌾农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
 
@@ -253,6 +253,8 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
       "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]
     },
+
+{"key":"mtv_XBPQ_追剧兔","name":"🐰追剧兔","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/mao/raw/branch/master/json/追剧T.json"},
 
 {
         "key": "csp_xb_7xiady",
