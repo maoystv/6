@@ -254,36 +254,13 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"
     },
   {"key":"csp_Jianying","name":"✨简影┃SP","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
-    {
-       "key": "csp_Alist",
-       "name": "Alist(SP)",
-       "type": 3,
-       "api": "csp_Alist",
-       "searchable": 0,
-       "playerType": 2,
-       "quickSearch": 0,
-       "filterable": 0,
-       "ext": {
-         "🦀9T(Adult)": "https://drive.9t.ee",
-         "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
-         "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
-         "💂小兵组网盘影视": "https://6vv.app",
-         "🐋一只鱼": "https://alist.youte.ml",
-         "🌊七米蓝": "https://al.chirmyram.com",
-         "🥼帅盘": "https://hi.shuaipeng.wang",
-         "🐉神族九帝": "https://alist.shenzjd.com",
-         "☃️姬路白雪": "https://pan.jlbx.xyz",
-         "🎧听闻网盘": "https://wangpan.sangxuesheng.com",
-         "💾DISK": "http://124.222.140.243:8080",
-         "🌨云播放": "https://quanzi.laoxianghuijia.cn",
-         "✨星梦": "https://pan.bashroot.top",
-         "💫触光": "https://pan.ichuguang.com",
-         "🕵️好汉吧": "https://8023.haohanba.cn",
-         "💢repl": "https://ali.liucn.repl.co",
-         "🌨秋雨分享": "https://share.laowang.me",
-         "💦讯维云盘": "https://pan.xwbeta.com"
-       }
-     },
+  {
+            "key" : "drpy_js_Alist",
+            "name" : "Alist（支持搜索）",
+            "type" : 3,
+            "api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js",
+            "ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"
+        },
     {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
   {"key":"csp_CZSPP","name":"🔥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
