@@ -83,7 +83,7 @@
       "filterable": 0
     },
    {"key":"csp_Biliych","name":"💽演唱会","type": 3,"api": "csp_Bili","playerType":2,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
- {"key":"csp_AppTT","name":"🛟图图影视（SP）P","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
+ {"key":"csp_AppTT","name":"🛟图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
    {"key":"Tutu_spider","name":"🏵图图(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618", "jar":"http://rl1eetffv.bkt.clouddn.com/tutu1125.jar;md5;0625422b0f75c1a69705c7d30eded699"},
 
 {"key":"t4豆瓣","name":"🅱️豆瓣荐片|T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -202,16 +202,22 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"Gitcafe1","name":"📚纸条|云盘1","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ZT.jar"},
 
-{"key":"csp_GitCafe","name":"📘纸条|云盘2","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/token.txt","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"},
+{"key":"csp_GitCafe","name":"📚纸条|云盘1","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt"},
+            	{"key": "Gitcafe1","name": "️📕纸条|云盘2","type": 3,
+			"api": "csp_Gitcafe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/%E7%BA%B8%E6%9D%A1.zip"
+		},
 
 {"key":"Gitcafe","name":"T3️⃣纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
 
- {"key":"Upso","name":"T3️⃣云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
-{"key":"Zhaozy","name":"T3️⃣资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
-{"key":"YiSo","name":"T3️⃣易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
-{"key":"AliPS","name":"T3️⃣盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
+{"key":"Yisou","name":"易    搜(仅搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt"},
+{"key":"Zhaozy","name":"找资源(仅搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt"},
+{"key":"Upyunso","name":"云     搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt"},
+{"key":"Alips","name":"盘搜索(仅搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt"},
 
 {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
@@ -737,7 +743,7 @@
  "api":"csp_PushAgent",
  "searchable":0,
  "quickSearch":0,
- "filterable":0, "ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"
+ "filterable":0, "ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":""
  },
 
  {
@@ -751,7 +757,7 @@
  "ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e7%a3%81%e5%8a%9b%e6%90%9c%e7%b4%a2.json"
  },
 
-{"key":"push_agent","name":"😺推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"}],
+{"key":"push_agent","name":"😺推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":""}],
 
 //解析接口
 
@@ -1144,7 +1150,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo26.jar;md5; DC90968AC22FA015A35B6063951BB882","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo27.jar;md5; EAD1319134EBA7F8835536BCFEA7917B","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
