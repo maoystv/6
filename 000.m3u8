@@ -91,6 +91,8 @@
 
 {"key":"七七","name":"🔥七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 
+ {"key":"新视觉","name":"新视觉","type":3,"api":"csp_Dy6080","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Xsj.jar;md5;1C572CFC27EB4E334E12A22BFC60B64B"},
+
 {"key":"csp_DiDuan" ,"name":"🧰低端|SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","playerType":2,"searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"YQK_spider","name":"👀一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
@@ -209,7 +211,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/%E7%BA%B8%E6%9D%A1.zip"
+			"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/%E7%BA%B8%E6%9D%A1.zip;md5; F54AFD1C066056D13E241361DFC876B4"
 		},
 
 {"key":"Gitcafe","name":"T3️⃣纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
