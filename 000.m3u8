@@ -170,6 +170,8 @@
 
 {"key":"csp_Nmys","name":"🌾农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
 
+{"key":"世界杯","name":"🏆世界杯","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/724/ts.jar?sign=gc_QbTKD7VfjLQ92tAnsDXGYeEHTbe2VBNw6tU4j0RY%3D%3A0"},
+
 {"key": "csp_XYQ_lu1",
 "name": "️🍋柠檬电视┃直播",
 "type": 3,
