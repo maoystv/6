@@ -49,7 +49,7 @@
 
 {"key":"csp_xBPQ_dszb","name":"📺电视直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ga/x/xbpq/电视直播.json"},
 
-{"key":"csp_SP293","name":" 🚀293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"},
+{"key":"csp_SP293","name":" 🚀293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
 
 	
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
