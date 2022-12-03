@@ -231,7 +231,8 @@
 
 {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"csp_MGTV","name":"🥭芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 
 { "key": "速优影视",
       "name": "🏂速优影视(SP)",
@@ -626,6 +627,10 @@
 {"key": "csp_XYQBiu_凌云影视","name": "🍀凌云影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/凌云影视.json"},
 {"key": "csp_XYQBiu_万能影院","name": "🍀万能影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/万能影院.json"},
 
+{"key":"优酷视频会员〔官源〕","name":"🐝优酷〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/youku/?ac=list"},
+{"key":"芒果TV会员〔官源〕","name":"🐝芒果〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/mgtv/?ac=list"},
+{"key":"搜狐视频会员〔官源〕","name":"🐝搜狐〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/sohu/?ac=list"},
+
 {
       "key": "youku",
       "name": "优       酷（官）",
@@ -779,6 +784,10 @@
 {"name":"聚合01","type":3,"url":"Demo"},
 {"name":"并发02","type":2,"url":"Parallel"},
 {"name":"轮询03","type":2,"url":"Sequence"},
+
+{"name":"默认1","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+
+{"name":"默认2","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
 
 {
             "name": "分享者",
