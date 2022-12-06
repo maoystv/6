@@ -117,7 +117,8 @@
             "type" : 3,
             "api" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/lib/drpy.ym.js",
             "ext" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/js/奇珍异兽.js"
-        },{
+        },
+{
             "key" : "drpy_js_酷云77",
             "name" : "酷云77[DRPY]",
             "type" : 3,
@@ -295,8 +296,10 @@
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
   {"key":"csp_fant","name":"🍙饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
   {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"棉花","name":"🌳棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar": "http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9"},
-{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9"},
+
+{"key":"棉花","name":"🌳棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar": "http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9"},
+
+{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9"},
 
 {"key":"dm77_spider","name":"🎡齐齐动漫","api":"csp_DM77","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1 ,"jar": "http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9"},
 {"key":"yanetflix_spider","name":"🦆鸭奶飞","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1 ,"jar": "http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9"},
@@ -858,7 +861,8 @@
 
 {"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 
-{"name":"Json1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["imgo","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},{"name": "Json2","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
+{"name":"Json1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["imgo","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "Json2","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
 
 {
             "name" : "江湖1080",
@@ -940,7 +944,8 @@
       "name": "懒懒1",
       "type": 1,
       "url": "http://123.57.56.94:9931/lanlan/?url="
-    }, {
+    },
+ {
       "name": "懒懒2",
       "type": 1,
       "url": "http://lanlan.ckflv.cn/?url=",
@@ -958,7 +963,8 @@
           "1905"
         ]
       }
-    },{"name":"ceshi","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},{"name":"江湖小虾米","type":0,"url":"https://dm.xmflv.com:4433/?url="},
+    },{"name":"ceshi","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
+{"name":"江湖小虾米","type":0,"url":"https://dm.xmflv.com:4433/?url="},
 {"name":"yemu","url": "https://www.yemu.xyz/?url="},
   {
    "name": "168",
