@@ -288,7 +288,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;906b337d4b4baef13292d004e5fd8f9b"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":""
     },
     {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
@@ -1202,7 +1202,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/FXZ08.png;md5;8C299BFD02C92BD8FF10540DBEE1C85A","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://notabug.org/ygfxz/6/raw/main/FXZ.png","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
