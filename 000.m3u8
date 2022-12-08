@@ -276,11 +276,20 @@
 
   {
             "key" : "drpy_js_Alist",
-            "name" : "Alist（支持搜索）",
+            "name" : "♻️Alist（支持搜索）",
             "type" : 3,
             "api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js",
             "ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"
         },
+        {
+      "key": "AList",
+      "name": "✅AList(可搜索)",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;906b337d4b4baef13292d004e5fd8f9b"
+    },
     {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
   {"key":"csp_fant","name":"🍙饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -585,7 +594,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1},
-     {"key":"csp_Alist1","name":"Alist(不支持搜索)","type":3,"api":"csp_Alist","|searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/alist.json"}, {"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
+{"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
 {"key":"csp_Sp_哗哩合集","name":"🅱️哔哩┃哗哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
 		{
 			"key": "csp_剧荒",
@@ -1193,7 +1202,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/FXZ08.png;md5;8C299BFD02C92BD8FF10540DBEE1C85A","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://codeberg.org/Ygfxz/999xx/raw/branch/main/FXZ.png;md5; DB17888FEC565BA8C16F8BE0EF9E2663","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
