@@ -82,7 +82,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
- {"key":"csp_AppTT","name":"🛟图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
+ {"key":"csp_AppTT","name":"🌏图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
    {"key":"Tutu_spider","name":"🏵图图(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618", "jar":"http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9"},
 
 {"key":"t4豆瓣","name":"🅱️豆瓣荐片|T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -247,8 +247,10 @@
       "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]
     },
 
-{"key":"mtv_XBPQ_蓝豆TV","name":"🫐蓝豆TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/蓝豆TV.json"},
-{"key":"mtv_XBPQ_40影视","name":"4️⃣40影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/40影视.json"},
+{"key":"mtv_XBPQ_看B站","name":"🧉看B站","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/看B站.json"},
+
+{"key":"mtv_XBPQ_蓝豆TV","name":"💙蓝豆TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/蓝豆TV.json"},
+{"key":"mtv_XBPQ_40影视","name":"☸️40影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/40影视.json"},
 {"key":"mtv_XBPQ_金曼TV","name":"🌻金曼TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/金曼TV.json"},
 
 {"key":"mtv_XBPQ_追剧兔","name":"🐰追剧兔","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/mao/raw/branch/master/json/追剧T.json"},
@@ -312,16 +314,12 @@
 			"filterable": 1
 		},
 
- {"key": "csp_xf_cs","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
-"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#剧集$2#综艺$4#动漫$3#今日更新$38\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/\",
-\"年份\":\"1990-2022\",
-\"筛选\":\"1\"}"}, 
-
- {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"}, 
+{"key":"mtv_XBPQ_FREEOK","name":"️🐉FREEOK","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/FREEOK.json"},
+{"key":"mtv_XBPQ_子子影视","name":"️🐲子子影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/子子影视.json"},
 
 {
 "key": "csp_xBPQ_野荷塘",
-"name": "野荷塘影视",
+"name": "☘️野荷塘影视",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -348,13 +346,13 @@
 "jar":""},
 
  {"key": "csp_xBPQ_dyxs",
-"name": "电影先生(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
+"name": "🕵️电影先生(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://agit.ai/66666/mao/raw/commit/a37806997a2baed1ee18643ce76410b465496536/json/电影先生.json"
 },
 
 {"key":"csp_xBPQ_ voflixHD","name":"voflixHD(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/mao/raw/branch/master/json/voflixHD.json"},
 
-{"key": "csp_xBPQ_素白白","name": "素白白(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/素白白.json"}, 
+{"key": "csp_xBPQ_素白白","name": "🦢素白白(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/素白白.json"}, 
 
 {
       "key": "csp_xBPQ_98影院",
@@ -602,7 +600,9 @@
 	
 {"key":"csp_Yj1211","name":"💃网红直播|SP","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_XPath_鹅直播","name":"🐧企鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/企鹅直播.json"},
-{"key":"JRS赛事直播","name":"🏀JRS赛事直播","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/JRS赛事直播.json"},
+
+{"key":"csp_xpath_qiumi","name":"⚽JRKAN 直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable ":1,"ext":"https://agit.ai/ihymn/tvbox/raw/branch/master/Meow/dj看球.json"},
+
 {"key":"88看球","name":"⚽88看球","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/88看球.json"},
 
 {"key":"csp_XYQBiu_17kan","name":"⚽17kan","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/17kan.json"},
