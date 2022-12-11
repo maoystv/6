@@ -102,7 +102,7 @@
 
 {"key": "csp_Lgyy","name": "🧿蓝光","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
 
-{"key":"csp_CZSPP","name":"🚚厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://w.g9.pub:66/fantaiying/xo.jar;md5;ae12ddaa1eb66e2c8b304a8be23d2af1"},
+{"key":"csp_CZSPP","name":"🚚厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj29dceb2d277c14c78ac461d4da2f30e35;md5;efb89c6b91da5145212e01b630627d0b"},
 
  {
       "key": "drpy_js_360影视",
@@ -276,15 +276,8 @@
             "api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js",
             "ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"
         },
-        {
-      "key": "AList",
-      "name": "✅AList(可搜索)",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;906b337d4b4baef13292d004e5fd8f9b"
-    },
+    {"key":"csp_Alist1","name":"✅Alist(可搜索)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
+    
     {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
   {"key":"mtv_pc_乐猪影视","name":"🔥乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
   {"key":"csp_fant","name":"🍙饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
