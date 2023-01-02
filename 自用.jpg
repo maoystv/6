@@ -66,7 +66,7 @@
 	
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_AppTT","name":"🆗图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
+{"key":"csp_AppTT","name":"🆗图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:7799"},
 
   {"key":"Tutu_spider","name":"🏵图图(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618", "jar":"http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9"},
 
@@ -208,6 +208,9 @@
         "筛选": "1"
       }
     },	
+
+{"key":"mtv_XBPQ_莫扎兔","name":"🐰莫扎兔","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/json/莫扎兔.json"},
+{"key":"mtv_XBPQ_淘剧","name":"️📡淘剧影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/json/淘剧影院.json"},
 
 {"key":"mtv_XBPQ_蓝豆TV","name":"🫐蓝豆TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/蓝豆TV.json"},
 {"key":"mtv_XBPQ_40影视","name":"4️⃣40影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shagua888168.3vdo.club/XBPQ/40影视.json"},
