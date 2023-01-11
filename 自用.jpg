@@ -165,6 +165,18 @@
 
 	
 {"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":""},
+
+{
+            "key": "FindZY1",
+            "name": "🌟找资源",
+            "type": 3,
+            "api": "csp_FindZY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "f09e62df298c4567ade35d8ce1d187d6"
+        },
+
 {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":""},
 {"key":"Upyunso","name":"😻Up云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":""},
 {"key":"Alips","name":"🦊Ali盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":""},
