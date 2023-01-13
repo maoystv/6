@@ -316,6 +316,15 @@
  {"name":"Json轮询","type":2,"url":"Sequence"},
  {"name":"默认1","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
  {
+            "name": "默认2",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+
+ {
             "name": "分享者",
             "type": 1,
             "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
