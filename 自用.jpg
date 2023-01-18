@@ -1,6 +1,6 @@
 {
  
- "spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/0112.txt;md5; 23C11C3DC6C79C6AEBED025A2E2B6325",
+ "spider":"http://tvmvip110.live/down.php/85d3f89b3067c1dd0eafb9c75179ccaf.txt;md5; FED32FD60C9B36B2C1914BC9F097904C",
    "wallpaper":"https://bg.s.welsun.win/api",
    "lives": [
      {
@@ -163,7 +163,7 @@
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/高中课堂.json"},
 
 	
-{"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php","jar":""},
+{"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php","jar":""},
 
 {
             "key": "FindZY1",
@@ -178,8 +178,8 @@
 
 {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php","jar":""},
 {"key":"Upyunso","name":"😻Up云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php","jar":""},
-{"key":"Alips","name":"🦊Ali盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php","jar":""},
-{"key":"push_agent","name":"手机推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php","jar":""},
+{"key":"Alips","name":"🦊Ali盘搜┃搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php","jar":""},
+{"key":"push_agent","name":"手机推送┃云盘|磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php","jar":""},
  {
       "key": "csp_XBPQ_6080",
       "name": "6080电影(XBPQ)",
