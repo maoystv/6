@@ -1,6 +1,6 @@
 {
  
- "spider":"http://tvmvip110.live/down.php/85d3f89b3067c1dd0eafb9c75179ccaf.txt;md5; FED32FD60C9B36B2C1914BC9F097904C",
+ "spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/0118.txt;md5; C370CF83547E3CF51FA22D1AAE2B0B60",
    "wallpaper":"https://bg.s.welsun.win/api",
    "lives": [
      {
@@ -66,7 +66,16 @@
 	
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
- {"key":"csp_AppTT","name":"🌏图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955"},
+{
+            "key": "csp_AppTT",
+            "name": "🌏图图影视",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.248.66.89:7788"
+        },
 
   {"key":"Tutu_spider","name":"🏵图图(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/", "jar":""},
 
