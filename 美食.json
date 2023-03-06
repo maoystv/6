@@ -189,6 +189,8 @@
             "type_id": "早餐"
         }
     ],
+    
+"cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt",
     "filter": {
         "美食": [
             {
