@@ -159,7 +159,7 @@
 
 	],
 
-"cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt",
+"cookie": "https://yydsys.top/duo/txt/cookie.txt",
 
 	"filter": {
 		"考公考证": [{
