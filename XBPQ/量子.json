@@ -29,7 +29,7 @@
 "播放数组":"<div class=\"playlist wbox*>&&</div>",
 "播放列表":"<a&&</a>",
 "播放标题":"title=\"&&\"[不包含:复制]",
-"播放链接": "http://hz752.live:63/lzff.php?url=+href=\"&&\"",
+"播放链接": "http://hz752.live:63/lzx.php?url=+href=\"&&\"",
 "跳转播放链接": "\"url\"*\"&&\"",
 "分类url":"https://cj.lziapi.com/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
 "分类": "电影$1#连续剧$2#综艺$3#动漫$4#体育$36#电影解说$35",
