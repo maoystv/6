@@ -15,8 +15,8 @@
 "影片地区": "地区：</span>&&<span",
 "导演": "导演：</span>&&</p>",
 "主演": "主演：</span>&&</p>",
-"简介": 💖一个分享者💖提醒您：切勿相信视频中任何广告，以免上当受骗。+"<div class=\"stui-content__desc col-pd clearfix\">&&</div>",
-"播放数组": "<div class=\"playlist wbox ffm3u8&&class=\"clear",
+
+"简介": "💖一个分享者💖提醒您：请勿相信影片中的广告，以免上当受骗。+<div class=\"vod_content\"&&</p>","播放数组": "<div class=\"playliplaylistplayliplayliststplayliplaylistplayliplaylistststst wbox ffm3u8&&class=\"clear",
 "播放列表": "<a&&</a>",
 "播放标题": "title=\"&&\"[不包含:复制]",
 "播放链接": "http://hz752.live:63/lzx.php?url=+href=\"&&\"",
