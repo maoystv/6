@@ -1,0 +1,13 @@
+ {
+				"二次截取": "\"data\"*[&&]",
+				"数组": "{&&}",
+				"图片": "./mi/1.png",
+				"标题": "\"title\"*\"&&\"",
+				"副标题": "\"createdAt\"*\"&&\"",
+				"链接": "https://pan666.net/d/+\"slug\"*\"&&\"",
+				"跳转链接": "https://www.aliyundrive.com/s/+aliyundrive.com/s/&&\"",
+				"阿里token": "https://pan.shangui.cc/f/p5RUL/tk.php",
+				"搜索url": "https://pan666.net/?q={wd}",
+				"分类url": "https://pan666.net/api/discussions?include=user,lastPostedUser,tags,tags.parent,firstPost&filterktagm={cateId}&sort&page[offset]=20;;K阿里S5",
+				"分类": "电影$video1#动漫$cartoon"
+			}
