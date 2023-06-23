@@ -26,7 +26,7 @@ var rule = {
 	class_name:'布蕾4k&电影&电视剧&综艺&动漫', // 分类筛选 /api.php/app/nav
 	class_url:'24&1&2&3&4',
 	play_parse:true,
-	lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("https://bltv.f3322.net/api/?key=6CCRD2fRGaByuEERjZ&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+	lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("http://htp.behds.cn/json/2022111126462/fy4k.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
 	limit:6,
 	推荐:'json:list[1].vlist;*;*;*;*',
 	一级:'json:list;vod_name;vod_pic;vod_remarks;vod_id',
