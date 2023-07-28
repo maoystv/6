@@ -1,5 +1,5 @@
 var rule = {
-	title: '夜猫自营蓝光[V2]', // csp_AppYsV2
+	title: '自营蓝光[V2]', // csp_AppYsV2
 	host: 'https://download.kstore.space/download/3313/mao/88.json',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
 	homeUrl:'/xgapp.php/v2/index_video',
