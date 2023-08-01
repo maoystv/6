@@ -1,0 +1,20 @@
+{
+
+
+"数组":"class=\"myui-vodlist__box\">&&</div>",
+
+"图片":"data-original=\"&&\"",
+"副标题":"pic-text text-right\"&&</span>",
+"链接":"href=\"&&\"",
+"标题":"title=\"&&\"",
+
+"搜索数组":"id=\"searchList\"&&</ul>",
+"搜索链接":"href=\"&&\"",
+"搜索图片":"data-original=\"&&\"",
+"搜索url":"https://gimy.ai/search/{wd}----------{pg}---.html",
+"搜索副标题":"pic-text text-right\"&&</span>",
+"分类":"电影&电视剧&综艺&动漫",
+"分类值":"movies&tvseries&tv_show&anime",
+"分类url":"https://gimy.ai/genre/{cateId}-{area}-year-{catePg}/by/{by}.html"   
+    }
+    
