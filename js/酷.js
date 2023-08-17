@@ -1,4 +1,4 @@
-varvarvarvar 二级=`js:
+var 二级=`js:
 try {
 	let html = request(input);
 	html = JSON.parse(html);
@@ -81,7 +81,7 @@ var rule = {
 	class_name:'动漫&电视剧&电影&综艺', // 分类筛选 /api.php/app/nav
 	class_url:'4&2&1&3',
 	play_parse:true,
-	lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/kuying/.test(input)){let purl=request("http://jx.realdou.cn/home/api?type=ys&uid=1308131&key=hnpstuwzAHJNPSY237&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/YuMi/.test(input)){let purl=request("http://123.99.192.241:5000/api/jiexi/common?Key=FNrs1MxKR3Qub2R01l&url="+input);inputinputinputinputinputinputinputb2R01l&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/YuMi/.test(input)){let purl=request("http://123.99.192.241:5000/api/jiexi/common?Key=FNrs1MxKR3Qub2R01l&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+	lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/kuying/.test(input)){let purl=request("http://jx.realdou.cn/home/api?type=ys&uid=1308131&key=hnpstuwzAHJNPSY237&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/YuMi/.test(input)){let purl=request("http://123.99.192.241:5000/api/jiexi/common?Key=FNrs1MxKR3Qub2R01l&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
 	limit:6,
 	推荐:'json:list;vlist;*;*;*;*',
 	double: true,
