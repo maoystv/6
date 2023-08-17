@@ -46,7 +46,7 @@
     // 播放源节点
 	"dtFromNode": "//div[@class='module-tab-content']/div",
     // 播放源名称
-	"dtFromName": "/span/text()",
+	"dtFromName": "/💕/text()",
     // 二次处理正则
 	//"dtFromNameR": "",
     // 播放列表节点  ///../../following-sibling::div/ul
