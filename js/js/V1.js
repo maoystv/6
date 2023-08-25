@@ -18,7 +18,12 @@ try {
     VOD.vod_content = "";
     log(VOD);
     input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
-    let html = request(input);
+	let html = request(input, {
+        headers: {
+			'User-Agent':'PC_UA',
+            'Referer': input,
+        }
+    });
     print(html);
     html = JSON.parse(html);
     let episodes = html.data.list;
@@ -34,47 +39,47 @@ try {
             
             if(!map[val.flag]){
                 map[val.flag] = [val.url]
-            } else {
-                map[val.flag].push(val.url)
-            }
-        })
+            } else {
+                map[val.flag].push(val.url)
+            }
+        })
     });
     
     for(var key in map){
       	if('kuaikan'==key){
 				arr.push({
-                flag: '💕分享者💕快看',
-                url: map[key],
+                flag: '💕分享者💕快看',
+                url: map[key],
 				sort:1
-            })}
+            })}
 			if('bfzym3u8'==key){
 				arr.push({
-                flag: '💕分享者💕暴风',
-                url: map[key],
+                flag: '💕分享者💕暴风',
+                url: map[key],
 				sort:2
-            })}
+            })}
            if('1080zyk'==key){
 				arr.push({
-                flag: '💕分享者💕1080',
-                url: map[key],
+                flag: '💕分享者💕1080',
+                url: map[key],
 				sort:3
-            })}
+            })}
             if('ffm3u8'==key){
 				arr.push({
-                flag: '💕分享者💕非凡',
-                url: map[key],
+                flag: '💕分享者💕非凡',
+                url: map[key],
 				sort:4
-            })}
+            })}
            if('lzm3u8'==key){
 				arr.push({
-                flag: '💕分享者💕量子',
-                url: map[key],
+                flag: '💕分享者💕量子',
+                url: map[key],
 				sort:5
-            })}
+            })}
 
-    }
+    }
     arr.sort((a, b) => a.sort - b.sort);
-        
+        
     let playFrom = [];
     let playList = [];
 
@@ -93,7 +98,7 @@ try {
 `;
 
 var rule = {
-    title:'💖分享者机器人💖',
+    title:'💖分享者💖机器人2',
     host:'https://www.ikanbot.com',
     url:'/hot/index-fyclass-fyfilter-p-fypage.html[/hot/index-fyclass-fyfilter.html]',
     //https://www.ikanbot.com/search?q=%E6%96%97%E7%BD%97%E5%A4%A7&p=2
@@ -103,7 +108,7 @@ var rule = {
     filterable:1,
     filter_url:'{{fl.tag}}',
     // 图片来源:'@Referer=https://api.douban.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',
-	  图片来源:'@Referer=https://www.ikanbot.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',
+图片来源:'@Referer=https://www.ikanbot.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',
     filter:{
         "movie":[{"key":"tag","name":"标签","value":[{"n":"热门","v":"热门"},{"n":"最新","v":"最新"},{"n":"经典","v":"经典"},{"n":"豆瓣高分","v":"豆瓣高分"},{"n":"冷门佳片","v":"冷门佳片"},{"n":"华语","v":"华语"},{"n":"欧美","v":"欧美"},{"n":"韩国","v":"韩国"},{"n":"日本","v":"日本"},{"n":"动作","v":"动作"},{"n":"喜剧","v":"喜剧"},{"n":"爱情","v":"爱情"},{"n":"科幻","v":"科幻"},{"n":"悬疑","v":"悬疑"},{"n":"恐怖","v":"恐怖"},{"n":"治愈","v":"治愈"},{"n":"豆瓣top250","v":"豆瓣top250"}]}]
         ,"tv":[{"key":"tag","name":"标签","value":[{"n":"热门","v":"热门"},{"n":"美剧","v":"美剧"},{"n":"英剧","v":"英剧"},{"n":"韩剧","v":"韩剧"},{"n":"日剧","v":"日剧"},{"n":"国产剧","v":"国产剧"},{"n":"港剧","v":"港剧"},{"n":"日本动画","v":"日本动画"},{"n":"综艺","v":"综艺"},{"n":"纪录片","v":"纪录片"}]}]
