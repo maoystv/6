@@ -48,31 +48,31 @@ try {
     for(var key in map){
       	if('kuaikan'==key){
 				arr.push({
-                flag: '👑夜猫子快看👑',
+                flag: '💕分享者💕快看',
                 url: map[key],
 				sort:1
             })}
 			if('bfzym3u8'==key){
 				arr.push({
-                flag: '👑夜猫子暴风👑',
+                flag: '💕分享者💕暴风',
                 url: map[key],
 				sort:2
             })}
            if('1080zyk'==key){
 				arr.push({
-                flag: '👑夜猫子1080👑',
+                flag: '💕分享者💕1080',
                 url: map[key],
 				sort:3
             })}
             if('ffm3u8'==key){
 				arr.push({
-                flag: '👑夜猫子非凡👑',
+                flag: '💕分享者💕非凡',
                 url: map[key],
 				sort:4
             })}
            if('lzm3u8'==key){
 				arr.push({
-                flag: '👑夜猫子量子👑',
+                flag: '💕分享者💕量子',
                 url: map[key],
 				sort:5
             })}
