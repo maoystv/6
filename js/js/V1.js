@@ -48,31 +48,31 @@ try {
     for(var key in map){
       	if('kuaikan'==key){
 				arr.push({
-                flag: '💕分享者💕快看',
+                flag: '👑夜猫子快看👑',
                 url: map[key],
 				sort:1
             })}
 			if('bfzym3u8'==key){
 				arr.push({
-                flag: '💕分享者💕暴风',
+                flag: '👑夜猫子暴风👑',
                 url: map[key],
 				sort:2
             })}
            if('1080zyk'==key){
 				arr.push({
-                flag: '💕分享者💕1080',
+                flag: '👑夜猫子1080👑',
                 url: map[key],
 				sort:3
             })}
             if('ffm3u8'==key){
 				arr.push({
-                flag: '💕分享者💕非凡',
+                flag: '👑夜猫子非凡👑',
                 url: map[key],
 				sort:4
             })}
            if('lzm3u8'==key){
 				arr.push({
-                flag: '💕分享者💕量子',
+                flag: '👑夜猫子量子👑',
                 url: map[key],
 				sort:5
             })}
@@ -98,7 +98,7 @@ try {
 `;
 
 var rule = {
-    title:'💖分享者💖机器人2',
+    title:'爱看机器人2',
     host:'https://www.ikanbot.com',
     url:'/hot/index-fyclass-fyfilter-p-fypage.html[/hot/index-fyclass-fyfilter.html]',
     //https://www.ikanbot.com/search?q=%E6%96%97%E7%BD%97%E5%A4%A7&p=2
