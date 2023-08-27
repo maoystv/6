@@ -1,5 +1,5 @@
 varvar rule = {
-	title: '夜猫优播', // csp_AppYsV2
+	title: '优播', // csp_AppYsV2
 	host: 'https://download.kstore.space/download/3313/mao/ymz',
 	//host: 'http://ytcms.lfytyl.com',
   hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
