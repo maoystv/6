@@ -1,6 +1,6 @@
-varvarvarvar rule = {
-    title:'超前点播',
-    host:'https://bzhanyy.com',
+varvarvarvarvarvarvarvar rule = {
+    title:'VIP',
+    host:'https://varvarvarvarvarvarvarvarbzhanyy.com',
     // homeUrl:'/',
     url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
