@@ -1,4 +1,4 @@
-var rule = {
+varvarvarvar rule = {
     title:'超前点播',
     host:'https://bzhanyy.com',
     // homeUrl:'/',
