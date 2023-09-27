@@ -1,6 +1,6 @@
     var rule = {
-        title: '抖音追忆tv', // csp_AppYsV2
-        host: 'http://app.alovo.cn',
+        title: '4k世界', // csp_AppYsV2
+        host: 'http://yycms.77ev.cn',
         hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
         url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
         //     http://ym.dytt996.com:3/api.php/app/video?tid=20&class=&area=&lang=&year=&limit=18&pg=1
@@ -15,10 +15,10 @@
             'User-Agent': 'Dart/2.14 (dart:io)'
         },
         timeout: 5000,
-        class_name: '电影&电视剧&动漫&综艺', // 分类筛选 /api.php/app/nav
-        class_url: '1&7&8&3',
+        class_name: '电影&国产剧&电视剧&欧美剧&日韩剧&动漫&综艺', // 分类筛选 /api.php/app/nav
+        class_url: '1&21&2&23&24&3&4',
         play_parse: true,
-        lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("http://115.231.220.36:9999/jx/tvbox/1314.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+        lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
         limit: 6,
         推荐: 'json:list[0].vlist;*;*;*;*',
         一级: 'json:list;vod_name;vod_pic;vod_remarks||vod_score;vod_id',
