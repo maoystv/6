@@ -17,8 +17,8 @@ var rule = {
         'User-Agent':'UC_UA'
     },
     timeout:5000,
-    class_name:'全部&本月热门&最新影片&电视剧&国产剧&美剧&日韩剧&动漫&热门下载&高分影片&动画片&纪录片',//静态分类名称拼接
-    class_url:'movie_bt&hot-month&new-movie&dsj&zgjun&meiju&jpsrtv&movie_bt_series/riman&hot&gf&movie_bt_tags/donghua&movie_bt/movie_bt_tags/jilu',//静态分类标识拼接
+    class_name:'影视筛选&电视剧&高分电影&热门下载&本月热门&最新电影&国产剧&美剧&日韩剧',//静态分类名称拼接
+    class_url:'movie_bt&dsj&gf&hot&hot-month&new-movie&zgjun&meiju&jpsrtv',//静态分类标识拼接
     // class_parse: '.navlist li:gt(0):lt(7);a&&Text;a&&href;.*/(\\w+)',
     play_parse:true,
     lazy:'',
