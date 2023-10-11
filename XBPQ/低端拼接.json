@@ -7,7 +7,7 @@
                 "副标题": "class=\"pic-text text-right\"><b>&&</span>",
                 "搜索模式": "0",
                 "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-                "线路数组": " <div class=\"stui-pannel__head clearfix\">&&</div[排序:蓝光-Ymv>蓝光-put>蓝光-01>蓝光-02>极速-01>极速-02][不包含:蓝光-m3#极速-03#蓝光-01]",
+                "线路数组": " <div class=\"stui-pannel__head clearfix\">&&</div[排序:极速-01>极速-02>蓝光-Ymv>蓝光-put>蓝光-01>蓝光-02>][不包含:蓝光-m3#极速-03#蓝光-01]",
                 "线路标题": "<h3 class=\"iconfont icon-iconfontplay2\">&&</h3>",
                 "播放列表": "<a&&/a>",
                 "播放标题": ">&&<",
