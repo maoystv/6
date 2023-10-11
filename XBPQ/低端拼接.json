@@ -1,4 +1,4 @@
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww {
+ {
                 "主页url": "https://ddys.fun",
                 "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
                 "图片": "data-original=\"&&\"",
@@ -20,4 +20,4 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww {
                 "跳转解析": "默认$空#极速-02$http://118.25.184.129:9668/?url=#极速-01$http://118.25.184.129:9668/?url=#蓝光-Ymv$http://111.231.2.179//?url=#蓝光-put$https://jiexi.ahailove.cn/qingjian.php?url=",
                 "跳转播放链接": "解析+urlDecode(Base64(vod_class*url\":\"&&\"))",
                 "二次跳转播放链接": "\"url\"*\"&&\""
-            }wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+            }
