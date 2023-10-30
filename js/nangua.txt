@@ -163,7 +163,7 @@ var rule = {
                     playFrom.append(key);
                     playList.append(playMap[key].join('#'))
                 });
-            let vod_play_from = playFrom.join('🌹锦哥资源🌹$$$');
+            let vod_play_from = playFrom.join('💕分享者影音💕$$$');
             let vod_play_url = playList.join('$$$');
             VOD['vod_play_from'] = vod_play_from;
             VOD['vod_play_url'] = vod_play_url
