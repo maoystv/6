@@ -1,7 +1,7 @@
 {   "作者":"一个分享者",
     "站名":"明帝影视",
     "主页url":"https://ys.md214.cn/",
-    "简介":"💕一个分享者💕提醒您：请勿相信影片中的广告，以免上当受骗！+module-info-item module-info-introduction\">&&</p>",
+    "简介":"一个分享者提醒您：请勿相信影片中的广告，以免上当受骗！+module-info-item module-info-introduction\">&&</p>",
     "导演":"导演：&&</div>",
     "主演":"主演：&&</div>",
     "影片状态":"集数：&&<div>",
