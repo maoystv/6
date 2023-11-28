@@ -1,0 +1,45 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "555电影",
+    
+    "主页url": "https://5movie.shop",
+    
+  "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+  
+    "影片类型": "module-info-tag\">&&立即播放",
+    
+    "导演": "导演：&&</p>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "alt=\"&&\"",
+    
+    "副标题": "module-item-note\">&&</div>",
+    
+    "捜索模式": "1",
+    
+    "播放列表":"<a&&</a>",
+    
+    "数组": "module-item-pic\">&&module-item\">",
+
+    "播放数组": "module-play-list-content&&</div>",
+    
+    "线路数组":"data-dropdown-value=&&</div>[不包含:新浪#红牛#无尽#天空]",
+    
+    "线路标题": "+<span>&&</small>[替换:</span><small>>>共]+集",
+    
+    "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+    
+    "分类url": "https://5movie.shop/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{cstePg}---{year}.html;;mak",
+    
+    "分类": "电影&剧集&综艺&动漫",
+    
+    "分类值": "1&2&3&4"
+    
+}
