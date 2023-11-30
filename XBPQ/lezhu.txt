@@ -8,7 +8,7 @@
   "分类": "分享者影音&电影&动漫&综艺&国产剧&港台剧&日韩剧&搞笑&爱情&科幻&恐怖&剧情&战争&仙侠&剧场版&悬疑&惊悚",
   "分类值": "2&1&4&3&12&13&14&6&7&8&9&10&11&16&18&19&20",
   
-  "分类url": "https://www.jukankan.cc/type/{cateId}-{catePg}.html",
+  "分类url": "https://jukankan.cc/vodtype/{cateId}-{catePg}.html\",
   
   "副标题": "<span>&&</span>",
   
