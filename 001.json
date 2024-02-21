@@ -135,8 +135,10 @@
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
          {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar","ext":"https://bo.czys.me@@一个分享者"},
           {"key":"bulei","name": "💖分享布蕾","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
+{"key":"Yingtantv2","name": "💖分享影探","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 
-{"key":"Yingtantv1","name": "💖分享影探","type":3,"api":"csp_Yingtantv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt"},
+{"key":"追","name": "🌻已成追忆","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
+
 {
       "key": "csp_xpath_唐人街",
       "name": "🎩唐人街头",
