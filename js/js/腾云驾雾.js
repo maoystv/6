@@ -1,29 +1,4 @@
-
- 1018610504 /  xiaoheiX 
-镜像自地址 https://gitee.com/moyu0913/xiaohei/
-关注
-1
- 点赞
-0
-派生
-0
-代码
-讨论
-0
-百科
-动态
- 5039 提交
- 1 分支
- 586 MB
- 分支: master 
-xiaoheiX / js / 腾云驾雾.js
-39 行
-13 KB
-原始文件
-永久链接
-Blame
-文件历史
- var rule = {
+var rule = {
     title:'腾云驾雾',
     host:'https://v.%71%71.com',
     // homeUrl:'/channel/choice?listpage=1&channel=choice&sort=18&_all=1',
@@ -62,7 +37,3 @@ Blame
     搜索:'js:let d=[];pdfa=jsp.pdfa;pdfh=jsp.pdfh;pd=jsp.pd;let html=request(input);let baseList=pdfa(html,"body&&.result_item_v");baseList.forEach(function(it){let longText=pdfh(it,".result_title&&Text");let shortText=pdfh(it,".sub&&Text");let fromTag=pdfh(it,".result_source&&Text");let score=pdfh(it,".result_score&&Text");let content=pdfh(it,".desc_text&&Text");let url=pdfh(it,".result_title&&a&&href");let img=pd(it,".figure_pic&&src");url="https://node.video.qq.com/x/api/float_vinfo2?cid="+url.match(/.*\\/(.*?)\\.html/)[1];log(shortText+"|"+url);if(fromTag.match(/腾讯/)){d.push({title:longText.split(shortText)[0],img:img,url:url,content:content,desc:"⭐"+longText.split(shortText)[1]+"-"+shortText+" "+score})}});setResult(d);',
     // 搜索:'json:item;word;dc;class;id;sn',
 }
- 
-© 2023 Agit Cloud Computing, Ltd.
-V1.4.0
-服务协议 隐私政策 开源软件 帮助
