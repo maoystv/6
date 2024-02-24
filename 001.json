@@ -165,6 +165,8 @@
            {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/0004/c/-/raw/main/Fxz.txt"},
            {"key":"360影视","name":"🌻360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
+ {"key":"酷看","name":"😎酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"},
+
  {
             "key": "安", 
             "name": "💖分享安博", 
@@ -332,7 +334,7 @@
         {"key":"csp_Jojo","name":"🎮jojo弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"changeable":1, "jar":"https://jihulab.com/0004/c/-/raw/main/fm.jar","ext":{"danmu":true},"timeout":30}, 
 { "key":"csp_YingShi","name":"🦀影视海外","type":3,"api":"csp_YingShi", "jar":"https://jihulab.com/0004/c/-/raw/main/fm.jar","ext":""},
       { "key": "白度影视", "name": "💖分享白度", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/" },
-     {"key":"csp_77","name":"⛷酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1 ,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"},
+     {"key":"csp_77","name":"⛷酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1 ,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"},
     {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
     {"key":"南瓜影视","name":"🎃南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
@@ -497,7 +499,7 @@
   {"key":"tvbsk","name":"☁️TVB云播","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
   {"key":"星星","name":"🌠星星之火","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
   
-  {"key":"萌米","name":"🐶萌米App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg==","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"},
+  {"key":"萌米","name":"🐶萌米App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg==","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"},
   {
             "key": "蜂鸟1",
             "name": "🐝蜂鸟追剧",
@@ -508,7 +510,7 @@
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA=","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"
         },
-{"key":"小柚","name":"🍊柚此可见","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"},
+{"key":"小柚","name":"🍊柚此可见","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"},
 
     {"key":"攻阁","name":"🕍攻阁影视","type":3,"api":"csp_Appto","playerType":2,"ext":"cepveeMdL3qzBp3D86fBcgucTPCRb88AXoITrxvmypEbJbvnC/4ipv8+gLYBHlIYBFWfcZr3fkzfxQ8gAmZel3ej+I4REk7LnHUBNtZ9P0S97uBwswzPtz3voKW2TcVbBKQNmA2XowTEbiwPTJTkP8H3KpHtipqyoPNDOoDXGviUlUQqn3+A8FSXDyoySvEvG3eTw64Pj48USmhQvQPG8Jvhpo9+YRSg3pa6vv9hUjYmgheP1X8rA6zqy9N4L++/NL5gszaaf8yH4omdSxtYrj330jkXC4vPWU5fE4p6vRrq7mxA5Bp48Lhp3GjrKDyoOjBrI7+yvKarHhyoklswLFD3vfmM4J3osXIoUnwpXBBktdkDgFzUHvxY8BUeCTMBIPQfGiS8v88z6OPR8ven+KdreBl8BV6RqFK7vHb/OM9O5qLNpsPNSImbet1tdaAbSyEUxNUjplKpbGCxM5RZgcdyl/prki2aDcpICE54hcagK8d0JvmohzpLE2xper9AdIP1lD+sYndodhIYejNPFP3BiKPdRkBTrcQbicyp9oA6OIg2/aoJRvH1tai/OcozC5DaT0TPg1eo1NhodMKHa/CZ3Srg0ij9ocYwbX/e42JrBCgnp0gCph/oz7EipyUDI3n437r/skJ/cDEPColQ8PfT2LQE7hPGbp1/mDG3aKLNSuVCiMkQy66a6jyfyPKd8GqzpkGPCrPpneBNsMjGqLCveMl/PgXloTG7BZbg+X0VoXpCjOC3u9n2/Z4xqdnc+Dhw1LBXpdhvLKKl6d9K6/dOVgWRIfYx2I5DPQn79fU47+UkPxPA7qAaU0v9tRXYKXfRh2yJcijXre4/JzBxSmR2owrKVmnXcwBlsIseor36jbISj4TJdA+gVP5Ayfh5a09kpFDYvuPTgRhs4O2z2t3LBnQzLE3KBT2xPznJurYInw7P4yVxDOhpFkGGPZNV/+ehl9CcWwhZzUvHqtPD2zqZXKZvgB3BxR4b1NTgtRY+h28BFD4N9ejY5aJ9yS50kXYTIhXvwrzbRAjHLf+sj4t0gybV7S4osR92WoOyf3rpyeUQdO+9Bqfl5fWvqVl9tMC7/ukkgqlb2p+R1TLbiqD+ruQNMYGdETK4Nl4dkgUVOxOmabWH6RjKiykA5GQWKwo2PLrxE4fwhgkNCYlVDP8gYUBPdo5SeXM7p2ZKrRs7hlFGA2WbSnC4Ni05mwCmlOw9pJzbCXUMalJcD+9b53sLKgb4JYWjEmPe1/4fpH+xwZPlNDjQXGVolNxGkUodNzUFTECEWZLjGtqwQiQYNrErYXRYfea5Vx02WW1JyrHbYJ4FJv61h1KQ6fXAxty+OdtMTU95TwpNr8E62aFNSMQ==$$$null$$$1","jar":"https://jihulab.com/0004/c/-/raw/main/fm.jar?ref_type=heads"},
 
@@ -696,7 +698,7 @@
             "ext": "https://notabug.org/ygfxz/6/raw/main/js/骚火电影.js"
         },
 
-{"key":"yqikan","name":"⛑一起看吧","type":3,"api":"csp_YQKan","ext":"https://api-aws.ctdy.cc","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"},
+{"key":"yqikan","name":"⛑一起看吧","type":3,"api":"csp_YQKan","ext":"https://api-aws.ctdy.cc","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"},
     {
       "key":"drpy_js_两个BT",
       "name":"☠️两个鼻涕",
@@ -1348,7 +1350,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"
+            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"
         },
 
 {"key":"csp_Nmys","name":"🌽农民|JS","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/js/js/农民影视.js"},
@@ -1666,7 +1668,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"
+            "ext": "https://www.libvio.pw/","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"
         },
 
 {
@@ -1829,7 +1831,7 @@
     {"key":"csp_Sp_音乐演唱会","name":"🅱️哔哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/演唱会.php"},
 {"key":"csp_Sp_哗哩合集","name":"🅱️哔哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://notabug.org/ygfxz/6/raw/main/哔哩合集.php"},
 		
-{"key":"csp_Yj1211","name":"💃网红直播","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
+{"key":"csp_Yj1211","name":"💃网红直播","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"},
 
 {"key":"csp_xBPQ_抓饭体育","name":"️🥇抓饭体育","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
       {
@@ -1962,7 +1964,7 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"
+            "filterable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"
         },
         {
             "key": "csp_Ysj",
@@ -1972,11 +1974,11 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"
+            "filterable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"
         },
 
-{"key":"csp_Dm84","name":"🚘动漫巴士","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"},
-{"key":"csp_Anime1","name":"🏰日本动漫","type": 3,"api": "csp_Anime1","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"},
+{"key":"csp_Dm84","name":"🚘动漫巴士","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"},
+{"key":"csp_Anime1","name":"🏰日本动漫","type": 3,"api": "csp_Anime1","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt"},
 
  {
             "key": "csp_聚短视频",
