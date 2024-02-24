@@ -109,10 +109,10 @@
     },
     {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://jihulab.com/0004/0/-/raw/main/Xiang.txt"},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://jihulab.com/0004/0/-/raw/main/Xiang.txt"},
-          {"key":"皮皮虾","name":"💖分享皮皮","type":3,"api":"csp_WebAiKun","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar","ext":"http://aikun.tv"},
+          {"key":"皮皮虾","name":"💖分享皮皮","type":3,"api":"csp_WebAiKun","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/Fxz.txt","ext":"http://aikun.tv"},
             {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"changeable":1,"jar":"https://jihulab.com/0004/c/-/raw/main/CZ.txt",
         "ext":"https://www.czzy55.com/@@一个分享者"},
-          {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar","ext":"https://bo.czys.me@@一个分享者"},
+          {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/0004/c/-/raw/main/Fxz.txt","ext":"https://bo.czys.me@@一个分享者"},
 
  {"key":"bulei","name": "💖分享布蕾","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 {"key":"Yingtantv2","name": "💖分享影探","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
@@ -259,25 +259,19 @@
             "api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://jihulab.com/0004/c/-/raw/main/哔哩.js"
         },
-
-  {
-            "key": "jojo",
-            "name": "🎓jojo[cat]",
-            "type": 3,
-            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/watson/cat/jojo_open.js"
-        },
         {"key":"csp_Jojo","name":"🎮jojo弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"changeable":1, "jar":"https://jihulab.com/0004/c/-/raw/main/fm.jar","ext":{"danmu":true},"timeout":30}, 
 { "key":"csp_YingShi","name":"🦀影视海外","type":3,"api":"csp_YingShi", "jar":"https://jihulab.com/0004/c/-/raw/main/fm.jar","ext":""},
 
- {
+{
             "key": "安", 
             "name": "💖分享安博", 
             "type": 4, 
-            "api": "https://ali.唐.hz.cz/site/ub1818", 
+            "api": "https://tang.serv00.net/power/ub1818", 
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 0
         }, 
+
 		 {"key": "gsgs","name": "💖分享酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
       { "key": "白度影视", "name": "💖分享白度", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/" },
     
@@ -439,16 +433,11 @@
 "filterable": 0,
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/虎虎.json"},
         {"key":"csp_jxgq","name":"🌈京巷高清","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/js/jingxiang.js"},
+        {"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
+      {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
     {"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
-  {"key":"qj","name":"💖分享一站","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
-  {"key":"qj2","name":"💖分享二站","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
-  {"key":"qj3","name":"💖分享三站","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
-  {"key":"qj4","name":"💖分享四站","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
  {"key":"fx五","name":"💖分享五站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
 {"key":"欣欣","name":"🥬欣欣向荣","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xinxin","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
-{"key":"云云","name":"🥦云云众生","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/laohu","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
-{"key":"喵播","name":"🧄喵喵播放","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://111.230.51.151:9696/api.php/app/"},
-
 {
       "key": "要啥脸",
       "name": "🥑傻瓜直链",
@@ -459,9 +448,6 @@
       "ext": "http://122.228.84.103:5822/api.php/app/"
     },
   {"key":"tvbsk","name":"☁️TVB云播","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
- 
-  {"key":"超神","name":"🔺超级神话","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/chaoshen","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
- {"key":"樱花","name":"🌸樱花动漫","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/yinghua","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
   {"key":"星星","name":"🌠星星之火","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
      {
             "key": "蜂鸟1",
