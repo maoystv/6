@@ -130,6 +130,15 @@
 {"key":"追","name": "🌻追忆成殇","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 
 {
+      "key": "Leshi（APP）",
+      "name": "⏰乐视影视",
+      "type": 1, "searchable": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+       "categories":["短剧","国产动漫","国产剧","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","古装片","历史片","动画片","大陆综艺","港台综艺","日韩综艺","欧美动漫","日本动漫"]
+   
+   }, 
+
+{
       "key": "csp_xpath_唐人街",
       "name": "🎩唐人街头",
       "type": 3,
@@ -1205,14 +1214,6 @@
         "分类": "电影$dy#连续剧$lianxuju#综艺$zy#动漫$dm#纪录片$jilupian"
       }
     },
-    {
-      "key": "Leshi（APP）",
-      "name": "⏰乐视影视",
-      "type": 1, "searchable": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
-       "categories":["短剧","国产动漫","国产剧","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","古装片","历史片","动画片","大陆综艺","港台综艺","日韩综艺","欧美动漫","日本动漫"]
-   
-   }, 
     {"key":"荔枝","name":"🍐荔枝采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.zjys.vip/api.php/iptv/vod/"},
 {"key":"包子资源","name":"🥟包子采集","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":[]},
 {"key":"祥祥资源","name":"🫕祥子采集","type":1,"api":"http://141.147.146.105/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
@@ -2021,7 +2022,7 @@
       "url": "http://122.228.84.103:7777/api/?key=TJ5aojxggobuP4CTTw&url="},
 
         {"name":"💕推荐2","type":1,"url":"https://api.json.icu/api/?key=c60086bb91997b98358194263f13e670&url="},
-		{"name":"💕分享默认","type":1,"url":"https://www.qiaoji8.com/tvbox/neibu.php?url="},
+		{"name":"💕分享默认","type":1,"url":"https://pan.qiaoji8.com/tvbox/neibu.php?url="},
 		  {
       "name": "💕分享嘉音",
       "type": 1,

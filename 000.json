@@ -465,6 +465,15 @@
 
   {"key":"攻阁","name":"🕍攻阁影视","type":3,"api":"csp_Appto","playerType":2,"ext":"cepveeMdL3qzBp3D86fBcgucTPCRb88AXoITrxvmypEbJbvnC/4ipv8+gLYBHlIYBFWfcZr3fkzfxQ8gAmZel3ej+I4REk7LnHUBNtZ9P0S97uBwswzPtz3voKW2TcVbBKQNmA2XowTEbiwPTJTkP8H3KpHtipqyoPNDOoDXGviUlUQqn3+A8FSXDyoySvEvG3eTw64Pj48USmhQvQPG8Jvhpo9+YRSg3pa6vv9hUjYmgheP1X8rA6zqy9N4L++/NL5gszaaf8yH4omdSxtYrj330jkXC4vPWU5fE4p6vRrq7mxA5Bp48Lhp3GjrKDyoOjBrI7+yvKarHhyoklswLFD3vfmM4J3osXIoUnwpXBBktdkDgFzUHvxY8BUeCTMBIPQfGiS8v88z6OPR8ven+KdreBl8BV6RqFK7vHb/OM9O5qLNpsPNSImbet1tdaAbSyEUxNUjplKpbGCxM5RZgcdyl/prki2aDcpICE54hcagK8d0JvmohzpLE2xper9AdIP1lD+sYndodhIYejNPFP3BiKPdRkBTrcQbicyp9oA6OIg2/aoJRvH1tai/OcozC5DaT0TPg1eo1NhodMKHa/CZ3Srg0ij9ocYwbX/e42JrBCgnp0gCph/oz7EipyUDI3n437r/skJ/cDEPColQ8PfT2LQE7hPGbp1/mDG3aKLNSuVCiMkQy66a6jyfyPKd8GqzpkGPCrPpneBNsMjGqLCveMl/PgXloTG7BZbg+X0VoXpCjOC3u9n2/Z4xqdnc+Dhw1LBXpdhvLKKl6d9K6/dOVgWRIfYx2I5DPQn79fU47+UkPxPA7qAaU0v9tRXYKXfRh2yJcijXre4/JzBxSmR2owrKVmnXcwBlsIseor36jbISj4TJdA+gVP5Ayfh5a09kpFDYvuPTgRhs4O2z2t3LBnQzLE3KBT2xPznJurYInw7P4yVxDOhpFkGGPZNV/+ehl9CcWwhZzUvHqtPD2zqZXKZvgB3BxR4b1NTgtRY+h28BFD4N9ejY5aJ9yS50kXYTIhXvwrzbRAjHLf+sj4t0gybV7S4osR92WoOyf3rpyeUQdO+9Bqfl5fWvqVl9tMC7/ukkgqlb2p+R1TLbiqD+ruQNMYGdETK4Nl4dkgUVOxOmabWH6RjKiykA5GQWKwo2PLrxE4fwhgkNCYlVDP8gYUBPdo5SeXM7p2ZKrRs7hlFGA2WbSnC4Ni05mwCmlOw9pJzbCXUMalJcD+9b53sLKgb4JYWjEmPe1/4fpH+xwZPlNDjQXGVolNxGkUodNzUFTECEWZLjGtqwQiQYNrErYXRYfea5Vx02WW1JyrHbYJ4FJv61h1KQ6fXAxty+OdtMTU95TwpNr8E62aFNSMQ==$$$null$$$1","jar":"https://jihulab.com/0004/c/-/raw/main/fm.jar?ref_type=heads"},
 
+{
+      "key": "Leshi（APP）",
+      "name": "⏰乐视影视",
+      "type": 1, "searchable": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+       "categories":["短剧","国产动漫","国产剧","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","古装片","历史片","动画片","大陆综艺","港台综艺","日韩综艺","欧美动漫","日本动漫"]
+   
+   }, 
+
          {
 			"key": "zibo",
 			"name": "📻直播电台",
@@ -781,14 +790,7 @@
     \"播放数组\":\"class=\\\"module-play-list&&</div>\",
     \"分类\":\"电影$1#电视剧$2#国产剧$22#港剧$26#美剧$23#综艺$3#动漫$4\",
     \"分类url\":\"https://www.miushuo.com/vodshow/{cateId}--------{catePg}---.html\"}"},
-    {
-      "key": "Leshi（APP）",
-      "name": "⏰乐视影视",
-      "type": 1, "searchable": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
-       "categories":["短剧","国产动漫","国产剧","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","古装片","历史片","动画片","大陆综艺","港台综艺","日韩综艺","欧美动漫","日本动漫"]
    
-   }, 
        {
             "key": "csp_SNzy",
             "name": "🧊索尼高清",
@@ -1968,7 +1970,7 @@
       "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
 		{"name":"💕推荐1","type":1,"url":"http://pandown.pro/app/kkdy.php?url="},
         {"name":"💕推荐2","type":1,"url":"https://api.json.icu/api/?key=c60086bb91997b98358194263f13e670&url="},
-		{"name":"💕分享默认","type":1,"url":"https://www.qiaoji8.com/tvbox/neibu.php?url="},
+		{"name":"💕分享默认","type":1,"url":"https://pan.qiaoji8.com/tvbox/neibu.php?url="},
 		  {
       "name": "💕分享嘉音",
       "type": 1,
