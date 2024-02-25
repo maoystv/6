@@ -123,7 +123,7 @@
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
         {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"changeable":1,"jar":"https://jihulab.com/0004/c/-/raw/main/CZ.txt",
         "ext":"https://www.czzy55.com/@@一个分享者"},
-        {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"},
+        {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy55.com/@@一个分享者","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"},
           {"key":"bulei","name": "💖分享布蕾","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 {"key":"Yingtantv2","name": "💖分享影探","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 {"key":"車","name": "🚘影视快車","type":3,"api":"csp_Yscapp","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YSC.jar"},
