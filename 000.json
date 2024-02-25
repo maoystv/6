@@ -112,7 +112,7 @@
           {"key":"皮皮虾","name":"💖分享皮皮","type":3,"api":"csp_WebAiKun","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/Fxz.txt","ext":"http://aikun.tv"},
             {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"changeable":1,"jar":"https://jihulab.com/0004/c/-/raw/main/CZ.txt",
         "ext":"https://www.czzy55.com/@@一个分享者"},
-          {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/0004/c/-/raw/main/Fxz.txt","ext":"https://bo.czys.me@@一个分享者"},
+          {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"},
 
  {"key":"bulei","name": "💖分享布蕾","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 {"key":"Yingtantv2","name": "💖分享影探","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
@@ -150,18 +150,6 @@
      "filterable":1,
       "ext": "https://notabug.org/ygfxz/6/raw/main/PY/py_cctv.py"
     },
-        {
-            "key": "996",
-            "name": "🍷996影视",
-            "type": 3,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-                "筛选": "1"
-            }
-        },
         {
         "key": "分享",
         "name": "💖分享自用",
@@ -1641,7 +1629,6 @@
 
 {"key":"mtv_XBPQ_91影视","name":"🍷酒妖影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/酒遥.json"},
 {"key":"mtv_XBPQ_土豪TV","name":"💰土豪TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/土豪.json"},
-{"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"jar":"https://jihulab.com/0004/c/-/raw/main/Fxz.txt","ext":"https://bo.czys.me@@夜猫屌长2米"},
 {"key": "抖音小姐姐","name": "💃抖音姐姐", "type": 4,"api": "http://120.53.102.254/xjj","searchable": 1,"quickSearch": 0,"filterable": 1 },
 
 {"key": "直播转点播1","name": "🎦直播转换","type": 3,"api": "https://download.kstore.space/download/4127/直播﹦点播.js","ext": "./lives/$$$MV直播$https://notabug.org/ygfxz/6/raw/main/TV/mv#唐三直播$http://home.jundie.top:81/Cat/tv/live.txt#饭太硬直播$http://ftyyy.tk/live.txt#肥猫直播$http://我不是.肥猫.love:63/TV/tvzb.txt &&&https://api.caonm.net/api/mc/index.php"},
