@@ -2031,7 +2031,11 @@
       "type": 1,
       "url": "http://122.228.84.103:7777/api/?key=TJ5aojxggobuP4CTTw&url="},
 
-        {"name":"💕推荐2","type":1,"url":"https://api.json.icu/api/?key=c60086bb91997b98358194263f13e670&url="},
+ {
+      "name": "💕推荐2",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=CmVoteP0qwx4wZiK5G&url="},
+
 		{"name":"💕分享默认","type":1,"url":"https://pan.qiaoji8.com/tvbox/neibu.php?url="},
 		  {
       "name": "💕分享嘉音",
@@ -2099,6 +2103,20 @@
       "name": "分享官解2",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+
+{
+      "name": "NBY3",
+      "type": 1,
+      "url": "http://103.233.255.142:1133/?url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+        }
+      }
     },
 
 {"name":"推荐💕","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
