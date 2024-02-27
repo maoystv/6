@@ -127,24 +127,17 @@
         {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy55.com/@@一个分享者","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"},
          {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/0004/c/-/raw/main/CZ.txt"},
          {
-      "key": "宇宙",
-      "name": "💖分享天翼",
+      "key": "fn",
+      "name": "💖分享放牛",
       "type": 3,
-      "api": "csp_LvDou",
+      "api": "csp_Fangniu4k",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
       "playerType": 1,
-      "jar":"https://jihulab.com/0004/c/-/raw/main/lvdou.jar?ref_type=heads",
-      "ext": {
-        "server": "http://ds1.yuzhoukeji.top/api.php/app/",
-        "mackey": "btC11NMbhWho2LsL|vZfPqkHE71Epi167",
-        "danmu": true
-      }
-    },
-          {"key":"bulei","name": "💖分享布蕾","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
-{"key":"Yingtantv2","name": "💖分享影探","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
+      "jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
+   
 {"key":"追","name": "🌻追忆成殇","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 
 {
