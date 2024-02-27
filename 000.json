@@ -115,6 +115,23 @@
         "ext":"https://www.czzy55.com/@@一个分享者"},
           {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"},
 {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/0004/c/-/raw/main/CZ.txt"},
+{
+      "key": "宇宙",
+      "name": "💖分享天翼",
+      "type": 3,
+      "api": "csp_LvDou",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "jar":"https://jihulab.com/0004/c/-/raw/main/lvdou.jar?ref_type=heads",
+      "ext": {
+        "server": "http://ds1.yuzhoukeji.top/api.php/app/",
+        "mackey": "btC11NMbhWho2LsL|vZfPqkHE71Epi167",
+        "danmu": true
+      }
+    },
 
  {"key":"bulei","name": "💖分享布蕾","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 {"key":"Yingtantv2","name": "💖分享影探","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
@@ -235,14 +252,24 @@
       "quickSearch": 1,
       "changeable": 0
     },
+    {
+			"key": "myi",
+			"name": "💖分享麻衣",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"ext": "http://122.228.84.103:5822/api.php/app/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
        {
             "key" : "js_v2-jrly",
             "name" :"💖分享嘉音",
             "type" : 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api" : "csp_AppYsV2",
-            "ext" : "http://xiutan.shiyifacai.com/zuoan/api.php/app/"
+            "api" : "csp_AppYs",
+            "ext" : "http://vip.hhtv.vip:38801/api.php/app/"
         },
         {
             "key" : "js_v2-zz",
@@ -436,7 +463,7 @@
         {"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
       {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
     {"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
- {"key":"fx五","name":"💖分享五站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
+ {"key":"fx五","name":"💖分享五站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/EXT/Movie5","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
 {"key":"欣欣","name":"🥬欣欣向荣","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xinxin","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
 {
       "key": "要啥脸",
@@ -1980,7 +2007,31 @@
       "type": 1,
       "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
 		{"name":"💕推荐1","type":1,"url":"http://pandown.pro/app/kkdy.php?url="},
-        {"name":"💕推荐2","type":1,"url":"https://api.json.icu/api/?key=c60086bb91997b98358194263f13e670&url="},
+        {
+			"name": "💕推荐2",
+			"type": 1,
+			"url": "http://42.157.129.139:7788/json/aiku.php?url=",
+			"ext": {
+				"flag": [
+				],
+				"header": {
+					"User-Agent": "Lavf/58.12.100"
+				}
+			}
+		},
+		{
+			"name": "💕分享麻衣",
+			"type": 1,
+			"url": "http://y1.ys.33love.cn:8665/lunxun/index.php?url=",
+			"ext": {
+				"flag": [
+					"NBY"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
 		{"name":"💕分享默认","type":1,"url":"https://pan.qiaoji8.com/tvbox/neibu.php?url="},
 		  {
       "name": "💕分享嘉音",
