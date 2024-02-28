@@ -117,7 +117,7 @@
         "ext": "https://d.kstore.space/download/6474/tvbox/xiaoya.json#一个分享者",
         "style": {"type": "list"}
     },
-         {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":""},
+         {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://jihulab.com/0004/0/-/raw/main/Xiang.txt"},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://jihulab.com/0004/0/-/raw/main/Xiang.txt"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://jihulab.com/0004/0/-/raw/main/Xiang.txt"},
           {"key":"皮皮虾","name":"💖分享皮皮","type":3,"api":"csp_WebAiKun","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/Fxz.txt","ext":"http://aikun.tv"},
@@ -170,7 +170,7 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"
     },
 
-           {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
+           {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/0004/c/-/raw/main/Fxz.txt"},
            {"key":"360影视","name":"🌻360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
  {"key":"酷看","name":"😎酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
@@ -2200,7 +2200,7 @@
 
 //jar+壁纸
 
-"spider":"https://pan.shangui.cc/f/EBDpID/%E6%B5%8B.jar","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
+"spider":"https://jihulab.com/0004/0/-/raw/main/0.txt","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
 
 //电视直播
 
