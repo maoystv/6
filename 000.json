@@ -115,6 +115,7 @@
         "ext":"https://www.czzy55.com/@@一个分享者"},
           {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"},
 {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/0004/c/-/raw/main/CZ.txt"},
+  {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"},
 
  {
       "key": "fn",
@@ -682,12 +683,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/AucFox.json"},
-
-    {"key":"csp_CandyMuj_sstv","name":"💖速搜|4K","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"},
-
-{"key":"csp_CandyMuj_jxyc","name":"💖自营一站","type":3,"api":"csp_CandyMuj_jxyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xc1080.xn--654a.cc","jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"},
-    {"key":"csp_CandyMuj_jxyc1","name":"💖自营二站","type":3,"api":"csp_CandyMuj_jxyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcom.xn--654a.cc","jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"},
-
     {"key":"csp_CandyMuj_taoju","name":"💖淘剧影院","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"},
     {"key":"csp_CandyMuj_haokongbu","name":"💖好恐怖啊","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1 ,"jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"},
     {"key":"影探4K0","name":"💃影视探戈","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip666.lyyytv.cn/api.php/app/"},
