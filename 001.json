@@ -138,7 +138,17 @@
       "timeout": 30,
       "playerType": 1,
       "jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
-   
+    {
+      "key": "yyt",
+      "name": "🎵音乐台mv",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 {"key":"追","name": "🌻追忆成殇","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},
 
 {
@@ -173,21 +183,6 @@
 
            {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/0004/c/-/raw/main/Fxz.txt"},
            {"key":"360影视","name":"🌻360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
-{
-            "key": "Taohuazu",
-            "name": "🌺桃花一族",
-            "type": 3,
-            "api": "csp_Taohuazu",
-            "jar": "./pg.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt",
-            "ext": "http://thze.cc/$$$socks5://192.168.101.1:1080"
-        },
 
  {"key":"酷看","name":"😎酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
 {"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw==","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
