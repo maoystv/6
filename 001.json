@@ -117,7 +117,7 @@
         "ext": "https://d.kstore.space/download/6474/tvbox/xiaoya.json#一个分享者",
         "style": {"type": "list"}
     },
-         {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
+         {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":""},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
           {"key":"皮皮虾","name":"💖分享皮皮","type":3,"api":"csp_WebAiKun","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fxz.txt","ext":"http://aikun.tv"},
@@ -181,7 +181,7 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/haitu.json"
     },
 
-           {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fxz.txt"},
+           {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
            {"key":"360影视","name":"🌻360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
  {"key":"酷看","name":"😎酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
@@ -371,13 +371,13 @@
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/zanzan.js"
         },
         {"key": "gsgs","name": "💖分享酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
-        {"key":"csp_Jojo","name":"🎮jojo弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"changeable":1, "jar":"https://jihulab.com/0004/c/-/raw/main/fm.jar","ext":{"danmu":true},"timeout":30}, 
-{ "key":"csp_YingShi","name":"🦀影视海外","type":3,"api":"csp_YingShi", "jar":"https://jihulab.com/0004/c/-/raw/main/fm.jar","ext":""},
+        {"key":"csp_Jojo","name":"🎮jojo弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"changeable":1, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":{"danmu":true},"timeout":30}, 
+{ "key":"csp_YingShi","name":"🦀影视海外","type":3,"api":"csp_YingShi", "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":""},
       { "key": "白度影视", "name": "💖分享白度", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/" },
      {"key":"csp_77","name":"⛷酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1 ,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
     {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
-    {"key":"南瓜影视","name":"🎃南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
+    {"key":"南瓜影视","name":"🎃南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 
  {
 "key": "csp_xBPQ_抖",
@@ -1635,18 +1635,18 @@
 },
 {"key":"臭蛋蛋","name":"🦨臭蛋蛋呀","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$38","分类url":"https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mc"}},
 
-{"key":"混合盘","name":"📕混合网盘","type":3,"api":"csp_HunHePan","changeable":2,"searchable":1,"quickSearch":1,"filterable":0,"jar":"，","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$null$$$1","timeout":60},
-{"key":"Pan99","name":"📕九九网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":2, "filterable":1, "timeout":30,  "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
-{"key":"玩偶表哥","name":"📕老表网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":2, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json","timeout":60},
-{"key":"找资源", "name":"📕资源网盘", "type":3, "api":"csp_Zhaozy","changeable":2,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$ajin0595$$$dear0595", "timeout":60},
-{"key":"影视仓","name":"📕影视网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://www.weixine.net$$$1$$$./json/wogg.json","timeout":60},
-{"key":"团长影视","name":"📕团长网盘","type":3,"api":"csp_TZFile","jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$null$$$1", "quickSearch":1, "changeable":0, "timeout":60},
-{"key":"校长影视","name":"📕校长网盘","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"filterable":1,"changeable":0, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$null$$$1","timeout":60},
-{"key":"Panta","name":"📕盘他网盘","type":3,"api":"csp_Panta","changeable":0,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","timeout":60},
-{"key":"x纸条", "name":"📕纸条网盘", "type": 3, "api":"csp_XiaoZhiTiao","changeable":0,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json", "timeout":60},
-{"key":"m喵狸","name":"📕喵狸网盘","type":3,"api":"csp_PanSou","changeable":0,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json", "timeout":60},
-{"key":"夸克盘搜","name":"📕夸克网盘","type":3,"api":"csp_QuarkPanso","changeable":0,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json", "timeout":60},
-{"key":"DaPanSo","name":"📕大盘网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://dapanso.com$$$null"},
+{"key":"混合盘","name":"📕混合网盘","type":3,"api":"csp_HunHePan","changeable":2,"searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$null$$$1","timeout":60},
+{"key":"Pan99","name":"📕九九网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":2, "filterable":1, "timeout":30,  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
+{"key":"玩偶表哥","name":"📕老表网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":2, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json","timeout":60},
+{"key":"找资源", "name":"📕资源网盘", "type":3, "api":"csp_Zhaozy","changeable":2,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$ajin0595$$$dear0595", "timeout":60},
+{"key":"影视仓","name":"📕影视网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://www.weixine.net$$$1$$$./json/wogg.json","timeout":60},
+{"key":"团长影视","name":"📕团长网盘","type":3,"api":"csp_TZFile","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$null$$$1", "quickSearch":1, "changeable":0, "timeout":60},
+{"key":"校长影视","name":"📕校长网盘","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"filterable":1,"changeable":0, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$null$$$1","timeout":60},
+{"key":"Panta","name":"📕盘他网盘","type":3,"api":"csp_Panta","changeable":0,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","timeout":60},
+{"key":"x纸条", "name":"📕纸条网盘", "type": 3, "api":"csp_XiaoZhiTiao","changeable":0,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json", "timeout":60},
+{"key":"m喵狸","name":"📕喵狸网盘","type":3,"api":"csp_PanSou","changeable":0,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json", "timeout":60},
+{"key":"夸克盘搜","name":"📕夸克网盘","type":3,"api":"csp_QuarkPanso","changeable":0,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json", "timeout":60},
+{"key":"DaPanSo","name":"📕大盘网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://dapanso.com$$$null"},
 
 {"key": "csp_XYQHikerAL_阿里云盘网","name":"📕阿里云盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/阿里云盘网.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
  {"key": "csp_XYQHikerAL_云盘资源","name":"📕云盘资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/云盘资源分享.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
