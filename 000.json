@@ -472,6 +472,8 @@
       {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 
  {"key":"fx五","name":"💖分享五站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/EXT/Movie5","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
+ {"key":"发电","name":"💖分享发电","type":3,"api":"csp_Fdys","playerType":2 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
+{"key":"柠檬","name":"💖分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 {"key":"欣欣","name":"🥬欣欣向荣","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xinxin","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 {
       "key": "要啥脸",
