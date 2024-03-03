@@ -6,7 +6,7 @@
         "数组": "{&&}",    
         "图片": "\"vod_pic\"*\"&&\"",    
         "标题": "\"vod_name\"*\"&&\"",    
-        "副标题": "陈木匠在线+\"vod_remarks\"*\"&&\"",    
+        "副标题": "分享者在线+\"vod_remarks\"*\"&&\"",    
         "链接": "http://mengmi.yibowang.asia/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=fgDdxSaYjcm9bcB3EEDb6yZpi3jPJnlNesR48t8u7KR5Zg9t7oOP3OhXcUqfdcf30TDbuK9cx6wO%2BuqDzCOMWm8OU6m6jjMQd5W56peu5OtP1CfYHz5b1EdzI1HH2qobNv6dQZYtbvBK9Y%2F37El1%2Bw%3D%3D",    
         "线路数组": "\"player_info\":{&&}",    
         "线路标题": "\"show\"*\"&&\"[排序:抖剧4K]",    
