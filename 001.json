@@ -360,7 +360,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/斗剧.json"},
+"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/斗剧.json"},
 
    {
             "key": "2聚合",
@@ -472,8 +472,12 @@
       {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 
  {"key":"fx五","name":"💖分享五站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/EXT/Movie5","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
+  {"key":"fx三","name":"💖分享三站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/PY/fxz3.txt","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 
 {"key":"发电","name":"💖分享发电","type":3,"api":"csp_Fdys","playerType":2 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
+{"key":"看看","name":"💖分享看看","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
+{"key":"sliu_spider","name":"💖分享石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
+
 {"key":"柠檬","name":"💖分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 
 {
@@ -1750,9 +1754,6 @@
 	  "ext":"https://download.kstore.space/download/4127/js/4KHDR.json","jar":""},
 
 {"key":"mtv_XBPQ_淘剧","name":"️📡淘剧影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/json/淘剧影院.json"},
-
-{"key":"sliu_spider","name":"🫐石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
-
 {"key":"mtv_XBPQ_稀饭影院","name":"🍵稀饭影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/66666/000/raw/branch/master/XBPQ/稀饭影视.json"},
 
 {
@@ -2017,7 +2018,7 @@
 			}
 		},
 
-		{"name":"💕分享默认","type":1,"url":"https://pan.qiaoji8.com/tvbox/neibu.php?url="},
+		{"name":"💕分享默认","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
 		  {
       "name": "💕分享嘉音",
       "type": 1,
