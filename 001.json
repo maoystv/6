@@ -467,11 +467,11 @@
 				}]
 			}
 		},
-    {"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":""},
+    {"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
     {"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
-      {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":""},
+      {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 
- {"key":"fx五","name":"💖分享五站","type":3,"api":"csp_Ygfxz2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/EXT/Movie5","jar":""},
+ {"key":"fx五","name":"💖分享五站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/EXT/Movie5","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 
 {"key":"发电","name":"💖分享发电","type":3,"api":"csp_Fdys","playerType":2 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 {"key":"看看","name":"💖分享看看","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
@@ -2140,7 +2140,7 @@
 
 //jar+壁纸
 
-"spider":"https://notabug.org/ygfxz/6/raw/main/jar/分享者.txt","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
+"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/O.txt","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
 
 //电视直播
 
