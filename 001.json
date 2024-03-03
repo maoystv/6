@@ -472,7 +472,6 @@
       {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 
  {"key":"fx五","name":"💖分享五站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/EXT/Movie5","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
-  {"key":"fx三","name":"💖分享三站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/PY/fxz3.txt","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 
 {"key":"发电","name":"💖分享发电","type":3,"api":"csp_Fdys","playerType":2 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
 {"key":"看看","name":"💖分享看看","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
