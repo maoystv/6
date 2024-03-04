@@ -379,7 +379,7 @@
             "filterable": 1,
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
-        {"key": "kekeys","name": "🤡可可西里","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": { "简介":"class=\"detail-desc\">&&</p>","导演":"导演:</div>&&</div>","主演":"演员:</div>&&</div>","线路数组":"class=\"source-item&&</a","线路标题":">&&</span","数组":"class=\"module-item\">&&</a","标题":"title=\"&&\"","图片":"src=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"v-item-bottom\">&&</span","倒序":"0","分类url":"https://keke8.app/show/{cateId}-{class}-{area}--{year}--{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}},
+        {"key": "kekeys","name": "🤡可可西里","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"https://pan.shangui.cc/f/wam4ug/2.jar","ext": { "简介":"class=\"detail-desc\">&&</p>","导演":"导演:</div>&&</div>","主演":"演员:</div>&&</div>","线路数组":"class=\"source-item&&</a","线路标题":">&&</span","数组":"class=\"module-item\">&&</a","标题":"title=\"&&\"","图片":"src=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"v-item-bottom\">&&</span","倒序":"0","分类url":"https://keke8.app/show/{cateId}-{class}-{area}--{year}--{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}},
         {"key": "缘来神马","name": "💖分享神马","type": 3,"api": "csp_XBPQ","ext": {"跳转播放链接":"var player_aaaa=*\"url\":\"&&\"",
 "分类": "电影&电视剧&综艺&动漫",
 "分类值":"dy&tv&zy&dm",
