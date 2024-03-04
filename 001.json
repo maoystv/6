@@ -353,6 +353,9 @@
         },
         {"key":"csp_Jojo","name":"🎮jojo弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"changeable":1, "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":{"danmu":true},"timeout":30}, 
 { "key":"csp_YingShi","name":"🦀影视海外","type":3,"api":"csp_YingShi", "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":""},
+
+{ "key":"csp_Moli","name":"☠️魔力在线","type":3,"api":"csp_Moli", "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":""},
+
       { "key": "白度影视", "name": "💖分享白度", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/" },
      {"key":"csp_77","name":"⛷酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1 ,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
     {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
