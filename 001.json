@@ -154,7 +154,7 @@
       "key": "ktv",
       "name": "🎤KTV音乐",
       "type": 3,
-      "api": "csp_lKtv",
+      "api": "csp_lktv",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
