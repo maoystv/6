@@ -138,6 +138,7 @@
       "timeout": 30,
       "playerType": 1,
       "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"},
+      {"key": "阿里云集合","name": "📕阿里集合","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "https://notabug.org/ygfxz/6/raw/main/is/阿里集合.json;https://agit.ai/66666/mao2/raw/branch/main/jar/tk.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/阿里.jar"},  
     {
       "key": "yyt",
       "name": "🎵音悦台mv",
@@ -208,7 +209,6 @@
             "quickSearch": 1, 
             "filterable": 0
         }, 
-        {"key":"看他","name":"🌞看他高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://kanta.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3"}},
 {
   "key": "apizuidapi",
   "name": "🛟最大资源",
@@ -388,7 +388,7 @@
 "播放列表":"<li&&</li>",
 "简介":"class=\"abstract-content&&</div>",
 "分类url": "https://ylsm6.cc/haokan/{cateId}-{area}--{class}-----{catePg}---{year}.html"}},        
-        
+        {"key": "kekeys","name": "🤡可可西里","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": { "简介":"class=\"detail-desc\">&&</p>","导演":"导演:</div>&&</div>","主演":"演员:</div>&&</div>","线路数组":"class=\"source-item&&</a","线路标题":">&&</span","数组":"class=\"module-item\">&&</a","标题":"title=\"&&\"","图片":"src=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"v-item-bottom\">&&</span","倒序":"0","分类url":"https://keke8.app/show/{cateId}-{class}-{area}--{year}--{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}},
          {
 			"key": "世界",
 			"name": "💖分享世界",
@@ -611,14 +611,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
-        },
-         {
-            "key": "V2",
-            "name": "💖分享蓝光",
-            "type": 3,
-            "playerType": 1,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/V2.js"
         },
           {
             "key": "V0",
