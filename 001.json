@@ -162,6 +162,24 @@
 {"key":"追","name": "🌻追忆成殇","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"},
 
 {
+      "key": "yuzou",
+      "name": "🐠渔舟唱晚",
+      "type": 3,
+      "api": "csp_LvDou",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/lvdou.jar",
+      "ext": {
+        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
+        "mackey": "toudongxidegou88|qunimagebisha857",
+        "danmu": true
+      }
+    },
+
+{
       "key": "Leshi（APP）",
       "name": "⏰乐视影视",
       "type": 1, "searchable": 1,
@@ -349,8 +367,11 @@
             "key" : "js_v2-zz",
             "name" :"💖分享双赞",
             "type" : 3,
-            "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/zanzan.js"
+            "api": "csp_AppYsV2",
+            "ext": "http://111.230.51.151:2323/api.php/app/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {"key": "gsgs","name": "💖分享酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
         {
