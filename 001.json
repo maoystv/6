@@ -1604,7 +1604,7 @@
 
 {"key": "csp_DOVX搜索","name":"📕七步成诗","type":3,"api":"csp_Dovx","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/阿里设置.jar","ext":"https://pastebin.com/raw/zsEYRYPD"},
 
-{"key": "csp_玩偶哥哥","name":"📕玩偶哥哥","type":3,"api":"csp_WoGG","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/阿里设置.jar","ext":"https://pastebin.com/raw/zsEYRYPD$$$http://www.wogg.xyz/"},
+{"key": "csp_玩偶哥哥","name":"📕玩偶哥哥","type":3,"api":"csp_Wogg","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/阿里设置.jar","ext":"https://pastebin.com/raw/zsEYRYPD$$$http://www.wogg.xyz/"},
 {"key":"纸条","name": "📕纸条搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/阿里设置.jar","changeable": 0,"ext":"https://pastebin.com/raw/zsEYRYPD"},
         
 {
@@ -1965,6 +1965,7 @@
  "searchable":0,
  "quickSearch":0,
  "filterable":0, 
+ "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/阿里设置.jar",
 "ext":"0068144bf4d24f3284819c15f3a49482"},
   {"key":"push_agent","name":"📓海阔推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"hide":1,"ext":"0068144bf4d24f3284819c15f3a49482","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
 
