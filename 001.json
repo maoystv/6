@@ -213,6 +213,16 @@
       "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
       "jar": "http://www.wya6.cn/tz/wyog.php"
     },
+    {
+      "key": "qiqiguai",
+      "name": "💖分享地瓜",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
+    },
 
  {
             "key": "安", 
@@ -223,6 +233,40 @@
             "quickSearch": 1, 
             "filterable": 0
         }, 
+        {
+      "key": "yingshiche",
+      "name": "🚒影视快车",
+      "type": 3,
+      "api": "csp_Yingshiche",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt",
+      "timeout": 30,
+      "ext": "https://pastebin.com/raw/zsEYRYPD"
+    },
+    {
+      "key": "csp_XYQHikerAL_9995",
+      "name": "📕9995云盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/9995yunpan.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_CK",
+      "name": "🥤可口可乐",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/COKEMV影院.json"
+    },
 {
   "key": "apizuidapi",
   "name": "🛟最大资源",
@@ -2024,6 +2068,14 @@
 				}
 			}
 		},
+		 {
+            "name": "💖分享爱哭",
+            "type": 1,
+            "url": "http://42.157.129.139:7788/json/aiku.php?url=",
+           "header": {
+                    "User-Agent": "Lavf/58.12.100"
+                }
+        },
 
 		{"name":"💕分享默认","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
 		  {
