@@ -265,6 +265,48 @@
       "type": 3,
       "ext": "https://miguo.pro/api.php/v1.vod"
     },
+      {
+      "key": "qiqiguai",
+      "name": "💖分享地瓜",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
+    },
+
+ {
+            "key": "安", 
+            "name": "💖分享安博", 
+            "type": 4, 
+            "api": "https://tang.serv00.net/power/ub1818", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0
+        }, 
+    {
+      "key": "csp_XYQHikerAL_9995",
+      "name": "📕9995云盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/9995yunpan.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_CK",
+      "name": "🥤可口可乐",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/COKEMV影院.json"
+    },
 
             {
             "key" : "drpy_js_奇珍异兽",
