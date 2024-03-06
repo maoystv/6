@@ -233,18 +233,6 @@
             "quickSearch": 1, 
             "filterable": 0
         }, 
-        {
-      "key": "yingshiche",
-      "name": "🚒影视快车",
-      "type": 3,
-      "api": "csp_Yingshiche",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt",
-      "timeout": 30,
-      "ext": "https://pastebin.com/raw/zsEYRYPD"
-    },
     {
       "key": "csp_XYQHikerAL_9995",
       "name": "📕9995云盘",
@@ -2069,12 +2057,37 @@
 			}
 		},
 		 {
-            "name": "💖分享爱哭",
+            "name": "分享爱哭",
             "type": 1,
             "url": "http://42.157.129.139:7788/json/aiku.php?url=",
-           "header": {
+            "ext": {
+                "flag": [
+                    "seven",
+                    "mgtv",
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "芒果"
+                ],
+                "header": {
                     "User-Agent": "Lavf/58.12.100"
                 }
+            }
         },
 
 		{"name":"💕分享默认","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
