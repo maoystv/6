@@ -107,14 +107,14 @@
     },
     {"key": "csp_KungFu405","name":"📕阿里搜索","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/阿里设置.jar"},
     {
-        "key": "AListY",
+        "key": "AList",
         "name": "📕雅雅网盘",
         "type": 3,
         "api": "csp_AListBox",
         "searchable": 1,
         "changeable": 0,
-        "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YY.jar",
-        "ext": "https://d.kstore.space/download/6474/tvbox/xiaoya.json#一个分享者",
+         "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YY.jar",
+        "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json#一个分享者",
         "style": {"type": "list"}
     },
          {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
@@ -126,7 +126,7 @@
         "type": 3,
         "api": "csp_WebAiKun",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0,
         "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YY.jar",
         "ext":"http://aikun.tv"
@@ -322,15 +322,6 @@
       "filterable": 1,
       "api": "https://ys.zf520.cn/api.php/provide/vod/"
     },
-    {
-            "key": "ZYJK", 
-            "name": "🪩多线过滤", 
-            "type": 1, 
-            "api": "http://film.benmx.com/api.php/tvbox", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        }, 
         {
 			"key": "myi",
 			"name": "💖分享麻衣",
