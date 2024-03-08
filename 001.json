@@ -637,6 +637,24 @@
             "type": 3,
             "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/bpys_open.js"
         },
+        {
+            "key": "ok",
+            "name": "👌Free[cat]",
+            "type": 3,
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/bpys_open.js"
+        },
+         {
+            "key": "yyt",
+            "name": "🎧音悦台cat",
+            "type": 3,
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/yinyuetai_open.js"
+        },
+        {
+            "key": "tv",
+            "name": "🪗KTV[cat]",
+            "type": 3,
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/ktv_open.js"
+        },
 
 {"key":"vip","name":"💖分享VIP","type": 3,"playerType":1, "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/超前点播.js"},
 
