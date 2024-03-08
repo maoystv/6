@@ -461,6 +461,19 @@
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
         {"key": "kekeys","name": "🤡可可西里","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"https://pan.shangui.cc/f/wam4ug/2.jar","ext": { "简介":"class=\"detail-desc\">&&</p>","导演":"导演:</div>&&</div>","主演":"演员:</div>&&</div>","线路数组":"class=\"source-item&&</a","线路标题":">&&</span","数组":"class=\"module-item\">&&</a","标题":"title=\"&&\"","图片":"src=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"v-item-bottom\">&&</span","倒序":"0","分类url":"https://keke8.app/show/{cateId}-{class}-{area}--{year}--{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}},
+        {
+      "key":"csp_河马",
+      "name":"💖分享河马",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "分类url":"https://www.hemaha.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
+      }
+    },
         {"key": "缘来神马","name": "💖分享神马","type": 3,"api": "csp_XBPQ","ext": {"跳转播放链接":"var player_aaaa=*\"url\":\"&&\"",
 "分类": "电影&电视剧&综艺&动漫",
 "分类值":"dy&tv&zy&dm",
@@ -656,13 +669,31 @@
             "key": "猫南瓜",
             "name": "🌞南瓜[cat]",
             "type": 3,
-            "api": "https://dxawi.github.io/0/cat/猫南瓜.js"
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/nangua_open.js"
         },
         {
             "key": "cntv",
-            "name": "🇨🇳央视[cat]",
+            "name": "🍵白嫖[cat]",
             "type": 3,
-            "api": "https://dxawi.github.io/0/cat/cntv_open.js"
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/bpys_open.js"
+        },
+        {
+            "key": "2ok",
+            "name": "🆗Free[cat]",
+            "type": 3,
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/freeMusic_open.js"
+        },
+         {
+            "key": "1yyt",
+            "name": "🎧音悦[cat]",
+            "type": 3,
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/yinyuetai_open.js"
+        },
+        {
+            "key": "tv",
+            "name": "🪗KTV[cat]",
+            "type": 3,
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/ktv_open.js"
         },
 
 {"key":"vip","name":"💖分享VIP","type": 3,"playerType":1, "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/超前点播.js"},
