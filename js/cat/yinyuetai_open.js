@@ -93,7 +93,7 @@ async function detail(id) {
             vod_name: res.title,
             vod_play_from: _.map(res.fullClip.urls, n => {return n.display}).join('$$$'),
 			vod_play_url: _.map(res.fullClip.urls, n => {return '播放$' + n.url}).join('$$$'),
-            vod_content: '该影视由💕一个分享者💕采集，请勿传播分享，仅供技术学习使用，请在学习后24小时内删除；由此产生的任何法律风险自行承担，与本作者无关！',
+            vod_content: '该影视由💕一个分享者💕采集分享，请勿传播，仅供技术学习使用，请在学习后24小时内删除；由此产生的任何法律风险自行承担，与本作者无关！',
         };
         return JSON.stringify({
             list: [vod],
