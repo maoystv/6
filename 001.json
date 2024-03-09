@@ -255,6 +255,23 @@
       "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/COKEMV影院.json"
     },
+    {
+      "key": "一路",
+      "name": "🚲一路向北",
+      "type": 1,
+      "api": "https://ylu.cc/api.php/provide/vod/at/xml/",
+      "playUrl": "https://ylu.cc/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫",
+        "记录片"
+      ]
+    },
 {
   "key": "apizuidapi",
   "name": "🛟最大资源",
@@ -632,16 +649,22 @@
             "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/nangua_open.js"
         },
         {
+            "key": "猫农民",
+            "name": "🥬农民[cat]",
+            "type": 3,
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/nm_open.js"
+        },
+        {
+            "key": "猫yy",
+            "name": "💦音乐[cat]",
+            "type": 3,
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/netease_music_open.js"
+        },
+        {
             "key": "cntv",
             "name": "🍵白嫖[cat]",
             "type": 3,
             "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/bpys_open.js"
-        },
-        {
-            "key": "2ok",
-            "name": "🆗Free[cat]",
-            "type": 3,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/freeMusic_open.js"
         },
          {
             "key": "1yyt",
