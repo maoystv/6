@@ -84,7 +84,7 @@ async function detail(id) {
         type_name: data.type,
         vod_year: data.year,
         vod_remarks: data.msg,
-        vod_content: '公众号：【蚂蚁科技杂谈】' + data.info,
+        vod_content: '💕一个分享者💕' + data.info,
     };
     let episodes = data.player_info;
     let playFroms = [];
