@@ -133,8 +133,8 @@
     },
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
         {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"changeable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt",
-        "ext":"https://www.czzy55.com/@@一个分享者"},
-        {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy55.com/@@一个分享者","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"},
+        "ext":"https://www.czzy77.com/@@一个分享者"},
+        {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy77.com/@@一个分享者","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"},
          {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fr.jar"},
          {
@@ -254,23 +254,6 @@
       "filterable": 1,
       "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/COKEMV影院.json"
-    },
-    {
-      "key": "一路",
-      "name": "🚲一路向北",
-      "type": 1,
-      "api": "https://ylu.cc/api.php/provide/vod/at/xml/",
-      "playUrl": "https://ylu.cc/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫",
-        "记录片"
-      ]
     },
 {
   "key": "apizuidapi",
@@ -647,18 +630,6 @@
             "name": "🌞南瓜[cat]",
             "type": 3,
             "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/nangua_open.js"
-        },
-        {
-            "key": "猫农民",
-            "name": "🥬农民[cat]",
-            "type": 3,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/nm_open.js"
-        },
-        {
-            "key": "猫yy",
-            "name": "💦音乐[cat]",
-            "type": 3,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/netease_music_open.js"
         },
         {
             "key": "cntv",
