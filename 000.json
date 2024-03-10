@@ -244,7 +244,6 @@
             "quickSearch": 1, 
             "filterable": 0
         }, 
-        {"key":"看他","name":"🌞看他高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://kanta.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3"}},
 {
   "key": "apizuidapi",
   "name": "🛟最大资源",
@@ -258,23 +257,6 @@
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/mayiya_open.js"
   },
-  {
-      "key": "一路",
-      "name": "🚲一路向北",
-      "type": 1,
-      "api": "https://ylu.cc/api.php/provide/vod/at/xml/",
-      "playUrl": "https://ylu.cc/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫",
-        "记录片"
-      ]
-    },
   {
       "key": "蜜果视界",
       "name": "🍑蜜果视界",
@@ -456,6 +438,14 @@
     {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
     {"key":"南瓜影视","name":"🎃南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
+
+{
+            "key": "baipao",
+            "name": "💖分享白嫖",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext":"https://agit.ai/66666/XC/raw/branch/master/xBPQ/分享白嫖.json"
+        },
 
  {
 "key": "csp_xBPQ_抖",

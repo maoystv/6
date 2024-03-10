@@ -133,7 +133,7 @@
     },
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
         {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"changeable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt",
-        "ext":"https://www.cz01.tv@@一个分享者"},
+        "ext":""},
         {"key":"厂长","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy77.com/@@一个分享者","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"},
          {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fr.jar"},
@@ -169,24 +169,6 @@
       "changeable": 0,
        "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"
     },
-{
-      "key": "yuzou",
-      "name": "🐠渔舟唱晚",
-      "type": 3,
-      "api": "csp_LvDou",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/lvdou.jar",
-      "ext": {
-        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
-        "mackey": "toudongxidegou88|qunimagebisha857",
-        "danmu": true
-      }
-    },
-
 {
       "key": "Leshi（APP）",
       "name": "⏰乐视影视",
@@ -398,8 +380,14 @@
     {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
     {"key":"南瓜影视","name":"🎃南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
-
- {
+    {
+            "key": "baipao",
+            "name": "💖分享白嫖",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext":"https://agit.ai/66666/XC/raw/branch/master/xBPQ/分享白嫖.json"
+        },
+{
 "key": "csp_xBPQ_抖",
 "name": "💖分享抖剧",
 "type": 3,
@@ -636,12 +624,6 @@
             "name": "🌞南瓜[cat]",
             "type": 3,
             "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/nangua_open.js"
-        },
-        {
-            "key": "cntv",
-            "name": "🍵白嫖[cat]",
-            "type": 3,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/bpys_open.js"
         },
          {
             "key": "1yyt",
