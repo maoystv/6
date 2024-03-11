@@ -215,6 +215,26 @@
             "quickSearch": 1, 
             "filterable": 0
         }, 
+        {
+"key": "csp_xBPQ_秒",
+"name": "💖分享秒播",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享秒播.json"},
+
+{
+"key": "csp_xBPQ_美",
+"name": "💖分享美剧",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享美剧.json"},
+
     {
       "key": "csp_XYQHikerAL_9995",
       "name": "📕9995云盘",
