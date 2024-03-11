@@ -1,5 +1,5 @@
 {
-	"作者": "凯哥",
+	"作者": "",
 	"站名": "6080",
 	"发布页": "https://www.5280.fun/",
 "请求头": "User-Agent$Dart/2.19 (dart:io)",
@@ -10,7 +10,7 @@
 	"链接": "http://app.kmeiju.cc/apptov5/v1/vod/getVod?id=+vod_id\":&&,",
 	"链接前缀": "",
     "链接后缀": "",
-	"副标题": "vod_remarks\":\"&&\"",
+	"副标题": "分享者在线+vod_remarks\":\"&&\"",
 	"搜索url": "http://app.kmeiju.cc/apptov5/v1/search/lists?wd={wd}",
                  "搜索模式": "1",
 	"搜索二次截取": "data\":[&&]",
