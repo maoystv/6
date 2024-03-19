@@ -113,7 +113,7 @@
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-        {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://atomgit.com/ygfxz/0/repository/archive.zip?ref=master&path=danmu%202.jar"},
+        {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/danmu%202.jar"},
          {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fr.jar"},
           {
@@ -134,14 +134,14 @@
             "type": 3,
             "playerType": "2",
             "api": "csp_LiteApple",
-            "jar":"https://atomgit.com/ygfxz/0/repository/archive.zip?ref=master&path=FxzPg.php"
+            "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
         },
           {
             "key": "csp_Vidhub2", 
             "name": "💖分享|VID", 
             "type": 3, 
             "api": "csp_Vidhub2", 
-            "jar":"https://atomgit.com/ygfxz/0/repository/archive.zip?ref=master&path=FxzPg.php",
+            "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php",
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 1
