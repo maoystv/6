@@ -247,6 +247,107 @@
       "ext": "http://rihou.vip:55/lib/玩我哥哥.json",
       "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"
     },
+    {
+      "key": "花漾",
+      "name": "💖分享花样",
+      "type": 3,
+      "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
+      "ext": {
+        "host": "https://fy.51qwkanpian.xyz/feiyun/api.php/app/",
+        "*": [
+          "http://124.220.58.210:991/api/?key=Mffwe8CZdCP9fqVBN0&url="
+        ]
+      }
+    },
+    {
+      "key": "NBY秒播",
+      "name": "💖分享几乎",
+      "type": 3,
+      "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
+      "ext": {
+        "host": "http://122.228.84.103:5822/api.php/app/",
+        "*": [
+          "http://121.62.61.51:6888/api/?key=2L3lbkVq34onXHWODi&url="
+        ]
+      }
+    },
+    {
+      "key": "libhd",
+      "name": "💖分享libhd",
+      "type": 1,
+      "api": "https://www.libhd.com/api.php/provide/vod/from/AL2/",
+      "playUrl": "https://www.libhd.com/play/?url=",
+      "categories": [
+        "电影",
+        "剧集",
+        "动漫",
+        "综艺",
+        "短剧"
+      ],
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
+      }
+    },
+    {
+      "key": "ytys",
+      "name": "💖分享探戈",
+      "type": 3,
+      "api": "csp_WexFangniu4k",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+    },
+    {
+      "key": "mrys",
+      "name": "💖分享明日",
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+    },
+    {
+      "key": "https://4kvm.site/",
+      "name": "💖分享4kvm",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+    },
+    {
+      "key": "Wexxpgtv",
+      "name": "🍎分享红果",
+      "type": 3,
+      "api": "csp_Wexxpgtv",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+    },
+     {
+      "key": "bdys",
+      "name": "💖分享的的",
+      "type": 3,
+      "api": "csp_WexBDys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+    },
+    {
+      "key": "茶杯",
+      "name": "🍵分享茶杯",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
+        "请求头": "手机#Referer$https://www.cupfox1.cc",
+        "分类url": "https://www.cupfox1.cc/show/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "标题": "movie-title txtHide\"*>&&</div",
+        "副标题": "分享者在线+div class=\"movie-rating cor4\">&&</div>",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+        "搜索模式": "2"
+      }
+    },
 {
       "key": "csp_xpath_唐人街",
       "name": "🎩唐人街头",
@@ -604,7 +705,31 @@
             "filterable": 1,
             "ext": {
 				"vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
-				"drives": [{"name": "🦆托盘", "server": "https://pan.mediy.cn/"},{"name": "七米藍", "server": "https://al.chirmyram.com/"},{"name": "美云", "server": "http://xiaoya.nebula-nas.space:5678/"}         ]}},
+				"drives": [{"name": "🦆托盘", "server": "https://pan.mediy.cn/"},
+				{"name": "七米藍", "server": "https://al.chirmyram.com/"}, 
+				{
+            "name": "🏵魔盘",
+            "search": true,
+            "searchable": true,
+            "server": "http://180.103.220.170:5678/"
+          }, 
+          {
+            "name": "ASMR",
+            "server": "https://www.asmrgay.com/"
+          },
+          {
+            "name": "ECVE",
+            "search": true,
+            "searchable": true,
+            "server": "https://pan.ecve.cn"
+          },
+          {
+            "name": "🌼小新盘",
+            "search": true,
+            "searchable": true,
+            "server": "https://pan.cdnxin.top/"
+          },
+          {"name": "美云", "server": "http://xiaoya.nebula-nas.space:5678/"}         ]}},
     {"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
     {"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
       {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"},
@@ -893,13 +1018,8 @@
             "quickSearch": 1,
             "filterable": 1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/五五影视.json"
         },
-        {
-      "key": "csp_AucFox",
-      "name": "🪢AucFox",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/AucFox.json"},
-      {  "key":"老王","name":"🦺老王影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","分类url":"https://laowang.lol/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation"}},
+      
+   {"key":"csp_lwdy","name":"🕵️‍♀️老王电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
        {
       "key": "csp_myhy",
       "name": "🐯嘛衣唬呀",
@@ -1160,8 +1280,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
-    {"key":"大猫影视","name":"🐱大猫专线","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://app.ishen520.com/api.php/v1.vod"},
 
     {"key":"废物影院", "name":"️🧳废物影院", "type":1, "api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/", "playUrl":"", "searchable":1, "quickSearch":1, "filterable":1, "categories":["国产剧", "综艺", "日韩剧", "惊悚片", "犯罪片", "冒险片", "动作片", "科幻片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "战争片", "悬疑片", "剧情片", "记录片", "港台剧", "欧美剧", "动漫"]},
 
@@ -2267,7 +2385,61 @@
       "type": 1,
       "url": "https://py.newdays.cc/lunxun/json.php?url="},
       {"name":"分享飞魚","type":1,"url":"http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="},
-            {"name": "🦅分享快鹰","type":1,"url":"https://stray.serv00.net/ky.php?url="},
+          {
+      "name": "💖分享者1",
+      "type": 1,
+      "url": "http://jxxcc-cc.dianshia.top:8821/api/?key=UAOfSBFIaFI3IvLi8r&url=",
+      "ext": {
+        "flag": [
+          "XAL",
+          "XYYDS",
+          "qiyi",
+          "qq",
+          "seven",
+          "bilibili"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.11"
+        }
+      }
+    },
+    {
+      "name": "💖分享者2",
+      "type": 1,
+      "url": "https://stray.serv00.net/s3.php?url=",
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.145 Safari/537.36"
+        }
+    },
+    {
+      "name": "💖分享者3",
+      "type": 1,
+      "url": "https://stray.serv00.net/s4.php?url=",
+        "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
+      }
+    },
+    {
+      "name": "💖分享者4",
+      "type": 1,
+      "url": "https://stray.serv00.net/s5.php?url=",
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.145 Safari/537.36"
+        }
+    },
+    {
+      "name": "白嫖解析",
+      "type": 1,
+      "url": "https://www.baipiao-ys.cc/player/?url=",
+      "ext": {
+        "flag": [
+
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
              {"name": "分享聚合1", "type": 1, "url": "https://api.xn--od1aq39b.net/api/?key=l80ttV8dvu7OXdFShJ&url="},
  {"name": "分享聚合2", "type": 1, "url": "https://jxjson.cf/json_balabala.php?url="},
 			{
@@ -2287,20 +2459,6 @@
       "name": "分享官解2",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
-    },
-
-{
-      "name": "NBY3",
-      "type": 1,
-      "url": "http://103.233.255.142:1133/?url=",
-      "ext": {
-        "flag": [
-          "NBY"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
-        }
-      }
     },
 
 {"name":"推荐💕","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
