@@ -109,6 +109,9 @@
     {"key":"AList","name":"📕雅雅网盘","type":3,"api":"http://1.117.189.138:5678/tvbox/libs/alist.min.js",
  "searchable":1,"filterable":1,"ext": "http://1.117.189.138:5678/tvbox/json/alist_ext.json;200;video"
 },
+
+{"key":"AI1","name":"💖分享官差","type":1,"api":"http://124.222.116.5/macos/seven/api.php/provide/vod/","playerType":2,"searchable":1,"quickSearch":1},
+
          {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
@@ -244,7 +247,6 @@
       "ext": "http://rihou.vip:55/lib/玩我哥哥.json",
       "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"
     },
-    {"key":"kyB","name":"💖分享快鹰","style":{"type":"rect","ratio":0.85},"type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playUrl":"json:https://stray.serv00.net/ky.php?url="},
 {
       "key": "csp_xpath_唐人街",
       "name": "🎩唐人街头",
@@ -415,16 +417,7 @@
       "quickSearch": 1,
       "changeable": 0
     },
-   
-      {
-			"key": "XAL蓝光",
-			"name": "💖分享蓝光",
-			"type": 1,
-			"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-			"playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
-			"searchable": 1,
-			"quickSearch": 1
-		},
+ 
 		{
       "key": "河马",
       "name": "🐴天河牧马",
@@ -444,15 +437,6 @@
       "filterable": 1,
       "api": "https://ys.zf520.cn/api.php/provide/vod/"
     },
-    {
-            "key": "ZYJK", 
-            "name": "🪩多线过滤", 
-            "type": 1, 
-            "api": "http://film.benmx.com/api.php/tvbox", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        }, 
         {
 			"key": "myi",
 			"name": "💖分享麻衣",
@@ -520,7 +504,7 @@
             "filterable": 1,
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
-        {"key": "kekeys","name": "🤡可可西里","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"https://pan.shangui.cc/f/wam4ug/2.jar","ext": { "简介":"class=\"detail-desc\">&&</p>","导演":"导演:</div>&&</div>","主演":"演员:</div>&&</div>","线路数组":"class=\"source-item&&</a","线路标题":">&&</span","数组":"class=\"module-item\">&&</a","标题":"title=\"&&\"","图片":"src=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"v-item-bottom\">&&</span","倒序":"0","分类url":"https://keke8.app/show/{cateId}-{class}-{area}--{year}--{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}},
+        {            "key": "csp_XBPQ",            "name": "💖分享可可",            "type": 3,            "api": "csp_XBPQ",            "ext": {                "线路数组":"source-item-label&&</div>[不包含:FF线路#LZ线路#XL线路#HN线路#SB线路#蓝光91#蓝光81#蓝光71]",                "播放数组":"episode-list\"&&</div>",                "数组":"<a&&</a>",                "副标题":"一个分享者+<span>&&</span>",                "图片":"https://vres.vukfnqr.com+data-original=\"&&\"",                "导演":"导演*</div>&&</div>",                "主演":"演员*</div>&&</div>",                "简介":"detail-desc\">&&</div>",                "搜索url":"/search?os=pc&k={wd}",                "分类url":"https://www.keke13.com:51111/show/{cateId}--{class}--{year}--{catePg}.html;;a",                "分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"              }        },
         {
       "key":"csp_河马",
       "name":"💖分享河马",
@@ -589,8 +573,6 @@
 "filterable": 0,
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/七新影视.json"},
 
-{"key":"酷云1","name":"💖分享彩云","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
-
    {
         "key": "zhuiyi",
         "name": "💖分享追忆",
@@ -602,7 +584,6 @@
          "jar": "http://47.93.215.151/YSZYZ.jar",
         "ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
     },
-                {"key":"飞鱼","name":"🐟会飞的鱼","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.42.31.123:5820/api.php/app/"},
                 {
 "key": "csp_xBPQ_03",
 "name": "🎳O三影院",
@@ -1689,7 +1670,7 @@
    "categories":["国产剧","港台剧","动画片","大陆综艺","国产动漫","武侠片","电影","剧集","综艺","动漫","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片",日韩剧","欧美剧","奇幻片","犯罪片","日韩综艺","其他综艺","悬疑片","冒险片","演员库","惊悚片","灾难片","海外剧","其他剧",其他片","歌舞片","传记片","历史片","日韩动漫","欧美动漫","资讯分类","影视资讯","国创","B站","番剧","港台综艺","欧美综艺","港台动漫","海外动漫","体育","电影解说","足球","网球","篮球","斯诺克","泰剧","预告片"]
   },
 
-{"key": "看看","name": "🐽看看剧院", "type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://kankanju.cc/api.php/app/"},
+{"key": "看看kan","name": "🐽看看剧院", "type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://kankanju.cc/api.php/app/"},
       {"key":"新6V","name":"🧲新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 {
             "key": "csp_BLSGod",
@@ -2239,6 +2220,7 @@
 		},
 
 		{"name":"💕分享默认","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
+		{"name":"💕分享官差","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="},
 		  {
       "name": "💕分享嘉音",
       "type": 1,
