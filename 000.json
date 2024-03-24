@@ -160,17 +160,6 @@
         "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YY.jar",
         "ext":"http://aikun.tv"
     },
-         {
-      "key": "fn",
-      "name": "💖分享放牛",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"},
       {
 "key": "csp_xBPQ_自用",
 "name": "💖分享自用",
@@ -247,6 +236,7 @@
       "ext": "http://rihou.vip:55/lib/玩我哥哥.json",
       "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"
     },
+    { "key": "fy影院","name": "💖分享飞鱼","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
     {
       "key": "花漾",
       "name": "💖分享花样",
@@ -295,7 +285,7 @@
       "api": "csp_WexFangniu4k",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+      "jar": "https://agit.ai/66666/XC/raw/branch/master/jar/FxzPg.txt"
     },
     {
       "key": "mrys",
@@ -304,7 +294,7 @@
       "api": "csp_WexMingriys",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+      "jar": "https://agit.ai/66666/XC/raw/branch/master/jar/FxzPg.txt"
     },
     {
       "key": "https://4kvm.site/",
@@ -313,7 +303,7 @@
       "api": "csp_WexF4kvm",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+      "jar": "https://agit.ai/66666/XC/raw/branch/master/jar/FxzPg.txt"
     },
     {
       "key": "Wexxpgtv",
@@ -322,7 +312,7 @@
       "api": "csp_Wexxpgtv",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+      "jar": "https://agit.ai/66666/XC/raw/branch/master/jar/FxzPg.txt"
     },
      {
       "key": "bdys",
@@ -331,13 +321,32 @@
       "api": "csp_WexBDys",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/FxzPg.php"
+      "jar": "https://agit.ai/66666/XC/raw/branch/master/jar/FxzPg.txt"
+    },
+     {
+      "key": "xd",
+      "name": "💖分享兄弟",
+      "type": 3,
+      "api": "csp_Wexxiongduys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://agit.ai/66666/XC/raw/branch/master/jar/FxzPg.txt"
+    },
+    {
+      "key": "dgys",
+      "name": "💖分享地刮",
+      "type": 3,
+      "api": "csp_Wexdiguatv",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://agit.ai/66666/XC/raw/branch/master/jar/FxzPg.txt"
     },
     {
       "key": "茶杯",
       "name": "🍵分享茶杯",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar":"https://pan.shangui.cc/f/j4et7/xbpq2.jar",
       "ext": {
         "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
         "请求头": "手机#Referer$https://www.cupfox1.cc",
