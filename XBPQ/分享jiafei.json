@@ -1,5 +1,5 @@
 {
-	"作者": "心魔",
+	"作者": "",
 	"站名": "777影视",
     "发布页": "jfmys.app 备用域名：xzzyz.cc xzzyz.vip",
 	"主页url": "https://www.xzysz.com/",
@@ -9,7 +9,7 @@
 	"分类url": "https://www.xzysz.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
 	"二次截取": "<ul class=\"tv-list clearfix\">&&<div class=\"v-page clearfix\">",
 	"数组": "<div class=\"v-pic\">&&</a>",
-	"副标题": "v-tips\">&&</span>",
+	"副标题": "分享者在线+v-tips\">&&</span>",
 	"图片": "data-src=\"&&\"",
 	"标题": "alt=\"&&\"",
 	"链接": "href=\"&&\"",
