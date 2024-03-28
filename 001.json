@@ -202,6 +202,15 @@
       "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/xinshijue.json"
     },
+     {
+      "key": "ssb影视",
+      "name": "💖分享蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://pan.shangui.cc/f/Pw4JcK/ssb.json"
+    },
 
           {
             "key": "csp_LiteApple",
@@ -976,10 +985,12 @@
             "key": "saoho",
             "name": "🔥骚火电影",
             "type": 3,
-            "playerType": 1,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://notabug.org/ygfxz/6/raw/main/js/骚火电影.js"
-        },
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_XBPQ",
+      "jar":"https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
+      "ext": "https://pan.shangui.cc/f/zw63s0/S@H.json"
+    },
 
 {"key":"yqikan","name":"⛑一起看吧","type":3,"api":"csp_YQKan","ext":"https://api-aws.ctdy.cc","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
     {
