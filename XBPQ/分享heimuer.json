@@ -1,5 +1,5 @@
 {
-  "作者": "凯哥",
+  "作者": "一个分享者",
   "站名": "采集",
   "头部集合": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#authority$heimuer.tv#referer$https://heimuer.tv/",
   "分类": "国产剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&冒险片&奇幻片&惊悚片&欧美剧&港剧&台剧&韩剧&日剧&泰剧&国产综艺&港台综艺&韩国综艺&日本综艺&欧美综艺&欧美动漫&日本动漫&国产动漫&古装短剧&虐恋短剧&逆袭短剧&神豪短剧&重生短剧&甜宠短剧&其他短剧",
@@ -9,7 +9,7 @@
   "数组": "{&&}",
   "图片": "vod_pic\"*\"&&\"",
   "标题": "vod_name\"*\"&&\"",
-  "副标题": "vod_remarks\"*\"&&\"",
+  "副标题": "分享者在线+vod_remarks\"*\"&&\"",
   "链接": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
   "搜索url": "https://heimuer.tv/api.php/provide/vod/?ac=detail&wd={wd}",
   "搜索模式": "1",
