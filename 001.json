@@ -252,18 +252,20 @@
 
           {
             "key": "csp_LiteApple",
-            "name": "🍎分享水果",
+            "name": "💖分享|BTT",
             "type": 3,
             "playerType": "2",
-            "api": "csp_LiteApple",
-            "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240318.jar"
+            "api": "csp_XBPQ",
+            "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+            "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/分享bt.json"
         },
           {
             "key": "csp_Vidhub2", 
             "name": "💖分享|VID", 
             "type": 3, 
-            "api": "csp_Vidhub2", 
-            "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240318.jar",
+            "api": "csp_XBPQ", 
+            "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+            "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/分享vid.json",
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 1
@@ -1023,12 +1025,6 @@
     },
 
 {"key":"yqikan","name":"⛑一起看吧","type":3,"api":"csp_YQKan","ext":"https://api-aws.ctdy.cc","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
-    {
-      "key":"drpy_js_两个BT",
-      "name":"☠️两个鼻涕",
-      "type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-      "ext":"https://notabug.org/ygfxz/6/raw/main/js/js/两个BT.js"
-    },
     
     {"key":"csp_llww","name":"💥来来往往","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/往往影视.json"},
 
@@ -1452,17 +1448,6 @@
       "filterable": 1,			
 			"api": "https://xkanzy10.com/api.php/provide/vod"
 		},
-		
-{
-    "key":"csp_XBPQ_仁",
-    "name":"🛐乐山者仁",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/乐仁.json"
-},
    {"key": "无心影视",
 "name": "💖无心影视",
 "type": 3,
