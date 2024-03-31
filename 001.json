@@ -129,18 +129,7 @@
          {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4127/XYQH/分享影搜.json","jar":""},
          {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/nfzw.json","jar":""},
          {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/ynfys.json","jar":""},
-         {
-      "key": "yingshiche",
-      "name": "💖分享运输 ",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://rihou.vip:55/lib/玩偶运输车.json",
-      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"
-    },
+         {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
 {
       "key": "ttkx3",
       "name": "💖分享开心",
@@ -179,7 +168,17 @@
     },
     {"key":"miaociyuan","name":"💖分享喵喵","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://atomgit.com/ygfxz/0/raw/master/喵次元.js"}, 
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-
+       {
+            "key": "kongbai",
+            "name": "💖分享空白",
+            "playerType": 2,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.136.176.188:92/api.php/app/"
+        },
 {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy55.com/@一个分享者@","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fr.jar"},
@@ -212,6 +211,15 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://pan.shangui.cc/f/Pw4JcK/ssb.json"
+    },
+    {
+      "key": "zizi",
+      "name": "💖分享栀子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/子子.json"
     },
      {
       "key": "rarbt",
@@ -1025,8 +1033,6 @@
     },
 
 {"key":"yqikan","name":"⛑一起看吧","type":3,"api":"csp_YQKan","ext":"https://api-aws.ctdy.cc","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
-    
-    {"key":"csp_llww","name":"💥来来往往","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/往往影视.json"},
 
         {
       "key": "csp_低调",
@@ -1057,12 +1063,6 @@
             "filterable": 1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/五五影视.json"
         },
         {"key":"csp_lwdy","name":"🕵️‍♀️老王电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
-        {
-      "key": "csp_AucFox",
-      "name": "🪢AucFox",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/AucFox.json"},
        {
       "key": "csp_myhy",
       "name": "🐯嘛衣唬呀",
@@ -1075,15 +1075,6 @@
         "name":"🧇至圣文宣",
         "type":1,
         "api":"http://82.156.40.118:1234/api.php/provide/vod/",
-        "searchable":1,
-        "changeable":1,
-        "quickSearch":1,
-        "filterable":1
-        },
-     {"key":"態掌",
-        "name":"🐻‍❄️熊掌采集",
-        "type":1,
-        "api":"http://xzcjz.com/api.php/provide/vod/at/json",
         "searchable":1,
         "changeable":1,
         "quickSearch":1,
@@ -1351,23 +1342,6 @@
             "预告片",
       ]
 },
-
-{
-       "key":"星影1080cms",
-       "name":"🎏星影相随",
-       "type":1,
-       "api":"https://www.xy1080.net/api.php/provide/vod",
-       "searchable":1,
-       "quickSearch":1
-    },
-    {
-      "key": "77韩剧",
-      "name": "💘七七韩剧",
-      "type": 1,
-      "api": "https://www.77hanju.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
 {"key":"无限影视","name":"🔆无限风光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wxtv.net/api.php/app/"},
            {"key": "耐看点播",
             "name": "🔺耐看自建",
@@ -2252,6 +2226,10 @@
 
 		{"name":"💕分享默认","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
 		{"name":"💕分享官差","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="},
+		 {
+            "name": "🈳️分享空白",
+            "type": 1,
+            "url": "http://119.91.31.224:9004/changzhang.php?url="},
 		  {
       "name": "💕分享嘉音",
       "type": 1,
@@ -2339,19 +2317,6 @@
         "header": {
           "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.145 Safari/537.36"
         }
-    },
-    {
-      "name": "白嫖解析",
-      "type": 1,
-      "url": "https://www.baipiao-ys.cc/player/?url=",
-      "ext": {
-        "flag": [
-
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
     },
              {"name": "分享聚合1", "type": 1, "url": "https://api.xn--od1aq39b.net/api/?key=l80ttV8dvu7OXdFShJ&url="},
  {"name": "分享聚合2", "type": 1, "url": "https://jxjson.cf/json_balabala.php?url="},
