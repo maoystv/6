@@ -52,7 +52,7 @@
   "播放链接": "链&&链", 
   "嗅探词": ".m3u8", 
   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.snplayer.com#Referer$www.snplayer.com#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
-  "免嗅": "0" 
+  "免嗅": "0" }
 },
 
  
