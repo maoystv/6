@@ -166,7 +166,7 @@
         "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YY.jar",
         "ext":"http://aikun.tv"
     },
-    {"key":"miaociyuan","name":"💖分享喵喵","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://atomgit.com/ygfxz/0/raw/master/喵次元.js"}, 
+    {"key":"miaociyuan","name":"💖分享喵喵","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://pan.shangui.cc/f/jDnEu7/%E5%96%B5%E6%AC%A1%E5%85%83.js"}, 
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
        {
             "key": "kongbai",
@@ -181,6 +181,7 @@
         },
 {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy55.com/@一个分享者@","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
+          {"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fr.jar"},
 
 {
@@ -549,7 +550,7 @@
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/酷云77.js"
         },{
             "key" : "drpy_js_菜狗",
-            "name" : "🐕‍🦺菜狗|JS",
+            "name" : "🐶搜狗视频",
             "type" : 3,
             "api" :"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/菜狗.js"
@@ -684,7 +685,13 @@
 "播放列表":"<li&&</li>",
 "简介":"class=\"abstract-content&&</div>",
 "分类url": "https://ylsm6.cc/haokan/{cateId}-{area}--{class}-----{catePg}---{year}.html"}},        
-        {            "key": "csp_XBPQ",            "name": "💖分享可可",            "type": 3,            "api": "csp_XBPQ",            "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/kekeys.json"        },
+        {
+            "key": "csp_XBPQ",
+            "name": "💖分享可可",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/kekeys.json"
+        },
         {
       "key":"csp_河马",
       "name":"💖分享河马",
