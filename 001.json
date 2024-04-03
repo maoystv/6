@@ -331,16 +331,23 @@
       }
     },
     {
-      "key": "NBY秒播",
-      "name": "💖分享几乎",
+      "key": "FEIYUN",
+      "name": "💖分享飛雲",
       "type": 3,
       "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
       "ext": {
-        "host": "http://122.228.84.103:5822/api.php/app/",
+        "host": "http://122.228.84.103:6117/api.php/app/",
         "*": [
-          "http://121.62.61.51:6888/api/?key=2L3lbkVq34onXHWODi&url="
+          "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
         ]
       }
+    },
+  {
+      "key": "NBY秒播",
+      "name": "💖分享几乎",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://122.228.84.103:5822/api.php/app/"
     },
     {
       "key": "libhd",
@@ -2204,7 +2211,11 @@
 {
       "name": "💕推荐0",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url="},
+      "url": "http://jxxcc-cc.dianshia.top:8821/api/?key=UAOfSBFIaFI3IvLi8r&url=",
+        "header": {
+          "User-Agent": "okhttp/3.12.11"
+      }
+    },
 
     {
       "name": "💕推荐1",
@@ -2223,6 +2234,19 @@
 				}
 			}
 		},
+		{
+      "name": "❤️分享几乎",
+      "type": 0,
+      "url": "http://103.233.255.142:1133/?url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },  
 		{
 			"name": "💕分享麻衣",
 			"type": 1,
