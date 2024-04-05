@@ -103,6 +103,21 @@
       "changeable": 1,
       "ext": "https://pan.shangui.cc/f/eD2gcQ/分享新片.json"
     },
+{
+      "key": "T4-yugaopian",
+      "name": "🎬影院预告",
+      "type": 4,
+      "api": "https://catbox.n13.club/yugaopian.php"
+    },
+{
+      "key": "t4直播转点播",
+      "name": "🏡T4丨教育",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp16",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 		{"key":"py_cctv_集合","name":"🇨🇳央视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qu.ax/WHNe.json"},
         {
       "key": "py_cctv",
@@ -121,7 +136,13 @@
       "ext": "http://nas.taogestudio.cn:5678/tvbox/json/alist_ext.json;200;video"
     },
 
-{"key":"AI1","name":"💖分享官差","type":1,"api":"http://124.222.116.5/macos/seven/api.php/provide/vod/","playerType":2,"searchable":1,"quickSearch":1},
+ {
+		"key": "drpy_侬好",
+		"name": "💖分享者vip",
+		"type": 3,
+		"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+		"ext": "https://pan.shangui.cc/f/2ZJ8hx/ygfxz.js"
+	},
 
          {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
@@ -167,13 +188,6 @@
         "ext":"http://aikun.tv"
     },
     {"key":"miaociyuan","name":"💖分享喵喵","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://pan.shangui.cc/f/jDnEu7/%E5%96%B5%E6%AC%A1%E5%85%83.js"}, 
-    {
-		"key": "drpy_侬好",
-		"name": "💖分享自建",
-		"type": 3,
-		"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-		"ext": "https://pan.shangui.cc/f/2ZJ8hx/ygfxz.js"
-	},
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
        {
             "key": "kongbai",
@@ -237,6 +251,18 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://pan.shangui.cc/f/Zoj0sv/rarbt.json"
+    },
+   {"key": "csp_爱优",
+      "name": "💖分享爱优",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
+      }
     },
      {
       "key": "heimuer",
@@ -445,6 +471,7 @@
         "搜索模式": "2"
       }
     },
+
            {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Fx.txt"},
          {"key":"360_spider","name":"🍎360影视","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/js/js/360影视.js"}, 
 

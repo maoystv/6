@@ -103,6 +103,21 @@
       "changeable": 1,
       "ext": "https://pan.shangui.cc/f/eD2gcQ/分享新片.json"
     },
+    {
+      "key": "T4-yugaopian",
+      "name": "🎬影院预告",
+      "type": 4,
+      "api": "https://catbox.n13.club/yugaopian.php"
+    },
+{
+      "key": "t4直播转点播",
+      "name": "🏡T4丨教育",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp16",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 		{"key":"py_cctv_集合","name":"🇨🇳央视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qu.ax/WHNe.json"},
         {
       "key": "py_cctv",
@@ -222,6 +237,18 @@
             "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
             "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/分享bt.json"
         },
+        {"key": "csp_爱优",
+      "name": "💖分享爱优",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
+      }
+    },
           {
             "key": "csp_Vidhub2", 
             "name": "💖分享|VID", 
@@ -311,6 +338,18 @@
     },
     { "key": "fy影院","name": "💖分享飞鱼","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
     {
+      "key": "FEIYUN",
+      "name": "💖分享飛雲",
+      "type": 3,
+      "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
+      "ext": {
+        "host": "http://122.228.84.103:6117/api.php/app/",
+        "*": [
+          "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
+        ]
+      }
+    },
+    {
       "key": "花漾",
       "name": "💖分享花样",
       "type": 3,
@@ -322,18 +361,14 @@
         ]
       }
     },
-    {
+     {
       "key": "NBY秒播",
       "name": "💖分享几乎",
       "type": 3,
-      "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
-      "ext": {
-        "host": "http://122.228.84.103:5822/api.php/app/",
-        "*": [
-          "http://121.62.61.51:6888/api/?key=2L3lbkVq34onXHWODi&url="
-        ]
-      }
+      "api": "csp_AppYsV2",
+      "ext": "http://122.228.84.103:5822/api.php/app/"
     },
+  
     {
       "key": "libhd",
       "name": "💖分享libhd",
@@ -2266,7 +2301,11 @@
 {
       "name": "💕推荐0",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url="},
+      "url": "http://jxxcc-cc.dianshia.top:8821/api/?key=UAOfSBFIaFI3IvLi8r&url=",
+        "header": {
+          "User-Agent": "okhttp/3.12.11"
+      }
+    },
 
     {
       "name": "💕推荐1",
@@ -2285,6 +2324,19 @@
 				}
 			}
 		},
+		{
+      "name": "❤️分享几乎",
+      "type": 0,
+      "url": "http://103.233.255.142:1133/?url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },  
 		{
 			"name": "💕分享麻衣",
 			"type": 1,
