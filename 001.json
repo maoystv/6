@@ -118,7 +118,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-		{"key":"py_cctv_集合","name":"🇨🇳央视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qu.ax/WHNe.json"},
+		{"key":"py_cctv_集合","name":"🇨🇳央视片库","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/Ygfxz/0/-/raw/main/cctvpk.json"},
         {
       "key": "py_cctv",
       "name": "🇨🇳央视大全",
@@ -148,6 +148,7 @@
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
          {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4127/XYQH/分享影搜.json","jar":""},
+         {"key": "csp_XYQHikerAL_分享qiqu","name":"💖分享奇趣","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/qqtv.json","jar":""},
          {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/nfzw.json","jar":""},
          {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/ynfys.json","jar":""},
          {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
@@ -252,6 +253,21 @@
       "changeable": 1,
       "ext": "https://pan.shangui.cc/f/Zoj0sv/rarbt.json"
     },
+    {
+      "key": "zztong",
+      "name": "💖分享饭团",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "一个分享者+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
+        "副标题":"分享者在线",
+       "分类url": "http://www.zztong.net/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
+      }
+    },
    {"key": "csp_爱优",
       "name": "💖分享爱优",
       "type": 3,
@@ -261,6 +277,7 @@
       "filterable": 1,
       "ext": {
         "分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "副标题":"分享者在线",
         "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
       }
     },
@@ -291,7 +308,6 @@
       "changeable": 1,
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享tianlong.json"
     },
-
           {
             "key": "csp_LiteApple",
             "name": "💖分享|BTT",
@@ -368,13 +384,21 @@
         ]
       }
     },
-  {
+
+{
       "key": "NBY秒播",
       "name": "💖分享几乎",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5822/api.php/app/"
-    },
+      "quickSearch": 1,
+      "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
+      "ext": {
+        "host": "http://122.228.84.103:5822/api.php/app/",
+        "*": [
+          "http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url="
+        ]
+      }
+    }, 
+
     {
       "key": "libhd",
       "name": "💖分享libhd",
@@ -491,16 +515,6 @@
       "filterable": 1,
       "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
-
- {
-            "key": "安", 
-            "name": "💖分享安博", 
-            "type": 4, 
-            "api": "https://tang.serv00.net/power/ub1818", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 0
-        }, 
         {
 "key": "csp_xBPQ_秒",
 "name": "💖分享秒播",
@@ -522,15 +536,6 @@
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享美剧.json"},
  {"key":"PiaoHua","name":"💖分享飘花","type":3,"api":"csp_PiaoHua","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://d.kstore.space/download/4127/ali/PiaoHua.jar"},
     {"key":"csp_CandyMuj_taoju","name":"💖分享淘剧","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://d.kstore.space/download/4127/ali/PiaoHua.jar"},
- {
-"key": "csp_xBPQ_小镇",
-"name": "💖分享小镇",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://atomgit.com/ygfxz/0/raw/master/dyxz.json"},
 
     {
       "key": "csp_XYQHikerAL_9995",
@@ -745,6 +750,24 @@
         "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
       }
     },
+    {
+    "key":"csp_XBPQ_pingguo",
+    "name":"🍏分享苹果",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"免嗅\":\"1\",
+    \"演员\":\"主演：&&</div>\",
+    \"简介\":\"class=\\\"module-info-introduction-content&&</div>\",
+    \"副标题\":\"分享者在线+class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$22#港剧$26#美剧$23#综艺$3#动漫$4\",
+    \"分类url\":\"https://www.miushuo.com/vodshow/{cateId}--------{catePg}---.html\"}"},
          {
 			"key": "世界",
 			"name": "💖分享世界",
@@ -754,13 +777,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://106.52.241.21:83/api.php/app/"
-		},
-		  {
-			"key": "南坊",
-			"name": "💖分享南坊",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/南坊.json"
 		},
          {
             "key": "csp_XBPQ_lz",
@@ -995,31 +1011,10 @@
             "type": 3,
             "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/ktv_open.js"
         },
-
-{"key":"vip","name":"💖分享VIP","type": 3,"playerType":1, "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/超前点播.js"},
-
- {"key":"天天视频","name":"💖分享天天","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/"},
         {
       "key": "zyys",
       "name": "💖分享自营",
       "type":3,"api":"csp_XBPQ","ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/小鹿影视.json"},
-     
-          {
-            "key": "V0",
-            "name": "💖分享高清",
-            "type": 3,
-            "playerType": 1,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://notabug.org/ygfxz/6/raw/main/js/V0.js"
-        },
-        {
-            "key": "2K",
-            "name": "💖分享|2K",
-            "type": 3,
-            "playerType": 1,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://notabug.org/ygfxz/6/raw/main/js/V5.js"
-        },
         {
 "key": "csp_xBPQ_348",
 "name": "💖分享星速",
@@ -1052,16 +1047,7 @@
       "type": 1,
       "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod"
     },    
-{
-           "key": "小苹果",
-           "name": "💖分享苹果",
-           "type": 3,
-           "api": "csp_XBPQ",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/小苹果.json"
-    },
+    
           
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"jar":""},
       {"key":"影探4K0","name":"💃影视探戈","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
@@ -1146,24 +1132,6 @@
     \"播放数组\":\"class=\\\"module-play-list&&</div>\",
     \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",
     \"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"},
-{
-    "key":"csp_XBPQ_pingguo",
-    "name":"🍏青色苹果",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"{
-    \"免嗅\":\"1\",
-    \"演员\":\"主演：&&</div>\",
-    \"简介\":\"class=\\\"module-info-introduction-content&&</div>\",
-    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</small>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"分类\":\"电影$1#电视剧$2#国产剧$22#港剧$26#美剧$23#综艺$3#动漫$4\",
-    \"分类url\":\"https://www.miushuo.com/vodshow/{cateId}--------{catePg}---.html\"}"},
 
     { "key": "xml_快帆采集", "name": "⛵️快帆采集", "type": 1, "api": "https://api.kuaifan.tv/api.php/provide/vod","searchable": 1, "quickSearch": 1, "filterable": 1},
        {
@@ -1839,7 +1807,9 @@
 {"key":"csp_Upyunso","name":"📕UP|云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pastebin.com/raw/zsEYRYPD","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
 {"key": "csp_XYQHiker_土拨鼠搜索","name":"📕土拨鼠搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/土拨鼠搜索.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
 {"key":"Alips","name":"📕喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":1,"ext":"https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
-{"key": "csp_XYQHiker_小站搜索","name":"📕我的小站","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/我的小站.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
+
+{"key":"z找资源","name":"📕资源搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":-1,"hide":1,"ext":"{\"username\":\"aayyy5618@126.com\",\"password\":\"su123999\",\"searchurl\":\"https://zhaoziyuan1.cc/so?filename={wd}\"}","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
+
 {"key": "csp_XYQHiker_DOVX搜索","name":"📕DOVX搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/DOVX搜索.json","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"},
 {"key":"Yiso","name":"📕易搜搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/阿里设置.jar","ext":"https://pastebin.com/raw/zsEYRYPD"},
 
