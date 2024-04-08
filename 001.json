@@ -261,12 +261,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "简介": "一个分享者+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
-        "副标题":"分享者在线",
-       "分类url": "http://www.zztong.net/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
-      }
+      "ext": "https://u.kstore.space/download/4127/Xbpq/分享fantuan.json"
     },
    {"key": "csp_爱优",
       "name": "💖分享爱优",
@@ -358,6 +353,12 @@
       "searchable": 1,
       "changeable": 0,
        "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"
+    },
+    {
+      "key": "T4-mingri",
+      "name": "⛵️明日方舟",
+      "type": 4,
+      "api": "https://catbox.n13.club/mingri.php"
     },
     { "key": "fy影院","name": "💖分享飞鱼","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
    {
@@ -2421,7 +2422,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/O.txt","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
+"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/O.txt;md5; 1baa406ac5e1932cb564db42009a733a","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
 
 //电视直播
 
