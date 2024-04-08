@@ -335,6 +335,7 @@
       "ext": "http://rihou.vip:55/lib/玩我哥哥.json",
       "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt"
     },
+    {"key":"liangzi","name":"💖分享量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","playerType":2,"searchable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","动作片","科幻片","战争片","爱情片","喜剧片","国产动漫","大陆综艺"]},
     { "key": "fy影院","name": "💖分享飞鱼","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
      {
       "key": "T4-mingri",
@@ -613,7 +614,7 @@
       "type": 3,
       "api": "csp_Hmys",
       "playerType": 1,
-      "ext": "https://m.jmzp.net.cn$$$null$$$1","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt"
+      "ext": "https://m.jmzp.net.cn$$$null$$$1","jar":"https://u.kstore.space/download/4127/ali/FxzHm.jar"
     },
 		{"key":"新视觉","name":"🧰全新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Fx.txt"},
 		
@@ -1401,7 +1402,6 @@
 {"key":"无限影视","name":"🔆无限风光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wxtv.net/api.php/app/"},
  {"key":"奈飞狗","name":"🐶奈飞狗仔","type":3,"api":"csp_AppYs", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://netflixdog.club/api.php/app/"},
            {"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-        {"key":"Cokemv3","name":"🥤可口可乐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
       
   {"key": "modu","name": "🔍魔都动漫","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
     
@@ -1481,7 +1481,6 @@
 "分类": "电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29"
 }
 },     
-{"key":"drpy_js_磁力熊[磁]","name":"🐻‍❄吃力熊熊","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/磁力熊[磁].js"},
 {
             "key": "北川", 
             "name": "❄️北国风光", 
@@ -1710,15 +1709,6 @@
   "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/量子.json"},
 
 {"key": "csp_爱看","name": "🎁爱看不看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/爱看不看.json"},
-
-        {
-            "key": "ok", 
-            "name": "👌FREEOK", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/free.json"
-        }, 
         
 {
             "key": "滋滋", 

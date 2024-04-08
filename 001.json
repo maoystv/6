@@ -332,7 +332,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享自用.json"},
-       
+       {"key":"liangzi","name":"💖分享量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","playerType":2,"searchable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","动作片","科幻片","战争片","爱情片","喜剧片","国产动漫","大陆综艺"]},
       {"key": "阿里云集合","name": "📕阿里集合","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "https://notabug.org/ygfxz/6/raw/main/is/阿里集合.json;https://agit.ai/66666/mao2/raw/branch/main/jar/tk.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/阿里.jar"},  
     {
       "key": "yyt",
@@ -646,7 +646,7 @@
       "type": 3,
       "api": "csp_Hmys",
       "playerType": 1,
-      "ext": "https://m.jmzp.net.cn$$$null$$$1","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt"
+      "ext": "https://m.jmzp.net.cn$$$null$$$1","jar":"https://u.kstore.space/download/4127/ali/FxzHm.jar"
     },
 		
 {
@@ -1368,7 +1368,6 @@
                 "分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"
             }},
            {"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-        {"key":"Cokemv3","name":"🥤可口可乐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
      
   {"key": "modu","name": "🔍魔都动漫","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
     
@@ -1447,7 +1446,6 @@
 "分类": "电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29"
 }
 },     
-{"key":"drpy_js_磁力熊[磁]","name":"🐻‍❄吃力熊熊","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/磁力熊[磁].js"},
 {
             "key": "北川", 
             "name": "❄️北国风光", 
@@ -1686,9 +1684,6 @@
         }, 
 
 {"key":"鸭奈飞","name":"🦆鸭奶飞飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
-
-{"key": "csp_XBPQ_圣人",  "name": "🕍圣人之城",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/圣城.json"},
-
 {"key":"米","name":"💖米爱影音","type": 3, "api": "csp_XBPQ","playerType":2,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/米爱影视.json"},
 
 {
@@ -1724,18 +1719,7 @@
 "jar":"",
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/奇优.json"},
 {"key": "csp_xB_jy","name": "👱‍♀️金发碧眼","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
-"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/金眼影视.json"},
-    
-        {
-            "key": "lai", 
-            "name": "🌧️来如风雨", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/来米.json"
-        }, 
-
-        {"key": "速搜", "name": "💫速度搜索", "type": 3, "api": "csp_XBPQ","playerType":1,"jar":"https://pan.shangui.cc/f/QGARSm/2.jar","ext": "https://download.kstore.space/download/4127/js/速搜.json"}, 
+"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/金眼影视.json"}, 
      
         {
             "key": "csp_beijihu",      
