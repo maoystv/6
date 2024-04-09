@@ -190,6 +190,19 @@
     },
     {"key":"miaociyuan","name":"💖分享喵喵","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://u.kstore.space/download/4127/Xbpq/Mcy.js"}, 
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+        {
+ "key": "T4-nongmin",
+"name": "💖分享农民",
+"type": 4,
+ "api": "https://catbox.n13.club/nongmin.php"
+},
+{
+            "key": "libhd2",
+            "name": "💖分享丽波",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://u.kstore.space/download/4127/Xbpq/LiBo.json"
+        },
        {
             "key": "kongbai",
             "name": "💖分享空白",
@@ -1627,9 +1640,6 @@
             "filterable": 1,
             "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"
         },
-
-{"key":"csp_Nmys","name":"🌽农民|JS","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/js/js/农民影视.js"},
-
 		{
 			"key": "apv2_少泽影客",
 			"name": "🛎少泽影客",
