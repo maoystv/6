@@ -201,7 +201,7 @@
             "name": "💖分享丽波",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://u.kstore.space/download/4127/Xbpq/LiBo.json"
+            "ext": "https://agit.ai/66666/000/raw/branch/master/XBPQ/LiBo.json"
         },
        {
             "key": "kongbai",
@@ -274,7 +274,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://u.kstore.space/download/4127/Xbpq/分享fantuan.json"
+      "ext": "https://agit.ai/66666/000/raw/branch/master/XBPQ/分享fantuan.json"
     },
    {"key": "csp_爱优",
       "name": "💖分享爱优",
@@ -345,7 +345,8 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享自用.json"},
-       {"key":"liangzi","name":"💖分享量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","playerType":2,"searchable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","动作片","科幻片","战争片","爱情片","喜剧片","国产动漫","大陆综艺"]},
+       {"key":"liangzi","name":"💖分享量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt;md5; 7ea04b0dc0059d8a04fd1afdec1291aa
+","playerType":2,"searchable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","动作片","科幻片","战争片","爱情片","喜剧片","国产动漫","大陆综艺"]},
       {"key": "阿里云集合","name": "📕阿里集合","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "https://notabug.org/ygfxz/6/raw/main/is/阿里集合.json;https://agit.ai/66666/mao2/raw/branch/main/jar/tk.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/阿里.jar"},  
     {
       "key": "yyt",

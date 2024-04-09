@@ -190,7 +190,7 @@
             "name": "💖分享丽波",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://u.kstore.space/download/4127/Xbpq/LiBo.json"
+            "ext": "https://agit.ai/66666/000/raw/branch/master/XBPQ/LiBo.json"
         },
 
      {
@@ -257,7 +257,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://u.kstore.space/download/4127/Xbpq/分享fantuan.json"
+      "ext": "https://agit.ai/66666/000/raw/branch/master/XBPQ/分享fantuan.json"
     },
         {"key": "csp_爱优",
       "name": "💖分享爱优",
