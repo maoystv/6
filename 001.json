@@ -84,7 +84,7 @@
     },
  
     {"key": "csp_KungFu404","name":"⚙️阿里设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/阿里设置.txt"},
-    {"key":"配置中心","name":"⚙️云盘配置","type": 3,"api": "csp_Config","searchable":0,"changeable":0,"style": {"type": "rect","ratio": 1},"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json"},
+    {"key":"配置中心","name":"⚙️云盘配置","type": 3,"api": "csp_Config","searchable":0,"changeable":0,"style": {"type": "rect","ratio": 1},"jar":"https://notabug.org/ygfxz/000/raw/master/jar/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json"},
      {
 			"key": "douban",
 			"name": "🅱️豆瓣评分",
