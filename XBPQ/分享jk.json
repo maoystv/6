@@ -1,0 +1,16 @@
+ {
+    
+    "站名":"极客影视",
+    
+    "主页url":"https://www.jkdy.cc/",
+    
+"搜索url":"https://www.jkdy.cc/vodsearch/{wd}----------{pg}---.html",
+"播放数组":"class=\"hl-plays-list&&</ul>",
+"播放标题":">&&</a>",
+"播放链接":"href=\"&&\"",
+"播放列表":"<li&&</li>",
+    "副标题":"分享者在线",
+    "分类url":"https://www.jkdy.cc/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html;;d0",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+    }
