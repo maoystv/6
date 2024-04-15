@@ -161,7 +161,7 @@
             "filterable": 1,
             "ext": "http://43.136.176.188:92/api.php/app/"
         },
-        {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy77.com/@一个分享者@","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
+        {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys03.com/@一个分享者@","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fr.jar"},
@@ -333,6 +333,37 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享美剧.json"},
+
+{
+      "key": "fxcz",
+      "name": "💖分享厂长",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享cz.json"
+    },
+    {
+      "key": "fxjk",
+      "name": "💖分享极客",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享jk.json"
+    },
+    {
+      "key": "fxzmp4",
+      "name": "💖分享zmp4",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享zmp4.json"
+    },
 
 {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4127/XYQH/分享影搜.json","jar":""},
 {"key": "csp_XYQHikerAL_分享qiqu","name":"💖分享奇趣","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/qqtv.json","jar":""},
