@@ -10,7 +10,7 @@
         "图片": "vod_pic\"*\"&&\"",
         "标题": "vod_name\"*\"&&\"",
         "链接": "https://cj.lziapi.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
-        "副标题": "vod_remarks\":\"&&\"",
+        "副标题": "分享者在线+vod_remarks\":\"&&\"",
         "搜索模式": "1",
         "搜索url": "https://cj.lziapi.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
         "搜索数组二次截取": "\"list\"*[&&]",
