@@ -1,5 +1,13 @@
-{ "urls": [{
-            "url": "https://codeberg.org/Ygfxz/0/raw/branch/master/001.json",
+{ "urls": [ {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/YGFXZ/main/001.json",
+            "name": "💖分享主推"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/YGFXZ/main/000.json",
+            "name": "💖分享主推2"
+        },
+{
+            "url": "https://codeberg.org/Ygfxz/0/raw/branch/master/001.png",
             "name": "🔥新主力"
         },
 
