@@ -1,0 +1,15 @@
+{
+        "搜索链接":"https://gaoqing.la/page/{pg}?cat&s={wd}",
+        "简介":"💕简*介</p>&&</p>",
+        "影片年代":"💕上映 日期&&<br>",
+        "影片地区":"💕产*地&&<br>",
+        "图片是否需要代理": "1",
+        "副标题":"分享者在线",
+        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题":"分享者高清",
+        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "播放列表":"<p>&&</p>[包含:magnet]",
+        "播放链接":"*\">&&</a>",
+        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
+        "分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
+      }
