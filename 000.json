@@ -1,4 +1,279 @@
+{
+// 每日一言 (随机显示欢迎语)
+"dairyWords": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://v.api.aa1.cn/api/yiyan/index.php?type=get"
+     }
+    },
+    "response": {
+        "result": "$.data.content"
+    },
+    "expires" : "43200"
+}],
 
+
+
+// 首页推荐视频 (豆瓣)
+"recommend": [{
+ "name": "豆瓣推荐",
+ "request": {
+  "method": "GET",
+  "header": [{
+   "key": "Referer",
+   "value": "https://movie.douban.com/"
+  }],
+  "url": {
+   "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+  }
+ },
+ "response": {
+  "result": "$.data",
+  "data": [{
+    "key": "name",
+    "value": "title"
+   },
+   {
+    "key": "note",
+    "value": "rate"
+   },
+   {
+    "key": "pic",
+    "value": "cover"
+   }
+  ]
+ },
+ "expires" : "86400"
+}],
+
+
+
+
+// 评分 (数据来自 豆瓣)
+"rating": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+     }
+    },
+    "response": {
+        "result": "this",
+        "data": [
+       {
+        "key": "rating",
+        "value": "doubanRating"
+       }
+      ]
+    }
+}],
+   
+//数据接口
+"adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
+"sites": [	{
+      "key": "YGFXZ",
+      "name": "💖一个分享者💖",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+ 
+    {"key": "csp_KungFu404","name":"⚙️阿里设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/阿里设置.txt"},
+     {"key":"配置中心","name":"⚙️云盘配置","type": 3,"api": "csp_Config","searchable":0,"changeable":0,"style": {"type": "rect","ratio": 1},"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/PG.txt","ext":"https://152.32.170.60/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json"},
+     {
+			"key": "douban",
+			"name": "🅱️豆瓣评分",
+			"type": 3,
+			"api": "https://notabug.org/ygfxz/6/raw/main/is/豆瓣.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		 {
+      "key": "xpyg",
+      "name": "💖分享预告",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://pan.shangui.cc/f/eD2gcQ/分享新片.json"
+    },
+    {
+      "key": "T4-yugaopian",
+      "name": "🎬影院预告",
+      "type": 4,
+      "api": "https://catbox.n13.club/yugaopian.php"
+    },
+{
+      "key": "t4直播转点播",
+      "name": "🏡T4丨教育",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp16",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+		{"key":"py_cctv_集合","name":"🇨🇳央视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/Ygfxz/0/-/raw/main/cctvpk.json"},
+        {
+      "key": "py_cctv",
+      "name": "🇨🇳央视大全",
+      "type": 3,
+      "api":"py_cctv",
+      "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/PY/py_cctv.py"
+    },
+    {"key":"AList","name":"📕雅雅网盘","type":3, "api": "http://nas.taogestudio.cn:5678/tvbox/libs/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://nas.taogestudio.cn:5678/tvbox/json/alist_ext.json;200;video"
+    },
+  {
+		"key": "drpy_侬好",
+		"name": "💖分享者vip",
+		"type": 3,
+		"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+		"ext": "https://pan.shangui.cc/f/2ZJ8hx/ygfxz.js"
+	},
+
+         {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
+          {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
+           {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
+            {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/nfzw.json","jar":""},
+         {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/ynfys.json","jar":""},
+         {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
+        {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+         {
+            "key": "kongbai",
+            "name": "💖分享空白",
+            "playerType": 2,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.136.176.188:92/api.php/app/"
+        },
+        {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz233.com/@一个分享者@","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
+         {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
+         {"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
+         {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Fr.jar"},
+          {
+      "key": "皮皮虾",
+      "name": "🦐分享虾皮",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt",
+      "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
+    },
+    {"key":"虾米","name":"🦀分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt","ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
+    {"key":"爱ai看","name":"💖分享ai看","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt","ext":"FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"},
+     {"key":"miaociyuan","name":"💖分享喵喵","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://u.kstore.space/download/4127/Xbpq/Mcy.js"}, 
+     {"key":"T4-heihu","name":"💖分享黑狐","type":4,"api":"https://catbox.n13.club/heihu.php"},
+      {
+ "key": "T4-nongmin",
+"name": "💖分享农民",
+"type": 4,
+ "api": "https://catbox.n13.club/nongmin.php"
+},
+{
+            "key": "libhd2",
+            "name": "💖分享丽波",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://152.32.170.60/66666/000/raw/branch/master/XBPQ/LiBo.json"
+        },
+
+     {
+      "key": "ssb影视",
+      "name": "💖分享蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://pan.shangui.cc/f/Pw4JcK/ssb.json"
+    },
+     {
+      "key": "shu素白白",
+      "name": "💖分享素颜",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/subaibai.json"
+    },
+    {
+      "key": "shiju影视",
+      "name": "💖分享视觉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/xinshijue.json"
+    },
+    {
+      "key": "zizi",
+      "name": "💖分享栀子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/子子.json"
+    },
+    {
+      "key": "rarbt",
+      "name": "💖分享rarbt",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://pan.shangui.cc/f/Zoj0sv/rarbt.json"
+    },
+     {
+            "key": "csp_LiteApple",
+            "name": "💖分享|BTT",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_XBPQ",
+            "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+            "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/分享bt.json"
+        },
+         {
+      "key": "zztong",
+      "name": "💖分享饭团",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://152.32.170.60/66666/000/raw/branch/master/XBPQ/分享fantuan.json"
+    },
+        {"key": "csp_爱优",
+      "name": "💖分享爱优",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "副标题":"分享者在线",
+        "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
+      }
+    },
+          {
             "key": "csp_Vidhub2", 
             "name": "💖分享|VID", 
             "type": 3, 
@@ -398,16 +673,6 @@
       "ext": "https://m.jmzp.net.cn$$$null$$$1","jar":"https://u.kstore.space/download/4127/ali/FxzHm.jar"
     },
 		{"key":"新视觉","name":"🧰全新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Fx.txt"},
-		
-{
-      "key": "风",
-      "name": "🌪仗风前行",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://ys.zf520.cn/api.php/provide/vod/"
-    },
         {
 			"key": "myi",
 			"name": "💖分享麻衣",
@@ -1420,14 +1685,6 @@
     "ext": "https://152.32.170.60/66666/mv/raw/branch/master/live_min.txt"
   },
 
-        {
-            "key" : "js_咕噜",
-            "name" : "☃️咕噜咕噜",
-            "type" : 3,
-            "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/咕噜[V2].js"
-        },
-
 {
             "key": "csp农民",
             "name": "🥦农民|SP",
@@ -2223,7 +2480,7 @@
 
 //电视直播
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY2NjY2L21hby9yYXcvYnJhbmNoL21hc3Rlci9saXZlMjAyMjA4MTMudHh0"]}]},
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5Lm5ldC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWFveXN0di9ZR0ZYWi9tYWluL0ZYWnpiLnR4dA=="]}]},
 {
       "name": "live",
       "url": "https://download.kstore.space/download/2863/live.txt",
@@ -2251,6 +2508,13 @@
 "xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
 "s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
 "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+        
+        
+        
+        
+        
+        
+        
         
         
         
