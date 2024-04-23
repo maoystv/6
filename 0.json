@@ -13,41 +13,45 @@
 
 { "url": "https://cloud.lxweb.cn/f/ePqZsa/001.json", "name": "🔥新主力2" },
 
-{
-            "url": "https://agit.ai/66666/mao2/raw/branch/main/0/001.png",
-            "name": "💖主力接口"
-        },
         {
             "url": "https://152.32.170.60/66666/mao2/raw/branch/main/0/001.png",
-            "name": "💕主力暂时"
+            "name": "💕主力接口"
         },
          {
-            "url": "https://agit.ai/66666/mao2/raw/branch/main/0/000.m3u8",
+            "url": "https://152.32.170.60/66666/mao2/raw/branch/main/0/000.m3u8",
             "name": "💕主力备用"
         },
 {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "url": "https://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
             "name": "💖默认接口"
         },
          {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/001.png",
+            "url": "https://152.32.170.60/66666/mao/raw/branch/master/00/001.png",
             "name": "💕默认备用"
         },
+       {
+            "url": "https://d.kstore.space/download/4127/Xbpq/001.json",
+            "name": "备用测试"
+        },
         {
-            "url": "https://d.kstore.space/download/4127/001.png",
-            "name": "🐻默认凯速"
+            "url": "https://d.kstore.space/download/4127/Xbpq/000.json",
+            "name": "备用测试2"
         },
         {
             "url": "https://notabug.org/ygfxz/6/raw/main/001.json",
-            "name": "⛳️测试专用"
+            "name": "🏡测试专用"
+        },
+        {
+            "url": "https://notabug.org/ygfxz/6/raw/main/000.json",
+            "name": "🏡默认专用2"
         },
          {
-            "url": "https://try.gitea.io/ygfxz/0/raw/branch/main/000.m3u8",
-            "name": "⛳️默认内置（备用）2"
+            "url": "https://try.gitea.io/ygfxz/0/raw/branch/main/001.json",
+            "name": "⛳️备用内置"
         },
          {
-            "url": "https://notabug.org/ygfxz/6/raw/main/001.png",
-            "name": "🏡默认内置（备用）0"
+            "url": "https://try.gitea.io/ygfxz/0/raw/branch/main/000.json",
+            "name": "⛳️备用内置2"
         },
         {
             "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
@@ -75,14 +79,7 @@
       {"url": "http://git.sxtv.top/Ygfxz/0/raw/master/000.json",
         "name": "💖分享者0"
     },
-        {
-            "url": "https://d.kstore.space/download/4127/Xbpq/001.json",
-            "name": "备用测试"
-        },
-        {
-            "url": "https://download.kstore.space/download/4127/000.m3u8",
-            "name": "备用凯速"
-        },
+       
          {"url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
         "name": "🍷 FongMi"
     },
@@ -133,10 +130,10 @@
             "url": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/config.json",
             "name": "蜂蜜2"
         },
-          {"url": "https://framagit.org/Ygfxz/1/-/raw/main/001.png?ref_type=heads&inline=false",
+          {"url": "https://framagit.org/Ygfxz/0/-/raw/main/001.json?ref_type=heads",
         "name": "💖001"
     },
-      {"url": "https://framagit.org/Ygfxz/1/-/raw/main/000.m3u8?ref_type=heads",
+      {"url": "https://framagit.org/Ygfxz/0/-/raw/main/000.json?ref_type=heads",
         "name": "💖000"
     },
     { "url": "http://饭太硬.top/tv", "name": "饭太硬" },
