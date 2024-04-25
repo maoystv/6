@@ -118,8 +118,12 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {"key": "zbtv1","name": "🇨🇳分享直播","type": 3,"api": "https://notabug.org/ygfxz/000/raw/master/sdtv.js","ext": "https://notabug.org/ygfxz/000/raw/master/sdtv1.txt"},
-    {"key": "zbtv2","name": "🇨🇳分享直播","type": 3,"api": "https://notabug.org/ygfxz/000/raw/master/sdtv.js","ext": "https://notabug.org/ygfxz/000/raw/master/sdtv2.txt"},
+     {
+        "key":"T4-tangdou",
+        "name":"💖分享糖豆",
+        "type":4,
+        "api":"https://catbox.n13.club/tangdou.php"
+    },
     
 		{"key":"py_cctv_集合","name":"🇨🇳央视片库","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4127/PY/cctvpk.json"},
         {
