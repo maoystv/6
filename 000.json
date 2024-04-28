@@ -124,6 +124,19 @@
         "type":4,
         "api":"https://catbox.n13.club/tangdou.php"
     },
+	 {
+	"key": "Wextangdou",
+	"name": "💖分享健身",
+	"type": 3,
+	"api": "csp_Wextangdou",
+                "jar": "https://4723.kstore.space/wex.jar",
+	"searchable": 1,
+	"changeable": 0,
+	"style": {
+		"type": "rect",
+		"ratio": 2
+	}
+},
 		{"key":"py_cctv_集合","name":"🇨🇳央视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/Ygfxz/0/-/raw/main/cctvpk.json"},
         {
       "key": "py_cctv",
@@ -155,7 +168,7 @@
             {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/nfzw.json","jar":""},
          {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/ynfys.json","jar":""},
          {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
-        {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+        {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://oiuzy.haitu33.com"},
          {
             "key": "kongbai",
             "name": "💖分享空白",
