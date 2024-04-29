@@ -107,7 +107,7 @@
       "key": "T4-yugaopian",
       "name": "🎬影院预告",
       "type": 4,
-      "api": "https://catbox.n13.club/yugaopian.php"
+      "api": "https://catbox.n13.club/t4/yugaopian.php"
     },
 {
       "key": "t4直播转点播",
@@ -118,13 +118,14 @@
       "quickSearch": 1,
       "filterable": 0
     },
-     {
+    {
         "key":"T4-tangdou",
         "name":"💖分享糖豆",
         "type":4,
-        "api":"https://catbox.n13.club/tangdou.php"
+        "api":"https://catbox.n13.club/t4/tangdou.php"
     },
-	 {
+    {"key":"T4-tangdou2","name":"💕分享糖豆2","type":4,"api":"https://catbox.n13.club/t4/tangdou2.php"},
+    {
 	"key": "Wextangdou",
 	"name": "💖分享健身",
 	"type": 3,
@@ -137,7 +138,7 @@
 		"ratio": 2
 	}
 },
-    
+
 		{"key":"py_cctv_集合","name":"🇨🇳央视片库","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4127/PY/cctvpk.json"},
         {
       "key": "py_cctv",
@@ -149,7 +150,7 @@
      "filterable":1,
       "ext": "https://notabug.org/ygfxz/6/raw/main/PY/py_cctv.py"
     },
-	{
+    {
             "ext": "eyJhcGkiOiJodHRwOi8vZGVuZ3Bhby5zcGFjZTo1Mjc3IiwidG9rZW4iOiJ5dTYyNjc0MCJ9",
             "filterable": 1,
             "quickSearch": 1,
@@ -226,24 +227,20 @@
     {"key":"miaociyuan","name":"💖分享喵喵","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://u.kstore.space/download/4127/Xbpq/Mcy.js"}, 
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://oiuzy.haitu33.com"},
 
-{"key":"T4-剧圈","name":"💖分享剧圈","type":4,"api":"https://catbox.n13.club/juquan.php"},
-{"key":"T4-jp","name":"💖分享见片","type":4,"api":"https://catbox.n13.club/jianpian.php"},
-{"key":"T4-南瓜","name":"💖分享懒瓜","type":4,"api":"https://catbox.n13.club/nangua.php"},
-{"key":"T4-极光","name":"💖分享极光","type":4,"api":"https://catbox.n13.club/jiguang.php"},
-{"key":"T4-caiji","name":"💖分享聚合","type":4,"api":"https://catbox.n13.club/caiji.php"},
-{"key":"T4-wencai","name":"💖分享秒看","type":4,"api":"https://catbox.n13.club/wencai.php"},
-{"key":"T4-xinshijue","name":"💖分享视角","type":4,"api":"https://catbox.n13.club/xinshijue.php"},
-{"key":"T4-saohuo","name":"💖分享骚火","type":4,"api":"https://catbox.n13.club/saohuo.php"},
-{"key":"T4-jojo","name":"💖分享jojo","type":4,"api":"https://catbox.n13.club/jojo.php"},
-{"key":"T4-6v","name":"💖分享丨6V","type":4,"api":"https://catbox.n13.club/6v.php"},
-{"key":"T4-哔嘀","name":"💖分享哔嘀","type":4,"api":"https://catbox.n13.club/bdys.php"},
-{"key":"T4-heihu","name":"💖分享黑狐","type":4,"api":"https://catbox.n13.club/heihu.php"},
-       {
- "key": "T4-nongmin",
-"name": "💖分享农民",
-"type": 4,
- "api": "https://catbox.n13.club/nongmin.php"
-},
+{"key":"T4-剧圈","name":"💖分享剧圈","type":4,"api":"https://catbox.n13.club/t4/juquan.php"},
+{"key":"T4-jp","name":"💖分享见片","type":4,"api":"https://catbox.n13.club/t4/jianpian.php"},
+{"key":"T4-南瓜","name":"💖分享懒瓜","type":4,"api":"https://catbox.n13.club/t4/nangua.php"},
+{"key":"T4-fj","name":"💖分享腐剧","type":4,"api":"https://catbox.n13.club/t4/fuju.php"},
+{"key":"T4-极光","name":"💖分享极光","type":4,"api":"https://catbox.n13.club/t4/jiguang.php"},
+{"key":"T4-caiji","name":"💖分享聚合","type":4,"api":"https://catbox.n13.club/t4/caiji.php"},
+{"key":"T4-wencai","name":"💖分享秒看","type":4,"api":"https://catbox.n13.club/t4/wencai.php"},
+{"key":"T4-xinshijue","name":"💖分享视角","type":4,"api":"https://catbox.n13.club/t4/xinshijue.php"},
+{"key":"T4-saohuo","name":"💖分享骚火","type":4,"api":"https://catbox.n13.club/t4/saohuo.php"},
+{"key":"T4-jojo","name":"💖分享jojo","type":4,"api":"https://catbox.n13.club/t4/jojo.php"},
+{"key":"T4-6v","name":"💖分享丨6V","type":4,"api":"https://catbox.n13.club/t4/6v.php"},
+{"key":"T4-哔嘀","name":"💖分享哔嘀","type":4,"api":"https://catbox.n13.club/t4/bdys.php"},
+{"key":"T4-heihu","name":"💖分享黑狐","type":4,"api":"https://catbox.n13.club/t4/heihu.php"},
+   {"key":"T4-xiongdi","name":"💖分享兄弟","type":4,"api":"https://catbox.n13.club/t4/xiongdi.php"},
 {
             "key": "libhd2",
             "name": "💖分享丽波",
@@ -2523,6 +2520,12 @@
 "xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
 "s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
 "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+        
+        
+        
+        
+        
+        
         
         
         
