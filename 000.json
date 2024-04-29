@@ -148,6 +148,21 @@
      "filterable":1,
       "ext": "https://notabug.org/ygfxz/6/raw/main/PY/py_cctv.py"
     },
+	{
+            "ext": "eyJhcGkiOiJodHRwOi8vZGVuZ3Bhby5zcGFjZTo1Mjc3IiwidG9rZW4iOiJ5dTYyNjc0MCJ9",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "💖分享小雅",
+            "changeable": 1,
+            "jar": "http://dengpao.space:5277/spring.jar",
+            "style": {
+                "type": "rect"
+            },
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
     {"key":"AList","name":"📕雅雅网盘","type":3, "api": "http://nas.taogestudio.cn:5678/tvbox/libs/alist.min.js",
       "searchable": 1,
       "quickSearch": 1,
