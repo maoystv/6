@@ -536,6 +536,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
       }
     },
+ {
+      "key": "七味影视",
+      "name": "💖分享七味",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3"
+      }
+    },
+    {"key": "狐狸看剧","name": "💖分享狐狸","type": 3,   "api": "csp_XBPQ","ext": {"简介":"一个分享者+line-height: 20px;\">&&</div>","副标题":"分享者在线","播放数组":"class=\"module-play-list&&</div","分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"}},
     {
       "key": "ytys",
       "name": "💖分享探戈",
