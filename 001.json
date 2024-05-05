@@ -283,7 +283,7 @@
             "filterable": 1,
             "ext": "http://43.136.176.188:92/api.php/app/"
         },
-{"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz233.com/@一个分享者@","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
+{"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys.top/@一个分享者@","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
           {"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Fr.jar"},
@@ -540,7 +540,25 @@
       }
     },
     {"key": "狐狸看剧","name": "💖分享狐狸","type": 3,   "api": "csp_XBPQ","ext": {"简介":"一个分享者+line-height: 20px;\">&&</div>","副标题":"分享者在线","播放数组":"class=\"module-play-list&&</div","分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"}},
-    
+    {
+    "key": "狸云",
+    "name": "💖分享狸云",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://raw.gitmirror.com/maoystv/6/main/XBPQ/分享LY.json"
+},
+
+{
+      "key": "https://leshizy.com/",
+      "name": "💖分享乐事",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 60,
+      "filterable": 1,      
+      "ext": "https://raw.gitmirror.com/maoystv/6/main/XBPQ/分享LS.json"
+    },
     {
       "key": "ytys",
       "name": "💖分享探戈",
