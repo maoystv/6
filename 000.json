@@ -602,6 +602,50 @@
         "搜索模式": "2"
       }
     },
+ {
+                "key": "XBPQ_brovod",
+                "name": "💕分享弟兄",
+                "type": 3,
+                "changeable": 1,
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 1,
+                "api": "csp_XBPQ",
+                "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享DX.json"
+        },
+        {
+                "key": "XBPQ_XiWuTv",
+                "name": "💕分享西屋",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext":  {
+                "分类url": "https://xiwutv.com/vodtype/{cateId}.html",
+                "副标题":"分享者在线",
+                "分类": "电影$20#电视剧$30#动漫$40#综艺$45#体育$51"}    
+        },
+        {
+                "key": "XBPQ_JQQZX",
+                "name": "💕分享圈圈",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "ext": {
+                        "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
+                        "副标题":"分享者在线",
+                        "分类url":"https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}
+        },
+                     {
+                "key": "XBPQ_51KanJu",
+                "name": "💕分享舞妖",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "ext": {
+                "分类url": "https://www.51kanju.com/show{cateId}----{catePg}.html",
+                "副标题":"分享者在线",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$55"}
+        },
     {
       "key": "七味影视",
       "name": "💖分享七味",
