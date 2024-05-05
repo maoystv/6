@@ -534,12 +534,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
       "ext": {
         "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
         "分类": "电影$1#剧集$2#动漫$4#综艺$3"
       }
     },
-    {"key": "狐狸看剧","name": "💖分享狐狸","type": 3,   "api": "csp_XBPQ","ext": {"简介":"一个分享者+line-height: 20px;\">&&</div>","副标题":"分享者在线","播放数组":"class=\"module-play-list&&</div","分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"}},
+    {"key": "csp_红狐狸影视","name": "💖分享狐狸","type": 3,"api": "csp_XBPQ", "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar","ext": {"分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
     {
     "key": "狸云",
     "name": "💖分享狸云",
@@ -559,6 +560,7 @@
       "filterable": 1,      
       "ext": "https://raw.gitmirror.com/maoystv/6/main/XBPQ/分享LS.json"
     },
+    
     {
       "key": "ytys",
       "name": "💖分享探戈",
@@ -2513,6 +2515,12 @@
 "xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
 "s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
 "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+        
+        
+        
+        
+        
+        
         
         
         
