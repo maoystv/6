@@ -466,7 +466,7 @@
       "key": "T4-mingri",
       "name": "⛵️明日方舟",
       "type": 4,
-      "api": "https://catbox.n13.club/tv/mingri.php"
+      "api": "https://catbox.n13.club/t4/mingri.php"
     },
     {
       "key": "FEIYUN",
@@ -602,7 +602,7 @@
         "搜索模式": "2"
       }
     },
- {
+    {
       "key": "七味影视",
       "name": "💖分享七味",
       "type": 3,
@@ -610,12 +610,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
       "ext": {
         "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
         "分类": "电影$1#剧集$2#动漫$4#综艺$3"
       }
     },
-    {"key": "狐狸看剧","name": "💖分享狐狸","type": 3,   "api": "csp_XBPQ","ext": {"简介":"一个分享者+line-height: 20px;\">&&</div>","副标题":"分享者在线","播放数组":"class=\"module-play-list&&</div","分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"}},
+    {"key": "csp_红狐狸影视","name": "💖分享狐狸","type": 3,"api": "csp_XBPQ", "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar","ext": {"分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
     {
     "key": "狸云",
     "name": "💖分享狸云",
@@ -635,7 +636,7 @@
       "filterable": 1,      
       "ext": "https://raw.gitmirror.com/maoystv/6/main/XBPQ/分享LS.json"
     },
-{"key": "OK","name": "💖分享丨OK","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.okys5.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2"}},
+     {"key": "OK","name": "💖分享丨OK","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.okys5.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2"}},
 {"key": "XBPQ_AMD","name": "💖分享|AMD","type": 3,"api": "csp_XBPQ","ext": {"搜索url": "https://cms.fdue.de/index.php/vod/search.html?wd={wd}","分类url": "https://cms.fdue.de/index.php/vod/type/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影&连续剧&动漫","分类值": "1&2&4"}},
 {"key": "wangfei","name": "💖分享网飞","type": 3,"api": "csp_XBPQ","ext": {"线路数组":"<div class=\"module-tab-item&&</div>[排序:][排序:HN线路>SO线路>KK线路]","线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]","分类url": "https://www.wangfei.live/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman"}},
 {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
@@ -2608,6 +2609,12 @@
 "xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
 "s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
 "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+        
+        
+        
+        
+        
+        
         
         
         
