@@ -1,0 +1,12 @@
+{
+        "搜索url": "https://www.leshizy1.com//index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+        "副标题":"分享者在线",
+        "线路标题": "<h1>播放类型：&&</h1>",
+        "播放列表": "class=\"listitems  row\">&&</div>",
+        "搜索模式": "1",
+        "搜索二次截取": "list\":[&&]",
+        "搜索数组": "{&&}",
+        "搜索图片": "pic\"*\"&&\"",
+        "搜索标题": "name\"*\"&&\"",
+        "搜索链接": "https://www.leshizy1.com/index.php/vod/detail/id/+\"id\":&&+.html"
+        }
