@@ -1,0 +1,7 @@
+{
+        "请求头":"手机",
+   "分类": "电影$1#电视剧$2#动漫$4#综艺$3#儿童动画$5",
+      "二次截取":"class=\"module-items module-poster-items-base&&id=\"page", 
+      "数组":"<a&&/a>",
+   "副标题":"分享者在线+module-item-note\">&&</div",
+    "分类url":"https://www.123tv.buzz/show/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}.html"}
