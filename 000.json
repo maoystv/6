@@ -246,11 +246,11 @@
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享CG.json"
 	},
 	{
-		"key": "XBPQ_123",
-		"name": "💖分享123",
+		"key": "XBPQ_hjl",
+		"name": "💖分享韩剧",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享123.json"
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享HJ.json"
 	},
 	{"key":"csp_ipianba","name":"💖分享片吧","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
 	{
