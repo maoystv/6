@@ -165,15 +165,21 @@
             "key": "csp_XiaoYa",
             "searchable": 1
         },
-    {"key":"AList","name":"📕雅雅网盘","type":3, "api": "http://nas.taogestudio.cn:5678/tvbox/libs/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://nas.taogestudio.cn:5678/tvbox/json/alist_ext.json;200;video"
-    },
+    {
+            "ext": "eyJhcGkiOiJodHRwOi8vMTUyLjcwLjkzLjIxOjQ1NjciLCJ0b2tlbiI6Im9yYWNsZWNsb3VkIn0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "📕雅雅网盘",
+            "changeable": 0,
+            "jar": "http://152.70.93.21:4567/spring.jar",
+            "api": "csp_AList",
+            "type": 3,
+            "key": "AList",
+            "searchable": 1
+        },
 
- {
-		"key": "drpy_侬好",
+
+	{	"key": "drpy_侬好",
 		"name": "💖分享者vip",
 		"type": 3,
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/lib/drpy2.min.js",
