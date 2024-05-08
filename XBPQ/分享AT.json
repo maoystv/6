@@ -1,0 +1,66 @@
+{
+"站名":"奥特",
+"主页url":"https://auete.pro/",
+//发布页https://auete.site/
+"二次截取":"<div class=\"picture_list_container\">&&<ul class=\"pagination mb-3 justify-content-center flex-wrap\">",
+"数组":"<li&&</div>",
+"图片":"src=\"&&\"[替换:/img.php?url=>>空]",
+"标题":"alt=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"hdtag\">&&</button>",
+"线路数组":"<div id=\"player_list\"&&<span style=\"color:#ff0000[排序:云播D线>其他]",
+"线路标题":"』&&：<small>",
+"播放数组":"<ul>&&</ul>",
+"状态":"状态: </span><b>&&</b>",
+"导演":"◎影片导演: &&</p>",
+"主演":"◎影片主演: &&</p>",
+"简介":"百度百科\"></a><p>&&</p>",
+"播放列表":"<li&&</li>",
+"倒序":"0",
+"播放标题":"title=\"&&\"",
+"播放链接":"href=\"&&\"",
+"搜索url":"https://www.full66.com/search.html?wd={wd}",
+"搜索模式":"1",
+"搜索二次截取":"<ul class=\"stui-vodlist__media col-pd clearfix\">&&导演",
+"搜索数组":"<li&&</a>",
+"搜索图片":"data-original=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接":"https://auete.pro/Tv/neidi/+href=\"/vod&&.html",
+"搜索后缀":"",
+"嗅探词":"adsmind.ugdtimg.com#.mp4?#m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
+"播放请求头":"User-Agent$123",
+"免嗅":"0",
+
+"分类":"电影$Movie#网络电影$qita/wlp#老电影$qita/laodianying#经典片$qita/Jdp#电视剧$Tv#经典剧$qita/Jdj#动漫$Dm#其他$qita#综艺$Zy",
+"分类url":"https://auete.pro/{cateId}/{class}/index{catePg}.html[firstPage=https://auete.pro/{cateId}/{class}/index.html]",
+"筛选":{
+"Movie":[
+{
+"key":"class",
+"name":"类型",
+"value":[
+{"n":"全部","v":""},
+{"n":"动作片","v":"dzp"},
+{"n":"喜剧片","v":"xjp"},
+{"n":"爱情片","v":"aqp"},
+{"n":"科幻片","v":"khp"},
+{"n":"恐怖片","v":"kbp"},
+{"n":"剧情片","v":"jpp"},
+{"n":"战争片","v":"zzp"},
+{"n":"惊悚片","v":"jsp"}
+]}],
+"Tv":[
+{
+"key":"class",
+"name":"类型",
+"value":[
+{"n":"全部","v":""},
+{"n":"大陆","v":"neidi"},
+{"n":"港剧","v":"tvbgj"},
+{"n":"韩剧","v":"hanju"},
+{"n":"美剧","v":"oumei"},
+{"n":"日剧","v":"24"},
+{"n":"台剧","v":"25"},
+{"n":"泰剧","v":"26"}]}]}
+}
