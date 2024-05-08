@@ -1,0 +1,13 @@
+{
+    "站名": "麻衣呀呼",
+    "主页url": "http://www.huanyuxing.com",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "简介":"详情：<p>&&</p >",
+    "副标题":"分享者在线",
+    "搜索url": "https://www.huanyuxing.com/c.html?wd={wd}",
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题":"<span>&&</small>[替换:线路>>分享者接口]",
+    "分类url":"https://www.huanyuxing.com/s/id-{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类":"电影$a#电视剧$b#动漫$c#综艺$d"}
+}
