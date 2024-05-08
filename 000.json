@@ -284,6 +284,14 @@
         "categories": ["国产剧","国产动漫","动画电影","网络电影","动作片","喜剧片","灾难片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片", "奇幻片","国产综艺"
       ] 
     },
+	{
+		"key": "cjzy_guancai",
+		"name": "💖分享官采",
+		"type": 1,
+		"api": "https://cj.json.icu/aiku.php",
+		"playUrl": "json:http://tv.yydsys.link/api/icool.php?url=",
+		"categories": ["连续剧"]
+	},
     
      {"key":"T4-剧圈","name":"💖分享剧圈","type":4,"api":"https://catbox.n13.club/t4/juquan.php"},
 {"key":"T4-jp","name":"💖分享见片","type":4,"api":"https://catbox.n13.club/t4/jianpian.php"},
@@ -360,14 +368,13 @@
       "changeable": 1,
       "ext": "https://pan.shangui.cc/f/Zoj0sv/rarbt.json"
     },
-     {
+{
             "key": "csp_LiteApple",
             "name": "💖分享|BTT",
             "type": 3,
             "playerType": "2",
             "api": "csp_XBPQ",
-            "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
-            "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/分享bt.json"
+            "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/XBPQ/分享BT.json"
         },
          {
       "key": "zztong",
