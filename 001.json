@@ -165,7 +165,7 @@
             "key": "csp_XiaoYa",
             "searchable": 1
         },
-    {
+   {
             "ext": "eyJhcGkiOiJodHRwOi8vMTUyLjcwLjkzLjIxOjQ1NjciLCJ0b2tlbiI6Im9yYWNsZWNsb3VkIn0=",
             "filterable": 1,
             "quickSearch": 1,
@@ -178,8 +178,8 @@
             "searchable": 1
         },
 
-
-	{	"key": "drpy_侬好",
+ {
+		"key": "drpy_侬好",
 		"name": "💖分享者vip",
 		"type": 3,
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/lib/drpy2.min.js",
@@ -190,11 +190,22 @@
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
          {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4127/XYQH/分享影搜.json","jar":""},
-         {"key": "csp_XYQHikerAL_分享qiqu","name":"💖分享奇趣","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/qqtv.json","jar":""},
-         {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/nfzw.json","jar":""},
-         {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/ynfys.json","jar":""},
+          {
+      "key": "csp_myhy",
+      "name": "💖分享嘛衣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"http://152.32.170.60/leevi/PiG/raw/branch/master/lib/XBPQ.jar",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享MY.json"},
+        {
+		"key": "XBPQ_dyxs",
+		"name": "💖分享先生",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar":"http://152.32.170.60/leevi/PiG/raw/branch/master/lib/XBPQ.jar",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享DY.json"
+	},
          {"key":"csp_77","name":"💖分享七七","type":3,"api":"csp_WexKuyun77","searchable":1,"quickSearch":1,"filterable":1 ,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-         {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
 {
       "key": "ttkx3",
       "name": "💖分享开心",
@@ -302,7 +313,7 @@
         "categories": ["国产剧","国产动漫","动画电影","网络电影","动作片","喜剧片","灾难片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片", "奇幻片","国产综艺"
       ] 
     },
-	 {
+    {
 		"key": "cjzy_guancai",
 		"name": "💖分享官采",
 		"type": 1,
@@ -466,7 +477,7 @@
       "changeable": 1,
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享tianlong.json"
     },
-{
+          {
             "key": "csp_LiteApple",
             "name": "💖分享|BTT",
             "type": 3,
@@ -1284,6 +1295,12 @@
 
 {"key":"畅梦","name":"☕️畅谈梦想","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"},
 
+{"key": "csp_XYQHikerAL_分享qiqu","name":"💖分享奇趣","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/qqtv.json","jar":""},
+         {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/nfzw.json","jar":""},
+         {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/ynfys.json","jar":""},
+           {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
+
+
 {
             "key": "saoho",
             "name": "🔥骚火电影",
@@ -1326,12 +1343,7 @@
             "filterable": 1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/五五影视.json"
         },
         {"key":"csp_lwdy","name":"🕵️‍♀️老王电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
-       {
-      "key": "csp_myhy",
-      "name": "🐯嘛衣唬呀",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://notabug.org/ygfxz/6/raw/main/huanyu.json"},
+     
     {"key":"csp_1080ksj","name":"🌝看遍世界","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/js/1080看视界.js"},
 
              {"key":"zsy",
@@ -2529,6 +2541,12 @@
 "xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
 "s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
 "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+        
+        
+        
+        
+        
+        
         
         
         
