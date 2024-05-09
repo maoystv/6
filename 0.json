@@ -54,8 +54,12 @@
             "name": "⛳️备用内置2"
         },
         {
-            "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+            "url": "https://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
             "name": "🌾PG nogo🌾"
+        },
+	 {
+            "url": "https://githubfd.deno.dev/gaotianliuyun/gao/master/0825.json",
+            "name": "高天流云pg"
         },
         {
             "url": "https://pan.shangui.cc/f/bD2ZU1/001.json",
@@ -200,7 +204,7 @@
             "name": "欧歌"
         },
         {
-            "url": "https://agit.ai/abkier/TVBox_warehouse/raw/commit/155e757d38424b2d67751ec21367f483570339fc/%e5%bd%b1%e8%a7%86/api.json",
+            "url": "https://152.32.170.60/abkier/TVBox_warehouse/raw/commit/155e757d38424b2d67751ec21367f483570339fc/%e5%bd%b1%e8%a7%86/api.json",
             "name": "潇洒"
         },
         {
@@ -224,7 +228,7 @@
             "name": "香情"
         },
         {
-            "url": "https://agit.ai/hu/sj/raw/branch/master/520.json",
+            "url": "https://152.32.170.60/hu/sj/raw/branch/master/520.json",
             "name": "我爱"
         },
         {
@@ -324,7 +328,7 @@
             "name": "共享"
         },
         {
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json",
+            "url": "https://152.32.170.60/hu/hcr/raw/branch/master/短剧.json",
             "name": "短剧"
         },
         {
@@ -423,13 +427,13 @@
 
 { "url": "https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json", "name": "猫爪" },
 
-{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json", "name": "在线t" },
+{ "url": "https://152.32.170.60/kvymin/TV/raw/branch/master/JavaScript.json", "name": "在线t" },
 
-{ "url": "https://agit.ai/wsdhl123/whtv/raw/branch/master/TVBox/tv.json", "name": "在线K" },
+{ "url": "https://152.32.170.60/wsdhl123/whtv/raw/branch/master/TVBox/tv.json", "name": "在线K" },
 
 {
             "name": "🎎短剧大全",
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
+            "url": "https://152.32.170.60/hu/hcr/raw/branch/master/10086.json"
         },
 
 {"name":"👭短剧备用","url":"https://codeberg.org/hcr/hcr/raw/branch/hu/10086.json
@@ -443,7 +447,7 @@
 
 { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧儿云" },
 
-{ "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json", "name": "巧儿备用" },
+{ "url": "https://152.32.170.60/relax/adcc/raw/branch/master/tvbox.json", "name": "巧儿备用" },
 
 {
             "name": "🌺集多影视",
@@ -461,7 +465,7 @@
         },
 
  {
-            "url": "https://agit.ai/376242575/line1/raw/branch/master/line1.json",
+            "url": "https://152.32.170.60/376242575/line1/raw/branch/master/line1.json",
             "name": "👚人人资源"
         },
  {
@@ -470,7 +474,7 @@
         },
 
         {
-            "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
+            "url": "https://152.32.170.60/sejinan/app/raw/branch/box/1.m3u8",
             "name": "🌹沃影主站"
         },
 
@@ -503,7 +507,7 @@
     },
     {
       "name": "♻️小重楼",
-      "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
+      "url": "https://152.32.170.60/hu/hcr/raw/branch/master/10086.json"
     },
      {
       "name": "♻️去看4K",
@@ -519,7 +523,7 @@
     },
     {
       "name": "♻️缘聚缘散",
-      "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json"
+      "url": "https://152.32.170.60/alanchaotang/if/raw/branch/main/X.json"
     },
 
 {"name":"熊猫不叫猫","url":"https://s2.pub/xmbjmxdc"},
@@ -539,7 +543,7 @@
 
 {"name":"🚒运输车VIP","url":"http://tvbox.top/vip.json"},
 {"name":"🐾js接口","url":"https://ghproxy.com/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},
-{"name":"综合","url":"https://agit.ai/uncle_ven/tvbox/raw/branch/master/profiles/api.json"},
+{"name":"综合","url":"https://152.32.170.60/uncle_ven/tvbox/raw/branch/master/profiles/api.json"},
 {"name":"💝飘花","url":"https://ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json"},
 {"name":"🌿刺桐","url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv2.json"},
 
@@ -568,11 +572,11 @@
         },
   {
             "name": "🌪海风线路",
-            "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/00.json"
+            "url": "https://152.32.170.60/haifeng2777/TVB/raw/branch/master/TVBOX/00.json"
         },
   {
             "name": "🌪海风爱腾",
-            "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/8.json"
+            "url": "https://152.32.170.60/haifeng2777/TVB/raw/branch/master/TVBOX/8.json"
         }, 
 
 {
@@ -589,7 +593,7 @@
 			"name": "阿里无敌"
 		},
 		{
-			"url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+			"url": "https://152.32.170.60/895322156/Q/raw/branch/master/TV/jy.txt",
 			"name": "教育专线"
 		},
 		{
@@ -617,7 +621,7 @@
 {"name":"🅱影探","url":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt?ref_type=heads"},
 
 {"name":"🤺高天流云","url":"https://raw.iqiq.io/gaotianliuyun/gao/master/js.json"},
-{"name":"🦗胖鸭","url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json"},
+{"name":"🦗胖鸭","url":"https://152.32.170.60/cyl518/yl/raw/branch/master/ml.json"},
 
   {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lf.json",
@@ -655,12 +659,12 @@
 {"name": "🐹猎狼线路","url": "https://www.lltv8.top"}, 
 {"name": "🐹candymuj","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json"},
 
-{"name": "🐯Warnig线路","url": "https://agit.ai/wifi/ts/raw/branch/master/210.bmp"}, 
+{"name": "🐯Warnig线路","url": "https://152.32.170.60/wifi/ts/raw/branch/master/210.bmp"}, 
 
 {"name": "🐯candymuj备","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json"}, 
 {"name": "🐯Bigj内置tk","url": "https://download.kstore.space/download/4889/bigj235.json
 "}, 
-{"name": "🐯kvymin线路","url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json"},
+{"name": "🐯kvymin线路","url": "https://152.32.170.60/kvymin/TV/raw/branch/master/Box.json"},
 
 {"name":"🐯时光1","url":"https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json"},
 
