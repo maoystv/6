@@ -248,6 +248,17 @@
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/4kvm.json"
 	},
 	{
+      "key": "187687",
+      "name": "💖分享白狐",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享BF.json"
+    },
+	{
 		"key": "XBPQ_xcf",
 		"name": "💖分享茶狐",
 		"type": 3,
