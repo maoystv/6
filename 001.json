@@ -246,6 +246,13 @@
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 
 {
+		"key": "drpy_365",
+		"name": "💖分享年年",
+		"type": 3,
+		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
+	},
+{
 		"key": "cjzy_360资源",
 		"name": "💖分享卫士",
 		"type": 1,
@@ -516,7 +523,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享自用.json"},
-       {"key":"liangzi","name":"💖分享量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/PG.txt;md5; c840802ddf48303bf2e32695d1625b2f","playerType":2,"searchable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","动作片","科幻片","战争片","爱情片","喜剧片","国产动漫","大陆综艺"]},
+       {"key":"liangzi","name":"💖分享量子","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/PG.txt;md5; c840802ddf48303bf2e32695d1625b2f","playerType":2,"searchable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","动作片","科幻片","战争片","爱情片","喜剧片","国产动漫","大陆综艺"]},
 
 {"key": "feifan","name": "💖分享非凡","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/", "playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/PG.txt;md5; c840802ddf48303bf2e32695d1625b2f","playerType":1,"searchable": 1,"changeable": 1,
 "categories": ["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
@@ -2346,7 +2353,7 @@
 {"name":"超级解析","type":3,"url":"Demo"},
 {"name":"超级嗅探","type":3,"url":"Web"},
 
-{"name":"💕推荐","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="}, 
+{"name":"💕推荐","type":1,"url":"http://tv.yydsys.link/api/icool.php?url="}, 
 
 {
       "name": "💕推荐0",
@@ -2546,6 +2553,12 @@
 "xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
 "s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
 "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+        
+        
+        
+        
+        
+        
         
         
         
