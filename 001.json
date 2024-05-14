@@ -205,7 +205,16 @@
 		"jar":"https://githubfd.deno.dev/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享DY.json"
 	},
-	
+	{"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+	{
+            "key": "DM影视",
+            "name": "💖分享朵米",
+            "type": 3,
+            "api": "csp_WebDM",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0 ,
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
          {"key":"csp_77","name":"💖分享七七","type":3 ,"api":"csp_AppEight","searchable":1,"quickSearch":1,"filterable":0,"ext":{"siteUrl":"https://api.kpyun6.cn","deviceId":"b0d43379a488e74d"} ,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
     {"key":"南瓜影视","name":"💖分享南瓜","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
          {"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
@@ -820,8 +829,6 @@
          {"key":"360_spider","name":"🍎360影视","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/js/js/360影视.js"}, 
 
 {"key":"360影视","name":"*️⃣360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
- {"key":"酷看","name":"😎酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
 {"key":"csp_觅视频","name":"💖分享影猫","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
 
         {
