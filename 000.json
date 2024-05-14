@@ -477,7 +477,7 @@
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享自用.json"},
       {"key": "阿里云集合",
       "name": "📕阿里集合",
-      "type": 3 "type": 3,
+      "type": 3,
             "api": "csp_AliShare",
             "searchable": 1,
             "changeable": 0,
