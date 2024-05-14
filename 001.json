@@ -552,7 +552,7 @@
 
       {"key": "阿里云集合",
       "name": "📕阿里集合",
-      "type": 3 "type": 3,
+      "type": 3,
             "api": "csp_AliShare",
             "searchable": 1,
             "changeable": 0,
