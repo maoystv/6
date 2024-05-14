@@ -156,7 +156,7 @@
             "quickSearch": 1,
             "name": "💖分享小雅",
             "changeable": 1,
-            "jar": "http://dengpao.space:5277/spring.jar",
+            "jar": "http://152.70.93.21:4567/spring.jar",
             "style": {
                 "type": "rect"
             },
@@ -219,15 +219,6 @@
     {"key":"南瓜影视","name":"💖分享南瓜","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
          {"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
   {"key":"耐看影视","name":"💖分享耐看","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w==","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},       
- {
-            "key": "AliPS2",
-            "name": "💖分享盘搜",
-            "type": 3,
-            "api": "csp_AliPS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},   
 	{
       "key": "ttkx3",
       "name": "💖分享开心",
