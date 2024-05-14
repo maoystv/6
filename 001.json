@@ -219,7 +219,16 @@
     {"key":"南瓜影视","name":"💖分享南瓜","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
          {"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
   {"key":"耐看影视","name":"💖分享耐看","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w==","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},       
-{
+ {
+            "key": "AliPS2",
+            "name": "💖分享盘搜",
+            "type": 3,
+            "api": "csp_AliPS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},   
+	{
       "key": "ttkx3",
       "name": "💖分享开心",
       "type": 3,
@@ -541,7 +550,37 @@
 {"key": "feifan","name": "💖分享非凡","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/", "playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/PG.txt;md5; c840802ddf48303bf2e32695d1625b2f","playerType":1,"searchable": 1,"changeable": 1,
 "categories": ["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 
-      {"key": "阿里云集合","name": "📕阿里集合","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "https://notabug.org/ygfxz/6/raw/main/is/阿里集合.json;https://152.32.170.60/66666/mao2/raw/branch/main/jar/tk.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/阿里.jar"},  
+      {"key": "阿里云集合",
+      "name": "📕阿里集合",
+      "type": 3 "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "share": ""
+            },
+            "style": {
+                "type": "list"
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
+        }, 
+        {
+            "key": "夸克影搜弹幕",
+            "name": "📕夸克影搜",
+            "type": 3,
+            "api": "csp_Yingso",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "danmu": true
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
+        }, 
     {
       "key": "yyt",
       "name": "🎵音悦台mv",
