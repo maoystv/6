@@ -183,7 +183,16 @@
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
             {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YS.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
-           {
+            {
+            "key": "AliPS2",
+            "name": "💖分享盘搜",
+            "type": 3,
+            "api": "csp_AliPS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},   
+	{
       "key": "csp_myhy",
       "name": "💖分享嘛衣",
       "type": 3,
@@ -466,7 +475,37 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享自用.json"},
-      {"key": "阿里云集合","name": "📕阿里集合","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "https://notabug.org/ygfxz/6/raw/main/is/阿里集合.json;https://152.32.170.60/66666/mao2/raw/branch/main/jar/tk.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/阿里.jar"},  
+      {"key": "阿里云集合",
+      "name": "📕阿里集合",
+      "type": 3 "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "share": ""
+            },
+            "style": {
+                "type": "list"
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
+        }, 
+        {
+            "key": "夸克影搜弹幕",
+            "name": "📕夸克影搜",
+            "type": 3,
+            "api": "csp_Yingso",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "danmu": true
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
+        }, 
        {
       "key": "Iktv",
       "name": "🎤KTV音乐",
