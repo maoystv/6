@@ -197,14 +197,12 @@
       "name": "💖分享嘛衣",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://githubfd.deno.dev/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享MY.json"},
         {
 		"key": "XBPQ_dyxs",
 		"name": "💖分享先生",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar":"https://githubfd.deno.dev/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享DY.json"
 	},
 	{"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
@@ -589,9 +587,9 @@
       "jar": "https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"
     },
 
- {"key":"liangzi","name":"💖分享量子","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://githubfd.deno.dev/gaotianliuyun/gao/master/jar/pg.jar;md5;d043e082374d30527f0b2b408bc826ff","playerType":2,"searchable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","动作片","科幻片","战争片","爱情片","喜剧片","国产动漫","大陆综艺"]},
+ {"key":"liangzi","name":"💖分享量子","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/","playUrl":"","playerType":2,"searchable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","动作片","科幻片","战争片","爱情片","喜剧片","国产动漫","大陆综艺"]},
 
-{"key": "feifan","name": "💖分享非凡","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/", "playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"https://githubfd.deno.dev/gaotianliuyun/gao/master/jar/pg.jar;md5;d043e082374d30527f0b2b408bc826ff","playerType":1,"searchable": 1,"changeable": 1,
+{"key": "feifan","name": "💖分享非凡","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/", "playUrl":"","playerType":1,"searchable": 1,"changeable": 1,
 "categories": ["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 
     { "key": "fy影院","name": "💖分享飞鱼","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
