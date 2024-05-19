@@ -467,7 +467,7 @@
       "key": "Iktv",
       "name": "🎤KTV音乐",
       "type": 3,
-      "api": "csp_Iktv",
+      "api": "csp_WexIktv",
       "searchable": 1,
       "changeable": 0,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt"
@@ -476,7 +476,7 @@
       "key": "yyt",
       "name": "🎵音悦台mv",
       "type": 3,
-      "api": "csp_Yinyuetai",
+      "api": "csp_WexYinyuetai",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
