@@ -117,7 +117,7 @@
 	"name": "💖分享健身",
 	"type": 3,
 	"api": "csp_Wextangdou",
-                "jar": "https://4723.kstore.space/wex.jar",
+                "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt",
 	"searchable": 1,
 	"changeable": 0,
 	"style": {
@@ -554,7 +554,7 @@
       "filterable": 1,
       "timeout": 30,
       "playerType": 1,
-      "jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/YT.txt"},
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt"},
       {
       "key": "Iktv",
       "name": "🎤KTV音乐",
@@ -562,7 +562,7 @@
       "api": "csp_Iktv",
       "searchable": 1,
       "changeable": 0,
-       "jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/YT.txt"
+       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt"
     },
 
 	{
