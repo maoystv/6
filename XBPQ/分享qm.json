@@ -1,0 +1,20 @@
+{
+"主页url": "http://www.qimaoym.com",
+"数组":"class=\"module-item-cover\">&&class=\"module-item\">",
+"标题": "title=\"&&\"",
+"副标题": "分享者在线+module-item-text\">&&</div>",
+"链接":"href=\"&&\"",
+"图片": "data-src=\"&&\"",
+"嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+"搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
+"影片类型": "<div class=\"module-info-tag\">&&立即播放",
+"线路数组": "module-tab-item tab-item\"&&</div>",
+"线路标题": "<span>&&</small>[替换:</span><small>>>分享者]+集",
+"播放数组":"class=\"module-blocklist\">&&</div",
+"播放列表":"<a&&</a",
+"播放标题":"<span&&</span",
+"导演": "导演：&&</div>",
+"主演": "主演：&&</div>",
+"分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
+"分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+}
