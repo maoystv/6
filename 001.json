@@ -180,14 +180,6 @@
           {"key": "csp_XYQHikerAL_分享影音","name":"💖分享影音","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
        {"key": "csp_XYQHikerAL_分享资源","name":"💖分享资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享ZY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
 	{
-            "key": "米搜",
-            "name": "💖分享米搜",
-            "type": 4,
-            "api": "http://fongmi.eu.org/misou.php",
-            "searchable": 1,
-            "quicksearch": 1
-        },
-	{
       "key": "csp_myhy",
       "name": "💖分享嘛衣",
       "type": 3,
