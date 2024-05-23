@@ -239,6 +239,20 @@
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
 	},
+	{
+		"key": "drpy_jk",
+		"name": "💖分享即看",
+		"type": 3,
+		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/drpy_libs/drpy2.js",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/js/分享JK.js"
+	},
+	{
+		"key": "drpy_zr",
+		"name": "💖分享孜然",
+		"type": 3,
+		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/drpy_libs/drpy2.js",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/js/分享ZR.js"
+	},
     {
 		"key": "cjzy_360资源",
 		"name": "💖分享卫士",
