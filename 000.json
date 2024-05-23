@@ -887,7 +887,7 @@
 {"key": "XBPQ_AMD","name": "💖分享|AMD","type": 3,"api": "csp_XBPQ","ext": {"搜索url": "https://cms.fdue.de/index.php/vod/search.html?wd={wd}","分类url": "https://cms.fdue.de/index.php/vod/type/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影&连续剧&动漫","分类值": "1&2&4"}},
 {"key": "wangfei","name": "💖分享网飞","type": 3,"api": "csp_XBPQ","ext": {"线路数组":"<div class=\"module-tab-item&&</div>[排序:][排序:HN线路>SO线路>KK线路]","线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]","分类url": "https://www.wangfei.live/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman"}},
 {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
-           {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Fx.txt"},
+           {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/七星.jar"},
          {"key":"360_spider","name":"🍎360影视","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/js/js/360影视.js"}, 
 
 {"key":"360影视","name":"*️⃣360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -915,13 +915,6 @@
   "type": 3,
   "api": "https://152.32.170.60/smy/zy/raw/branch/master/cat/js/mayiya_open.js"
   },
-  {
-      "key": "蜜果视界",
-      "name": "🍑蜜果视界",
-      "api": "csp_AppYs",
-      "type": 3,
-      "ext": "https://miguo.pro/api.php/v1.vod"
-    },
      
          {"key":"PiaoHua","name":"💖分享飘花","type":3,"api":"csp_PiaoHua","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://d.kstore.space/download/4127/ali/PiaoHua.jar"},
           {"key":"csp_CandyMuj_taoju","name":"💖分享淘剧","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://d.kstore.space/download/4127/ali/PiaoHua.jar"},
@@ -1238,19 +1231,6 @@
         },
 {"key":"小柚","name":"🍊柚此可见","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
 
-{
-            "key": "996",
-            "name": "🍷996影视",
-            "type": 3,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-                "筛选": "1"
-            }
-        },
-
          {
 			"key": "zibo",
 			"name": "📻直播电台",
@@ -1457,25 +1437,7 @@
    {"key":"csp_lwdy","name":"🕵️‍♀️老王电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
 
     {"key":"csp_1080ksj","name":"🌝看遍世界","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/js/1080看视界.js"},
-             {"key":"zsy",
-        "name":"🧇至圣文宣",
-        "type":1,
-        "api":"http://82.156.40.118:1234/api.php/provide/vod/",
-        "searchable":1,
-        "changeable":1,
-        "quickSearch":1,
-        "filterable":1
-        },
-     {"key":"態掌",
-        "name":"🐻‍❄️熊掌采集",
-        "type":1,
-        "api":"http://xzcjz.com/api.php/provide/vod/at/json",
-        "searchable":1,
-        "changeable":1,
-        "quickSearch":1,
-        "filterable":1
-        },
-
+             
 {
     "key":"csp_XBPQ_duoju",
     "name":"🏫多剧影院",
@@ -1693,19 +1655,8 @@
       ]
     },
 
-{
-			"key": "qqtv",
-			"name": "😎历历在目",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.qqtv.vip/icciu_api.php/v1.vod"
-		},
 {"key": "鑫鑫影视","name": "🏡影视之家", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
   
-     {"key": "juj", "name": "🫵聚集焦点", "type": 3, "api": "csp_AppYs","playerType":2,"ext": "https://www.mjlnl.cn/api.php/v1.vod"},
   {
 "key": "Bilfun",
       "name": "🎒七之社区",
@@ -1746,35 +1697,8 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
-{"key":"无限影视","name":"🔆无限风光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wxtv.net/api.php/app/"},
  {"key":"奈飞狗","name":"🐶奈飞狗仔","type":3,"api":"csp_AppYs", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://netflixdog.club/api.php/app/"},
            {"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-      
-  {"key": "modu","name": "🔍魔都动漫","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
-    
-        {"key":"sohu","name":"💗搜狐php","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-
-         {
-            "key": "py1",
-            "name": "🌺朴樱影视",
-            "type": 3,
-            "playerType": 1,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://notabug.org/ygfxz/6/raw/main/js/朴樱影视.js"
-        },
-      
-    {
-            "key": "俊俊",
-            "name": "❇️宅腐追剧",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-},
     {"key":"csp_QQ1","name":"🐧腾讯官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"爱奇艺","name":"🥝奇艺官源","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 
