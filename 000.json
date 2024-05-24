@@ -125,18 +125,20 @@
 		"ratio": 2
 	}
 },
-
-		{"key":"py_cctv_集合","name":"🇨🇳央视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/Ygfxz/0/-/raw/main/cctvpk.json"},
-        {
-      "key": "py_cctv",
-      "name": "🇨🇳央视大全",
-      "type": 3,
-      "api":"py_cctv",
-      "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-      "ext": "https://notabug.org/ygfxz/6/raw/main/PY/py_cctv.py"
-    },
+	{
+			"key": "py_央视片库",
+			"name": "🇨🇳央视片库",
+			"type": 3,
+			"api": "py_cctv",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/央视片库.py"
+		},
+		{
+			"key": "py_央视节目",
+			"name": "🇨🇳央视栏目",
+			"type": 3,
+			"api": "py_cctv",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/央视节目.py"
+		}, 
     {
             "ext": "eyJhcGkiOiJodHRwOi8vZGVuZ3Bhby5zcGFjZTo1Mjc3IiwidG9rZW4iOiJ5dTYyNjc0MCJ9",
             "filterable": 1,
