@@ -185,6 +185,20 @@
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享DY.json"
 	},
+	{
+		"key": "XBPQ_kkxs",
+		"name": "💖分享可可",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享KK.json"
+	},
+	 {
+		"key": "XBPQ_420xs",
+		"name": "💖分享示儿",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享420.json"
+	},
 	{"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
 	{
             "key": "DM影视",
@@ -863,6 +877,16 @@
         "分类": "电影$1#剧集$2#动漫$4#综艺$3"
       }
     },
+	{
+            "key": "三米ys",
+            "name": "💖分享三米",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
+                "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
+            }
+        },
     {"key": "csp_红狐狸影视","name": "💖分享狐狸","type": 3,"api": "csp_XBPQ", "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar","ext": {"分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
     {
     "key": "狸云",
@@ -1048,13 +1072,6 @@
             "quickSearch": 2,
             "filterable": 1,
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
-        },
-        {
-            "key": "csp_XBPQ",
-            "name": "💖分享可可",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/kekeys.json"
         },
         {
       "key":"csp_河马",
