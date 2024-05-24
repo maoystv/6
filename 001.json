@@ -180,6 +180,16 @@
           {"key": "csp_XYQHikerAL_分享影音","name":"💖分享影音","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
        {"key": "csp_XYQHikerAL_分享资源","name":"💖分享资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享ZY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
 	{
+			"key": "csp_Ikanbot",
+			"name": "💖分享机器",
+			"type": 3,
+			"api": "csp_Ikanbot",
+			"changeable": 1,
+			"playerType": 2,
+			"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt",
+			"ext":"[排序:lx线路,bfzy线路,kuaik]"
+		},
+	{
       "key": "csp_myhy",
       "name": "💖分享嘛衣",
       "type": 3,
@@ -1772,17 +1782,6 @@
             "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", 
             "ext": "https://152.32.170.60/alanchaotang/dr_py/raw/branch/main/js/北川影视.js"}, 
 
-        
-{
-			"key": "csp_Ikanbot",
-			"name": "👾爱看机器",
-			"type": 3,
-			"api": "csp_Ikanbot",
-			"changeable": 1,
-			"playerType": 2,
-			"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt",
-			"ext":"[排序:lx线路,bfzy线路,kuaik]"
-		},
     {"key":"荔枝","name":"🍐荔枝采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.zjys.vip/api.php/iptv/vod/"},
 {"key":"包子资源","name":"🥟包子采集","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":[]},
 {"key":"祥祥资源","name":"🫕祥子采集","type":1,"api":"http://141.147.146.105/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
