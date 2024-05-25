@@ -219,6 +219,20 @@
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享420.json"
 	},
+	{
+      "key": "新gj",
+      "name": "💖分享自建",
+      "type": 1,
+      "api": "http://27.54.236.201/api.php/provide/vod/",
+      "playUrl": "json:http://27.54.236.201:1122/?url=",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  
+        {"key":"AI1","name":"💖分享AI1","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
+        {"key":"AI2","name":"💖分享AI2","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
 	 {"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
 	{
             "key": "DM影视",
@@ -1066,18 +1080,7 @@
       "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/百忙无果.js"
     },
     {"key": "dr_优酷2","name": "🔭优酷视频","type": 3,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/js/js/优酷.js"},
-          {
-        "key": "分享",
-        "name": "💖分享专用",
-        "type": 3,
-        "api": "https://notabug.org/ygfxz/6/raw/main/js/AppYsV2.js",
-        "ext": {
-          "host": "http://106.52.244.241/api.php/app/",
-          "*": [
-            "https://json.oorl.cn/api/?key=xdLCoyFT4zZGVlI4vj&url="
-          ]
-        }       
-      },
+    
       {
       "key": "左岸",
       "name": "💖分享桌案",
@@ -2458,7 +2461,8 @@
 		{"name":"💖分享1","type":1,"url":"http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"💖分享2","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"💖分享3","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
-
+{"name":"💕分享Al1","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
+		{"name":"💕分享Al2","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="},
 		{
       "name": "❤️分享几乎",
       "type": 0,
@@ -2485,9 +2489,6 @@
 				}
 			}
 		},
-
-		{"name":"💕分享默认","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
-		{"name":"💕分享官差","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="},
 		 {
             "name": "🈳️分享空白",
             "type": 1,
