@@ -2481,21 +2481,8 @@
 		{"name":"💖分享1","type":1,"url":"http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"💖分享2","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"💖分享3","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"💕分享Al1","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
-		{"name":"💕分享Al2","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="},
-	{
-      "name": "❤️分享几乎",
-      "type": 0,
-      "url": "http://103.233.255.142:1133/?url=",
-      "ext": {
-        "flag": [
-          "NBY"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },  
+{"name":"💕分享Al1","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","header":{"User-Agent":"okhttp/4.9.1"}},
+		{"name":"💕分享Al2","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","header":{"User-Agent":"okhttp/4.9.1"}},  
 		{
 			"name": "💕分享麻衣",
 			"type": 1,
@@ -2573,7 +2560,20 @@
       "type": 0,
       "url": "https://t1.qlplayer.cyou/player/?url=","header":{"User-Agent":"Dart/3.0(dart:io)"}},   
       {"name":"虾米嗅探","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},     
-                {
+         {
+      "name": "❤️分享几乎",
+      "type": 0,
+      "url": "http://103.233.255.142:1133/?url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },        
+	{
       "name": "8090",
       "type": 0,
       "url": "https://www.8090g.cn/jiexi/?url=",
