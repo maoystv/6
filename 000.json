@@ -212,7 +212,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  
+    {
+			"key": "csp_Ikanbot",
+			"name": "💖分享机器",
+			"type": 3,
+			"api": "csp_Ikanbot",
+			"changeable": 1,
+			"playerType": 2,
+			"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt",
+			"ext":"https://v.aikanbot.com"
+		},
         {"key":"AI1","name":"💖分享AI1","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
         {"key":"AI2","name":"💖分享AI2","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
 	{"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
@@ -1775,23 +1784,6 @@
 "分类": "电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29"
 }
 },     
-{
-            "key": "北川", 
-            "name": "❄️北国风光", 
-            "type": 3, 
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", 
-            "ext": "https://152.32.170.60/alanchaotang/dr_py/raw/branch/main/js/北川影视.js"}, 
-
-{
-			"key": "csp_Ikanbot",
-			"name": "👾爱看机器",
-			"type": 3,
-			"api": "csp_Ikanbot",
-			"changeable": 1,
-			"playerType": 2,
-			"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt",
-			"ext":"[排序:lx线路,bfzy线路,kuaik]"
-		},
     {"key":"荔枝","name":"🍐荔枝采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.zjys.vip/api.php/iptv/vod/"},
 {"key":"包子资源","name":"🥟包子采集","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":[]},
 {"key":"祥祥资源","name":"🫕祥子采集","type":1,"api":"http://141.147.146.105/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
