@@ -150,7 +150,8 @@
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/lib/drpy2.min.js",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/YGFXZ.js"
 	},
-{"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/NM.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
+{"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip",
+	"searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
         {
             "key": "米米影视",
             "name": "💖分享多米",
@@ -159,13 +160,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/NM.zip"
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
         },
         {"key":"mt",
 		"name":"💖分享摩托",
 		"type":3,
 		"api":"csp_App",
-		"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/NM.zip","searchable":1,"quickSearch":0,"filterable":0,
+		"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,
 		"ext":"735qMSRexNTHh8DYNtSH8HogEjUddulQhaoWRdQYBanh6VDDcF7tMMlWWTAb64F2IDQnbNvFvWkHljTMDLgJevGSVFbCLaOp3tjbhptgB+PSoAuP94eq9b/PSKKKt+iiD1NxYykHgOywBTz3Y6fgY/qoOY99PP8akWiKZHauMG77h5eYkSo/wmaU2XsBZL38mfpEH/LBVJUrM1GcMcF+TUrll0E1fOvQDj7ni4JVA+bYA3rHHYzfxFIlXdK9GDhlteINRJxESq6K7gQEZJRF2SWowxlbBW5iZI9zaYlc5jw+iYY6U7wSZeq5BR5f2D7egHn8MiiN6cU2uK7oyC8knu5Y6zdgWYkBWA5nuMiuu6p526ADSFcG5H5tvje1xAAsF8dQ4wC20KNp29FZVkUIP+wFaW4PTEDRcm6N7j8+KV/kXd5QJ5PvlbRV06i0osX+cci6loAgKHxq5Qerxi369Ecm0nBmMExAM7gqb1AVPe0="},
 	{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
