@@ -125,41 +125,17 @@
 		"ratio": 2
 	}
 },
-	{
-			"key": "py_央视片库",
-			"name": "🇨🇳央视片库",
-			"type": 3,
-			"api": "py_cctv",
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/央视片库.py"
-		},
-		{
-			"key": "py_央视节目",
-			"name": "🇨🇳央视栏目",
-			"type": 3,
-			"api": "py_cctv",
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/央视节目.py"
-		}, 
-    {
-            "ext": "eyJhcGkiOiJodHRwOi8vZGVuZ3Bhby5zcGFjZTo1Mjc3IiwidG9rZW4iOiJ5dTYyNjc0MCJ9",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "💖分享小雅",
-            "changeable": 1,
-            "jar": "http://dengpao.space:5277/spring.jar",
-            "style": {
-                "type": "rect"
-            },
-            "api": "csp_XiaoYa",
-            "type": 3,
-            "key": "csp_XiaoYa",
-            "searchable": 1
-        },
+{"key":"hipy_py_cntv央视","name":"🇨🇳分享央视","type":4,"api":"http://156.238.237.232:5707/api/v1/vod/cntv央视?pwd=dzyyds","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"ext":"http://156.238.237.232:5707/files/hipy/cntv央视.json"},
+	
+      {"key":"csp_XiaoYa","name":"💖分享小雅","ext":"eyJhcGkiOiJodHRwOi8vZGVuZ3Bhby5zcGFjZTo1Mjc3IiwidG9rZW4iOiJ5dTYyNjc0MCJ9","filterable":1,"quickSearch":1,"changeable":1,"jar":"http://dengpao.space:5277/spring.jar","style":{"type":"rect"},
+"api":"csp_XiaoYa","type":3,"searchable":1},
     {"key":"AList","name":"📕雅雅网盘","type":3, "api": "http://nas.taogestudio.cn:5678/tvbox/libs/alist.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://nas.taogestudio.cn:5678/tvbox/json/alist_ext.json;200;video"
     },
+  {"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/NM.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
   {
 		"key": "drpy_侬好",
 		"name": "💖分享者vip",
