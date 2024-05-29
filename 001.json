@@ -126,35 +126,10 @@
 	}
 },
 
-		{
-			"key": "py_央视片库",
-			"name": "🇨🇳央视片库",
-			"type": 3,
-			"api": "py_cctv",
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/央视片库.py"
-		},
-		{
-			"key": "py_央视节目",
-			"name": "🇨🇳央视栏目",
-			"type": 3,
-			"api": "py_cctv",
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/央视节目.py"
-		}, 
-    {
-            "ext": "eyJhcGkiOiJodHRwOi8vdHh5LmxqaWFuZy50b3A6NDU2NyIsInRva2VuIjoibGppYW5nMTk2ODEwOCJ9",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "💖分享小雅",
-            "changeable": 1,
-            "jar": "http://txy.ljiang.top:4567/spring.jar",
-            "style": {
-                "type": "rect"
-            },
-            "api": "csp_XiaoYa",
-            "type": 3,
-            "key": "csp_XiaoYa",
-            "searchable": 1
-        },
+		{"key":"hipy_py_cntv央视","name":"🇨🇳分享央视","type":4,"api":"http://156.238.237.232:5707/api/v1/vod/cntv央视?pwd=dzyyds","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"ext":"http://156.238.237.232:5707/files/hipy/cntv央视.json"},
+		
+  {"key":"csp_XiaoYa","name":"💖分享小雅","ext":"eyJhcGkiOiJodHRwOi8vZGVuZ3Bhby5zcGFjZTo1Mjc3IiwidG9rZW4iOiJ5dTYyNjc0MCJ9","filterable":1,"quickSearch":1,"changeable":1,"jar":"http://dengpao.space:5277/spring.jar","style":{"type":"rect"},
+"api":"csp_XiaoYa","type":3,"searchable":1},
    {
             "ext": "eyJhcGkiOiJodHRwOi8vMTUyLjcwLjkzLjIxOjQ1NjciLCJ0b2tlbiI6Im9yYWNsZWNsb3VkIn0=",
             "filterable": 1,
@@ -175,7 +150,7 @@
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/lib/drpy2.min.js",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/YGFXZ.js"
 	},
-
+{"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/NM.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
          {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
