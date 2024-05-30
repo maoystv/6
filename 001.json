@@ -198,10 +198,10 @@
             "filterable": 0,
             "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
         },
-	{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
-          {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
-           {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
-         {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YS.json","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"},
+	{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享玩偶.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt"},
+          {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt"},
+           {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt"},
+         {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YS.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt"},
           {"key": "csp_XYQHikerAL_分享影音","name":"💖分享影音","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
        {"key": "csp_XYQHikerAL_分享资源","name":"💖分享资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享ZY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
 	  {
@@ -211,7 +211,7 @@
 			"api": "csp_Ikanbot",
 			"changeable": 1,
 			"playerType": 2,
-			"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt",
+			"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt",
 			"ext":"https://v.aikanbot.com"
 		},
 	{
@@ -287,7 +287,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "http://rihou.vip:55/lib/玩我哥哥.json",
-      "jar": "https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt"
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt"
     },
     {"key":"爱ai看","name":"💖分享ai看","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt","ext":"FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"},
     {"key":"虾米","name":"🦀分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt","ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
@@ -443,10 +443,10 @@
             "filterable": 1,
             "ext": "http://43.136.176.188:92/api.php/app/"
         },
-{"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys.top/@一个分享者@","jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
-         {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
-          {"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
-         {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/Fr.jar"},
+{"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys.top/@一个分享者@","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/CZ.txt"},
+         {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/CZ.txt"},
+          {"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/CZ.txt"},
+         {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Fr.jar"},
 
 {
       "key": "shu素白白",
@@ -1058,7 +1058,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt",
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/9995yunpan.json"
     },
     {
@@ -1069,7 +1069,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://152.32.170.60/66666/mao2/raw/branch/main/jar/Xiang.txt",
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/COKEMV影院.json"
     },
 {
