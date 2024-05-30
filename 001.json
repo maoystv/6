@@ -84,7 +84,7 @@
     },
  
     {"key": "csp_KungFu404","name":"⚙️阿里设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/阿里设置.txt"},
-    {"key":"配置中心","name":"⚙️云盘配置","type": 3,"api": "csp_Config","searchable":0,"changeable":0,"style": {"type": "rect","ratio": 1},"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/PG.txt;md5; c840802ddf48303bf2e32695d1625b2f","ext":"https://152.32.170.60/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json"},
+    {"key":"配置中心","name":"⚙️云盘配置","type": 3,"api": "csp_Config","searchable":0,"changeable":0,"style": {"type": "rect","ratio": 1},"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/PG.txt;md5; c840802ddf48303bf2e32695d1625b2f","ext":"https://152.32.170.60/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json"},
      {
 			"key": "douban",
 			"name": "🅱️豆瓣评分",
@@ -769,7 +769,7 @@
       "key": "花漾",
       "name": "💖分享花样",
       "type": 3,
-      "api": "https://152.32.170.60/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
+      "api": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/AppysV2.js",
       "ext": {
         "host": "https://fy.51qwkanpian.xyz/feiyun/api.php/app/",
         "*": [
@@ -781,7 +781,7 @@
       "key": "FEIYUN",
       "name": "💖分享飛雲",
       "type": 3,
-      "api": "https://152.32.170.60/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
+      "api": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/AppysV2.js",
       "ext": {
         "host": "http://122.228.84.103:6117/api.php/app/",
         "*": [
@@ -795,7 +795,7 @@
       "name": "💖分享几乎",
       "type": 3,
       "quickSearch": 1,
-      "api": "https://152.32.170.60/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
+      "api": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/AppysV2.js",
       "ext": {
         "host": "http://122.228.84.103:5822/api.php/app/",
         "*": [
@@ -907,7 +907,7 @@
       "api": "csp_WexFangniu4k",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://152.32.170.60/66666/XC/raw/branch/master/jar/FxzPg.txt"
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
     },
     {
       "key": "mrys",
@@ -916,7 +916,7 @@
       "api": "csp_WexMingriys",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://152.32.170.60/66666/XC/raw/branch/master/jar/FxzPg.txt"
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
     },
     {
       "key": "https://4kvm.site/",
@@ -925,7 +925,7 @@
       "api": "csp_WexF4kvm",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://152.32.170.60/66666/XC/raw/branch/master/jar/FxzPg.txt"
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
     },
      {
       "key": "xd",
@@ -934,7 +934,7 @@
       "api": "csp_Wexxiongduys",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://152.32.170.60/66666/XC/raw/branch/master/jar/FxzPg.txt"
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
     },
     {
       "key": "dgys",
@@ -943,7 +943,7 @@
       "api": "csp_Wexdiguatv",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://152.32.170.60/66666/XC/raw/branch/master/jar/FxzPg.txt"
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
     },
     {
       "key": "Wexxpgtv",
@@ -952,7 +952,7 @@
       "api": "csp_Wexxpgtv",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://152.32.170.60/66666/XC/raw/branch/master/jar/FxzPg.txt"
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
     },
      {
       "key": "bdys",
@@ -961,7 +961,7 @@
       "api": "csp_WexBDys",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://152.32.170.60/66666/XC/raw/branch/master/jar/FxzPg.txt"
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
     },
     {
 "key": "csp_xBPQ_zhui",
@@ -1144,7 +1144,7 @@
     
         {"key": "gsgs","name": "💖分享酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
         {"key":"Jojo","name":"💖分享JOjo","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/4127/jojo.jar"},
-{ "key":"csp_YingShi","name":"🦀影视海外","type":3,"api":"csp_YingShi", "jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/PG.txt;md5; c840802ddf48303bf2e32695d1625b2f","ext":""},
+{ "key":"csp_YingShi","name":"🦀影视海外","type":3,"api":"csp_YingShi", "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/PG.txt;md5; c840802ddf48303bf2e32695d1625b2f","ext":""},
       { "key": "白度影视", "name": "💖分享白度", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/" },
  
     {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
