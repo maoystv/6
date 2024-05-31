@@ -135,6 +135,15 @@
       "filterable": 0,
       "ext": "http://nas.taogestudio.cn:5678/tvbox/json/alist_ext.json;200;video"
     },
+	 {
+            "key": "KK影视",
+            "name": "💖分享连看",
+            "type": 3,
+            "api": "csp_WebIV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0 ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
+        },
   {"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM",
 	  "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
   {
@@ -284,7 +293,6 @@
             "quickSearch": 1,
             "filterable": 0 ,
             "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-           {"key":"csp_77","name":"💖分享七七","type":3 ,"api":"csp_AppEight","searchable":1,"quickSearch":1,"filterable":0,"ext":{"siteUrl":"https://api.kpyun6.cn","deviceId":"b0d43379a488e74d"} ,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
     {"key":"南瓜影视","name":"💖分享南瓜","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
          {"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
   {"key":"耐看影视","name":"💖分享耐看","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w==","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},       
