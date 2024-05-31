@@ -150,6 +150,15 @@
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/lib/drpy2.min.js",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/YGFXZ.js"
 	},
+	 {
+            "key": "KK影视",
+            "name": "💖分享连看",
+            "type": 3,
+            "api": "csp_WebIV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0 ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
+        },
 {"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip",
 	"searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
         {
