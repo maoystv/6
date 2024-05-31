@@ -147,6 +147,16 @@
             "filterable": 0,
             "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
         },
+	{"key":"csp_77","name":"💖分享七七","type":3 ,"api":"csp_AppEight","searchable":1,"quickSearch":1,"filterable":0,"ext":{"siteUrl":"https://api.kpyun6.cn","deviceId":"b0d43379a488e74d"} ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"},
+        {
+            "key": "圣人之城",
+            "name": "💖分享圣城",
+            "type": 3,
+            "api": "csp_AppNK",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w==","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
+        },
         {"key":"mt","name":"💖分享摩托","type":3,"api":"csp_App",
 		"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,
 		"ext":"735qMSRexNTHh8DYNtSH8HogEjUddulQhaoWRdQYBanh6VDDcF7tMMlWWTAb64F2IDQnbNvFvWkHljTMDLgJevGSVFbCLaOp3tjbhptgB+PSoAuP94eq9b/PSKKKt+iiD1NxYykHgOywBTz3Y6fgY/qoOY99PP8akWiKZHauMG77h5eYkSo/wmaU2XsBZL38mfpEH/LBVJUrM1GcMcF+TUrll0E1fOvQDj7ni4JVA+bYA3rHHYzfxFIlXdK9GDhlteINRJxESq6K7gQEZJRF2SWowxlbBW5iZI9zaYlc5jw+iYY6U7wSZeq5BR5f2D7egHn8MiiN6cU2uK7oyC8knu5Y6zdgWYkBWA5nuMiuu6p526ADSFcG5H5tvje1xAAsF8dQ4wC20KNp29FZVkUIP+wFaW4PTEDRcm6N7j8+KV/kXd5QJ5PvlbRV06i0osX+cci6loAgKHxq5Qerxi369Ecm0nBmMExAM7gqb1AVPe0="},
