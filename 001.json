@@ -430,7 +430,7 @@
             "name": "💖分享丽波",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://152.32.170.60/66666/000/raw/branch/master/XBPQ/LiBo.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/LiBo.json"
         },
        {
             "key": "kongbai",
@@ -503,7 +503,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://152.32.170.60/66666/000/raw/branch/master/XBPQ/分享fantuan.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享fantuan.json"
     },
   
     {
