@@ -296,17 +296,7 @@
         {"key":"AI1","name":"💖分享AI1","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
         {"key":"AI2","name":"💖分享AI2","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
 	 {"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-	{
-            "key": "DM影视",
-            "name": "💖分享朵米",
-            "type": 3,
-            "api": "csp_WebDM",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0 ,
-            "jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
     {"key":"南瓜影视","name":"💖分享南瓜","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-         {"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
   {"key":"耐看影视","name":"💖分享耐看","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w==","jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},   
        
 {
