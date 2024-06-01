@@ -101,7 +101,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://pan.shangui.cc/f/eD2gcQ/分享新片.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享新片.json"
     },
 {
       "key": "t4直播转点播",
@@ -337,7 +337,13 @@
     },
     {"key":"miaociyuan","name":"💖分享喵喵","api":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/喵次元.js"}, 
         {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
-
+{
+		"key": "drpy_mq",
+		"name": "💖分享麻雀",
+		"type": 3,
+		"api": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/js/lib/drpy2.min.js",
+		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/js/分享MQ.js"
+	},
 {
 		"key": "drpy_365",
 		"name": "💖分享年年",
