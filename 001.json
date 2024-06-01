@@ -171,6 +171,7 @@
             "filterable": 0,
             "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
         },
+	{"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"},
 	{"key":"csp_77","name":"💖分享七七","type":3 ,"api":"csp_AppEight","searchable":1,"quickSearch":1,"filterable":0,"ext":{"siteUrl":"https://api.kpyun6.cn","deviceId":"b0d43379a488e74d"} ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"},
         {
             "key": "圣人之城",
