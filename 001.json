@@ -130,18 +130,9 @@
 		
   {"key":"csp_XiaoYa","name":"💖分享小雅","ext":"eyJhcGkiOiJodHRwOi8vZGVuZ3Bhby5zcGFjZTo1Mjc3IiwidG9rZW4iOiJ5dTYyNjc0MCJ9","filterable":1,"quickSearch":1,"changeable":1,"jar":"http://dengpao.space:5277/spring.jar","style":{"type":"rect"},
 "api":"csp_XiaoYa","type":3,"searchable":1},
-   {
-            "ext": "eyJhcGkiOiJodHRwOi8vMTUyLjcwLjkzLjIxOjQ1NjciLCJ0b2tlbiI6Im9yYWNsZWNsb3VkIn0=",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "📕雅雅网盘",
-            "changeable": 0,
-            "jar": "http://152.70.93.21:4567/spring.jar",
-            "api": "csp_AList",
-            "type": 3,
-            "key": "AList",
-            "searchable": 1
-        },
+	{"key":"AList","name":"💖分享雅雅","type":3,"api":"csp_AListBox",
+		"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"changeable":0,"quickSearch":0,
+	  "ext":"https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/xiaoya.json#一个分享者#免费分享","style":{"type":"list"}},
 
  {
 		"key": "drpy_侬好",
@@ -160,7 +151,7 @@
             "filterable": 0 ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
         },
 {"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip",
-	"searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
+	"searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.emsdn.cn"},
         {
             "key": "米米影视",
             "name": "💖分享多米",
