@@ -1,0 +1,32 @@
+{
+  "vodPic": "https://inews.gtimg.com/newsapp_bt/0/13263837859/1000",
+  "classes": [
+    {
+      "type_name": "电影",
+      "type_id": "/电影",
+      "type_flag":"1"
+    },
+    {
+      "type_name": "剧集",
+      "type_id": "/电视剧",
+      "type_flag":"1"
+    },
+    {
+      "type_name": "纪录片",
+      "type_id": "/纪录片",
+      "type_flag":"1"
+    },
+    {
+      "type_name": "戏曲",
+      "type_id": "/戏曲",
+      "type_flag":"1"
+    },
+    {
+      "type_name": "动漫",
+      "type_id": "/动漫",
+      "type_flag":"1"
+    }
+  ],
+  "site":{"name":"雅雅","server":"https://pan.ecve.cn"},
+  "homeContent":"/新片速递"
+}
