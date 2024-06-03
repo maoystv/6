@@ -228,7 +228,8 @@
          {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YS.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt"},
           {"key": "csp_XYQHikerAL_分享影音","name":"💖分享影音","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
        {"key": "csp_XYQHikerAL_分享资源","name":"💖分享资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享ZY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-	  {
+	  {"key": "阿里集合","name": "分享合集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/is/阿里集合.json;http://127.0.0.1:9978/file/TVBox/token.txt","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/阿里.jar"},   
+	{
 			"key": "csp_Ikanbot",
 			"name": "💖分享机器",
 			"type": 3,
