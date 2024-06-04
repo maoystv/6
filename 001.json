@@ -259,6 +259,9 @@
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享KK.json"
 	},
+	{"key": "csp_xpath_tjyy","name": "💖分享奇优","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
+"jar":"",
+"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QY.json"},
 	 {
 		"key": "XBPQ_420xs",
 		"name": "💖分享示儿",
@@ -1362,18 +1365,6 @@
             "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/好趣.js"
         },
-        {
-            "key": "tuxiaobei_open",
-            "name": "🐰兔小贝cat",
-            "type": 3,
-            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/watson/cat/tuxiaobei_open.js"
-        },
-        {
-            "key": "ubestkid_open",
-            "name": "🐅贝乐虎cat",
-            "type": 3,
-            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/watson/cat/ubestkid_open.js"
-        },
          {
             "key": "猫360",
             "name": "🐙360Kan",
@@ -1386,48 +1377,7 @@
             "type": 3,
             "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/nangua_open.js"
         },
-        {
-        "key": "人人影视",
-        "name": "👩‍❤️‍👩人人[cat]",
-        "type": 3,
-        "api": "https://152.32.170.60/smy/zy/raw/branch/master/cat/js/rttks_open.js"
-   },
-   {
-        "key": "996影视",
-        "name": "🌂久留[cat]",
-        "type": 3,
-        "api": "https://152.32.170.60/smy/zy/raw/branch/master/cat/js/ys996_open.js"
-    }, 
-    {
-        "key": "免费看",
-        "name": "🥘免费[cat]",
-        "type": 3,
-        "api": "https://152.32.170.60/smy/zy/raw/branch/master/cat/js/mfk_open.js"
-   },  
-   {
-        "key": "多瑙影视",
-        "name": "🥟多瑙[cat]",
-        "type": 3,
-        "api": "https://152.32.170.60/smy/zy/raw/branch/master/cat/js/dnys_open.js"
-   }, 
-   {
-        "key": "z追剧迷",
-        "name": "🦒追剧[cat]",
-        "type": 3,
-        "api": "https://152.32.170.60/smy/zy/raw/branch/master/cat/js/zjm_open.js"
-   },  
- {
-        "key": "热播r之家",
-        "name": "🧣热播[cat]",
-        "type": 3,
-        "api": "https://152.32.170.60/smy/zy/raw/branch/master/cat/js/rbzj_open.js"
-   },
- {
-        "key": "影渣渣",
-        "name": "🐽影渣[cat]",
-        "type": 3,
-        "api": "https://152.32.170.60/smy/zy/raw/branch/master/cat/js/yzz_open.js"
-   }, 
+        
          {
             "key": "1yyt",
             "name": "🎧音悦[cat]",
