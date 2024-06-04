@@ -421,7 +421,7 @@
 
 { "url": "https://yydsys.top/duo", "name": "多多" },
 
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风" },
 
 { "url": "https://download.kstore.space/download/3313/app/ymzn", "name": "夜猫子" },
 
@@ -433,7 +433,7 @@
 
 {
             "name": "🎎短剧大全",
-            "url": "https://152.32.170.60/hu/hcr/raw/branch/master/10086.json"
+            "url": "https://152.32.170.60/hu/hcr/raw/branch/master/10086.json" 
         },
 
 {"name":"👭短剧备用","url":"https://codeberg.org/hcr/hcr/raw/branch/hu/10086.json
