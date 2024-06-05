@@ -152,7 +152,7 @@
         },
 {"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip",
 	"searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
-       {"key":"厂长cz","name":"💖分享总厂","type":3,"api":"csp_WebCzApp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys.top/@一个分享者@","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"},
+       
 	{"key":"fxcz","name":"💖分享大厂","type":3,"api":"csp_CzApp","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者2.zip","searchable":1,"quickSearch":0,"filterable":0,"timeout":30,"ext":{"SiteUrl":"https://czzy.site","SearchUrl":"https://czzy.top/daoyongjiekoshibushiyoubing","SiteUrlBak":"https://czzy.top"}},
 	{
             "key": "dami影视",
