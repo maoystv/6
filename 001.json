@@ -398,7 +398,7 @@
 		"name": "💖分享忘川",
 		"type": 3,
 		"api": "csp_XBPQ",
-		 "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+		 "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享WC.json"
 	},
 	{
@@ -478,7 +478,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/subaibai.json"
     },
     {
@@ -488,7 +488,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/xinshijue.json"
     },
      {
@@ -612,7 +612,7 @@
             "name": "💖分享|VID", 
             "type": 3, 
             "api": "csp_XBPQ", 
-            "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
             "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/分享vid.json",
             "searchable": 1, 
             "quickSearch": 1, 
@@ -896,13 +896,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
       "ext": {
         "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
         "分类": "电影$1#剧集$2#动漫$4#综艺$3"
       }
     },
-    {"key": "csp_红狐狸影视","name": "💖分享狐狸","type": 3,"api": "csp_XBPQ", "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar","ext": {"分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
+    {"key": "csp_红狐狸影视","name": "💖分享狐狸","type": 3,"api": "csp_XBPQ", "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar","ext": {"分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
     {
     "key": "狸云",
     "name": "💖分享狸云",
@@ -1001,7 +1001,7 @@
       "name": "🍵分享茶杯",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
       "ext": {
         "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
         "请求头": "手机#Referer$https://www.cupfox1.cc",
