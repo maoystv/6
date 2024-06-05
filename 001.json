@@ -1176,7 +1176,7 @@
             "name": "💖分享白嫖",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext":"https://152.32.170.60/66666/XC/raw/branch/master/xBPQ/分享白嫖.json"
+            "ext":{"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"分享者在线+class=\"pic-text text-right\"&&</span>","简介":"💕一个分享者💕+剧情介绍：&&</p >"}
         },
 {
 "key": "csp_xBPQ_抖",
