@@ -281,13 +281,7 @@
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享420.json"
 	},
-	{
-		"key": "XBPQ_qq",
-		"name": "💖分享纤纤",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QQ.json"
-	},
+	
 	{
       "key": "新gj",
       "name": "💖分享自建",
