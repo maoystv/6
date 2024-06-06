@@ -379,6 +379,7 @@
 		"name": "💖分享纤纤",
 		"type": 3,
 		"api": "csp_XBPQ",
+		"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
 		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QQ.json"
 	},
 	{
@@ -386,21 +387,8 @@
 		"name": "💖分享七夕",
 		"type": 3,
 		"api": "csp_XBPQ",
+		"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
 		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QX.json"
-	},
-	{
-		"key": "XBPQ_PH",
-		"name": "💖分享片花",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享PH.json"
-	},
-	{
-		"key": "XBPQ_mb",
-		"name": "💖分享美白",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享MB.json"
 	},
 	{
 		"key": "XBPQ_4kvm",
