@@ -286,7 +286,7 @@
 		"name": "💖分享纤纤",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QQ.json"
+		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QQ.json"
 	},
 	{
       "key": "新gj",
@@ -379,13 +379,6 @@
 		"api": "https://360zy.com/api.php/provide/vod",
 		"playUrl": "",
 		"categories": ["国产剧", "国产动漫", "香港剧", "台湾剧", "欧美剧", "日韩动漫", "NBA", "短片", "西部片", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "惊悚片", "悬疑片", "犯罪片", "剧情片", "战争片", "家庭篇", "记录片", "历史片", "动漫片", "大陆综艺", "港台综艺"]
-	},
-	{
-		"key": "XBPQ_qq",
-		"name": "💖分享纤纤",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QQ.json"
 	},
 	{
 		"key": "XBPQ_qx",
