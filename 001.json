@@ -383,12 +383,11 @@
 		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QQ.json"
 	},
 	{
-		"key": "XBPQ_qx",
-		"name": "💖分享七夕",
+		"key": "XBPQ_xz",
+		"name": "💖分享小镇",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
-		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QX.json"
+		"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享XZ.json"
 	},
 	{
 		"key": "XBPQ_4kvm",
