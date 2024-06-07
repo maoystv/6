@@ -2668,6 +2668,9 @@
 	 {"name":"🔴全球直播","url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	 {"name":"💕范明明直播","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
+//动态图片
+ "logo": "https://www.bestpvp.site/static/img/Sunflower.gif",
+
 //解码模式
 
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":4,"name":"framedrop","value":"1"},
