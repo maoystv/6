@@ -274,7 +274,9 @@
 	{"key": "csp_xpath_tjyy","name": "💖分享奇优","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "jar":"",
 "ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QY.json"},
-	 {
+	 {"key": "csp_xpath_xc","name": "💖分享星辰","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
+"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享XC.json"},
+	{
 		"key": "XBPQ_420xs",
 		"name": "💖分享示儿",
 		"type": 3,
