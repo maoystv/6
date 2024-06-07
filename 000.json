@@ -2685,7 +2685,10 @@
 
 //电视直播
 
- "lives":[{"name":"💖分享者直播","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/maoystv/000/master/live20220813.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"} ,{"name":"🔴全球直播","url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"}],
+  "lives":[{"name":"💖分享者直播","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/maoystv/000/master/live20220813.txt","playerType":1,"ua":"okhttp/3.15", "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}, 
+	  {"name":"💖分享者直播2","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/maoystv/000/master/分享者ZB.txt","playerType":1,"ua":"okhttp/3.15", "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"} ,
+	  {"name":"🔴全球直播","url":"http://oy.oyxx-1.eu.org/p3p.php", "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+	  {"name":"💕范明明直播","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u", "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 //解码模式
 
