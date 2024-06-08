@@ -283,7 +283,24 @@
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享420.json"
 	},
-	
+	{"key":"csp_mgtva","name":"💖分享木瓜","type":3,"api":"csp_XBPQ","ext":{"副标题":"分享者在线","分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
+{"key":"csp_chrf","name":"💖分享小米","type":3,"api":"csp_XBPQ","ext":{"副标题":"分享者在线","分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}},
+{"key":"bkyy","name":"💖分享步卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"副标题":"分享者在线","分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21#伦理$23"}}, 
+{
+      "key": "csp_尘落影视",
+      "name": "💖分享尘落",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "线路数组": "aria-controls=&&<li&&</li>",
+        "副标题":"分享者在线",
+        "线路标题": ">&&</a>",
+        "播放数组": "class=\"row tv-js-list&&</div>",
+        "播放列表": "<a&&</a>",
+        "分类url": "https://v.wetv.wang/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html;;rc",
+        "分类": "电影$1#剧集$2#综艺$4#动漫$3#全网资源$5"
+      }
+    },
 	{
       "key": "新gj",
       "name": "💖分享自建",
