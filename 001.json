@@ -130,9 +130,16 @@
 		
   {"key":"csp_XiaoYa","name":"💖分享小雅","ext":"eyJhcGkiOiJodHRwOi8vZGVuZ3Bhby5zcGFjZTo1Mjc3IiwidG9rZW4iOiJ5dTYyNjc0MCJ9","filterable":1,"quickSearch":1,"changeable":1,"jar":"http://dengpao.space:5277/spring.jar","style":{"type":"rect"},
 "api":"csp_XiaoYa","type":3,"searchable":1},
-	{"key":"AList","name":"💖分享雅雅","type":3,"api":"csp_AListBox",
-		"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"changeable":0,"quickSearch":0,
-	  "ext":"https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/xiaoya.json#一个分享者#免费分享","style":{"type":"list"}},
+	{
+      "key": "小鸭1",
+      "name": "💖分享鸭鸭",
+      "type": 3,
+      "api": "http://213.35.99.39:5678/tvbox/libs/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://213.35.99.39:5678/tvbox/json/alist_ext.json;200;video"
+    },
 
  {
 		"key": "drpy_侬好",
