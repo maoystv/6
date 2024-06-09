@@ -140,6 +140,16 @@
       "filterable": 0,
       "ext": "http://213.35.99.39:5678/tvbox/json/alist_ext.json;200;video"
     },
+	{"key":"yaya",
+		"name":"馃弲灏忛泤",
+		"type":3,
+		"api":"csp_AListBox",
+		"jar": "https://yubox.xyz/w8.zip",
+		"searchable":1,
+		"changeable":0,
+		"quickSearch":0,
+		"ext":"https://yubox.xyz/xiaoya.json#鍏紬鍙�#鐜夌帀杞欢",
+		"style":{"type":"list"}},
 
  {
 		"key": "drpy_侬好",
