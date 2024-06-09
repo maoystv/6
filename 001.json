@@ -141,14 +141,14 @@
       "ext": "http://213.35.99.39:5678/tvbox/json/alist_ext.json;200;video"
     },
 	{"key":"yaya",
-		"name":"馃弲灏忛泤",
+		"name":"💖分享雅雅",
 		"type":3,
 		"api":"csp_AListBox",
-		"jar": "https://yubox.xyz/w8.zip",
+		"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip",
 		"searchable":1,
 		"changeable":0,
 		"quickSearch":0,
-		"ext":"https://yubox.xyz/xiaoya.json#鍏紬鍙�#鐜夌帀杞欢",
+		"ext":"https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/xiaoya.json#一个分享者#免费分享",
 		"style":{"type":"list"}},
 
  {
