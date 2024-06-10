@@ -307,14 +307,14 @@
 		"key": "drpy_jj",
 		"name": "💖分享剧集",
 		"type": 3,
-		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/drpy_libs/drpy2.js",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/js/剧集TV.js"
 	},
 	{
 		"key": "drpy_dm8",
 		"name": "💖分享动漫",
 		"type": 3,
-		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/drpy_libs/drpy2.js",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/0/main/js/动漫网.js"
 	},
 	{
