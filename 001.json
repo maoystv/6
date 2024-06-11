@@ -311,16 +311,15 @@
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/分享農民.js"
 	},
 	{
-            "key": "xbpq_sh",
-            "name": "💖分享烧火",
-      "api":"csp_XBPQ",
+            "key": "drpy_bx",
+            "name": "💖分享百姓",
+      "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
       "type": 3,
 			"searchable": 1,
 			"changeable": 0,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享SH.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享BX.json"
     },
 	{
 		"key": "drpy_dm8",
