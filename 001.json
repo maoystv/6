@@ -311,13 +311,13 @@
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/分享農民.js"
 	},
 	{
-            "key": "drpy_cm",
-            "name": "💖分享草莓",
+            "key": "xbpq_sh",
+            "name": "💖分享烧火",
             "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "api":"mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/草莓秒播.js"
+      "api":"csp_XBPQ",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享SH.json"
     },
 	{
 		"key": "drpy_dm8",
