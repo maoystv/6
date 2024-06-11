@@ -313,11 +313,13 @@
 	{
             "key": "xbpq_sh",
             "name": "💖分享烧火",
-            "type": 3,
-      "searchable": 1,
-      "changeable": 1,
       "api":"csp_XBPQ",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt",	
+      "type": 3,
+			"searchable": 1,
+			"changeable": 0,
+			"quickSearch": 1,
+			"playerType": "2",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享SH.json"
     },
 	{
