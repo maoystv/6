@@ -311,6 +311,15 @@
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/分享農民.js"
 	},
 	{
+            "key": "saoho",
+            "name": "🔥分享烧火",
+            "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api":"mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/分享烧火.js"
+    },
+	{
 		"key": "drpy_dm8",
 		"name": "💖分享动漫",
 		"type": 3,
@@ -1493,18 +1502,6 @@
          {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/nfzw.json","jar":""},
          {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/ynfys.json","jar":""},
            {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
-
-
-{
-            "key": "saoho",
-            "name": "🔥骚火电影",
-            "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_XBPQ",
-      "jar":"https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
-      "ext": "https://pan.shangui.cc/f/zw63s0/S@H.json"
-    },
 
 {"key":"yqikan","name":"⛑一起看吧","type":3,"api":"csp_YQKan","ext":"https://api-aws.ctdy.cc","jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"},
 
