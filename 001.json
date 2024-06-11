@@ -311,13 +311,13 @@
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/分享農民.js"
 	},
 	{
-            "key": "saoho",
-            "name": "🔥分享烧火",
+            "key": "dzg",
+            "name": "🇨🇳分享中国",
             "type": 3,
       "searchable": 1,
       "changeable": 1,
       "api":"mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/分享烧火.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/大中国.js"
     },
 	{
 		"key": "drpy_dm8",
