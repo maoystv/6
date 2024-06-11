@@ -304,11 +304,11 @@
 {"key":"csp_chrf","name":"💖分享小米","type":3,"api":"csp_XBPQ","ext":{"副标题":"分享者在线","分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}},
 {"key":"bkyy","name":"💖分享步卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"副标题":"分享者在线","分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21#伦理$23"}}, 
 {
-		"key": "drpy_jj",
-		"name": "💖分享剧集",
+		"key": "drpy_nm",
+		"name": "💖分享農民",
 		"type": 3,
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/剧集TV.js"
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/分享農民.js"
 	},
 	{
 		"key": "drpy_dm8",
