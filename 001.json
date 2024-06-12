@@ -151,6 +151,17 @@
 		"ext":"https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/xiaoya.json#一个分享者#免费分享",
 		"style":{"type":"list"}},
 
+	{
+      "key": "csp_LiteApple",
+      "name": "💖分享苹果",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_LiteApple",
+	  "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",	
+    "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
  {
 		"key": "drpy_侬好",
 		"name": "💖分享者vip",
@@ -1986,8 +1997,6 @@
     "api": "https://152.32.170.60/66666/mv/raw/branch/master/live_min.js",
     "ext": "https://152.32.170.60/66666/mv/raw/branch/master/live_min.txt"
   },
-
-{"key":"小点","name":"💕分享小店","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0 ,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"},
 {
             "key": "csp农民",
             "name": "💕分享农民",
@@ -1996,7 +2005,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"
+            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"
         },
 		{
 			"key": "apv2_少泽影客",
@@ -2187,7 +2196,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.libvio.pw/","jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"
+            "ext": "https://www.libvio.pw/","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"
         },
 
 {
@@ -2281,8 +2290,8 @@
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
-     {"key":"csp_Sp_音乐演唱会","name":"🅱️哔哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/js/演唱会.php","jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"},
-{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/js/哔哩合集.php","jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"},
+     {"key":"csp_Sp_音乐演唱会","name":"🅱️哔哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/js/演唱会.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
+{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/js/哔哩合集.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
 		
 {"key":"csp_Yj1211","name":"💃网红直播","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"},
 
