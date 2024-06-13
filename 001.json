@@ -175,6 +175,16 @@
       "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
     },
 	{
+            "key": "天天&影视",
+            "name": "💖分享天天",
+            "type": 3,
+            "api": "csp_AppTT",
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	{
 		"key": "drpy_侬好",
 		"name": "💖分享者vip",
 		"type": 3,
