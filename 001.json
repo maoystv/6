@@ -180,7 +180,8 @@
             "type": 3,
             "api": "csp_AppTT",
             "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
-            "searchable": 1,
+            "ext":"http://op.ysdqjs.cn",
+	    "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
@@ -396,14 +397,6 @@
         {"key":"AI1","name":"💖分享AI1","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
         {"key":"AI2","name":"💖分享AI2","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
 	 {"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-  {
-            "key": "纯享影视",
-            "name": "💖分享纯享",
-            "type": 3,
-            "api": "csp_WexF4kvm",
-            "searchable": 1,
-            "changeable": 1,
-             "jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
         {
             "key": "快看影视",
             "name": "💖分享快看",
