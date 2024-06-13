@@ -173,8 +173,20 @@
 	"type":3,
 	"api":"csp_NanGua",
 	"timeout":15,"playerType":2,
-	"searchable":1,"quickSearch":1,"changeable":1 ,
+	"searchable":1,"quickSearch":1,
+	"changeable":1 ,
 	"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
+	{
+      "key": "电影",
+      "name": "💖分享莱芜",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",	
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+    },
 	{
 		"key": "drpy_侬好",
 		"name": "💖分享者vip",
@@ -2696,7 +2708,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/O.txt;md5; 1baa406ac5e1932cb564db42009a733a","wallpaper":"http://rihou.cc:88/壁纸", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
+"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/O.txt;md5; 1baa406ac5e1932cb564db42009a733a","wallpaper":"http://itvbox.cc/壁纸/api.php", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
 
 //电视直播
 
