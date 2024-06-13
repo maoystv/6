@@ -112,19 +112,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-	"key": "Wextangdou",
-	"name": "💖分享健身",
-	"type": 3,
-	"api": "csp_Wextangdou",
-                "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt",
-	"searchable": 1,
-	"changeable": 0,
-	"style": {
-		"type": "rect",
-		"ratio": 2
-	}
-},
 
 		{"key":"hipy_py_cntv央视","name":"🇨🇳分享央视","type":4,"api":"http://156.238.237.232:5707/api/v1/vod/cntv央视?pwd=dzyyds","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"ext":"http://156.238.237.232:5707/files/hipy/cntv央视.json"},
 		
@@ -785,32 +772,12 @@
             },
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
         }, 
-    {
-      "key": "yyt",
-      "name": "🎵音悦台mv",
-      "type": 3,
-      "api": "csp_WexYinyuetai",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt"},
-      {
-      "key": "Iktv",
-      "name": "🎤KTV音乐",
-      "type": 3,
-      "api": "csp_WexIktv",
-      "searchable": 1,
-      "changeable": 0,
-       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716045250217/wex.txt"
-    },
 
 	{
       "key": "T4-yugaopian",
       "name": "💕分享预告",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/yugaopian.php"
+      "api": "https://catbox.n13.club/t7/yugaopian.php"
     },
     {
       "key": "T4-tangdou",
@@ -828,85 +795,85 @@
       "key": "T4-剧圈",
       "name": "💕分享剧圈",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/juquan.php"
+      "api": "https://catbox.n13.club/t7/juquan.php"
     },
     {
       "key": "T4-黑狐",
       "name": "💕分享黑虎",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/heihu.php"
+      "api": "https://catbox.n13.club/t7/heihu.php"
     },
     {
       "key": "T4-jp",
       "name": "💕分享见片",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/jianpian.php"
+      "api": "https://catbox.n13.club/t7/jianpian.php"
     },
     {
       "key": "T4-南瓜",
       "name": "💕分享懒瓜",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/nangua.php"
+      "api": "https://catbox.n13.club/t7/nangua.php"
     },
     {
       "key": "T4-极光",
       "name": "💕分享极光",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/jiguang.php"
+      "api": "https://catbox.n13.club/t7/jiguang.php"
     },
     {
       "key": "T4-fj",
       "name": "💕分享腐剧",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/fuju.php"
+      "api": "https://catbox.n13.club/t7/fuju.php"
     },
     {
       "key": "T4-caiji",
       "name": "💕分享采集",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/caiji.php"
+      "api": "https://catbox.n13.club/t7/caiji.php"
     },
     {
       "key": "T4-xinshijue",
       "name": "💕分享视角",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/xinshijue.php"
+      "api": "https://catbox.n13.club/t7/xinshijue.php"
     },
     {
       "key": "T4-jojo",
       "name": "💕分享jojo",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/jojo.php"
+      "api": "https://catbox.n13.club/t7/jojo.php"
     },
     {
       "key": "T4-mmdj",
       "name": "💕分享短剧",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/mmdj.php"
+      "api": "https://catbox.n13.club/t7/mmdj.php"
     },
     {
       "key": "T4-hanju",
       "name": "💕分享喊剧",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/hanju.php"
+      "api": "https://catbox.n13.club/t7/hanju.php"
     },
     {
       "key": "T4-yzys",
       "name": "💕分享柚子",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/yzys.php"
+      "api": "https://catbox.n13.club/t7/yzys.php"
     },
     {
       "key": "T4-pptv",
       "name": "💕分享屁屁",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/pptv.php"
+      "api": "https://catbox.n13.club/t7/pptv.php"
     },
     {
       "key": "T4-mingri",
       "name": "💕分享明日",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/mingri.php"
+      "api": "https://catbox.n13.club/t7/mingri.php"
     },
 	
     { "key": "fy影院","name": "💖分享飞鱼","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
