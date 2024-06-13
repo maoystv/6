@@ -816,13 +816,13 @@
       "key": "T4-tangdou",
       "name": "💕分享糖豆",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/tangdou.php"
+      "api": "https://catbox.n13.club/t7/tangdou.php"
     },
     {
       "key": "yinyue",
       "name": "💕分享音乐",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/yyyy.php"
+      "api": "https://catbox.n13.club/t7/yyyy.php"
     },
     {
       "key": "T4-剧圈",
