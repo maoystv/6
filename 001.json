@@ -400,8 +400,8 @@
       "ext": "http://rihou.vip:55/lib/玩我哥哥.json",
       "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt"
     },
-    {"key":"爱ai看","name":"💖分享ai看","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar","ext":"FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"},
-    {"key":"虾米","name":"🦀分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar","ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
+    {"key":"爱ai看","name":"💖分享ai看","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","ext":"FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"},
+    {"key":"虾米","name":"🦀分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
     {
       "key": "皮皮虾",
       "name": "🦐分享虾皮",
@@ -410,7 +410,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar",
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
       "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
     },
         {
@@ -1010,43 +1010,6 @@
       "timeout": 60,
       "filterable": 1,      
       "ext": "https://raw.gitmirror.com/maoystv/6/main/XBPQ/分享LS.json"
-    },
-    
-    {
-      "key": "ytys",
-      "name": "💖分享探戈",
-      "type": 3,
-      "api": "csp_WexFangniu4k",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
-    },
-    {
-      "key": "mrys",
-      "name": "💖分享明日",
-      "type": 3,
-      "api": "csp_WexMingriys",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
-    },
-    {
-      "key": "https://4kvm.site/",
-      "name": "💖分享4kvm",
-      "type": 3,
-      "api": "csp_WexF4kvm",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
-    },
-     {
-      "key": "xd",
-      "name": "💖分享兄弟",
-      "type": 3,
-      "api": "csp_Wexxiongduys",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/FxzPg.txt"
     },
     {
 "key": "csp_xBPQ_zhui",
