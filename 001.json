@@ -166,7 +166,7 @@
 	{"key":"视觉2",
 	"name":"💖分享视阁",
 	"type":3,
-	"api":"csp_Ddrk",
+	"api":"csp_MLYS",
 	"timeout":15,"playerType":2,
 	"searchable":1,"quickSearch":1,
 	"changeable":1 ,
