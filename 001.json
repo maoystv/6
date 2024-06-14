@@ -2514,7 +2514,8 @@
 {"name":"💖分享3","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 	{"name":"💕分享Al1","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","header":{"User-Agent":"okhttp/4.9.1"}},
 		{"name":"💕分享Al2","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","header":{"User-Agent":"okhttp/4.9.1"}},
-		
+		{"name":"💕分享官源","type":0,"url":"https://api.52wyb.com/index/?url=","ext":{"header":{"referer":"http://www.7xdy.com/","User-Agent":"Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/535.1(KHTML,likeGecko)Chrome/14.0.835.163Safari/535.1"},
+"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果"]}},
 		{
 			"name": "💕分享麻衣",
 			"type": 1,
