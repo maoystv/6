@@ -430,6 +430,24 @@
             "searchable": 1,
             "changeable": 1 ,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
         {
+            "key": "胖虎影视",
+            "name": "💖分享胖虎",
+            "type": 3,
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://physvod.com","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+        },
+        {
+            "key": "甲子影视",
+            "name": "💖分享甲子",
+            "type": 3,
+            "api": "csp_Wexjiazitv",
+            "searchable": 1,
+            "changeable": 1 ,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+        },
+	{
             "key": "明日影视",
             "name": "💖分享明日",
             "type": 3,
@@ -733,7 +751,7 @@
         },
      {
       "key": "heimuer",
-      "name": "💖分享黑蘑",
+      "name": "💖分享木耳",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
