@@ -404,6 +404,21 @@
                 "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }},
+	{
+            "key": "csp_4K网",
+            "name": "💖分享时刻",
+            "type": 3,"playerType": "2",
+            "api": "csp_XBPQ",
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+            "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享4k.json"
+        },
+        {
+            "key": "csp_猫视界",
+            "name": "💖分享猫界",
+            "type": 3,"playerType": "2",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+            "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/猫视界.js"
+        },
 	{"key":"csp_mgtva","name":"💖分享木瓜","type":3,"api":"csp_XBPQ","ext":{"副标题":"分享者在线","分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
 {"key":"csp_chrf","name":"💖分享小米","type":3,"api":"csp_XBPQ","ext":{"副标题":"分享者在线","分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}},
 {"key":"bkyy","name":"💖分享步卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"副标题":"分享者在线","分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21#伦理$23"}}, 
@@ -432,17 +447,6 @@
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/动漫网.js"
 	},
-	{
-      "key": "新gj",
-      "name": "💖分享自建",
-      "type": 1,
-      "api": "http://27.54.236.201/api.php/provide/vod/",
-      "playUrl": "json:http://27.54.236.201:1122/?url=",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
   
         {"key":"AI1","name":"💖分享AI1","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
         {"key":"AI2","name":"💖分享AI2","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
