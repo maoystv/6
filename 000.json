@@ -1012,7 +1012,7 @@
   "key": "apizuidapi",
   "name": "🛟最大资源",
   "type": 3,
-  "api": "https://152.32.170.60/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
   "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
   },
 {
