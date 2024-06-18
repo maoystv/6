@@ -1226,6 +1226,16 @@
       "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/COKEMV影院.json"
     },
+	 {
+      "key": "新gj",
+      "name": "💖分享自建",
+      "type": 1,
+      "api": "https://yyff.540734621.xyz/api.php/provide/vod/",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
   "key": "apizuidapi",
   "name": "🛟最大资源",
