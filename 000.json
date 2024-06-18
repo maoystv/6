@@ -260,12 +260,11 @@
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QQ.json"
 	},
-	{
+	 {
       "key": "新gj",
       "name": "💖分享自建",
       "type": 1,
-      "api": "http://27.54.236.201/api.php/provide/vod/",
-      "playUrl": "json:http://27.54.236.201:1122/?url=",
+      "api": "https://yyff.540734621.xyz/api.php/provide/vod/",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
