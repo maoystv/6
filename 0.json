@@ -126,6 +126,18 @@
             "url": "https://yubox.xyz/xc.json",
             "name": "🍍玉儿"
         },
+	 {
+            "url": "https://jihulab.com/e8/4k/-/raw/master/kele.json",
+            "name": "可乐☕️"
+        },
+        {
+            "url": "http://www.wya6.cn/tv/yc.json",
+            "name": "🈚️无意云"
+        },
+         {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "🍍影视商店"
+        },
         {
             "url": "https://qu.ax/uanw.json",
             "name": "💒蜂蜜专用"
@@ -323,10 +335,6 @@
         {
             "url": "https://gitlab.com/cktv/007/-/raw/main/4856.jsom",
             "name": "共享"
-        },
-        {
-            "url": "https://152.32.170.60/hu/hcr/raw/branch/master/短剧.json",
-            "name": "短剧"
         },
         {
             "url": "http://ztha.top/catjs/JS/js.json",
