@@ -2329,8 +2329,8 @@
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
-     {"key":"csp_Sp_音乐演唱会","name":"🅱️哔哩一集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/js/演唱会.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
-{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩二集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/js/哔哩合集.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
+     {"key":"csp_Sp_音乐演唱会","name":"🅱️哔哩一集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/js/演唱会.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
+{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩二集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/js/哔哩合集.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
 		
 {"key":"csp_Yj1211","name":"💃网红直播","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"},
 
@@ -2438,7 +2438,7 @@
 {"key": "csp_Bili","name":"🅱️哔哩合集","type": 3,"api": "csp_AmuBili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
 {"key":"相声小品","name":"🅱️相声小品","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
 {"key": "戏 曲" ,"name": "🅱️国粹戏曲","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
-{"key": "美 食" ,"name": "🅱️天下美食","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/js/美食.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
+{"key": "美 食" ,"name": "🅱️天下美食","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/js/美食.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
  {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/兔小贝.js"},
 
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"},
