@@ -101,7 +101,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享新片.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享新片.json"
     },
 {
       "key": "t4直播转点播",
@@ -135,7 +135,7 @@
 		"searchable":1,
 		"changeable":0,
 		"quickSearch":0,
-		"ext":"https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/xiaoya.json#一个分享者#免费分享",
+		"ext":"https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/xiaoya.json#一个分享者#免费分享",
 		"style":{"type":"list"}},
 
 	{
