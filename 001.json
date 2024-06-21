@@ -193,6 +193,10 @@
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/lib/drpy2.min.js",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/YGFXZ.js"
 	},
+	
+	 {"key":"ls","name":"💖分享锤锤","type":3,"api":"csp_AppLS","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip","searchable":1,"quickSearch":0,"changeable":0},
+	{"key":"qqi","name":"💖分享琪琪","type":3,"api":"csp_App","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD2o6zala9sG9xW2vvEGFcBZGk4szCGDZdjzNT4sx6MAMhc9F/mO/ZwXFrmvwMbgyoVYer1RmeG3po+IcQ7RhyitH8VScIS3uQiHiWFbjAirTVAxDMxXMM1byD2YA66wM+zH645A3GIdprNZW4MY15TyAkv0LCroaOb3WRlOisGAPoqTicq8cuwvlNuxg6W9zF5GY/O0CAzNXSTHsHoCRfdG40kfElwrHGFt2bu+nl8CG+Jhjhyp7kZriUPqO2dznbObOYa92zb3RnOIygZvnOTp"},
+	{"key":"kanqiu","name":"💖分享看球","type":3,"api":"csp_SpKanQiu88","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://www.88kanqiu.live","style":{"type":"list"}},
 	 {
             "key": "KK影视",
             "name": "💖分享连看",
@@ -200,9 +204,9 @@
             "api": "csp_WebIV",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0 ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
+            "filterable": 0 ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
-{"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip",
+{"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip",
 	"searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
        
 	{"key":"fxcz","name":"💖分享大厂","type":3,"api":"csp_CzApp","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者2.zip","searchable":1,"quickSearch":0,"filterable":0,"timeout":30,"ext":{"SiteUrl":"https://czzy.site","SearchUrl":"https://czzy.top/daoyongjiekoshibushiyoubing","SiteUrlBak":"https://czzy.top"}},
@@ -214,7 +218,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者2.zip"
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
 	{
             "key": "米米影视",
@@ -224,10 +228,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
-	{"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"},
-	{"key":"csp_77","name":"💖分享七七","type":3 ,"api":"csp_AppEight","searchable":1,"quickSearch":1,"filterable":0,"ext":{"siteUrl":"https://api.kpyun6.cn","deviceId":"b0d43379a488e74d"} ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"},
+	{"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
+	{"key":"csp_77","name":"💖分享七七","type":3 ,"api":"csp_AppEight","searchable":1,"quickSearch":1,"filterable":0,"ext":{"siteUrl":"https://api.kpyun6.cn","deviceId":"b0d43379a488e74d"} ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
         {
             "key": "圣人之城",
             "name": "💖分享圣城",
@@ -235,14 +239,15 @@
             "api": "csp_AppNK",
             "searchable": 1,
             "changeable": 0,
-            "ext": "mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w==","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
+            "ext": "mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w==","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
+        {"key":"耐看影视","name":"💖分享耐看","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w==","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},   
         {"key":"mt",
 		"name":"💖分享摩托",
 		"type":3,
 		"api":"csp_App",
-		"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,
-		"ext":"735qMSRexNTHh8DYNtSH8HogEjUddulQhaoWRdQYBanh6VDDcF7tMMlWWTAb64F2IDQnbNvFvWkHljTMDLgJevGSVFbCLaOp3tjbhptgB+PSoAuP94eq9b/PSKKKt+iiD1NxYykHgOywBTz3Y6fgY/qoOY99PP8akWiKZHauMG77h5eYkSo/wmaU2XsBZL38mfpEH/LBVJUrM1GcMcF+TUrll0E1fOvQDj7ni4JVA+bYA3rHHYzfxFIlXdK9GDhlteINRJxESq6K7gQEZJRF2SWowxlbBW5iZI9zaYlc5jw+iYY6U7wSZeq5BR5f2D7egHn8MiiN6cU2uK7oyC8knu5Y6zdgWYkBWA5nuMiuu6p526ADSFcG5H5tvje1xAAsF8dQ4wC20KNp29FZVkUIP+wFaW4PTEDRcm6N7j8+KV/kXd5QJ5PvlbRV06i0osX+cci6loAgKHxq5Qerxi369Ecm0nBmMExAM7gqb1AVPe0="},
+		"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,
+		"ext":"j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"},
 	 {
             "key": "st影视",
             "name": "💖分享速云",
@@ -251,7 +256,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
         {
             "key": "1905影视",
@@ -261,7 +266,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
         {
             "key": "rh影视",
@@ -271,10 +276,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip"
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
-	{"key":"kzj","name":"💖分享快剧","type":3,"api":"csp_AppRJ","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://app.kzjtv.com"},
-        {"key":"cym","name":"💖分享喵星","type":3,"api":"csp_AppCYM","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"filterable":1,"quickSearch":0,"changeable":0},
+	{"key":"kzj","name":"💖分享快剧","type":3,"api":"csp_AppRJ","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://app.kzjtv.com"},
+        {"key":"cym","name":"💖分享喵星","type":3,"api":"csp_AppCYM","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip","searchable":1,"filterable":1,"quickSearch":0,"changeable":0},
          {
             "key": "视频库",
             "name": "💖分享片库",
@@ -283,9 +288,10 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip",
+            "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip",
             "ext": "https://vidhub1.cc"
         },
+	
 	{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/YGFXZ/0/-/raw/main/分享玩偶.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
