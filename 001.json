@@ -343,6 +343,7 @@
 			"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt",
 			"ext":"https://v.aikanbot.com"
 		},
+	 {"key":"采集之王","name":"💖分享采合","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://git.acwing.com/YGFXZ/0/-/raw/main/采集之王_合_.js?type=url&params=https://git.acwing.com/YGFXZ/0/-/raw/main/采集静态.json"},
 	{
       "key": "csp_swdy",
       "name": "💖分享三无",
