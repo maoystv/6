@@ -293,11 +293,11 @@
             "ext": "https://vidhub1.cc"
         },
 	
-	{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/YGFXZ/0/-/raw/main/分享玩偶.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+	{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/YGFXZ/0/-/raw/main/分享玩偶.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar"},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
          {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YS.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-          {"key": "csp_XYQHikerAL_分享影音","name":"💖分享影音","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+          {"key": "csp_XYQHikerAL_分享影音","name":"💖分享影音","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YY.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar"},
        {"key": "csp_XYQHikerAL_分享资源","name":"💖分享资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享ZY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
        {
             "key": "2Gitcafe",
@@ -307,7 +307,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
             "ext": "https://pastebin.com/raw/zsEYRYPD"
         },
         {
