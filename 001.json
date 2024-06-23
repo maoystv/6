@@ -1592,7 +1592,6 @@
     
           
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"jar":""},
-      {"key":"影探4K0","name":"💃影视探戈","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 
 {"key":"畅梦","name":"☕️畅谈梦想","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"},
 
@@ -1600,8 +1599,6 @@
          {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/nfzw.json","jar":""},
          {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/ynfys.json","jar":""},
            {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
-
-{"key":"yqikan","name":"⛑一起看吧","type":3,"api":"csp_YQKan","ext":"https://api-aws.ctdy.cc","jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"},
 
         {
       "key": "csp_低调",
@@ -1912,31 +1909,6 @@
             "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext": "https://notabug.org/ygfxz/6/raw/main/js/大师兄影视.js"
         },
-        
-        {
-			"key": "csp_xml_享看",
-			"name": "🌞享看就看",
-			"type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,			
-			"api": "https://xkanzy10.com/api.php/provide/vod"
-		},
-   {"key": "无心影视",
-"name": "💖无心影视",
-"type": 3,
-"api": "csp_XBPQ",
-"ext": {
-"分类url": "https://www.57movie.cn/vod/show/area/{area}/id/{cateId}/page/{catePg}/",
-"分类": "电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29"
-}
-},     
-{
-            "key": "北川", 
-            "name": "❄️北国风光", 
-            "type": 3, 
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", 
-            "ext": "https://152.32.170.60/alanchaotang/dr_py/raw/branch/main/js/北川影视.js"}, 
 
     {"key":"荔枝","name":"🍐荔枝采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.zjys.vip/api.php/iptv/vod/"},
 {"key":"包子资源","name":"🥟包子采集","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":[]},
@@ -2057,24 +2029,6 @@
 {"key":"极速资源","name":"🏂极速资源","type":1,"api":"https://jszy.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
 {"key":"飘零影院","name":"🥀飘零天涯","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
- {
-      "key": "MV_vod",
-      "name": "🎼MV|视频",
-      "type": 1,
-      "viewType": 2,
-      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{
-    "key": "MTV转点播",
-    "name": "🎶16万MV",
-    "type": 3,
-    "api": "https://152.32.170.60/66666/mv/raw/branch/master/live_min.js",
-    "ext": "https://152.32.170.60/66666/mv/raw/branch/master/live_min.txt"
-  },
-
 		{
 			"key": "apv2_少泽影客",
 			"name": "🛎少泽影客",
@@ -2104,7 +2058,6 @@
   "api": "csp_XBPQ",
   "playerType": 2,
   "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/量子.json"},
-{"key": "csp_爱看","name": "🎁爱看不看","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/爱看不看.json"},
 
         {
             "key": "ok", 
@@ -2154,20 +2107,7 @@
        {"key": "csp_New6v","name": "🧲磁力|6V","jar":"","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
         {"key":"csp_SeedHub","name":"🧲SeedHub","jar":"","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_KubaCL","name":"🧲酷吧电影","jar":"","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_MeijuTT","name":"🧲美剧天堂","jar":"","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_xB_jy","name": "👱‍♀️金发碧眼","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
-"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/金眼影视.json"}, 
-     
-        {
-            "key": "csp_beijihu",      
-			"name": "🐿酷形幻影",
-            "type": 3,      
-			"api": "csp_AppYsV2",
-            "searchable": 1,      
-			"quickSearch": 1,
-            "filterable": 1,      
-			"ext": "https://www.kuin.one/api.php/app/"
-        },  
+        {"key":"csp_MeijuTT","name":"🧲美剧天堂","jar":"","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}, 
     
  {"key": "csp_XBPQ_暴风",
   "name": "❣️暴风影音",
@@ -2221,39 +2161,7 @@
 {"key":"夸克盘搜","name":"📕夸克网盘","type":3,"api":"csp_QuarkPanso","changeable":0,"searchable":1,"quickSearch":1,"filterable":0, "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/PG.txt;md5;c840802ddf48303bf2e32695d1625b2f","ext":"https://gitee.com/fragrance-in-chu/mys/raw/master/tokenm.json", "timeout":60},
 {"key":"DaPanSo","name":"📕大盘网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/PG.txt;md5;c840802ddf48303bf2e32695d1625b2f","ext":"https://gitee.com/fragrance-in-chu/mys/raw/master/tokenm.json$$$https://dapanso.com$$$null"},
 
-{
-      "key": "weixiao",
-      "name": "😄微笑TV",
-      "api":"csp_AppYsV2",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"http://app.vipwxys.cn/mogai_api.php/v1.vod"
-    },
-
-{
-            "key": "csp_XBPQxg",
-            "name": "🍉西瓜视频",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://download.kstore.space/download/4127/js/西瓜视频.js"
-        },
-
 {"key":"csp_DiDuan" ,"name":"🧰低端|SP","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":0,"jar":""},
-{
-            "key": "csp_Lib",
-            "name": "🍍立即播放",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.libvio.pw/","jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"
-        },
 
 {
             "key": "csp_XYQHiker中国蓝",
@@ -2349,7 +2257,7 @@
      {"key":"csp_Sp_音乐演唱会","name":"🅱️哔哩一集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/js/演唱会.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
 {"key":"csp_Sp_哗哩合集","name":"🅱️哔哩二集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/js/哔哩合集.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
 		
-{"key":"csp_Yj1211","name":"💃网红直播","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar"},
+{"key":"csp_Yj1211","name":"💃网红直播","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
 
 {"key":"csp_xBPQ_抓饭体育","name":"️🥇抓饭体育","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
       {
