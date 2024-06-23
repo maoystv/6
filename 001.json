@@ -90,7 +90,7 @@
             "name": "🅱️分享豆瓣",
             "type": 3,
              "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip",
-            "api": "csp_Douban",
+            "api": "csp_DouBan",
             "searchable": 0
         },
 		 {
