@@ -86,14 +86,13 @@
     {"key": "csp_KungFu404","name":"⚙️阿里设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/阿里设置.txt"},
     {"key":"配置中心","name":"⚙️云盘配置","type": 3,"api": "csp_Config","searchable":0,"changeable":0,"style": {"type": "rect","ratio": 1},"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/PG.txt;md5;c840802ddf48303bf2e32695d1625b2f","ext":"https://gitee.com/fragrance-in-chu/mys/raw/master/tokenm.json"},
      {
-			"key": "douban",
-			"name": "🅱️豆瓣评分",
-			"type": 3,
-			"api": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/is/豆瓣.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+            "key": "豆瓣",
+            "name": "🅱️分享豆瓣",
+            "type": 3,
+             "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip",
+            "api": "csp_Douban",
+            "searchable": 0
+        },
 		 {
       "key": "xpyg",
       "name": "💖分享预告",
