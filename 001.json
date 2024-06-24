@@ -414,6 +414,7 @@
                 "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }},
+	{ "key": "剧刷网",  "name": "💖分享刷剧", "type": 3,"api": "csp_XBPQ",  "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar","ext": {"简介":"分享者剧情介绍: +bottom-detail\"&&</p>","副标题":"分享者在线","分类url":"https://www.shuajuw.com/Show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"国产剧$13#电视剧$2#电影$1#动漫$4#动画电影$22"}},
 	{
             "key": "csp_4K网",
             "name": "💖分享时刻",
