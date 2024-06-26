@@ -134,6 +134,14 @@
             "url": "http://www.wya6.cn/tv/yc.json",
             "name": "🈚️无意云"
         },
+	{
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/K.json",
+            "name": "老K"
+        },
+        {
+            "url": "http://xzweb.top/祥子影视/main/xzysdm.json",
+            "name": "🐫骆驼"
+        },
          {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🍍影视商店"
