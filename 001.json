@@ -452,6 +452,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享BX.json"
     },
 	{
+            "key": "1魔都动漫",
+            "name": "💖分享魔都",
+            "type": 1,
+            "api": "https://www.moduzy.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+            ]
+        },
+	{
 		"key": "drpy_dm8",
 		"name": "💖分享动漫",
 		"type": 3,
@@ -680,14 +690,6 @@
         "categories": ["国产剧","国产动漫","动画电影","网络电影","动作片","喜剧片","灾难片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片", "奇幻片","国产综艺"
       ] 
     },
-    {
-		"key": "cjzy_guancai",
-		"name": "💖分享官采",
-		"type": 1,
-		"api": "https://cj.json.icu/aiku.php",
-		"playUrl": "json:http://tv.yydsys.link/api/icool.php?url=",
-		"categories": ["连续剧"]
-	},
 
 {
             "key": "libhd2",
