@@ -342,6 +342,9 @@
 			"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
 			"ext":"https://v.aikanbot.com"
 		},
+	{"key":"🚨可可影视","name":"💖分享可可","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xn--rgv465a.top/box/json/可可影视.json"},
+		{"key":"🚨蛋蛋赞影视","name":"💖分享蛋蛋","type":3,"api":"https://www.xn--rgv465a.top/box/js/drpy2.min.js","ext":"https://www.xn--rgv465a.top/box/js/蛋蛋赞.js"},
+		{"key":"🚨被窝电影","name":"💖分享被窝","type":3,"api":"https://www.xn--rgv465a.top/box/js/drpy2.min.js","ext":"https://www.xn--rgv465a.top/box/js/被窝电影.js"},
 	 {"key":"采集之王","name":"💖分享采合","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://git.acwing.com/YGFXZ/0/-/raw/main/采集之王_合_.js?type=url&params=https://git.acwing.com/YGFXZ/0/-/raw/main/采集静态.json"},
 	{
       "key": "csp_swdy",
@@ -374,13 +377,6 @@
 		"type": 3,
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享DY.json"
-	},
-	{
-		"key": "XBPQ_kkxs",
-		"name": "💖分享可可",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享KK.json"
 	},
 	{"key": "csp_xpath_tjyy","name": "💖分享奇优","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "jar":"",
