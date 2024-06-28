@@ -379,7 +379,7 @@
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享DY.json"
 	},
 	{"key": "csp_xpath_tjyy","name": "💖分享奇优","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
-"jar":"",
+"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
 "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QY.json"},
 	 {"key": "csp_xpath_xc","name": "💖分享星辰","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享XC.json"},
