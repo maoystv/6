@@ -1453,8 +1453,6 @@
     {"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
     {"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
       {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
-
- {"key":"fx五","name":"💖分享五站","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/EXT/Movie5","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
 {"key":"看看","name":"💖分享看看","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
 {"key":"sliu_spider","name":"💖分享石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
 
@@ -1570,12 +1568,8 @@
           
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"jar":""},
 
-{"key":"畅梦","name":"☕️畅谈梦想","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"},
-
 {"key": "csp_XYQHikerAL_分享qiqu","name":"💖分享奇趣","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/qqtv.json","jar":""},
          {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/nfzw.json","jar":""},
-         {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/ynfys.json","jar":""},
-           {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
 
         {
       "key": "csp_低调",
