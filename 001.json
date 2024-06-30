@@ -148,6 +148,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{"key":"csp_AppTT3","name":"💖分享追剧","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc=","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
+{"key":"蜂2鸟","name":"💖分享蜂鸟","type":3,"api":"csp_AppSK","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},
 	{"key":"虾米","name":"💖分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
 		"ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
 	{"key":"热播1","name":"💖分享热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1, "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
