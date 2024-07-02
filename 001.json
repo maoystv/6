@@ -89,9 +89,11 @@
             "key": "豆瓣",
             "name": "🅱️分享豆瓣",
             "type": 3,
-             "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip",
-            "api": "csp_DouBan",
-            "searchable": 0
+            "api": "http://tipu.xjqxz.top/js/lib/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://tipu.xjqxz.top/js/douban.js"
         },
 		 {
       "key": "xpyg",
