@@ -189,6 +189,49 @@
     },
 	{"key":"Auete3","name":"💖分享奥特","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1, "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","ext":"https://auete.pro/"},
 {"key":"3新6V","name":"💖分享芦苇","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0, "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","ext":"http://www.xb6v.com/"},
+	 {
+            "key": "比特影视",
+            "name": "💖分享彼得",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://xpgtv.net/html/box/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
+        },
+   {
+            "key": "君离(SP)",
+            "name": "💖分享君离",
+            "type": 3,
+            "api": "csp_AppSk",
+            "jar": "http://tipu.xjqxz.top/box/sk.jar",
+            "ext": {
+                "SiteUrl": "http://sk.jlzj.xyz/app.txt",
+                "域名匹配": [
+                    ".txt",
+                    ".json"
+                ],
+                "授权验证": true,
+                "验证信息": {
+                    "Post": {
+                        "sign": "a758867cf74d7677533ec6c82f15ca76"
+                    },
+                    "BuildCk": true,
+                    "CkFormat": "%s##5483##%s##ckzmbc",
+                    "AesKey": "ygcnbcrvaervztmw",
+                    "AesIv": "1212164105143708"
+                },
+                "AesKey": "ygcnbclnqzsmebxd",
+                "AesIv": "8249692684143708",
+                "线路排序": "APP专用->APP备用->APP备用2->APP备用3->APP备用4->APP备用5",
+                "分类过滤": [
+                    "短剧",
+                    "体育",
+                    "解说"
+                ]
+            }
+        },
+	
 	{
 		"key": "drpy_侬好",
 		"name": "💖分享者vip",
