@@ -526,6 +526,20 @@
             "quickSearch": 1,
             "filterable": 1, "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
         },
+	{
+            "key": "啾啾影视",
+            "name": "💖分享啾啾",
+            "type": 3,
+            "api": "csp_Wexjiohub",
+            "searchable": 1,
+            "changeable": 1 ,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+            {
+            "key": "愉悦影视",
+            "name": "💖分享鱼跃",
+            "type": 3,
+            "api": "csp_Wexyuyueys",
+            "searchable": 1,
+            "changeable": 1 ,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
         {
             "key": "1地瓜影视",
             "name": "💖分享地瓜",
@@ -1260,18 +1274,6 @@
 "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享美剧.json"},
  {"key":"PiaoHua","name":"💖分享飘花","type":3,"api":"csp_PiaoHua","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://d.kstore.space/download/4127/ali/PiaoHua.jar"},
     {"key":"csp_CandyMuj_taoju","name":"💖分享淘剧","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://d.kstore.space/download/4127/ali/PiaoHua.jar"},
-
-    {
-      "key": "csp_XYQHikerAL_9995",
-      "name": "📕9995云盘",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/Xiang.txt",
-      "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/9995yunpan.json"
-    },
     {
       "key": "csp_XYQHikerAL_CK",
       "name": "🥤可口可乐",
@@ -1354,8 +1356,6 @@
 		},
     
         {"key": "gsgs","name": "💖分享酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
-        {"key":"Jojo","name":"💖分享JOjo","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/4127/jojo.jar"},
-{ "key":"csp_YingShi","name":"🦀影视海外","type":3,"api":"csp_YingShi", "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/PG.txt;md5; c840802ddf48303bf2e32695d1625b2f","ext":""},
  
     {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
     {
