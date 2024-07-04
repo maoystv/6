@@ -479,12 +479,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",	
-      "ext":{
-        "分类url":"https://www.hemaha.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
-      }
-    },
+      "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}},
 	{ "key": "剧刷网",  "name": "💖分享刷剧", "type": 3,"api": "csp_XBPQ",  "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar","ext": {"简介":"分享者剧情介绍: +bottom-detail\"&&</p>","副标题":"分享者在线","分类url":"https://www.shuajuw.com/Show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"国产剧$13#电视剧$2#电影$1#动漫$4#动画电影$22"}},
 	{
             "key": "csp_4K网",
