@@ -106,6 +106,10 @@
        {"url": "https://dxawi.github.io/0/0.json",
         "name": "00"
     },
+	 {
+            "url": "https://js.catvod.com/https://raw.githubusercontent.com/namegenliang/dy/main/namegen.json",
+            "name": "👚网友"
+        },
      {
             "url": "https://yubox.xyz/xc.json",
             "name": "🍍玉儿"
