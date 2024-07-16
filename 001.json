@@ -499,7 +499,20 @@
                 "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }},
-	
+	 {
+    "key": "全看网",
+    "name": "💖分享全看",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+        "分类url": "https://www.qkw1.cc/show/{cateId}--{by}------{catePg}---{year}.html",
+        "分类": "电影&剧集&综艺&动漫",
+        "分类值": "1&2&3&4"
+    }
+},
+
+  { "key": "可可观影", "name": "💖分享观影", "type":3,"api":"csp_XBPQ", "ext": {"简介":"分享者为您剧情介绍:+style=\"display: none;\"&&</span>","数组":"<li>&&</li>","副标题":"分享者在线+pic-text text-right\">&&</span>","线路数组":"#playlist&&</a>","搜索数组":"col-md-6 col-sm-4 col-xs-3\">&&</li>","分类url":"http://www.kmxibanyayu.com/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	  "分类":"短剧$duanju#国产剧$guochanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#解说$dianyingjieshuo"}},
         {
       "key":"csp_河马",
       "name":"💖分享河马",
