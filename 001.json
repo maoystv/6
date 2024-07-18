@@ -526,16 +526,22 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享waipan.json"
     },
-	 { 
-
-"key": "万达影视", 
-"name": "💖分享万达",
-"type":3,
-"api":"csp_XBPQ", 
-"ext": {"分类url":"http://www.w1988.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-"分类":"短剧$17#国产剧$13#港剧$14#日韩剧$15#电视剧$2#电影$1#动漫$4#综艺$3#体育$5"
-}
-},
+	{
+            "key": "实验金鹰",
+            "name": "💖分享金鹰",
+            "type": 1,
+            "api": "http://zhangqun66.serv00.net/jy.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "实验华为吧",
+            "name": "💖分享华为",
+            "type": 1,
+            "api": "http://zhangqun66.serv00.net/hwb.php",
+            "searchable": 1,
+            "changeable": 1
+        },
 	 {
     "key": "1全看网",
     "name": "💖分享全看",
