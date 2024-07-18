@@ -532,7 +532,8 @@
             "type": 1,
             "api": "http://zhangqun66.serv00.net/jy.php",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+	    "categories": ["电视剧","电影","动漫","综艺","体育赛事",”短剧"]
         },
         {
             "key": "实验华为吧",
