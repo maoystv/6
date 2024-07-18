@@ -516,6 +516,16 @@
                 "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }},
+	{
+      "key": "歪影秒播",
+      "name": "💖分享歪影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享waipan.json"
+    },
 	 { 
 
 "key": "万达影视", 
