@@ -187,6 +187,7 @@
             "filterable": 1,
             "ext": "http://110.42.7.101:1122/api.php/app/"
         },
+	{"key": "370","name": "💕分享沐峰","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url=","playerType": 1,"ext": "http://122.228.84.103:6119/api.php/app/"},
 	{"key":"csp_AppTT3","name":"💖分享追剧","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc=","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
 {"key":"蜂2鸟","name":"💖分享蜂鸟","type":3,"api":"csp_AppSK","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},
 	{"key":"虾米","name":"💖分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
