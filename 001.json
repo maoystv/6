@@ -177,6 +177,16 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享花姐.json"
     },
+	{
+            "key": "追忆影视",
+            "name": "💖分享追忆",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://110.42.7.101:1122/api.php/app/"
+        },
 	{"key":"csp_AppTT3","name":"💖分享追剧","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc=","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
 {"key":"蜂2鸟","name":"💖分享蜂鸟","type":3,"api":"csp_AppSK","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},
 	{"key":"虾米","name":"💖分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
@@ -2610,6 +2620,31 @@
 				}
 			}
 		},
+	{
+            "name": "💕推荐3",
+            "url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "xiguatv",
+                    "mytv",
+                    "dsj",
+                    "FYNB",
+                    "NBY",
+                    "BTJSON"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
+        },
 	{"name":"💖分享0","type":1,"url":"http://111.180.198.97:8090/api/?key=k0Aum8UuofIFQ3Q2ra&url="},
 		{"name":"💖分享1","type":1,"url":"http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"💖分享2","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
