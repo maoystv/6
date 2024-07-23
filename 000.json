@@ -152,6 +152,16 @@
         "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
       }
     },
+	{
+            "key": "cc影视",
+            "name": "💖分享央視",
+            "type": 3,
+            "api": "csp_AuthCCTV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
+        },
 	{"key":"ls","name":"💖分享锤锤","type":3,"api":"csp_AppLS","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip","searchable":1,"quickSearch":0,"changeable":0},
 	{"key":"qqi","name":"💖分享琪琪","type":3,"api":"csp_App","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD2o6zala9sG9xW2vvEGFcBZGk4szCGDZdjzNT4sx6MAMhc9F/mO/ZwXFrmvwMbgyoVYer1RmeG3po+IcQ7RhyitH8VScIS3uQiHiWFbjAirTVAxDMxXMM1byD2YA66wM+zH645A3GIdprNZW4MY15TyAkv0LCroaOb3WRlOisGAPoqTicq8cuwvlNuxg6W9zF5GY/O0CAzNXSTHsHoCRfdG40kfElwrHGFt2bu+nl8CG+Jhjhyp7kZriUPqO2dznbObOYa92zb3RnOIygZvnOTp"},
 	 {"key":"xingya","name":"💖分享星芽","type":3,"api":"csp_AppXY","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip","searchable":1,"quickSearch":0,"changeable":0},
