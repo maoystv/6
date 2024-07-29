@@ -298,6 +298,17 @@
 		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/lib/drpy2.min.js",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/js/YGFXZ.js"
 	},
+	 {"key":"yytt","name":"💖分享探戈","type":3,"api":"csp_App","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者a.zip","searchable":1,"quickSearch":0,"changeable":0,"ext":"KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKyS4pZGVliaWdgtFxNyemnrka2ff5Bglc6bYKoIfOcxKZM1qq+TIb+u+I1TOuX8Cyz2vNHyQmyVdXLr187ZBmyAvGj67IG2eUPxvK2y0wogdhBXOL940IzPvmfJ+oEcxccplHKFyCiCo8Fnnf8NtYE/SlZVQ/AIYcBlYwv68HUWlQtj/Bfqi2GrEgwKDa5Q67B4h00MEZQicg=="},
+     {
+            "key": "热影视",
+            "name": "💖分享热追",
+            "type": 3,
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者a.zip",
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
 	{
             "key": "铁剧影视",
             "name": "💖分享铁剧",
@@ -312,7 +323,7 @@
             "key": "笙歌影视",
             "name": "💖分享笙歌",
             "type": 3,
-            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者a.zip",
             "api": "csp_AppYY",
             "searchable": 1,
             "quickSearch": 0,
