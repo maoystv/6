@@ -313,7 +313,7 @@
             "key": "铁剧影视",
             "name": "💖分享铁剧",
             "type": 3,
-            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
             "api": "csp_AppBr",
             "searchable": 1,
             "quickSearch": 0,
@@ -438,12 +438,12 @@
             "ext": "https://vidhub1.cc"
         },
 	{"key":"csp_DiDuan" ,"name":"💖分享低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":0,"jar":""},
-	{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/YGFXZ/0/-/raw/main/分享玩偶.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-          {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-           {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-         {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YS.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-          {"key": "csp_XYQHikerAL_分享影音","name":"💖分享影音","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-       {"key": "csp_XYQHikerAL_分享资源","name":"💖分享资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享ZY.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+	{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/YGFXZ/0/-/raw/main/分享玩偶.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+          {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+           {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+         {"key": "csp_XYQHikerAL_分享影搜","name":"💖分享影搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YS.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+          {"key": "csp_XYQHikerAL_分享影音","name":"💖分享影音","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享YY.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+       {"key": "csp_XYQHikerAL_分享资源","name":"💖分享资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XYQB/分享ZY.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
        {
             "key": "2Gitcafe",
             "name": "💖分享纸条",
@@ -452,7 +452,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
             "ext": "https://pastebin.com/raw/zsEYRYPD"
         },
         {
@@ -463,7 +463,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
             "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享论坛.json"
         },
         {
@@ -474,7 +474,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
             "ext": "https://pastebin.com/raw/zsEYRYPD"
         },
 	  {"key": "阿里集合","name": "💖分享合集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/is/阿里集合.json;https://pastebin.com/raw/zsEYRYPD","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/阿里.jar"}, 
@@ -485,7 +485,7 @@
 			"api": "csp_Ikanbot",
 			"changeable": 1,
 			"playerType": 2,
-			"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
 			"ext":"https://v.aikanbot.com"
 		},
 	{"key":"🚨可可影视","name":"💖分享可可","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xn--rgv465a.top/box/json/可可影视.json"},
@@ -663,7 +663,7 @@
   
         {"key":"AI1","name":"💖分享AI1","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
         {"key":"AI2","name":"💖分享AI2","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
-	 {"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+	 {"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
         {
             "key": "1FreeOK",
             "name": "💖FreeOK",
@@ -671,7 +671,7 @@
             "api": "csp_FreeOK",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1, "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+            "filterable": 1, "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
         },
 	{
             "key": "啾啾影视",
@@ -679,21 +679,21 @@
             "type": 3,
             "api": "csp_Wexjiohub",
             "searchable": 1,
-            "changeable": 1 ,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+            "changeable": 1 ,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
             {
             "key": "愉悦影视",
             "name": "💖分享鱼跃",
             "type": 3,
             "api": "csp_Wexyuyueys",
             "searchable": 1,
-            "changeable": 1 ,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+            "changeable": 1 ,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
         {
             "key": "1地瓜影视",
             "name": "💖分享地瓜",
             "type": 3,
             "api": "csp_Wexdiguatv",
             "searchable": 1,
-            "changeable": 1 ,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+            "changeable": 1 ,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
         },
 	{
             "key": "快看影视",
@@ -702,14 +702,14 @@
             "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1 ,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+            "filterable": 1 ,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
         {
             "key": "兄弟影视",
             "name": "💖分享兄弟",
             "type": 3,
             "api": "csp_Wexxiongdiys",
             "searchable": 1,
-            "changeable": 1 ,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+            "changeable": 1 ,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
         {
             "key": "胖虎影视",
             "name": "💖分享胖虎",
@@ -718,7 +718,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://physvod.com","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+            "ext": "https://physvod.com","jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
         },
         {
             "key": "甲子影视",
@@ -726,7 +726,7 @@
             "type": 3,
             "api": "csp_Wexjiazitv",
             "searchable": 1,
-            "changeable": 1 ,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+            "changeable": 1 ,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
         },
 	{
             "key": "明日影视",
@@ -734,8 +734,8 @@
             "type": 3,
             "api": "csp_WexMingriys",
             "searchable": 1,
-            "changeable": 1 ,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-	{"key":"耐看影视","name":"💖分享耐看","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w==","jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},   
+            "changeable": 1 ,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+	{"key":"耐看影视","name":"💖分享耐看","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w==","jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},   
        
 {
       "key": "ttkx3",
@@ -2549,7 +2549,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
             "ext": "https://www.mutean.com"
         },
         {
