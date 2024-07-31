@@ -1364,7 +1364,7 @@
     "name": "💖分享狸云",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://raw.gitmirror.com/maoystv/6/main/XBPQ/分享LY.json"
+    "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享LY.json"
 },
 
 {
@@ -1376,7 +1376,7 @@
       "quickSearch": 1,
       "timeout": 60,
       "filterable": 1,      
-      "ext": "https://raw.gitmirror.com/maoystv/6/main/XBPQ/分享LS.json"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享LS.json"
     },
    
    {
