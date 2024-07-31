@@ -114,20 +114,6 @@
       "filterable": 0
     },
 
-		{"key":"hipy_py_cntv央视","name":"🇨🇳分享央视","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/6670/py_cctvdc.json"},
-		
-  {"key":"csp_XiaoYa","name":"💖分享小雅","ext":"eyJhcGkiOiJodHRwOi8vdHh5LmxqaWFuZy50b3A6NDU2NyIsInRva2VuIjoibGppYW5nMTk2ODEwOCJ9","filterable":1,"quickSearch":1,"changeable":1,"jar":"http://txy.ljiang.top:4567/spring.jar","style":{"type":"rect"},
-"api":"csp_XiaoYa","type":3,"searchable":1},
-	{
-      "key": "小鸭1",
-      "name": "💖分享鸭鸭",
-      "type": 3,
-      "api": "http://213.35.99.39:5678/tvbox/libs/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://213.35.99.39:5678/tvbox/json/alist_ext.json;200;video"
-    },
 	{"key":"yaya",
 		"name":"💖分享雅雅",
 		"type":3,
@@ -182,7 +168,6 @@
       "name": "💖分享摩耳",
       "type": 1,
       "api": "https://zhangqun66.serv00.net/158.php",
-      "playUrl": "json:https://4tvbox.ggff.net/hme.php?url=",
       "searchable": 1,
       "quickSearch":0,
       "filterable":0
