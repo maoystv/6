@@ -136,7 +136,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+{
+      "key": "ppt",
+      "name": "💖分享否否",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/ppterd.json"
+    },
 	{"key":"csp_Jpys","name":"💖分享金牌","type":3, "api": "csp_XBPQ",
       "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
       "searchable": 1,
