@@ -221,17 +221,6 @@
     },
 	{"key":"Auete3","name":"💖分享奥特","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1, "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","ext":"https://auete.pro/"},
 {"key":"3新6V","name":"💖分享芦苇","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0, "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","ext":"http://www.xb6v.com/"},
-	 {
-      "key": "UM电影",
-      "name": "💖分享|UM",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://www.umvod.cc/mogai_api.php/v1.vod"
-    },
 
    {
             "key": "比特影视",
@@ -619,12 +608,8 @@
     "key": "1全看网",
     "name": "💖分享全看",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-        "分类url": "https://www.qkw1.cc/show/{cateId}--{by}------{catePg}---{year}.html",
-        "分类": "电影&剧集&综艺&动漫",
-        "分类值": "1&2&3&4"
-    }
+    "api": "csp_Quanwk",
+    "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
 },
 
   { "key": "可可1观影", "name": "💖分享观影", "type":3,"api":"csp_XBPQ", "ext": {"简介":"分享者为您剧情介绍:+style=\"display: none;\"&&</span>","数组":"<li>&&</li>","副标题":"分享者在线+pic-text text-right\">&&</span>","线路数组":"#playlist&&</a>","搜索数组":"col-md-6 col-sm-4 col-xs-3\">&&</li>","分类url":"http://www.kmxibanyayu.com/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html",
@@ -743,22 +728,14 @@
             "searchable": 1,
             "changeable": 1 ,"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
         {
-            "key": "胖虎影视",
-            "name": "💖分享胖虎",
+            "key": "最新影视",
+            "name": "💖分享最新",
             "type": 3,
-            "api": "csp_Panghu",
+            "api": "csp_Zx1080",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://physvod.com","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
-        },
-        {
-            "key": "甲子影视",
-            "name": "💖分享甲子",
-            "type": 3,
-            "api": "csp_Wexjiazitv",
-            "searchable": 1,
-            "changeable": 1 ,"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+	    "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
         },
 	{
             "key": "明日影视",
