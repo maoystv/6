@@ -136,6 +136,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{
+      "key": "ppt",
+      "name": "💖分享否否",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/pptred.json"
+    },
 	{"key":"csp_Jpys","name":"💖分享金牌","type":3, "api": "csp_XBPQ",
       "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
       "searchable": 1,
@@ -2651,17 +2660,9 @@
 		{"name":"💕分享官源","type":0,"url":"https://api.52wyb.com/index/?url=","ext":{"header":{"referer":"http://www.7xdy.com/","User-Agent":"Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/535.1(KHTML,likeGecko)Chrome/14.0.835.163Safari/535.1"},
 "flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果"]}},
 		{
-			"name": "💕分享麻衣",
+			"name": "💕分享无名",
 			"type": 1,
-			"url": "http://y1.ys.33love.cn:8665/lunxun/index.php?url=",
-			"ext": {
-				"flag": [
-					"NBY"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.1.0"
-				}
-			}
+			"url": "http://159.75.157.29:75/yylx/?uid=66523&key=5433236&url=",
 		},
 		 {
             "name": "🈳️分享空白",
