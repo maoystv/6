@@ -558,6 +558,13 @@
             "filterable": 1,
             "playUrl": "json:https://jx.m3u8.biz/gg.php?url="
         },
+	  {"key":"liangzi",
+		  "name":"💖分享量子",
+		  "type":1,
+		  "api":"https://cj.lzcaiji.com/api.php/provide/vod/",
+		  "playUrl":"","playerType":2,
+		  "searchable":1,"changeable":1,
+		  "categories":["国产剧","韩国剧","欧美剧","动作片","科幻片","战争片","爱情片","喜剧片","国产动漫","大陆综艺"]},
         {
             "key": "快看",
             "name": "💖分享快侃",
