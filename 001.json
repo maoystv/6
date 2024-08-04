@@ -2626,18 +2626,22 @@
 {"name":"智能解析","type":2,"url": "Sequence"},
 {"name": "自动解析","type": 2,"url": "Parallel"},
 {"name":"超级解析","type":3,"url":"Demo"},
-{"name":"超级嗅探","type":3,"url":"Web"},
+{"name":"超级嗅探","type":3,"url":"Web"}, 
 
-{"name":"💕推荐","type":1,"url":"http://tv.yydsys.link/api/icool.php?url="}, 
-
-{
-      "name": "💕推荐0",
-      "type": 1,
-      "url": "http://jxxcc-cc.dianshia.top:8821/api/?key=UAOfSBFIaFI3IvLi8r&url=",
-        "header": {
-          "User-Agent": "okhttp/3.12.11"
-      }
-    },
+	{
+            "name": "💕分享推荐",
+            "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
+            "type": "1",
+            "status": "normal",
+            "type_text": "Type 1",
+            "status_text": "正常"
+        },
+	{
+            "name": "💕分享推荐1",
+            "type": 1,
+            "url": "http://159.75.157.29:75/yylx/?uid=66523&key=5433236&url=",
+	    "status_text": "正常"
+        },
 
     {
       "name": "💕推荐1",
@@ -2656,19 +2660,6 @@
 				}
 			}
 		},
-	{
-            "name": "💕推荐3",
-            "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-	{
-            "name": "💕分享无名",
-            "type": 1,
-            "url": "http://159.75.157.29:75/yylx/?uid=66523&key=5433236&url="
-        },
 	{"name":"💖分享0","type":1,"url":"http://111.180.198.97:8090/api/?key=k0Aum8UuofIFQ3Q2ra&url="},
 		{"name":"💖分享1","type":1,"url":"http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"💖分享2","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
