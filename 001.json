@@ -2615,10 +2615,8 @@
 //解析接口
 
 "parses":[
-{"name":"智能解析","type":2,"url": "Sequence"},
-{"name": "自动解析","type": 2,"url": "Parallel"},
-{"name":"超级解析","type":3,"url":"Demo"},
-{"name":"超级嗅探","type":3,"url":"Web"}, 
+{"name":"聚合解析","type":3,"url":"Demo"},
+{"name":"聚合嗅探","type":3,"url":"Web"}, 
 {
             "name": "💕分享推荐",
             "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
@@ -2633,6 +2631,65 @@
             "url": "http://159.75.157.29:75/yylx/?uid=66523&key=5433236&url=",
 	    "status_text": "正常"
         },
+	 {
+      "name": "🧰分享巧技",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+           {
+      "name": "🧰分享巧技2",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
 
 {
 			"name": "💕分享嗅探",
