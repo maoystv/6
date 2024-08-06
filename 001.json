@@ -104,6 +104,15 @@
       "changeable": 1,
       "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享新片.json"
     },
+	  {
+      "key": "fxzy",
+      "name": "💖分享主页",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享主页.json"
+    },
 {
       "key": "t4直播转点播",
       "name": "🏡T4丨教育",
