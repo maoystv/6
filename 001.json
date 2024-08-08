@@ -155,23 +155,13 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/pttred.json"
     },
-	{"key":"csp_Jpys","name":"💖分享金牌","type":3, "api": "csp_XBPQ",
-      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://www.ghw9zwp5.com",
-        "数组": "class=\"slide-content\"&&</div></div>",
-        "标题": "alt=\"&&\"",
-        "图片": "srcset=\"&&\"",
-        "链接": "href=\"&&\"",
-        "立即播放": "1",
-        "嗅探词": ".mp4#.m3u8#.flv",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
-      }
-    },
+	{"key":"csp_陌陌",
+		"name":"💖分享陌陌","type":3,
+		"api":"csp_AppYsV2",
+		"searchable":1,
+		"quickSearch":1,
+		"changeable":1,
+		"ext":"https://www.kuin.one/api.php/app/"},
 	{
       "key": "huajie",
       "name": "💖分享花街",
