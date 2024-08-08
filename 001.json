@@ -145,6 +145,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	 {
+      "key": "uuys",
+      "name": "💖分享悠悠",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享UU.json"
+    },
 {
       "key": "1ppt",
       "name": "💖分享否否",
