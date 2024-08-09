@@ -113,9 +113,10 @@
       "changeable": 1,
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享主页.json"
     },
+	 {"key":"央视剧场","name":"🇨🇳分享央视","type":3,"api":"https://8815.kstore.space/lib/央视剧场.js","searchable":1,"changeable":1,"timeout":10},
 {
       "key": "t4直播转点播",
-      "name": "🏡T4丨教育",
+      "name": "🏡分享教育",
       "type": 4,
       "api": "http://120.53.102.254/dsp16",
       "searchable": 1,
@@ -2716,6 +2717,8 @@
         }
       }
     },
+{"name":"💔分享线路1","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
+{"name":"💔分享线路2","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 
 {
 			"name": "💕分享嗅探",
