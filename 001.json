@@ -2642,7 +2642,12 @@
 //解析接口
 
 "parses":[
-{"name":"聚合解析","type":3,"url":"Demo"},
+{
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+	{"name":"聚合解析","type":3,"url":"Demo"},
 {"name":"聚合嗅探","type":3,"url":"Web"}, 
 {
             "name": "💕分享推荐",
@@ -2652,6 +2657,12 @@
             "type_text": "Type 1",
             "status_text": "正常"
         },
+	 {
+			"name": "💕分享推荐0",
+			"type": 1,
+			"url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=4qb8lbCsVF4M4V9ryt&url=",
+			 "status_text": "正常"
+		},
 	{
             "name": "💕分享推荐1",
             "type": 1,
