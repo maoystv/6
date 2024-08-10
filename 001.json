@@ -2650,6 +2650,18 @@
 	{"name":"聚合解析","type":3,"url":"Demo"},
 {"name":"聚合嗅探","type":3,"url":"Web"}, 
 {
+            "name": "💕分享专线",
+            "type": "1",
+            "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
+            "flag": [
+                "4kvip"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0",
+                "status_text": "正常"
+            }
+        },
+	{
             "name": "💕分享推荐",
             "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
             "type": "1",
