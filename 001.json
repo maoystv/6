@@ -188,6 +188,26 @@
 		"quickSearch":1,
 		"changeable":1,
 		"ext":"https://www.kuin.one/api.php/app/"},
+	   {
+            "key": "新感觉",
+            "name": "💖分享感觉",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.100.147:9891/api.php/app/"
+        },
+         {
+      "key": "bydy",
+      "name": "💖分享白洋",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享BY.json"
+    },
 	{
       "key": "huajie",
       "name": "💖分享花街",
