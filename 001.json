@@ -2746,6 +2746,28 @@
                 "User-Agent": "Dalvik/2.1.0"
             }
         },
+	  {
+            "name": "💖分享专线1",
+            "type": "1",
+            "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+            "flag": [
+                "NBY"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "💖分享2专线",
+            "type": "1",
+            "url": "http://110.40.39.158:5000/api/jiexi/common?Key=7idBzIqEEFyf4AYYXt&url=",
+            "flag": [
+                "BTOL"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
 	 {
       "name": "🧰分享推荐A",
       "type": 1,
