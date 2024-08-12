@@ -217,6 +217,16 @@
             "filterable": 1,
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
+	 {
+      "key": "fxzyz",
+      "name": "💖分享驿站",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享YZ.json?ref=master"
+    },
          {
       "key": "bydy",
       "name": "💖分享白洋",
