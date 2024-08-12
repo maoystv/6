@@ -153,6 +153,18 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{"key":"fxcz",
+		"name":"💖分享厰長",
+		"type":3,
+		"api":"csp_CzApp",
+		"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者2.zip",
+		"searchable":1,
+		"quickSearch":0,
+		"filterable":0,
+		"timeout":30,
+		"ext":{"SiteUrl":"https://www.czys.pro",
+			"SearchUrl":"https://www.czys.pro/daoyongjiekoshibushiyoubing",
+		"SiteUrlBak":"https://www.czys.pro/"}},
 	 {
       "key": "uuys",
       "name": "💖分享悠悠",
@@ -401,7 +413,6 @@
             "filterable": 0 ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
        
-	{"key":"fxcz","name":"💖分享大厂","type":3,"api":"csp_CzApp","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者2.zip","searchable":1,"quickSearch":0,"filterable":0,"timeout":30,"ext":{"SiteUrl":"https://czzy.site","SearchUrl":"https://czzy.top/daoyongjiekoshibushiyoubing","SiteUrlBak":"https://czzy.top"}},
 	{
             "key": "dami影视",
             "name": "💖分享大米",
