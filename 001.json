@@ -231,6 +231,8 @@
             "filterable": 1,
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
+	 { "key": "酷云$七七", "name": "💖分享酷云", "type":3,"api":"csp_XBPQ", "jar": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar","ext": {"简介":"分享者剧情介绍:+video-info-item video-info-content vod_content\">&&</div>","数组":"<a&&module-item-cover","图片":"src=\"&&\"","标题":"alt=\"&&\">","副标题":"module-item-text\">&&</div>","播放数组":"module-blocklist scroll-box scroll-box-y\">&&</div>","分类url":"https://sc1080.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$21#电视剧$2#电影$1#动漫$4#综艺$3"}},
+           {"key": "小鸭影音","name": "💖分享小鸭","type": 3,"api": "csp_XBPQ","ext": {"简介":"分享者剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电视剧$2#电影$1#动漫$30#综艺$29"}},
 	 {
       "key": "fxzyz",
       "name": "💖分享驿站",
