@@ -714,23 +714,6 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享waipan.json"
     },
-	{
-            "key": "实验金鹰",
-            "name": "💖分享金鹰",
-            "type": 1,
-            "api": "http://zhangqun66.serv00.net/jy.php",
-            "searchable": 1,
-            "changeable": 1,
-	    "categories": ["电视剧","电影","动漫","综艺","体育赛事",”短剧"]
-        },
-        {
-            "key": "实验华为吧",
-            "name": "💖分享华为",
-            "type": 1,
-            "api": "http://zhangqun66.serv00.net/hwb.php",
-            "searchable": 1,
-            "changeable": 1
-        },
 	{"key":"csp_xBPQ_何以","name":"️💖分享何以","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"http://heyik.cn/index.php/vod/show/area/{area}/by/time/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 
   { "key": "可可1观影", "name": "💖分享观影", "type":3,"api":"csp_XBPQ", "ext": {"简介":"分享者为您剧情介绍:+style=\"display: none;\"&&</span>","数组":"<li>&&</li>","副标题":"分享者在线+pic-text text-right\">&&</span>","线路数组":"#playlist&&</a>","搜索数组":"col-md-6 col-sm-4 col-xs-3\">&&</li>","分类url":"http://www.kmxibanyayu.com/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html",
@@ -3001,7 +2984,23 @@
 ],
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","kuying -you","YuMi-vip","douyin","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 
-"rules": [
+"rules":
+    [{"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    {"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","access.mypikpak.com","api-drive.mypikpak.com","user.mypikpak.com","youtube.com","uhibo.com","thze.cc",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*"]},
+	{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["20.52","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
+	{"name":"索尼广告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
+	{"name":"暴风广告","hosts":["bfzy","bfbfvip"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
+	{"name":"星星广告","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	{"name":"快看广告","hosts":["kuaikan"],"regex":["#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	{"name":"磁力广告","hosts":["magnet"],"regex":["更多","请访问","example","社 區","x u u","直 播","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
+	{"name":"一起看广告","hosts":["yqk88"],"regex":["18.4","15.1666","16.5333","#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},
+	{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
+	{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+	{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*"]},
+	{"name":"NO","hosts":["m3u.nikanba.live"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.100000,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name":"分享者智能AI已过滤广告","hosts":["http"],"disable":["aliyuncs.com","olemovienews.com","ninjia.online","vdtuzv.com","json.icu","/asp/hls/","huya.com","zsyzcy.cn","/nby/","yjys.me","122.228.8.29:4433/Cache","huohua","cdn.json.icu"],"rules":[{"regexp":"AI"}],"toLog":0},
+    {"name":"智能AI去广","hosts":["http"],"disable":["aliyuncs.com","TVOD"],"rules":[{"regexp":"AI2"}],"toLog":0},
+	{"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 	    {
 	    	"name": "嗅探过滤",
 	    	"host": "*",
@@ -3012,9 +3011,7 @@
 	    		"http((?!http).){12,}?\\.(js|css|png|jpg|png|ico|ru=)\\?.*"
 	    	]
 	    
-	    }
-	],
- "rules": [
+	    },
     {"host": "*","rule": ["default.365yg.com"]},
     {"host": "dyxs20.com","rule": [".m3u8"]},
     {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
