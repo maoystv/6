@@ -265,6 +265,26 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享花姐.json"
     },
+	 {
+      "key": "shiju影视",
+      "name": "💖分享视觉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"",
+      "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享SJ.json"
+    },
+       {
+      "key": "ba秒播",
+      "name": "💖分享彼岸",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享waipan.json"
+    },
 	{"key": "csp_SP2345","name": "💖分享数字","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
            {"key":"360影视","name":"💖分享六六","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
      {"key":"csp_QQ1","name":"💖分享腾讯","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
