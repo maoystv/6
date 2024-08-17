@@ -167,6 +167,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	 {
+            "key": "jp弹幕",
+            "name": "💖分享金瓶",
+            "type": 3,
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
+        },
 	{"key":"fxcz",
 		"name":"💖分享厰長",
 		"type":3,
