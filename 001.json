@@ -314,14 +314,14 @@
          {"key":"csp_yk","name":"💖分享优酷","type":3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
 
 	{
-      "key": "ys2",
+      "key": "heimuer",
       "name": "💖分享摩耳",
-       "type": 4,
-            "api": "http://zhangqun1818.serv00.net/225.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享mz.json?ref=master"
+    },
 	{"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
 {
 			"key": "农民影视",
@@ -1157,15 +1157,6 @@
                 "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
             }
         },
-     {
-      "key": "heimuer",
-      "name": "💖分享木耳",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享heimuer.json"
-    },
      {
       "key": "jingyu",
       "name": "💖分享鲸鱼",
