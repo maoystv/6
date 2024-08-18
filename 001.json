@@ -177,6 +177,13 @@
             "filterable": 1,
             "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
         },
+	 {
+	"key": "hipy_js_fxz闪电",
+	"name": "💖分享闪电",
+	"type": 3,
+	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/闪雷电.js?ref=master"
+},
 	{"key":"fxcz",
 		"name":"💖分享厰長",
 		"type":3,
