@@ -2737,6 +2737,12 @@
 	{"name":"聚合解析","type":3,"url":"Demo"},
 {"name":"聚合嗅探","type":3,"url":"Web"}, 
 {
+            "name": "💖分享专享",
+            "type": 1,
+            "url": "http://39.104.230.177:1122/lxjx/mylr.php?url=",
+            "status_text": "正常"
+        },
+	{
             "name": "💕分享专线",
             "type": "1",
             "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
