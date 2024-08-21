@@ -177,6 +177,14 @@
             "filterable": 1,
             "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
         },
+	{
+      "key": "河马",
+      "name": "💖分享河馬",
+      "type": 3,
+      "api": "csp_Hmys",
+      "playerType": 1,
+      "ext": "https://m.jmzp.net.cn","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/FxzHm.jar?ref=master"
+    },
 	 {
 	"key": "hipy_js_fxz闪电",
 	"name": "💖分享闪电",
