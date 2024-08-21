@@ -697,6 +697,12 @@
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }},
 	 {"key": "自营影视","name": "💖分享自营","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
+{"key": "csp_XBPQ_FF",
+  "name": "💖分享非凡",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "qlayerType": 1,
+  "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享FF.json?ref=master"},
 
 {"key": "非@凡",
 	"name": "💖分享非凡",
