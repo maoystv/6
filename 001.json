@@ -506,15 +506,15 @@
             "filterable": 0,
             "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
-	{
+{
             "key": "米米影视",
             "name": "💖分享多米",
             "type": 3,
-            "api": "csp_WebDM",
+            "api": "csp_AppDaMi",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
+            "jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php"
         },
 	{"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
 	{"key":"csp_77","name":"💖分享七七","type":3 ,"api":"csp_AppEight","searchable":1,"quickSearch":1,"filterable":0,"ext":{"siteUrl":"https://api.kpyun6.cn","deviceId":"b0d43379a488e74d"} ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
@@ -698,7 +698,7 @@
             }},
 	 {"key": "自营影视","name": "💖分享自营","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
 {"key": "csp_XBPQ_FF",
-  "name": "💖分享非凡",
+  "name": "💖分享肥环",
   "type": 3,
   "api": "csp_XBPQ",
   "qlayerType": 1,
