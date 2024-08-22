@@ -1637,28 +1637,6 @@
     },
     {"key": "dr_优酷2","name": "🔭优酷视频","type": 3,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/js/js/优酷.js"},
     
-      {
-      "key": "左岸",
-      "name": "💖分享桌案",
-      "type": 3,     
-      "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5821/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-
-        {
-			"key": "myi",
-			"name": "💖分享麻衣",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"ext": "http://122.228.84.103:5822/api.php/app/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-    
         {"key": "gsgs","name": "💖分享酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
  
     {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
