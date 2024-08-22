@@ -506,7 +506,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php"
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
         },
 	{"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.nfzj.fun","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
 	{"key":"csp_77","name":"💖分享七七","type":3 ,"api":"csp_AppEight","searchable":1,"quickSearch":1,"filterable":0,"ext":{"siteUrl":"https://api.kpyun6.cn","deviceId":"b0d43379a488e74d"} ,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
@@ -688,6 +688,14 @@
                 "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }},
+	{
+        "key": "河狸",
+        "name": "💖分享河狸",
+        "type": 3,
+        "api": "csp_AppYsV2",
+        "jar": "",
+        "ext": "https://www.heli888.cc/api.php/app/"
+    },
 	 {"key": "自营影视","name": "💖分享自营","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
 {"key": "csp_XBPQ_FF",
   "name": "💖分享肥环",
