@@ -192,6 +192,21 @@
 	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
 	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/闪雷电.js?ref=master"
 },
+	{
+	"key": "hipy_js_fxz多多",
+	"name": "💖分享朵朵",
+	"type": 3,
+	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+	"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/master/js/多多追剧[优].js"
+},
+
+{
+	"key": "hipy_js_fxz小屋",
+	"name": "💖分享小屋",
+	"type": 3,
+	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+	"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/master/js/速播小屋.js"
+},
 	{"key":"fxcz",
 		"name":"💖分享厰長",
 		"type":3,
