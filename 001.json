@@ -1869,32 +1869,6 @@
       "name": "💖分享自营",
       "type":3,"api":"csp_XBPQ","ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/小鹿影视.json"},
         {
-"key": "csp_xBPQ_348",
-"name": "💖分享星速",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/348影视.json"},
-        {
-      "key": "csp_好戏",
-      "name": "💖分享好戏",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/好戏影视.json"
-    },
-     {
-            "key" : "v2-D",
-            "name" :"💖分享短剧",
-            "type" : 3,
-            "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/mimiju.js"
-        },
-        {
       "key": "gc",
       "name": "💖分享约爱",
       "type": 1,
@@ -2340,13 +2314,6 @@
             "filterable": 1, 
             "ext": "https://www.tvkuys.xyz/api.php/app/"}, 
 
-{"key": "csp_XBPQ_非凡",
-  "name": "🔰非同凡响",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "qlayerType": 2,
-  "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/非凡.json"},
-
 {"key": "csp_XBPQ_量子",
   "name": "♻️量如江海",
   "type": 3,
@@ -2354,23 +2321,6 @@
   "playerType": 2,
   "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/量子.json"},
 
-        {
-            "key": "ok", 
-            "name": "👌FREEOK", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/free.json"
-        }, 
-        
-{
-            "key": "滋滋", 
-            "name": "🈯️指点江山", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext": "https://pan.shangui.cc/f/wQ7DIg/ZZ.json"
-        }, 
 
 {"key":"鸭奈飞","name":"🦆鸭奶飞飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
 {"key":"米","name":"💖米爱影音","type": 3, "api": "csp_XBPQ","playerType":2,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/米爱影视.json"},
@@ -2465,10 +2415,6 @@
             "filterable": 0,
             "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/素白白.js"
         },
-
-{"key": "csp_xBPQ_传递","name": "🎭八蛋影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/八蛋影视.js"},
-{"key":"mtv_XBPQ_91影视","name":"🍷酒妖影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/酒遥.json"},
-{"key":"mtv_XBPQ_土豪TV","name":"💰土豪TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/土豪.json"},
 {"key": "抖音小姐姐","name": "💃抖音姐姐", "type": 4,"api": "http://120.53.102.254/xjj","searchable": 1,"quickSearch": 0,"filterable": 1 },
 {"key": "MV大全","name": "💽MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},        
 
