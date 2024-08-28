@@ -480,7 +480,13 @@
 		"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/js/lib/drpy2.min.js",
 		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/js/YGFXZ.js"
 	},
-	 {"key":"yytt","name":"💖分享探戈","type":3,"api":"csp_App","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者a.zip","searchable":1,"quickSearch":0,"changeable":0,"ext":"KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKyS4pZGVliaWdgtFxNyemnrka2ff5Bglc6bYKoIfOcxKZM1qq+TIb+u+I1TOuX8Cyz2vNHyQmyVdXLr187ZBmyAvGj67IG2eUPxvK2y0wogdhBXOL940IzPvmfJ+oEcxccplHKFyCiCo8Fnnf8NtYE/SlZVQ/AIYcBlYwv68HUWlQtj/Bfqi2GrEgwKDa5Q67B4h00MEZQicg=="},
+	  {"key":"yytt","name":"💖分享探戈","type":3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
+        },
      {
             "key": "热影视",
             "name": "💖分享热追",
@@ -2723,17 +2729,6 @@
     },
 	{"name":"聚合解析","type":3,"url":"Demo"},
 {"name":"聚合嗅探","type":3,"url":"Web"}, 
-{
-            "name": "💖分享专享",
-            "type": 1,
-            "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
-            "status_text": "正常"
-        },
-        {"name":"💖分享专享0",
-        "type": 1,
-        "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
-        "status_text": "正常"
-        },
 
 {
             "name": "💕分享专线",
@@ -2861,6 +2856,12 @@
             },
             "type": "1"
         },
+	{"name":"💖分享专享1","type":"1","url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","flag":["LXTX","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"Dalvik/2.1.0"}},
+
+{"name":"💖分享专享2","type":"1","url":"http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=","flag":["yhdm","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"Dalvik/2.1.0"}},
+{"name":"️ 💖分享专享3","type":"1","url":"http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=","flag":["mytv","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"Dalvik/2.1.0"}},
+{"name":"💖分享专享4","type":1,"url":"http://117.50.183.202:8036/?ip=111.55.12.236&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"💖分享专享5","type":1,"url":"https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
         {"name": "💖分享专属","type": 1,"url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
          {
       "name": "🧰分享推荐A",
@@ -2929,7 +2930,9 @@
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
+ {"name":"💔分享线路4","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
 
+{"name":"💔分享线路5","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {
 			"name": "💕分享嗅探",
 			"type": 0,
