@@ -192,7 +192,13 @@
 	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
 	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/闪雷电.js?ref=master"
 },
-
+{"key":"PTT影视",
+	"name":"💖分享|PTT",
+	"type":3,
+	"api":"csp_PTT",
+	"searchable":1,
+	"changeable":1,
+	"jar": "https://gitee.com/juanxiao/bh/raw/master/ptt.jar"},
 	{"key":"fxcz",
 		"name":"💖分享厰長",
 		"type":3,
