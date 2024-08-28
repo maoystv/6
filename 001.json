@@ -328,7 +328,46 @@
 
 {"key":"csp_MGTV","name":"💖分享芒果","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
          {"key":"csp_yk","name":"💖分享优酷","type":3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
-
+{"key": "youku资源",
+		     "name": "💖分享优云",
+		      "type": 1,
+		   	"api": "https://api.ukuapi.com/api.php/provide/vod/", 
+		   	 "searchable": 1,
+		   	   "quickSearch": 1,
+		    "categories": [
+		          "连续剧",
+		          "电影",
+		          "综艺",
+		          "动漫",
+		   		 "剧情片",
+		   		 "战争片",
+		   		 "动作片",
+		   		 "科幻片",
+				 "记录片",
+				 "奇幻片",
+		   		 "恐怖片",
+				 "爱情片",
+		   		 "喜剧片",
+		          "国产剧",
+		          "港澳剧",
+		          "欧美剧",
+		          "日剧",
+		          "台湾剧",
+				  "韩剧",
+				  "泰剧",
+				  "短剧"
+		         ]
+		       },
+		{
+      "key": "csp_yiq",
+      "name": "💖分享一起",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"线路标题":"分享者接口+src=*>&&<[替换:线路1>> 分享者接口1#线路2>> 分享者接口2#线路3>> 分享者接口3#线路4>> 分享者接口4#线路5>> 分享者接口5#线路6>> 分享者接口6]","分类url":"https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"dianying&lianxuju&zongyi&dongman"}
+    },
 	{
       "key": "heimuer",
       "name": "💖分享摩耳",
