@@ -366,7 +366,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {"线路标题":"分享者接口+src=*>&&<[替换:线路1>> 分享者接口1#线路2>> 分享者接口2#线路3>> 分享者接口3#线路4>> 分享者接口4#线路5>> 分享者接口5#线路6>> 分享者接口6]","分类url":"https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"dianying&lianxuju&zongyi&dongman"}
+      "ext": {"线路标题":"分享者接口+src=*>&&<[替换:线路1>>分享者接口1#线路2>>分享者接口2#线路3>>分享者接口3#线路4>>分享者接口4#线路5>>分享者接口5#线路6>>分享者接口6]","分类url":"https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"dianying&lianxuju&zongyi&dongman"}
     },
 	{
       "key": "heimuer",
