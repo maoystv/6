@@ -198,7 +198,7 @@
 	"api":"csp_PTT",
 	"searchable":1,
 	"changeable":1,
-	"jar": "https://gitee.com/juanxiao/bh/raw/master/ptt.jar"},
+	"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/ptt.jar"},
 	{"key":"fxcz",
 		"name":"💖分享厰長",
 		"type":3,
@@ -264,6 +264,27 @@
             "filterable": 1,
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
+	{
+    "key": "唐人",
+    "name": "💖分享唐人",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"}
+},
+
+{
+      "key": "fxzsl",
+      "name": "💖分享石榴",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享SL.json"
+    },
 	{"key":"csp_XYQH_xx影院","name":"💖分享潇潇","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://9xi4o.tk/TVB/XYQH/小小影视.json","jar":""},
 
 {"key":"csp_XYQH_mf影院","name":"💖分享明妃","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://9xi4o.tk/TVB/XYQH/免费影视.json","jar":""},
