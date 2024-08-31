@@ -265,6 +265,11 @@
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
 	{
+            "key": "zy_卧龙资源",
+            "name": "🌺花开┃接口卧龙",
+            "type": 1,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/"},
+	{
     "key": "唐人",
     "name": "💖分享唐人",
     "type": 3,
