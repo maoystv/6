@@ -199,6 +199,33 @@
 	"searchable":1,
 	"changeable":1,
 	"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/ptt.jar"},
+	 {
+      "key": "fxzKY1",
+      "name": "💖分享魔影",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.173.115.204:5566/api.php/app/"
+    },
+    {  
+ "key": "fxzWP",  
+ "name": "💖分享罗盘",  
+ "type": 3,  
+ "api": "csp_AppYsV2",  
+ "searchable": 1,  
+ "quickSearch": 1,  
+ "filterable": 1,  
+ "ext": "http://122.228.85.203:1000/api.php/app/"  
+ }, 
+    {"key":"yytt","name":"💖分享探戈","type":3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
+        },
 	{"key":"fxcz",
 		"name":"💖分享厰長",
 		"type":3,
@@ -2901,6 +2928,40 @@
             },
             "type": "1"
         },
+	{
+			"name": "💖分享云解1",
+			"type": 1,
+			"url": "http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae196786&url=",
+			"ext": {
+				"flag": ["ST4K"],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+        	{
+			"name": "💖分享云解2",
+			"type": 1,
+			"url": "http://www.mpanso.com/woaini.php?url=",
+			"ext": {
+				"flag": ["ST4K"],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+
+        		{
+			"name": "💖分享云解3",
+			"type": 1,
+			"url": "http://122.228.85.203:6789/api/?key=8ce1ea38cf8969d5a473b79ae142f95a&url=",
+			"ext": {
+				"flag": ["ST4K"],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
         {
             "name": "💖分享聚合",
             "url": "http://43.248.100.147:1122/XGJ/jxzy.php?url=",
