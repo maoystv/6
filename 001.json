@@ -345,7 +345,29 @@
     "分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"}
 },
-
+{
+			"key": "fxcq",
+			"name": "💖分享超强",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"playerType": "2",
+			"api": "csp_XBPQ",
+			"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+			"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享CQ.json"},
+			
+	{
+	  "key": " fxzds ",
+	  "name": "💖分享袋鼠",
+	  "type": 3,
+	  "api": "csp_XBPQ",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享DS.json"
+	},
 {
       "key": "fxzsl",
       "name": "💖分享石榴",
