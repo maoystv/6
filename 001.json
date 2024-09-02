@@ -2950,7 +2950,9 @@
 			"type": 1,
 			"url": "https://vip.hls.one:4433/api?sign=9ije09ikj63hf&key=94b07e0b2c0e8244&url=",
 			"ext": {
-				"flag": ["ST4K"],
+				"flag": ["ST4K",
+				"qq",
+				"腾讯视频"],
 				"header": {
 					"User-Agent": "okhttp/4.9.1"
 				}
