@@ -307,6 +307,14 @@
             "filterable": 1,
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
+	 {"key":"csp_fxzwj",
+  "name":"💖分享问界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享WJ.json?ref=master"},
 	{
             "key": "zy_卧龙资源",
             "name": "💖分享卧龙",
@@ -384,6 +392,8 @@
 	"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
 	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享DS.json"
 	},
+	{"key":"fxz-LB","name":"💖分享蜡笔","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://duopan.fun","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
+{"key":"fxz-XJS","name":"💖分享剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {
       "key": "fxzsl",
       "name": "💖分享石榴",
