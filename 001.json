@@ -186,6 +186,14 @@
       "playerType": 1,
       "ext": "https://m.jmzp.net.cn","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/FxzHm.jar?ref=master"
     },
+	{
+	"key": "hipy_js_fxztx",
+	"name": "💖分享企鹅",
+	"type": 3,
+	"ua": "okhttp/3.15",
+         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享TX1.js?ref=master"
+},
 	 {
 	"key": "hipy_js_fxz闪电",
 	"name": "💖分享闪电",
@@ -2964,8 +2972,19 @@
             "type": "1",
             "status_text": "正常"
         },
+	{
+			"name": "💖分享QQ1",
+			"type": 1,
+			"url": "https://vip.hls.one:4433/api?sign=9ije09ikj63hf&key=94b07e0b2c0e8244&url=",
+			"ext": {
+				"flag": ["ST4K"],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
          {
-            "name": "💖分享QQ1",
+            "name": "💖分享QQ2",
             "url": "http://193.134.211.100:1888/tv/4k.php?url=",
             "type": "1",
             "status_text": "正常"
