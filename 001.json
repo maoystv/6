@@ -187,6 +187,14 @@
       "ext": "https://m.jmzp.net.cn","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/FxzHm.jar?ref=master"
     },
 	{
+	"key": "hipy_js_fxzhd",
+	"name": "💖分享蝴蝶",
+	"type": 3,
+	"ua": "okhttp/3.15",
+         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享HD.js?ref=master"
+},
+	{
 	"key": "hipy_js_fxztx",
 	"name": "💖分享企鹅",
 	"type": 3,
@@ -315,51 +323,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享WJ.json?ref=master"},
-	{
-            "key": "zy_卧龙资源",
-            "name": "💖分享卧龙",
-            "type": 1,
-            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "香港剧",
-                "韩国剧",
-                "欧美剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "记录片",
-                "短片",
-                "动画片",
-                "国产动漫",
-                "欧梅动漫",
-                "日本动漫",
-                "港台综艺",
-                "韩国综艺",
-                "大陆综艺",
-                "泰国剧",
-                "欧梅综艺",
-                "电影解说",
-                "惊悚片",
-                "家庭片",
-                "古装片",
-                "历史片",
-                "悬疑片",
-                "犯罪片",
-                "篮球",
-                "足球",
-                "短剧"
-            ]
-        },
 	{
     "key": "唐人",
     "name": "💖分享唐人",
@@ -2993,12 +2956,6 @@
 				}
 			}
 		},
-         {
-            "name": "💖分享QQ2",
-            "url": "http://193.134.211.100:1888/tv/4k.php?url=",
-            "type": "1",
-            "status_text": "正常"
-        },
 	{
 			"name": "💖分享云解1",
 			"type": 1,
