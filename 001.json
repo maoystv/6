@@ -192,6 +192,13 @@
 	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
 	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/闪雷电.js?ref=master"
 },
+	 {
+	"key": "hipy_js_fxz旋风",
+	"name": "💖分享旋风",
+	"type": 3,
+	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享XF.js"
+},
 {"key":"PTT影视",
 	"name":"💖分享|PTT",
 	"type":3,
@@ -445,7 +452,7 @@
 {"key":"csp_MGTV","name":"💖分享芒果","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
          {"key":"csp_yk","name":"💖分享优酷","type":3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
 {"key": "youku资源",
-		     "name": "💖分享优云",
+		     "name": "💖分享优庫",
 		      "type": 1,
 		   	"api": "https://api.ukuapi.com/api.php/provide/vod/", 
 		   	 "searchable": 1,
