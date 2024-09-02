@@ -167,15 +167,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	 {
-            "key": "jp弹幕",
-            "name": "💖分享金瓶",
+	   {
+            "key": "fxzQQ",
+            "name": "💖分享扣扣",
+            "playerType": 1,
             "type": 3,
-            "api": "csp_Jpys",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
+            "ext": " http://111.173.115.204:2211/api.php/app/"
         },
 	{
       "key": "河马",
@@ -2956,6 +2957,12 @@
                 "User-Agent": "Dalvik/2.1.0"
             },
             "type": "1"
+        },
+	{
+            "name": "💖分享QQ",
+            "url": "http://122.228.85.203:6789/api/?key=2b1654027ff6d809cefbc6001166d35a&url=",
+            "type": "1",
+            "status_text": "正常"
         },
 	{
 			"name": "💖分享云解1",
