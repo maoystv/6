@@ -2837,6 +2837,37 @@
 	{"name":"聚合解析","type":3,"url":"Demo"},
 {"name":"聚合嗅探","type":3,"url":"Web"}, 
 {
+      "name": "💖分享主解",
+      "type": 1,
+      "url": "http://43.242.202.173:3636/json.php/?key=624181813&url=",
+      "flag": [
+                "腾讯视频",
+                "ST4k",
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "pptv",
+                "sohu",
+                "letv",
+                "xigua",
+                "NBY",
+                "ETH-",
+                "mytv",
+                "nmys",
+                "BTOL",
+                "4kvip",
+                "m78",
+                "BBA"
+            ],
+            "status_text": "正常",
+             "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+
+	{
             "name": "💕分享专线",
             "type": "1",
             "url": "http://110.42.7.182:881/api/?key=qEDfo9v5Uk48DVmu6W&url=",
