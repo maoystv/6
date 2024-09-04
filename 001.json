@@ -128,8 +128,8 @@
       "key": "央视片库",
       "name": "🇨🇳央视片库",
       "type": 3,
-      "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/quickjs/lib/drpy2.min.js?ref=JavaScript",
-      "ext": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/quickjs/央视大全[央].js?ref=JavaScript"
+      "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/央视片库.js"
     },
     {"key":"央视剧场","name":"🇨🇳央视大全","type":3,"api":"https://8815.kstore.space/lib/央视剧场.js","searchable":1,"changeable":1,"timeout":10},
 {
@@ -363,6 +363,8 @@
       "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享SBB.json"
     },
+	{"key":"csp_Nmvod_QJ","name":"💖分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==", "jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"}, 
+	{"key":"csp_Ylys_QJ","name":"💖分享月亮","type":3,"api":"csp_Ylys","playerType":2,"jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"},
 	{
       "key": "fxz-LB",
       "name": "💖分享蜡笔",
@@ -1818,24 +1820,6 @@
       "type": 4,
       "api": "https://catbox.n13.club/t9/hanju.php"
     },
-    {
-      "key": "T4-yzys",
-      "name": "💕分享柚子",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/yzys.php"
-    },
-    {
-      "key": "T4-pptv",
-      "name": "💕分享屁屁",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/pptv.php"
-    },
-    {
-      "key": "T4-mingri",
-      "name": "💕分享明日",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/mingri.php"
-    },
 	
     { "key": "fy影院","name": "💖分享飞鱼","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
    {
@@ -2241,11 +2225,11 @@
             "searchable": true,
             "server": "https://pan.cdnxin.top/"
           },{"name": "美云", "server": "http://xiaoya.nebula-nas.space:5678/"}         ]}},
-    {"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
-    {"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
-      {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
-{"key":"看看","name":"💖分享看看","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
-{"key":"sliu_spider","name":"💖分享石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
+       {"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"baHR0cDovL29wLnlzZHFqcy5jbg==","jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"},
+    {"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"caHR0cDovL3YucmJvdHYuY24=","jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"},
+      {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"daHR0cDovL3oua3pqdHYuY29t","jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"},
+{"key":"看看","name":"💖分享看看","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"},
+{"key":"sliu_spider","name":"💖分享石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"},
 
 {
       "key": "要啥脸",
@@ -2256,7 +2240,8 @@
       "quickSearch": 1,
       "ext": "http://122.228.84.103:5822/api.php/app/"
     },
-  {"key":"tvbsk","name":"☁️TVB云播","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://notabug.org/ygfxz/qj/raw/main/tvbyb","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/j.txt"},
+  {"key":"tvbsk","name":"☁️TVB云播","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://notabug.org/ygfxz/qj/raw/main/tvbyb","jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"},
+
 
   {
             "key": "蜂鸟1",
