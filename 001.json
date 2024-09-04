@@ -178,6 +178,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{
+      "key": "fxzjpyy",
+      "name": "💖分享金牌*",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享JP.json"
+    },
 	   {
             "key": "fxzQQ",
             "name": "💖分享扣扣",
