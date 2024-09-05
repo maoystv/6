@@ -344,6 +344,17 @@
             "filterable": 1,
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
+	{
+			"key": "fxzmy",
+			"name": "💖分享魅影",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"playerType": "2",
+			"api": "csp_XBPQ",
+			"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+			"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享魅影.json"},
 	 {"key":"csp_fxzwj",
   "name":"💖分享问界",
             "type": 3,
