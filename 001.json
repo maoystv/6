@@ -176,7 +176,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
       "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享JP.json"
     },
 	   {
@@ -335,10 +335,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+       "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享UU.json"
     },
-	{"key": "nu","name": "💖分享|Nuu","type": 3,"api": "csp_XBPQ", "jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ%20%282%29.jar","ext": {"分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html","分类": "https://json.heimuer.xyz/api.php/provide/vod?ac=list"}},
+	{"key": "nu","name": "💖分享|Nuu","type": 3,"api": "csp_XBPQ", "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar","ext": {"分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html","分类": "https://json.heimuer.xyz/api.php/provide/vod?ac=list"}},
 	{
       "key": "fxzmz",
       "name": "💖分享知音",
@@ -389,7 +389,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+            "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
             "ext":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享WJ.json?ref=master"},
 	{
       "key": "shu素白白",
@@ -398,7 +398,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享SBB.json"
     },
 	{"key":"csp_Nmvod_QJ","name":"💖分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==", "jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"}, 
@@ -449,7 +449,7 @@
 			"changeable": 1,
 			"playerType": "2",
 			"api": "csp_XBPQ",
-			"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+			"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
 			"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享CQ.json"},
 			
 	{
@@ -460,7 +460,7 @@
 	  "searchable": 1,
 	  "quickSearch": 1,
 	  "filterable": 1,
-	"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+	"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
 	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享DS.json"
 	},
 {
@@ -471,7 +471,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
       "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享SL.json"
     },
 	{"key":"csp_XYQH_xx影院","name":"💖分享潇潇","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://9xi4o.tk/TVB/XYQH/小小影视.json","jar":""},
@@ -1156,7 +1156,7 @@
 		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享DY.json"
 	},
 	{"key": "csp_xpath_tjyy","name": "💖分享奇优","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
-"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
 "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QY.json"},
 	 {"key": "csp_xpath_xc","name": "💖分享星辰","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享XC.json"},
@@ -1475,7 +1475,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享SJ.json"
     },
     {
@@ -1529,7 +1529,7 @@
             "name": "💖分享|VID", 
             "type": 3, 
             "api": "csp_XBPQ", 
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
             "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/分享vid.json",
             "searchable": 1, 
             "quickSearch": 1, 
@@ -1576,91 +1576,6 @@
             },
             "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
         }, 
-
-	{
-      "key": "T4-yugaopian",
-      "name": "💕分享预告",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/yugaopian.php"
-    },
-    {
-      "key": "T4-tangdou",
-      "name": "💕分享糖豆",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/tangdou.php"
-    },
-    {
-      "key": "yinyue",
-      "name": "💕分享音乐",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/yyyy.php"
-    },
-    {
-      "key": "T4-剧圈",
-      "name": "💕分享剧圈",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/juquan.php"
-    },
-    {
-      "key": "T4-黑狐",
-      "name": "💕分享黑虎",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/heihu.php"
-    },
-    {
-      "key": "T4-jp",
-      "name": "💕分享见片",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/jianpian.php"
-    },
-    {
-      "key": "T4-南瓜",
-      "name": "💕分享懒瓜",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/nangua.php"
-    },
-    {
-      "key": "T4-极光",
-      "name": "💕分享极光",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/jiguang.php"
-    },
-    {
-      "key": "T4-fj",
-      "name": "💕分享腐剧",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/fuju.php"
-    },
-    {
-      "key": "T4-caiji",
-      "name": "💕分享采集",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/caiji.php"
-    },
-    {
-      "key": "T4-xinshijue",
-      "name": "💕分享视角",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/xinshijue.php"
-    },
-    {
-      "key": "T4-jojo",
-      "name": "💕分享jojo",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/jojo.php"
-    },
-    {
-      "key": "T4-mmdj",
-      "name": "💕分享短剧",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/mmdj.php"
-    },
-    {
-      "key": "T4-hanju",
-      "name": "💕分享喊剧",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/hanju.php"
-    },
 	
     { "key": "fy影院","name": "💖分享飞鱼","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
    {
@@ -1742,8 +1657,6 @@
         },
 
          {"key":"360_spider","name":"🍎360影视","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/js/js/360影视.js"}, 
-
-{"key":"csp_觅视频","name":"💖分享影猫","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
 
         {
 "key": "csp_xBPQ_秒",
