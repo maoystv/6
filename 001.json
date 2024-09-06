@@ -331,7 +331,8 @@
 		"ext":{"SiteUrl":"https://www.czys.pro",
 			"SearchUrl":"https://www.czys.pro/daoyongjiekoshibushiyoubing",
 		"SiteUrlBak":"https://www.czys.pro/"}},
-	 {
+	{ "key": "桃子影院", "name": "💖分享桃子", "type":3,"api":"csp_XBPQ", "ext": {"简介":"分享者剧情介绍:+show-desc\" style=*>&&</div>","分类url":"https://ios.taozi007.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$3#综艺$4"}},
+	{
       "key": "uuys",
       "name": "💖分享悠悠",
       "type": 3,
@@ -412,6 +413,45 @@
       }
     },
 	{
+	  "key": " fxz好影",
+	  "name": "💖分享好影",
+	  "type": 3,
+	  "api": "csp_XBPQ",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享好影.json"
+	},
+	 {
+      "key": "fxznl",
+      "name": "💖分享奶酪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享nl.json?ref=master"
+    },
+{
+            "key": "影视界",
+            "name": "💖分享视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "分享者制作",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "分类url": "https://ysj.us/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$34"
+            }
+        },
+	{
     "key": "唐人",
     "name": "💖分享唐人",
     "type": 3,
@@ -459,7 +499,7 @@
 {"key":"csp_XYQH_mf影院","name":"💖分享明妃","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://9xi4o.tk/TVB/XYQH/免费影视.json","jar":""},
 
            {"key": "小鸭影音","name": "💖分享小鸭","type": 3,"api": "csp_XBPQ","ext": {"简介":"分享者剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电视剧$2#电影$1#动漫$30#综艺$29"}},
-	 { "key": "桃子影院", "name": "💖分享桃子", "type":3,"api":"csp_XBPQ", "ext": {"简介":"分享者剧情介绍:+show-desc\" style=*>&&</div>","分类url":"https://ios.taozi007.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$3#综艺$4"}},
+	 
            { "key": "o站影视", "name": "💖分享O站", "type":3,"api":"csp_XBPQ", "ext": {"简介":"分享者剧情介绍:+line-height: 20px;\">&&</div>","分类url":"https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
 	{
       "key": "fxzyz",
