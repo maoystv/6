@@ -137,6 +137,12 @@
       "api": "http://zb.hys.cool/app/lib/16万hys.js",
       "ext": "http://zb.hys.cool/app/lib/16万mv.js"
     },
+	 {
+      "key": "T4-tangdou",
+      "name": "💕分享糖豆",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/tangdou.php"
+    },
 	{
       "key": "t4直播转点播",
       "name": "🏡分享教育",
@@ -551,6 +557,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享waipan.json"
+    },
+	 {
+      "key": "T4-黑狐",
+      "name": "💕分享黑虎",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/heihu.php"
+    },
+    {
+      "key": "T4-jp",
+      "name": "💕分享见片",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/jianpian.php"
+    },
+    {
+      "key": "T4-南瓜",
+      "name": "💕分享懒瓜",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/nangua.php"
     },
 	{"key": "csp_SP2345","name": "💖分享数字","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
            {"key":"360影视","name":"💖分享六六","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
