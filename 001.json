@@ -237,21 +237,18 @@
             "filterable": 1,
             "ext": "http://110.40.61.7:81/api.php/app/"
         },
-
  {
 	"key": "hipy_js_fxztx1",
 	"name": "💖分享腾腾",
 	"type": 3,
-	"ua": "okhttp/3.15",
          "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
+	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享TX2.js"
 },
 
  {
 	"key": "hipy_js_fxzmg1",
 	"name": "💖分享芒芒",
 	"type": 3,
-	"ua": "okhttp/3.15",
          "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享MG.js"
 },
@@ -477,6 +474,19 @@
                 "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
                 "分类url": "https://ysj.us/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$34"
+            }
+        },
+	{
+            "key": "fxzlc",
+            "name": "💖分享绿茶",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
+            "ext": {
+"分类url": "https://lvcha.asia/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;m",
+"编码": "UTF-8",
+"请求头": "手机",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             }
         },
 	{
