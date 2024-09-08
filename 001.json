@@ -227,6 +227,18 @@
 	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享HD.js?ref=master"
 },
 	{
+            "key": "fxzgy",
+            "name": "💖分享腾云",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://110.40.61.7:81/api.php/app/"
+        },
+
+ {
 	"key": "hipy_js_fxztx1",
 	"name": "💖分享腾腾",
 	"type": 3,
@@ -234,6 +246,16 @@
          "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
 },
+
+ {
+	"key": "hipy_js_fxzmg1",
+	"name": "💖分享芒芒",
+	"type": 3,
+	"ua": "okhttp/3.15",
+         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享MG.js"
+},
+
 	{
 	"key": "hipy_js_fxztx",
 	"name": "💖分享企鹅",
@@ -2723,6 +2745,49 @@
 	{"name":"聚合解析","type":3,"url":"Demo"},
 {"name":"聚合嗅探","type":3,"url":"Web"}, 
 {
+            "name": "💖分享主解1",
+            "type": 1,
+            "url": "http://103.117.123.51:2121/zhuimi666.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip",
+                    "ltnb",
+                    "rrmj",
+                    "gzsp",
+                    "xigua",
+                    "ST4K",
+                    "NBY"
+                ]
+            }
+        },
+
+	{
       "name": "💖分享主解",
       "type": 1,
       "url": "http://43.242.202.173:3636/json.php/?key=624181815&url=",
@@ -3020,7 +3085,7 @@
     },
      {
       "name": "🦐分享虾米",
-      "url": "https://jx.xmflv.cc/?url=",
+      "url": "https://jx.xmflv.com/?url=",
       "type": 0,
       "ext": {
         "flag": [
