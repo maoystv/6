@@ -2764,6 +2764,49 @@
             "type_text": "Type 1",
             "status_text": "正常"
         },
+{
+            "name": "💖分享主解1",
+            "type": 1,
+            "url": "http://103.117.123.51:2121/zhuimi666.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "腾讯视频",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip",
+                    "ltnb",
+                    "rrmj",
+                    "gzsp",
+                    "xigua",
+                    "ST4K",
+                    "NBY"
+                ]
+            }
+        },
 
 	{
             "name": "💕分享专线",
