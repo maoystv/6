@@ -366,6 +366,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+	    "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
             "ext":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享CZ.json"},
 
 	{ "key": "桃子影院", "name": "💖分享桃子", "type":3,"api":"csp_XBPQ", "ext": {"简介":"分享者剧情介绍:+show-desc\" style=*>&&</div>","分类url":"https://ios.taozi007.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$3#综艺$4"}},
