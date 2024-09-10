@@ -175,20 +175,23 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{"key":"csp_Jpys","name":"💖分享金牌",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片地区": "分享者制作",
-                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
-                "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
-            }
-        },
+	{
+      "key": "fxzjpyy",
+      "name": "💖分享金牌*",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext":{"主页url":"https://www.hkybqufgh.com/","简介":"</label>&&</div>","嗅探词":"m3u8","影片类型":"tags\">&&director\">","影片状态":"bottom\">&&</div>","二次截取":"videoList\":\\[&&\\]","数组":"{&&}[不包含:伦理剧]","图片":"https+://ywxohs.com+obs.gduamoe.com&&\",","标题":"vodName\":\"&&\"","副标题":"vodRemarks\":\"&&\"","链接":"https://www.hkybqufgh.com/detail/+vodId\":&&,","导演":"导演:</div>&&主演","主演":"主演:</div>&&别名","线路标题":"分享者金牌","播放数组":"listitem\">&&info\">","播放列表":"<a&&</a>","倒序":"否","搜索url":"https://www.hkybqufgh.com/vod/search/{wd}","搜索副标题":"class=\"boottom\"*<div>&&</div","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+      
+     {
+	"key": "hipy_js_fxzhz",
+	"name": "💖分享瓜子",
+	"type": 3,
+         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享GZ.js"
+},
+
 	   {
             "key": "fxzQQ",
             "name": "💖分享扣扣",
@@ -569,6 +572,20 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享花姐.json"
     },
+	{"key":"csp_Jpys","name":"💖分享金牌",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "分享者制作",
+                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+                "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
+            }
+        },
 	 {"key":"99影视","name":"💖分享对酒","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍: +col-pd text-collapse content\">&&</div>","分类url":"http://www.kangping99.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$25#电影$1#连续剧$2#动漫$4#综艺$3"}},
 	 {
       "key": "shiju影视",
