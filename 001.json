@@ -96,15 +96,15 @@
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
       }
     },
-     {
+      {
             "key": "豆瓣",
             "name": "🅱️分享豆瓣",
             "type": 3,
-            "api": "http://tipu.xjqxz.top/js/lib/drpy2.min.js",
+            "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://tipu.xjqxz.top/js/douban.js"
+            "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享douban.js"
         },
 		 {
       "key": "xpyg",
