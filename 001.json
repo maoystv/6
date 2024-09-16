@@ -430,7 +430,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
-        "siteUrl": "https://duopan.fun",
+        "siteUrl": "http://labipan.com/",
         "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
       }
     },
