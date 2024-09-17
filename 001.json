@@ -214,6 +214,16 @@
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
 	{
+            "key": "fxzzjm",
+            "name": "💖分享京巷",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jingxiang.lingutv.cn/api.php/app/"
+        },
+	{
       "key": "河马",
       "name": "💖分享河馬",
       "type": 3,
