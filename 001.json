@@ -2799,58 +2799,67 @@
             "type_text": "Type 1",
             "status_text": "正常"
         },
+        {"name":"💖分享主解0","type":1,"url":"http://43.136.176.188:91/api/?key=956465ecb10277fa6a9364d6716f40c6&url=","ext":{"flag":["imgo","youku","qq","NBY"]}},
+
 {
-            "name": "💖分享主解1",
-            "type": 1,
-            "url": "http://103.117.123.51:6523/zhuimi666.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "腾讯视频",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "tucheng",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "rx",
-                    "tnmb",
-                    "seven",
-                    "yzm",
-                    "aliyun",
-                    "RJuMao",
-                    "bilibili",
-                    "1905",
-                    "xinvip",
-                    "XAL",
-                    "qiqi",
-                    "XALS",
-                    "YuMi-vip",
-                    "ltnb",
-                    "rrmj",
-                    "gzsp",
-                    "xigua",
-                    "ST4K",
-                    "NBY"
-                ]
-            }
-        },
-	{
-    "name": "💖分享主解2",
+    "name": "💖分享主解1",
     "type": 1,
     "url": "http://122.228.85.203:6789/api/?key=31b42c9fbe45f07021f3a67d6935d718&url=",
-    "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
+    "ext": {
+        "flag": [
+            "qq"
+        ]
+    }
 },
-	 {"name":"💖分享主解0","type":1,"url":"http://43.136.176.188:91/api/?key=00dedb41bf339254cd63657d09543da9&url=","ext":{"flag":["imgo","youku","qq","NBY"]}},
+{
+    "name": "💖分享主解2",
+    "type": 1,
+    "url": "http://122.228.85.203:7979/api/?key=8cc4ec77067499207387ece70fbeef91&url=",
+    "ext": {
+        "flag": [
+            "qq"
+        ],
+        "header": {
+            "User-Agent": "okhttp/4.1.0"
+        }
+    }
+},
+
+{
+    "name": "💖分享主解3",
+    "type": 1,
+    "url": "http://110.42.99.99:3722/lg.php/?url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "tucheng",
+            "sohu",
+            "搜狐",
+            "letv",
+            "乐视",
+            "mgtv",
+            "芒果",
+            "tnmb",
+            "seven",
+            "yzm",
+            "aliyun",
+            "RJuMao",
+            "bilibili",
+            "1905",
+            "xinvip",
+            "XAL",
+            "qiqi",
+            "XALS",
+            "YuMi-vip"
+        ]
+    }
+},
 {
             "name": "💕分享专线",
             "url": "http://43.248.100.147:6068/bba/781xgjjson.php?url=",
@@ -2981,71 +2990,7 @@
             },
             "type": "1"
         },
-        {
-			"name": "💖分享云解",
-			"type": 1,
-			"url": "https://vip.hls.one:4433/api?sign=9ije09ikj63hf&key=94b07e0b2c0e8244&url=",
-			"ext": {
-				"flag": ["ST4K"],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-       
-        {
-			"name": "💖分享云解1",
-			"type": 1,
-			"url": "http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae196786&url=",
-			"ext": {
-				"flag": ["ST4K"],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-        	{
-			"name": "💖分享云解2",
-			"type": 1,
-			"url": "http://www.mpanso.com/woaini.php?url=",
-			"ext": {
-				"flag": ["ST4K"],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-
-        		{
-			"name": "💖分享云解3",
-			"type": 1,
-			"url": "http://122.228.85.203:6789/api/?key=de7ed0ead4328fe74ade88bd922e3f4f&url=",
-			"status": "normal",
-            "type_text": "Type 1",
-			"ext": {
-				"flag": ["ST4K"],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-	{"name":"💖分享专享1","type":"1","url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","flag":["LXTX","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"Dalvik/2.1.0"}},
-
-{
-			"name": "💖分享专享2",
-			"type": 1,
-			"url": "http://zhuimi996.xn--v4q818bf34b.top/zhuimi.php?url=",
-			"ext": {
-				"flag": ["ST4K"],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-{"name":"️ 💖分享专享3","type":"1","url":"http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=","flag":["mytv","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"Dalvik/2.1.0"}},
-{"name":"💖分享专享4","type":1,"url":"http://117.50.183.202:8036/?ip=111.55.12.236&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
-
-        {"name": "💖分享专属","type": 1,"url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+        
 
 {"name":"💔分享线路1","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"💔分享线路2","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
