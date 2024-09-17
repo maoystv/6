@@ -2832,6 +2832,14 @@
                 ]
             }
         },
+	{
+    "name": "💖分享主解2",
+    "type": 1,
+    "url": "http://122.228.85.203:6789/api/?key=31b42c9fbe45f07021f3a67d6935d718&url=",
+    "status": "normal",
+            "type_text": "Type 1",
+            "status_text": "正常"
+},
 	 {"name":"💖分享主解0","type":1,"url":"http://43.136.176.188:91/api/?key=00dedb41bf339254cd63657d09543da9&url=","ext":{"flag":["imgo","youku","qq","NBY"]}},
 
 	{
