@@ -2853,59 +2853,61 @@
 	 {"name":"💖分享主解0","type":1,"url":"http://43.136.176.188:91/api/?key=00dedb41bf339254cd63657d09543da9&url=","ext":{"flag":["imgo","youku","qq","NBY"]}},
 {
             "name": "💕分享专线",
-            "type": "1",
-            "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
+            "url": "http://43.248.100.147:6068/bba/781xgjjson.php?url=",
             "flag": [
-                "4kvip",
-                "m78"
+                "BBA"
             ],
             "header": {
-                "User-Agent": "Dalvik/2.1.0",
-                "status_text": "正常"
-            }
-        },
-
-{
-            "name": "💕分享专线0",
-            "type": "1",
-            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
-            "flag": [
-                "mytv",
-                "yhdm",
-                "nmys"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0",
-                "status_text": "正常"
-            }
-        },
-
-{
-            "name": "💕分享推荐",
-            "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
-            "type": "1",
-            "status_text": "正常"
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
         },
         {
-			"name": "💕分享推荐0",
-			"type": 1,
-			"url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=4qb8lbCsVF4M4V9ryt&url=",
-			 "status_text": "正常"
-		},
-	{
-            "name": "💕分享推荐2",
-            "type": "1",
+            "name": "💕分享专线1",
+            "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+            "flag": [
+                "NBY"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "💕分享专线2",
             "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
             "flag": [
                 "LXTX"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "💕分享推荐3",
-            "type": "1",
+            "name": "💕分享专线3",
+            "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
+            "flag": [
+                "4kvip"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "💕分享专线4",
+            "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
+            "flag": [
+                "m78"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "💕分享专线5",
             "url": "http://43.248.100.147:6068/KEY/70xgjgj.php?url=",
             "flag": [
                 "youku",
@@ -2918,10 +2920,11 @@
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "💖分享推荐4",
+            "name": "💕分享专线6",
             "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
             "flag": [
                 "youku",
@@ -2938,7 +2941,7 @@
             "type": "1"
         },
         {
-            "name": "💖分享推荐5",
+            "name": "💕分享专线7",
             "url": "https://api.huohua.vip/api/?key=LqSFybBQvYzN52Tneg&url=",
             "flag": [
                 "youku",
@@ -2954,42 +2957,8 @@
             },
             "type": "1"
         },
-       {
-            "name": "💖分享专线1",
-            "type": "1",
-            "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
-            "flag": [
-                "NBY"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
         {
-            "name": "💖分享专线2",
-            "type": "1",
-            "url": "http://110.40.39.158:5000/api/jiexi/common?Key=7idBzIqEEFyf4AYYXt&url=",
-            "flag": [
-                "BTOL"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "💖分享专线3",
-            "url": "http://43.248.100.147:6068/bba/781xgjjson.php?url=",
-            "flag": [
-                "BBA"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
-        },
-        
-        {
-            "name": "💖分享聚合",
+            "name": "❤️分享聚合",
             "url": "http://43.248.100.147:6068//KEY/XGJ/root/key/44jxzy.php?url=",
             "flag": [
                 "youku",
@@ -3003,7 +2972,7 @@
                 "ETH-",
                 "mytv",
                 "nmys",
-                "BTOL",
+                "BBA",
                 "4kvip",
                 "m78"
             ],
