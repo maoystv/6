@@ -2860,6 +2860,32 @@
         ]
     }
 },
+	{
+    "name": "💕分享主解4",
+    "type": 1,
+    "url": "https://jx.xiaofengtv.com/M3/json.php/?url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "sohu",
+            "搜狐",
+            "letv",
+            "乐视",
+            "mgtv",
+            "芒果",
+            "tnmb",
+            "seven",
+            "bilibili",
+            "1905"
+        ]
+    }
+},
 {
             "name": "💕分享专线",
             "url": "http://43.248.100.147:6068/bba/781xgjjson.php?url=",
