@@ -265,7 +265,13 @@
          "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享MG.js"
 },
-
+ {
+	"key": "hipy_js_fxz4kyy",
+	"name": "💖分享焱焱",
+	"type": 3,
+         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/YY4kapp.js"
+},
 	{
 	"key": "hipy_js_fxztx",
 	"name": "💖分享企鹅",
@@ -2886,6 +2892,7 @@
         ]
     }
 },
+	{"name":"💖分享主解5","type":1,"url":"http://43.136.176.188:91/api/?key=7c042082ebe5f467569e8faa896b7e30&url=","ext":{"flag":["imgo","youku","qq","NBY","4K"]}},
 {
             "name": "💕分享专线",
             "url": "http://43.248.100.147:6068/bba/781xgjjson.php?url=",
