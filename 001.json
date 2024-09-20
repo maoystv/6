@@ -213,6 +213,8 @@
             "filterable": 1,
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
+	 {"key":"fxz自建","name":"💖分享乐趣","type":1,"api":"http://110.40.40.249:6321/api.php/provide/vod/"},
+{"key":"fxz小猫咪","name":"💖分享猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
 	{
             "key": "fxzzjm",
             "name": "💖分享京巷",
