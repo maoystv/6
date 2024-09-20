@@ -2786,15 +2786,77 @@
 {"name":"聚合嗅探","type":3,"url":"Web"}, 
 
 	{
-      "name": "💖分享主解",
-      "type": 1,
-      "url": "http://43.242.202.173:3636/json.php/?key=605738282&url=",
-      "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {"name":"💖分享主解0","type":1,"url":"http://43.136.176.188:91/api/?key=956465ecb10277fa6a9364d6716f40c6&url=","ext":{"flag":["imgo","youku","qq","NBY"]}},
+    "name": "💖分享主解a",
+    "type": 1,
+    "url": "http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "sohu",
+            "搜狐",
+            "letv",
+            "乐视",
+            "mgtv",
+            "芒果",
+            "tnmb",
+            "seven",
+            "bilibili",
+            "1905",
+            "NetFilx"
+        ],
+        "header": {
+            "User-Agent": "okhttp/4.9.1"
+        }
+    }
+},
+        {
+    "name": "💖分享主解b",
+    "type": 1,
+    "url": "http://122.228.85.203:6789/api/?key=b0eb275e1d779b0b2c0f9644f6d6bf83&url=",
+    "ext": {
+        "flag": [
+            "qq"
+        ]
+    }
+},
+{
+    "name": "💖分享主解c",
+    "type": 1,
+    "url": "http://122.228.85.203:7979/api/?key=b9ef43e71b3fc7fb3c23a9ff8f970d18&url=",
+    "ext": {
+        "flag": [
+            "qq"
+        ],
+        "header": {
+            "User-Agent": "okhttp/4.1.0"
+        }
+    }
+},
+
+{
+    "name": "💖分享主解d",
+    "url": "http://43.248.100.147:6068/KEY/70xgjgj.php?url=",
+    "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"
+    ],
+    "header": {
+        "User-Agent": "Dalvik/2.1.0"
+    },
+    "type": "1"
+},
+
 
 {
     "name": "💖分享主解1",
