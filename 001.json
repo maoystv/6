@@ -2831,7 +2831,9 @@
     "url": "http://122.228.85.203:7979/api/?key=b9ef43e71b3fc7fb3c23a9ff8f970d18&url=",
     "ext": {
         "flag": [
-            "qq"
+            "qq",
+            "NBY",
+            "ST4K"
         ],
         "header": {
             "User-Agent": "okhttp/4.1.0"
@@ -2855,31 +2857,6 @@
         "User-Agent": "Dalvik/2.1.0"
     },
     "type": "1"
-},
-
-
-{
-    "name": "💖分享主解1",
-    "type": 1,
-    "url": "http://122.228.85.203:6789/api/?key=31b42c9fbe45f07021f3a67d6935d718&url=",
-    "ext": {
-        "flag": [
-            "qq"
-        ]
-    }
-},
-{
-    "name": "💖分享主解2",
-    "type": 1,
-    "url": "http://122.228.85.203:7979/api/?key=8cc4ec77067499207387ece70fbeef91&url=",
-    "ext": {
-        "flag": [
-            "qq"
-        ],
-        "header": {
-            "User-Agent": "okhttp/4.1.0"
-        }
-    }
 },
 
 {
