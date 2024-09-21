@@ -2860,7 +2860,49 @@
     },
     "type": "1"
 },
-
+{
+            "name": "💖分享主解",
+            "type": 1,
+            "url": "http://101.34.60.156/api/?key=6ee72d9fd3e5b8b1aaa75b014bf0069f&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip",
+                    "ltnb",
+                    "rrmj",
+                    "gzsp",
+                    "xigua",
+                    "ST4K",
+                    "NBY",
+                    "BBA"
+                ]
+            }
+        },
 {
     "name": "💖分享主解3",
     "type": 1,
