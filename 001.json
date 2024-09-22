@@ -233,15 +233,7 @@
       "playerType": 1,
       "ext": "https://m.jmzp.net.cn","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/FxzHm.jar?ref=master"
     },
-	{
-	"key": "hipy_js_fxzhd",
-	"name": "💖分享蝴蝶",
-	"type": 3,
-	"ua": "okhttp/3.15",
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享HD.js?ref=master"
-},
-	{
+		{
             "key": "fxzgy",
             "name": "💖分享腾云",
             "playerType": 1,
@@ -282,6 +274,36 @@
          "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享TX1.js?ref=master"
 },
+	{
+            "key" : "drpy_js_奇珍异兽",
+            "name" : "💕分享奇艺",
+            "type" : 3,
+            "api" : "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+            "ext" : "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/奇珍异兽%5B官%5D.js"
+        },
+{
+            "key" : "drpy_js_菜狗",
+            "name" : "💕分享搜狗",
+            "type" : 3,
+            "api" :"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+            "ext" : "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/菜狗%5B官%5D.js"
+        },
+         {
+      "key": "drpy_js_腾云驾雾",
+      "name": "💕分享腾讯",
+      "type": 3,
+      "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/腾云驾雾%5B官%5D.js"
+    },
+        {
+      "key": "drpy_js_百忙无果",
+      "name": "💕分享芒果",
+      "type": 3,
+      "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/百忙无果%5B官%5D.js"
+    },
+    {"key": "dr_优酷2","name": "💕分享优酷","type": 3,"api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/优酷%5B官%5D.js"},
+
 	 {
 	"key": "hipy_js_fxz闪电",
 	"name": "💖分享闪电",
@@ -1815,36 +1837,6 @@
   "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
   "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
   },
-
-            {
-            "key" : "drpy_js_奇珍异兽",
-            "name" : "🦜奇珍异兽",
-            "type" : 3,
-            "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/奇珍异兽.js"
-        },
-{
-            "key" : "drpy_js_菜狗",
-            "name" : "🐶搜狗视频",
-            "type" : 3,
-            "api" :"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/菜狗.js"
-        },
-         {
-      "key": "drpy_js_腾云驾雾",
-      "name": "🔭腾云驾雾",
-      "type": 3,
-      "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/腾云驾雾.js"
-    },
-        {
-      "key": "drpy_js_百忙无果",
-      "name": "🍋百忙无果",
-      "type": 3,
-      "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/百忙无果.js"
-    },
-    {"key": "dr_优酷2","name": "🔭优酷视频","type": 3,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/js/js/优酷.js"},
     
         {"key": "gsgs","name": "💖分享酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
  
