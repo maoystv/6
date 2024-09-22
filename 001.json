@@ -2915,6 +2915,36 @@
                 ]
             }
         },
+	{
+            "name": "💕分享主解1",
+            "type": 1,
+            "url": "https://jxjson.icu/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+
 {
     "name": "💖分享主解3",
     "type": 1,
@@ -3108,64 +3138,16 @@
             "type": "1"
         },
         
-
-{"name":"💔分享线路1","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
-{"name":"💔分享线路2","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {
-      "name": "💔分享线路3",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
- {"name":"💔分享线路4","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
-
-{"name":"💔分享线路5","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-{
-			"name": "💕分享嗅探",
-			"type": 0,
-			"url": "https://t1.qlplayer.cyou/player/?url="
-		},
-		{
-			"name": "💕分享嗅探1",
-			"type": 0,
-			"url": "https://jx.2s0.cn/player/?url="
-		},
-		{
-      "name": "💕分享嗅探2",
-      "type": 0,
-      "url": "https://jx.m3u8.pw/?url="
-    },
-     {
-      "name": "🦐分享虾米",
-      "url": "https://jx.xmflv.com/?url=",
-      "type": 0,
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "qq 预告及花絮",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ]
-      },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
+            "name": "💕分享虾米",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
 	
 	 {
       "name": "💕分享西瓜",
