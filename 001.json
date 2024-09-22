@@ -2844,22 +2844,34 @@
 },
 
 {
-    "name": "💖分享主解d",
-    "url": "http://43.248.100.147:6068/KEY/70xgjgj.php?url=",
-    "flag": [
-        "youku",
-        "qq",
-        "qiyi",
-        "bilibili",
-        "mgtv",
-        "pptv",
-        "xigua"
-    ],
-    "header": {
-        "User-Agent": "Dalvik/2.1.0"
+      "name": "💖分享主解d",
+      "type": 1,
+      "url": "http://112.74.124.75:8899/jiexi/api.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
-    "type": "1"
-},
 {
             "name": "💖分享主解",
             "type": 1,
