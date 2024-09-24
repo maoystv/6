@@ -175,6 +175,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://39.108.238.168:20000","jar": ""},
 	{
       "key": "fxzjpyy",
       "name": "💖分享金牌*",
@@ -830,24 +831,6 @@
             }
         },
 
-	  {"key":"yytt","name":"💖分享探戈","type":3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
-        },
-     {
-            "key": "热影视",
-            "name": "💖分享热追",
-            "type": 3,
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者a.zip",
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-	{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000","jar": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
 	{
             "key": "铁剧影视",
             "name": "💖分享铁剧",
@@ -1441,28 +1424,7 @@
             "quickSearch": 1,
             "filterable": 1, "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
         },
-	{
-            "key": "啾啾影视",
-            "name": "💖分享啾啾",
-            "type": 3,
-            "api": "csp_Wexjiohub",
-            "searchable": 1,
-            "changeable": 1 ,"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-            {
-            "key": "愉悦影视",
-            "name": "💖分享鱼跃",
-            "type": 3,
-            "api": "csp_Wexyuyueys",
-            "searchable": 1,
-            "changeable": 1 ,"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-        {
-            "key": "1地瓜影视",
-            "name": "💖分享地瓜",
-            "type": 3,
-            "api": "csp_Wexdiguatv",
-            "searchable": 1,
-            "changeable": 1 ,"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
-        },
+
 	{
             "key": "快看影视",
             "name": "💖分享快看",
@@ -1471,30 +1433,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1 ,"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-        {
-            "key": "兄弟影视",
-            "name": "💖分享兄弟",
-            "type": 3,
-            "api": "csp_Wexxiongdiys",
-            "searchable": 1,
-            "changeable": 1 ,"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-        {
-            "key": "最新影视",
-            "name": "💖分享最新",
-            "type": 3,
-            "api": "csp_Zx1080",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	    "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
-        },
-	{
-            "key": "明日影视",
-            "name": "💖分享明日",
-            "type": 3,
-            "api": "csp_WexMingriys",
-            "searchable": 1,
-            "changeable": 1 ,"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+       
 	{"key":"耐看影视","name":"💖分享耐看","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w==","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},   
        
 {
