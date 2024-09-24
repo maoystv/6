@@ -740,7 +740,7 @@
 			"key": "农民影视",
 			"name": "💖分享农民",
 			"type": 3,
-			"api": "csp_WexNmys",
+			"api": "csp_Nongm",
 			"searchable": 1,
 			"changeable": 1,
 			"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
