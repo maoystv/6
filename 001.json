@@ -1433,7 +1433,7 @@
   
         {"key":"AI1","name":"💖分享AI1","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
         {"key":"AI2","name":"💖分享AI2","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"},
-	 {"key":"酷看","name":"💖分享酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+	 
         {
             "key": "1FreeOK",
             "name": "💖FreeOK",
@@ -1602,7 +1602,7 @@
             "type": 3,
             "playerType": "2",
             "api": "csp_XBPQ",
-            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/0/main/XBPQ/分享BT.json"
+            "ext":{"数组":"class=\"hl-item-thumb hl-lazy\"&&</div></li>","简介":"class=\"hl-text-muted\">简介：</em>&&</li>","线路数组":"alt=\"&&</a>","线路标题":"公子专属+</i>&nbsp;&&</a>","分类数组":"<a&&</a>","分类标题":"subs\"href=\"/vodlist/*.html\">&&</a>","分类ID":"href=\"/vodlist/&&.html\"","分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"}
         },
           {
             "key": "csp_Vidhub2", 
