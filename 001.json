@@ -195,7 +195,15 @@
       "playerType":2,
       "ext":"https://www.czys.pro/",
       "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者c.zip"},
-      
+       {
+            "key": "csp_XYQHikerNm",
+            "name": "💖分享糯米",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/nmys.json","jar":""},
      {
 	"key": "hipy_js_fxzhz",
 	"name": "💖分享瓜子",
