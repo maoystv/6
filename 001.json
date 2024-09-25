@@ -2723,7 +2723,7 @@
 
 	{
     "name": "💖分享主解a",
-    "type":1,"url":"https://jk.tvd.us.kg/home/api?type=ys&uid=1305086&key=bhjkqrsvwzCGHKUW13&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+    "type":1,"url":"https://jk.tvd.us.kg/home/api?type=ys&uid=1305086&key=bflqtuvyFKLOPW1239&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
         {
     "name": "💖分享主解b",
     "type": 1,
@@ -2851,7 +2851,40 @@
                 }
             }
         },
-
+{
+      "name": "💖分享主解2",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+      }
+    },
 {
     "name": "💖分享主解3",
     "type": 1,
