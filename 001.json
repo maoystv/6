@@ -184,18 +184,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者c.zip"},
-       {
-      "key": "fxzczzy2",
-      "name": "💖分享厂长+",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType":1,
-      "ext":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享CZ.json",
-      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar"},
-	{
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者c.zip"}, {
       "key": "fxzczzy",
       "name": "💖分享厂长*",
       "type": 3,
@@ -203,8 +192,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "ext":"https://www.czzy.top",
-      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/CZ.txt"},
+      "jar":"https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
        {
             "key": "csp_XYQHikerNm",
             "name": "💖分享糯米",
