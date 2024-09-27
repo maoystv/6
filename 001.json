@@ -176,7 +176,7 @@
       "filterable": 1
     },
 	{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://39.108.238.168:20000","jar": ""},
-	{
+{
       "key": "fxzjpyy",
       "name": "💖分享金牌*",
       "type": 3,
@@ -184,17 +184,18 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者m.php"},
+      "jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar"},
    
        {
       "key": "fxzczzy",
       "name": "💖分享厂长*",
       "type": 3,
-      "api": "csp_Czzy",
+      "api": "csp_NewCz",
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者m.php"},
+      "jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar"},
+       {"key":"fxz欢视","name":"💖分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
        {
             "key": "csp_XYQHikerNm",
             "name": "💖分享糯米",
