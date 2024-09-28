@@ -244,7 +244,8 @@
         },
 	 {"key":"fxz自建","name":"💖分享乐趣","type":1,"api":"http://110.40.40.249:6321/api.php/provide/vod/"},
 {"key":"fxz小猫咪","name":"💖分享猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
- {"key":"csp_fxzzjt","name":"💖分享剧兔","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zjtu.one/api.php/app/"},
+ {"key": "农民采集","name": "💖分享悯农","type": 1,"api": "https://www.xncnews.com/api.php/provide/vod/"},
+	{"key":"csp_fxzzjt","name":"💖分享剧兔","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zjtu.one/api.php/app/"},
         {"key":"csp_fxzhl","name":"💖分享河狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.heli888.cc/api.php/app/"},
 	{
       "key": "河马",
