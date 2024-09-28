@@ -411,9 +411,9 @@
 		"quickSearch":0,
 		"filterable":0,
 		"timeout":30,
-		"ext":{"SiteUrl":"https://www.czys.pro",
-			"SearchUrl":"https://www.czys.pro/daoyongjiekoshibushiyoubing",
-		"SiteUrlBak":"https://www.czys.pro/"}},
+		"ext":{"SiteUrl":"https://www.czzy.top/",
+			"SearchUrl":"https://www.czzy.top/daoyongjiekoshibushiyoubing",
+		"SiteUrlBak":"https://www.czzy.top/"}},
 	{
 	"key": "hipy_js_fxzcz2",
 	"name": "💖分享厂长",
@@ -762,8 +762,8 @@
       "filterable": 1,
       "ext": {"线路标题":"分享者接口+src=*>&&<[替换:线路1>>分享者接口1#线路2>>分享者接口2#线路3>>分享者接口3#线路4>>分享者接口4#线路5>>分享者接口5#线路6>>分享者接口6]","分类url":"https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"dianying&lianxuju&zongyi&dongman"}
     },
-	{"key": "T4-heimuer","name": "💖分享木耳","type": 4,"api": "https://tang.hz.cz/power/hme?token=b1dbee0e","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
-{"key": "T4-安博","name": "💖分享安博","type": 4,"api": "https://tang.hz.cz/power/ub18?token=b1dbee0e","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+	{"key": "T4-heimuer","name": "💖分享木耳","type": 4,"api": "https://tang.hz.cz/power/hme?token=647c28ca","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+{"key": "T4-安博","name": "💖分享安博","type": 4,"api": "https://tang.hz.cz/power/ub18?token=647c28ca","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 	{"key":"nm","name":"💖分享农夫","type":3,"api":"csp_WebNM","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://m.wwgz.cn"},
 {
 			"key": "农民影视",
