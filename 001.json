@@ -2841,6 +2841,66 @@
             }
         },
 	{
+			"name": "💖分享主解0",
+			"type": 1,
+			"url": "https://jf.hanliu8.cn/api/?key=vGz0SydWbL1XjS3LPX&url=",
+			"ext": {
+				"flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+      		{
+			"name": "💖分享主解+",
+			"type": 1,
+			"url": "https://yun.zfsr.cn/api/?key=82c93ab9d0b9e7ceeace5d9b1daa087c&url=",
+			"ext": {
+				"flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+	{
             "name": "💕分享主解1",
             "type": 1,
             "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
