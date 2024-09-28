@@ -2741,7 +2741,7 @@
 
 	{
     "name": "💖分享主解a",
-    "type":1,"url":"https://jk.tvd.us.kg/home/api?type=ys&uid=1305086&key=aehkorswyFGHOQS015&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+    "type":1,"url":"http://6qu.us.kg/公众号六趣.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
         {
     "name": "💖分享主解b",
     "type": 1,
@@ -3037,23 +3037,7 @@
             },
             "type": "1"
         },
-        {
-            "name": "💕分享专线6",
-            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-            "flag": [
-                "youku",
-                "qq",
-                "qiyi",
-                "bilibili",
-                "mgtv",
-                "pptv",
-                "xigua"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
-        },
+       
         {
             "name": "💕分享专线7",
             "url": "https://api.huohua.vip/api/?key=LqSFybBQvYzN52Tneg&url=",
