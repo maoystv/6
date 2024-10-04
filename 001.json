@@ -212,18 +212,7 @@
          "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享GZ.js"
 },
- {
-      "key": "AI4",
-      "name": "💖分享哇云",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-       "jar":"http://cdn.qiaoji8.com/fix24914.jar",
-      "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
-    },
+ {"key":"fxzAI4","name":"💖分享哇云","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=","jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"},
     {
 	  "key": " fxzyg ",
 	  "name": "💖分享一个",
