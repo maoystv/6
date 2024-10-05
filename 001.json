@@ -235,6 +235,7 @@
             "filterable": 1,
             "ext": " http://111.173.115.204:2211/api.php/app/"
         },
+	 {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/AppYs.js","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=","https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="]}},
 		   {
             "key": "新感觉",
             "name": "💖分享感觉",
@@ -395,16 +396,7 @@
       "filterable": 1,
       "ext": "http://111.173.115.204:5566/api.php/app/"
     },
-    {  
- "key": "fxzWP",  
- "name": "💖分享罗盘",  
- "type": 3,  
- "api": "csp_AppYsV2",  
- "searchable": 1,  
- "quickSearch": 1,  
- "filterable": 1,  
- "ext": "http://122.228.85.203:1000/api.php/app/"  
- }, 
+    
 	{"key":"fxcz",
 		"name":"💖分享厰長",
 		"type":3,
