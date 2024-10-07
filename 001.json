@@ -225,7 +225,7 @@
 	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享yg.json"
 	},
 	   
-	 {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/AppYs.js","ext":"http://122.228.85.203:1000/api.php/app/"},
+	 {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","ext":"http://122.228.85.203:1000/api.php/app/"},
 		
 {"key":"fxz小猫咪","name":"💖分享猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
  {"key": "农民采集","name": "💖分享悯农","type": 1,"api": "https://www.xncnews.com/api.php/provide/vod/"},
