@@ -153,17 +153,6 @@
       "filterable": 0
     },
 
-	{"key":"yaya",
-		"name":"💖分享雅雅",
-		"type":3,
-		"api":"csp_AListBox",
-		"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者.zip",
-		"searchable":1,
-		"changeable":0,
-		"quickSearch":0,
-		"ext":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/xiaoya.json#一个分享者#免费分享",
-		"style":{"type":"list"}},
-
 	{
       "key": "sp_LiteApple",
       "name": "💖分享苹果",
@@ -212,6 +201,28 @@
          "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享GZ.js"
 },
+	{
+      "key": "fxz影酷4k",
+      "name": "💖分享影酷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
+      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享影酷.json"
+    },
+    {
+      "key": "csp_appys_fxz酒客",
+      "name": "💖分享酒客",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://154.12.19.146/api.php/app/"
+    },
  {"key":"fxzAI4","name":"💖分享哇云","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=","jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"},
     {
 	  "key": " fxzyg ",
