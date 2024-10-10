@@ -469,7 +469,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master",
         "siteUrl": "http://labipan.com/",
         "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
       }
@@ -485,7 +485,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
       }
     },
 	{
@@ -985,7 +985,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
       }
     },
     {
@@ -997,7 +997,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
       }
     },
      {
@@ -1011,7 +1011,7 @@
       "switchable": 0,
       "ext": {
         "channelUsername": "yunpanshare",
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
       }
     },
     {
@@ -1025,7 +1025,7 @@
       "switchable": 0,
       "ext": {
         "channelUsername": "kuakeyun",
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
       }
     },
     {
