@@ -205,7 +205,7 @@
       "key": "GUAZI",
       "name": "💖分享瓜子*",
       "type": 3,
-      "api": "./CatVod/appys_open.js?ref=master",
+      "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/AppYs.js",
       "ext": {
         "host": "http://110.42.37.106:7788/api.php/app/",
         "*": [
