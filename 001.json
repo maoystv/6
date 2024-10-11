@@ -202,6 +202,18 @@
 	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享GZ.js"
 },
 	{
+      "key": "GUAZI",
+      "name": "💖分享瓜子*",
+      "type": 3,
+      "api": "./CatVod/appys_open.js?ref=master",
+      "ext": {
+        "host": "http://110.42.37.106:7788/api.php/app/",
+        "*": [
+          "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url="
+        ]
+      }
+    },
+	{
       "key": "fxz影酷4k",
       "name": "💖分享影酷",
       "type": 3,
@@ -239,7 +251,7 @@
 	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享yg.json"
 	},
 	   
-	   {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/AppYs.js","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","https://jx.xiaofengtv.com/M3/json.php/?url=","http://112.74.124.75:8899/jiexi/api.php?url="]}},
+	    {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/AppYs.js","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url=","https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","https://jx.xiaofengtv.com/M3/json.php/?url=","http://112.74.124.75:8899/jiexi/api.php?url="]}},
 		
 {"key":"fxz小猫咪","name":"💖分享猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
  {"key": "农民采集","name": "💖分享悯农","type": 1,"api": "https://www.xncnews.com/api.php/provide/vod/"},
