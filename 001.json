@@ -100,11 +100,11 @@
             "key": "豆瓣",
             "name": "🅱️分享豆瓣",
             "type": 3,
-            "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+            "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享douban.js"
+            "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享douban.js?ref=master"
         },
 		 {
       "key": "xpyg",
@@ -173,7 +173,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar"},
+      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.js?ref=master"},
    
        {
       "key": "fxzczzy",
@@ -183,8 +183,8 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar"},
-       {"key":"fxz欢视","name":"💖分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.js?ref=master"},
+       {"key":"fxz欢视","name":"💖分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.js?ref=master","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
        {
             "key": "csp_XYQHikerNm",
             "name": "💖分享糯米",
@@ -193,19 +193,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/nmys.json","jar":""},
+            "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/XBPQ%2Fnmys.json?ref=master","jar":""},
      {
 	"key": "hipy_js_fxzhz",
 	"name": "💖分享瓜子",
 	"type": 3,
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享GZ.js"
+         "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享GZ.js?ref=master"
 },
 	{
       "key": "GUAZI",
       "name": "💖分享瓜子*",
       "type": 3,
-      "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/AppYs.js",
+      "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2FAppYs.js?ref=master",
       "ext": {
         "host": "http://110.42.37.106:7788/api.php/app/",
         "*": [
@@ -223,7 +223,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
-      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享影酷.json"
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享影酷.json?ref=master"
     },
     {
       "key": "csp_appys_fxz酒客",
@@ -237,7 +237,7 @@
     },
 	{"key":"csp_XBPQ_fxzcjy","name":"💖分享柴姬","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
     "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
-    "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享caiji.json"},
+    "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/XBPQ%2F分享caiji.json?ref=master"},
  {"key":"fxzAI4","name":"💖分享哇云","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=","jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"},
     {
 	  "key": " fxzyg ",
@@ -248,21 +248,21 @@
 	  "quickSearch": 1,
 	  "filterable": 1,
 	"jar":"",
-	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享yg.json"
+	  "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/XBPQ%2F分享yg.json?ref=master"
 	},
 	   
-	    {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/AppYs.js","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","https://jx.xiaofengtv.com/M3/json.php/?url=","http://112.74.124.75:8899/jiexi/api.php?url="]}},
+	    {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2FAppYs.js?ref=master","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","https://jx.xiaofengtv.com/M3/json.php/?url=","http://112.74.124.75:8899/jiexi/api.php?url="]}},
 		{
 			"key": "fxz摘星",
 			"name": "💖分享摘星",
 			"type": 3,
-			"api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+			"api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享摘星.js"
+			"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享摘星.js?ref=master"
 		},
     {
 "key":"fxz凡人追剧","name":"💖分享凡人","type":3,"api":"csp_AppFr","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者F.zip","searchable":1,"quickSearch":0,"changeable":0,"ext":"KhYl01KelCEl+6MsvwnzaPusskytDBtcrHmF5gioReBS94fKHAcEZKYBPY49yQk2cmRHx02ABdJlrmBGDCSmDqsO+8bj25/UQR7nNZL4MyO9j3Ebzzhd6eXcFfgLedFRrj+RspzamxuLlU2XhI4spvLmabEoV8Ts/4XM0/Q5eGrZuYyyWwcjDb2Rkc9LDxfLCQ=="},
@@ -325,16 +325,16 @@
 	"key": "hipy_js_fxztx1",
 	"name": "💖分享腾腾",
 	"type": 3,
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享TX2.js"
+         "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享TX2.js?ref=master"
 },
 
  {
 	"key": "hipy_js_fxzmg1",
 	"name": "💖分享芒芒",
 	"type": 3,
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享MG.js"
+         "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/%2F分享MG.js?ref=master"
 },
  {
 	"key": "hipy_js_fxz4kyy",
