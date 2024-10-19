@@ -173,7 +173,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.js?ref=master"},
+      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.jar?ref=master"},
    
        {
       "key": "fxzczzy",
@@ -183,8 +183,8 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.js?ref=master"},
-       {"key":"fxz欢视","name":"💖分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.js?ref=master","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.jar?ref=master"},
+       {"key":"fxz欢视","name":"💖分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.jar?ref=master","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
        {
             "key": "csp_XYQHikerNm",
             "name": "💖分享糯米",
