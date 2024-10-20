@@ -100,7 +100,7 @@
             "key": "豆瓣",
             "name": "🅱️分享豆瓣",
             "type": 3,
-            "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -119,8 +119,8 @@
       "key": "央视片库",
       "name": "🇨🇳央视片库",
       "type": 3,
-      "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/央视片库.js"
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F央视片库.js?ref=master"
     },
     {"key":"央视剧场","name":"🇨🇳央视大全","type":3,"api":"https://8815.kstore.space/lib/央视剧场.js","searchable":1,"changeable":1,"timeout":10},
 {
@@ -198,7 +198,7 @@
 	"key": "hipy_js_fxzhz",
 	"name": "💖分享瓜子",
 	"type": 3,
-         "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享GZ.js?ref=master"
 },
 	{
@@ -256,7 +256,7 @@
 			"key": "fxz摘星",
 			"name": "💖分享摘星",
 			"type": 3,
-			"api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
+			"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -325,7 +325,7 @@
 	"key": "hipy_js_fxztx1",
 	"name": "💖分享腾腾",
 	"type": 3,
-         "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享TX2.js?ref=master"
 },
 
@@ -333,53 +333,53 @@
 	"key": "hipy_js_fxzmg1",
 	"name": "💖分享芒芒",
 	"type": 3,
-         "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2Fdrpy2.min.js?ref=master",
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/%2F分享MG.js?ref=master"
 },
  {
 	"key": "hipy_js_fxz4kyy",
 	"name": "💖分享焱焱",
 	"type": 3,
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/YY4kapp.js"
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2FYY4kapp.js?ref=master"
 },
 	{
 	"key": "hipy_js_fxztx",
 	"name": "💖分享企鹅",
 	"type": 3,
 	"ua": "okhttp/3.15",
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享TX1.js?ref=master"
 },
 	{
             "key" : "drpy_js_奇珍异兽",
             "name" : "💕分享奇艺",
             "type" : 3,
-            "api" : "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-            "ext" : "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/奇珍异兽%5B官%5D.js"
+            "api" : "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+            "ext" : "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F奇珍异兽[官].js?ref=master"
         },
 {
             "key" : "drpy_js_菜狗",
             "name" : "💕分享搜狗",
             "type" : 3,
-            "api" :"https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-            "ext" : "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/菜狗%5B官%5D.js"
+            "api" :"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+            "ext" : "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F菜狗[官].js?ref=master"
         },
          {
       "key": "drpy_js_腾云驾雾",
       "name": "💕分享腾讯",
       "type": 3,
-      "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/腾云驾雾%5B官%5D.js"
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F腾云驾雾[官].js?ref=master"
     },
         {
       "key": "drpy_js_百忙无果",
       "name": "💕分享芒果",
       "type": 3,
-      "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/百忙无果%5B官%5D.js"
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F百忙无果[官].js?ref=master"
     },
-    {"key": "dr_优酷2","name": "💕分享优酷","type": 3,"api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/优酷%5B官%5D.js"},
+    {"key": "dr_优酷2","name": "💕分享优酷","type": 3,"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F优酷[官].js?ref=master"},
 
 	 {
 	"key": "hipy_js_fxz闪电",
@@ -393,15 +393,15 @@
 	"name": "💖分享旋风",
 	"type": 3,
 	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享XF.js"
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/%2F分享XF.js?ref=master"
 },
 	 {
 	"key": "hipy_js_fxzpt",
 	"name": "💖分享葡萄",
 	"type": 3,
 	"ua": "okhttp/3.15",
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享葡萄.js"
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享葡萄.js?ref=master"
 },
 
  {
@@ -409,8 +409,8 @@
 	"name": "💖分享糖果",
 	"type": 3,
 	"ua": "okhttp/3.15",
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享糖果.js"
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享糖果.js?ref=master"
 },
 
  {
@@ -418,8 +418,8 @@
 	"name": "💖分享海纳",
 	"type": 3,
 	"ua": "okhttp/3.15",
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享海纳.js"
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享海纳.js?ref=master"
 },
 
  {
@@ -427,8 +427,8 @@
 	"name": "💖分享饺子",
 	"type": 3,
 	"ua": "okhttp/3.15",
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享饺子.js"
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享饺子.js?ref=master"
 },
 {"key":"PTT影视",
 	"name":"💖分享|PTT",
@@ -436,7 +436,7 @@
 	"api":"csp_PTT",
 	"searchable":1,
 	"changeable":1,
-	"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/ptt.jar"},
+	"jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/%2Fptt.jar?ref=master"},
 	 {
       "key": "fxzKY1",
       "name": "💖分享魔影",
@@ -464,8 +464,8 @@
 	"key": "hipy_js_fxzcz2",
 	"name": "💖分享厂长",
 	"type": 3,
-         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享changzhang.js"
+         "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享changzhang.js?ref=master"
 },
 
 	{ "key": "桃子影院", "name": "💖分享桃子", "type":3,"api":"csp_XBPQ", "ext": {"简介":"分享者剧情介绍:+show-desc\" style=*>&&</div>","分类url":"https://ios.taozi007.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$3#综艺$4"}},
@@ -2578,10 +2578,10 @@
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
-     {"key":"csp_Sp_音乐演唱会","name":"🅱️哔哩一集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/js/演唱会.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
-{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩二集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/js/哔哩合集.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
+     {"key":"csp_Sp_音乐演唱会","name":"🅱️哔哩一集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/js/演唱会.php","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者.zip?ref=master"},
+{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩二集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/js/哔哩合集.php","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者.zip?ref=master"},
 		
-{"key":"csp_Yj1211","name":"💃网红直播","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
+{"key":"csp_Yj1211","name":"💃网红直播","type": 3,"api": "csp_Yj1211","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者1.zip?ref=master"},
 
 {"key":"csp_xBPQ_抓饭体育","name":"️🥇抓饭体育","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
       {
@@ -2684,10 +2684,10 @@
             "changeable": 0
         },      
 {"key": "csp_xpath_A33","name":"🎸TV音乐","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
-{"key": "csp_Bili","name":"🅱️哔哩合集","type": 3,"api": "csp_AmuBili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
-{"key":"相声小品","name":"🅱️相声小品","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
-{"key": "戏 曲" ,"name": "🅱️国粹戏曲","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
-{"key": "美 食" ,"name": "🅱️天下美食","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/js/美食.json","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
+{"key": "csp_Bili","name":"🅱️哔哩合集","type": 3,"api": "csp_AmuBili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者.zip?ref=master"},
+{"key":"相声小品","name":"🅱️相声小品","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者.zip?ref=master"},
+{"key": "戏 曲" ,"name": "🅱️国粹戏曲","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者.zip?ref=master"},
+{"key": "美 食" ,"name": "🅱️天下美食","type": 3,"api": "csp_AmuBili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/js/美食.json","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者.zip?ref=master"},
  {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/兔小贝.js"},
 
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"},
