@@ -159,7 +159,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_LiteApple",
-	  "jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者1.zip?ref=master",	
+	  "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者1.zip",	
     "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -173,7 +173,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.jar?ref=master"},
+      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
    
        {
       "key": "fxzczzy",
@@ -183,8 +183,8 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.jar?ref=master"},
-       {"key":"fxz欢视","name":"💖分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者c.jar?ref=master","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
+       {"key":"fxz欢视","name":"💖分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
        {
             "key": "csp_XYQHikerNm",
             "name": "💖分享糯米",
@@ -193,19 +193,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/XBPQ%2Fnmys.json?ref=master","jar":""},
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/nmys.json","jar":""},
      {
 	"key": "hipy_js_fxzhz",
 	"name": "💖分享瓜子",
 	"type": 3,
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享GZ.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享GZ.js"
 },
 	{
       "key": "GUAZI",
       "name": "💖分享瓜子*",
       "type": 3,
-      "api": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2FAppYs.js?ref=master",
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/AppYs.js",
       "ext": {
         "host": "http://110.42.37.106:7788/api.php/app/",
         "*": [
@@ -222,8 +222,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2FXBPQ(2).jar?ref=master",
-      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享影酷.json?ref=master"
+      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享影酷.js"
     },
     {
       "key": "csp_appys_fxz酒客",
@@ -236,8 +236,8 @@
       "ext": "http://154.12.19.146/api.php/app/"
     },
 	{"key":"csp_XBPQ_fxzcjy","name":"💖分享柴姬","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-    "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2FXBPQ(2).jar?ref=master",
-    "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/XBPQ%2F分享caiji.json?ref=master"},
+    "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
+    "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/分享caiji.json"},
  {"key":"fxzAI4","name":"💖分享哇云","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=","jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"},
     {
 	  "key": " fxzyg ",
@@ -248,10 +248,10 @@
 	  "quickSearch": 1,
 	  "filterable": 1,
 	"jar":"",
-	  "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/XBPQ%2F分享yg.json?ref=master"
+	  "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/分享yg.json"
 	},
 	   
-	    {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2FAppYs.js?ref=master","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","https://jx.xiaofengtv.com/M3/json.php/?url=","http://112.74.124.75:8899/jiexi/api.php?url="]}},
+	    {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/AppYs.js","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","https://jx.xiaofengtv.com/M3/json.php/?url=","http://112.74.124.75:8899/jiexi/api.php?url="]}},
 		{
 			"key": "fxz摘星",
 			"name": "💖分享摘星",
@@ -262,17 +262,17 @@
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享摘星.js?ref=master"
+			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享摘星.js"
 		},
     {
-"key":"fxz凡人追剧","name":"💖分享凡人","type":3,"api":"csp_AppFr","jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者F.zip?ref=master","searchable":1,"quickSearch":0,"changeable":0,"ext":"KhYl01KelCEl+6MsvwnzaPusskytDBtcrHmF5gioReBS94fKHAcEZKYBPY49yQk2cmRHx02ABdJlrmBGDCSmDqsO+8bj25/UQR7nNZL4MyO9j3Ebzzhd6eXcFfgLedFRrj+RspzamxuLlU2XhI4spvLmabEoV8Ts/4XM0/Q5eGrZuYyyWwcjDb2Rkc9LDxfLCQ=="},
+"key":"fxz凡人追剧","name":"💖分享凡人","type":3,"api":"csp_AppFr","jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.zip","searchable":1,"quickSearch":0,"changeable":0,"ext":"KhYl01KelCEl+6MsvwnzaPusskytDBtcrHmF5gioReBS94fKHAcEZKYBPY49yQk2cmRHx02ABdJlrmBGDCSmDqsO+8bj25/UQR7nNZL4MyO9j3Ebzzhd6eXcFfgLedFRrj+RspzamxuLlU2XhI4spvLmabEoV8Ts/4XM0/Q5eGrZuYyyWwcjDb2Rkc9LDxfLCQ=="},
 
 {
       "key": "fxz-bro",
       "name": "💖分享铁剧",
       "type": 3,
       "api": "csp_WebBr",
-      "jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者F.zip?ref=master",
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.zip",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -284,7 +284,7 @@
             "name": "💖分享妖狐",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2FXBPQ(2).jar?ref=master",
+            "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/XBPQ(2).jar",
         
             "searchable": 1,
             "quickSearch": 1,
@@ -308,7 +308,7 @@
       "type": 3,
       "api": "csp_Hmys",
       "playerType": 1,
-      "ext": "https://m.jmzp.net.cn","jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/FxzHm.jar?ref=master"
+      "ext": "https://m.jmzp.net.cn","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/FxzHm.jar"
     },
 		{
             "key": "fxzgy",
@@ -326,7 +326,7 @@
 	"name": "💖分享腾腾",
 	"type": 3,
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享TX2.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享TX2.js"
 },
 
  {
@@ -334,14 +334,14 @@
 	"name": "💖分享芒芒",
 	"type": 3,
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/%2F分享MG.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享MG.js"
 },
  {
 	"key": "hipy_js_fxz4kyy",
 	"name": "💖分享焱焱",
 	"type": 3,
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2FYY4kapp.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/YY4kapp.js"
 },
 	{
 	"key": "hipy_js_fxztx",
@@ -349,7 +349,7 @@
 	"type": 3,
 	"ua": "okhttp/3.15",
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享TX1.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/Js/分享TX1.js"
 },
 	{
             "key" : "drpy_js_奇珍异兽",
@@ -3475,7 +3475,7 @@
 
 //jar+壁纸
 
-"spider":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2F分享者0.zip?ref=master;md5;15c1159c255dd29aa65cfedc02802266","wallpaper":"http://itvbox.cc/壁纸/api.php", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
+"spider":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;15c1159c255dd29aa65cfedc02802266","wallpaper":"http://itvbox.cc/壁纸/api.php", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
 
 //电视直播
 
