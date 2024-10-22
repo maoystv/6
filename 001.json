@@ -89,7 +89,7 @@
       "name": "⚙️配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
-      "jar":"https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/jar%2FFXZzx.zip?ref=master",
+      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
       "searchable": 0,
       "changeable": 0,
       "ext": {
@@ -104,7 +104,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享douban.js?ref=master"
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享douban.js"
         },
 		 {
       "key": "xpyg",
@@ -120,7 +120,7 @@
       "name": "🇨🇳央视片库",
       "type": 3,
       "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F央视片库.js?ref=master"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/央视片库.js"
     },
     {"key":"央视剧场","name":"🇨🇳央视大全","type":3,"api":"https://8815.kstore.space/lib/央视剧场.js","searchable":1,"changeable":1,"timeout":10},
 {
@@ -356,44 +356,44 @@
             "name" : "💕分享奇艺",
             "type" : 3,
             "api" : "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-            "ext" : "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F奇珍异兽[官].js?ref=master"
+            "ext" : "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/奇珍异兽[官].js"
         },
 {
             "key" : "drpy_js_菜狗",
             "name" : "💕分享搜狗",
             "type" : 3,
             "api" :"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-            "ext" : "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F菜狗[官].js?ref=master"
+            "ext" : "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/菜狗[官].js"
         },
          {
       "key": "drpy_js_腾云驾雾",
       "name": "💕分享腾讯",
       "type": 3,
       "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F腾云驾雾[官].js?ref=master"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/腾云驾雾[官].js"
     },
         {
       "key": "drpy_js_百忙无果",
       "name": "💕分享芒果",
       "type": 3,
       "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F百忙无果[官].js?ref=master"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/百忙无果[官].js"
     },
-    {"key": "dr_优酷2","name": "💕分享优酷","type": 3,"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F优酷[官].js?ref=master"},
+    {"key": "dr_优酷2","name": "💕分享优酷","type": 3,"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/优酷[官].js"},
 
 	 {
 	"key": "hipy_js_fxz闪电",
 	"name": "💖分享闪电",
 	"type": 3,
 	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/闪雷电.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/闪雷电.js"
 },
 	 {
 	"key": "hipy_js_fxz旋风",
 	"name": "💖分享旋风",
 	"type": 3,
 	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/%2F分享XF.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享XF.js"
 },
 	 {
 	"key": "hipy_js_fxzpt",
@@ -401,7 +401,7 @@
 	"type": 3,
 	"ua": "okhttp/3.15",
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享葡萄.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享萄萄.js"
 },
 
  {
@@ -410,7 +410,7 @@
 	"type": 3,
 	"ua": "okhttp/3.15",
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享糖果.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享糖果.js"
 },
 
  {
@@ -419,7 +419,7 @@
 	"type": 3,
 	"ua": "okhttp/3.15",
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享海纳.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享海纳.js"
 },
 
  {
@@ -428,7 +428,7 @@
 	"type": 3,
 	"ua": "okhttp/3.15",
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS%2F分享饺子.js?ref=master"
+	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享饺子.js"
 },
 {"key":"PTT影视",
 	"name":"💖分享|PTT",
@@ -436,7 +436,7 @@
 	"api":"csp_PTT",
 	"searchable":1,
 	"changeable":1,
-	"jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/%2Fptt.jar?ref=master"},
+	"jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/ptt.jar"},
 	 {
       "key": "fxzKY1",
       "name": "💖分享魔影",
