@@ -452,7 +452,7 @@
 		"name":"💖分享厰長",
 		"type":3,
 		"api":"csp_CzApp",
-		"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者2.zip",
+		"jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者2.zip",
 		"searchable":1,
 		"quickSearch":0,
 		"filterable":0,
