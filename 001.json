@@ -164,7 +164,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://39.108.238.168:20000","jar": ""},
+	{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar": ""},
 {
       "key": "fxzjpyy",
       "name": "💖分享金牌*",
