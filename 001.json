@@ -164,7 +164,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json","jar": ""},
+	{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json","jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip"},
 {
       "key": "fxzjpyy",
       "name": "💖分享金牌*",
@@ -540,12 +540,11 @@
             "changeable": 1,
             "filterable": 1,
             "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "site": "https://www.wogg.bf/",
-                "danmu": true
-            }
+             "ext": {
+        "commonConfig": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/jar/peizhi.json",
+        "siteUrl": "https://www.wogg.bf/",
+        "filter": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/jar/wogg.json"
+      }
         },
 {
       "key": "fxz-xjs",
@@ -584,7 +583,32 @@
       "changeable": 0,
       "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
       "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+        "commonConfig": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/jar/peizhi.json"
+      }
+    },
+	{
+      "key": "易搜",
+      "name": "📕分享一搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/jar/peizhi.json"
+      }
+    },
+    {
+      "key": "盤搜索",
+      "name": "📕分享盤搜",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/jar/peizhi.json"
       }
     },
 
@@ -1075,31 +1099,7 @@
             "ext": "https://vidhub1.cc"
         },
 	{"key":"csp_DiDuan" ,"name":"💖分享低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":0,"jar":""},
-	{
-      "key": "易搜",
-      "name": "📕分享一搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
-      }
-    },
-    {
-      "key": "盤搜索",
-      "name": "📕分享盤搜",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
-      }
-    },
+	
      {
       "key": "TgYunPanLocal1",
       "name": "📕分享油油",
