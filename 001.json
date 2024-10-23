@@ -164,7 +164,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar": ""},
+	{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json","jar": ""},
 {
       "key": "fxzjpyy",
       "name": "💖分享金牌*",
@@ -531,7 +531,22 @@
         "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
       }
     },
-
+{
+            "key": "玩偶备用弹幕",
+            "name": "📕分享玩偶*",
+            "type": 3,
+            "api": "csp_Wogg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
+            "ext": {
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "site": "https://www.wogg.bf/",
+                "danmu": true
+            }
+        },
 {
       "key": "fxz-xjs",
       "name": "💖分享剧社",
@@ -1130,22 +1145,7 @@
                 "danmu": true
             }
         },
-        {
-            "key": "玩偶备用弹幕",
-            "name": "📕分享玩偶*",
-            "type": 3,
-            "api": "csp_Wogg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "site": "https://wogg.xxooo.cf",
-                "danmu": true
-            }
-        },
+        
         {
             "key": "夸克土豆弹幕",
             "name": "📕分享豆豆",
