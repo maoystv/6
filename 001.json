@@ -385,7 +385,28 @@
       "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/百忙无果[官].js"
     },
     {"key": "dr_优酷2","name": "💕分享优酷","type": 3,"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/优酷[官].js"},
-
+{
+			"key": "hipy_js_85ys",
+			"name": "💖分享巴吴",
+			"type": 3,
+			"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/85k影视.js"
+		},
+		{
+			"key": "hipy_js_111tv",
+			"name": "💖分享山妖",
+			"type": 3,
+			"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/111tv[自动].js"
+		},
 	 {
 	"key": "hipy_js_fxz闪电",
 	"name": "💖分享闪电",
@@ -570,20 +591,54 @@
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
       }
     },
-	    {
-            "key": "夸克云星弹幕",
-            "name": "📕分享云星",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "commonConfig": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/master/jar/peizhi.json",
-                "siteUrl": "https://4k.4u4.cn"
-            }
-        },
+	   {
+			"key": "hipy_js_木偶哥哥[盘]",
+			"name": "💖分享木偶",
+			"type": 3,
+			"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/木偶哥哥[盘].js"
+		},
+		 {
+			"key": "hipy_js_至臻[盘]",
+			"name": "💖分享至臻",
+			"type": 3,
+			"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/至臻[盘].js"
+		},
+		{
+			"key": "FXZ-yydsys",
+			"name": "💖分享朵朵",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/pg.jar",
+			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/peizhi.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/wogg.json",
+			"order_num": 9999
+		}, 
+	{
+			"key": "校长影视",
+			"name": "💖分享校长",
+			"type": 3,
+			"api": "csp_XiaoZhang",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/pg.jar",
+			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/peizhi.json$$$https://xzyshd.com$$$proxy$$$1",
+			"order_num": 9999
+		},
 	{
       "key": "TgYunPan|服务器",
       "name": "💖分享电报",
@@ -1138,178 +1193,6 @@
         },
 	{"key":"csp_DiDuan" ,"name":"💖分享低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":0,"jar":""},
 	
-     {
-      "key": "TgYunPanLocal1",
-      "name": "📕分享油油",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "yunpanshare",
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
-      }
-    },
-    {
-      "key": "TgYunPanLocal3",
-      "name": "📕分享管管",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "kuakeyun",
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
-      }
-    },
-    {
-            "key": "玩偶弹幕",
-            "name": "📕分享果果",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
-                "wogg": true,
-                "danmu": true
-            }
-        },
-        
-        {
-            "key": "夸克土豆弹幕",
-            "name": "📕分享豆豆",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "site": "https://tudou.lvdoui.top",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克多多弹幕",
-            "name": "📕分享多多",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "site": "https://tv.yydsys.top",
-                "danmu": true
-            }
-        },
-        {"key":"csp_Yisou","name":"📕分享易搜","type":3,"api":"csp_Yisou","jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-        {
-            "key": "夸克至臻弹幕",
-            "name": "📕分享至臻",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
-                "site": "https://mihdr.top",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克奥秘弹幕",
-            "name": "📕分享奥秘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
-                "site": "https://vip.omii.top",
-                "danmu": true
-            }
-        },
-  
-           { "key": "夸克团长弹幕",
-            "name": "📕分享团长",
-            "type": 3,
-            "api": "csp_Tzfile",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "danmu": true
-            }
-        },
-        {
-            "key": "米搜弹幕",
-            "name": "📕分享米搜",
-            "type": 3,
-            "api": "csp_Qkpanso",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "commonConfig": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/master/jar/peizhi.json",
-                "siteUrl": "https://www.misou.fun",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克趣盘搜弹幕",
-            "name": "📕分享趣盘",
-            "type": 3,
-            "api": "csp_QuPanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克盘搜弹幕",
-            "name": "📕分享夸盘",
-            "type": 3,
-            "api": "csp_Qkpanso",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/FXZzx.zip",
-            "ext": {
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "danmu": true
-	    }
-            },
 	{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/YGFXZ/0/-/raw/main/分享玩偶.json","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
           {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
            {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/tudouali.json","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
