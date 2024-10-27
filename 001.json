@@ -272,7 +272,19 @@
       }
     },
 	    {"key":"fxzWP","name":"💖分享罗盘","type":3,"searchable":1,"quickSearch":1,"api":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/AppYs.js","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","https://jx.xiaofengtv.com/M3/json.php/?url=","http://112.74.124.75:8899/jiexi/api.php?url="]}},
-		{
+	{
+			"key": "fxz布蕾",
+			"name": "💖分享布蕾",
+			"type": 3,
+			"api": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/bulei4K.js"
+		},	
+	{
 			"key": "fxz摘星",
 			"name": "💖分享摘星",
 			"type": 3,
