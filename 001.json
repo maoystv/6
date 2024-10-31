@@ -206,18 +206,7 @@
          "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享GZ.js"
 },
-	{
-      "key": "GUAZI",
-      "name": "💖分享瓜子*",
-      "type": 3,
-      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/AppYs.js",
-      "ext": {
-        "host": "http://110.42.37.106:7788/api.php/app/",
-        "*": [
-          "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url="
-        ]
-      }
-    },
+	{"key":"xiaoxiong","name":"💖分享小熊","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://154.9.252.167:190/lib/小熊.php?ggao=免费使用","playUrl":"json:http://154.9.252.167:190/json/xiaoxiong.php?key=137811046&url=","categories":[]},
 	{
       "key": "fxz影酷4k",
       "name": "💖分享影酷",
