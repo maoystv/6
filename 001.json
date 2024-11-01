@@ -567,14 +567,20 @@
       "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享SBB.json"
     },
-	{"key":"csp_Nmvod_QJ","name":"💖分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==", "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享者j.jar"},
-{"key":"木叶","name":"💖分享木叶","type":3,"api":"csp_Muye","playerType":1,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享者j.jar"},
+	{"key":"csp_Nmvod_QJ","name":"💖分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==", "jar":"http://tv.laohu.cool/laohujar.jar"},
+{"key":"木叶","name":"💖分享木叶","type":3,"api":"csp_Muye","playerType":1,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4","jar":"http://tv.laohu.cool/laohujar.jar"},
+
+{"key":"乐观","name":"💖分享乐观","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx", "jar":"http://tv.laohu.cool/laohujar.jar"},
+{"key":"人人","name":"💖分享人人","type":3,"api":"csp_qiao3","playerType":2,"ext":"caHR0cDovL3d3dy5jdXBmb3gxLmNjOjk5OTl8MzFjOTNjN2JjMjExZDczNHwzMWM5M2M3YmMyMTFkNzM0", "jar":"http://tv.laohu.cool/laohujar.jar"},
+{"key":"雨滴","name":"💖分享雨滴","type":3,"api":"csp_qiao3","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA", "jar":"http://tv.laohu.cool/laohujar.jar"},
+{"key":"优质","name":"💖分享优质","type":3,"api":"csp_qiao3","playerType":1,"ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw", "jar":"http://tv.laohu.cool/laohujar.jar"},
+{"key":"客星","name":"💖分享客星","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=", "jar":"http://tv.laohu.cool/laohujar.jar"},
 
 {"key":"太平","name":"💖分享太平","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx", "jar":"http://tv.laohu.cool/laohujar.jar"},
 {"key":"兴旺","name":"💖分享兴旺","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng==", "jar":"http://tv.laohu.cool/laohujar.jar"},
-{"key":"雷电","name":"💖分享雷电","type":3,"api":"csp_Slys","playerType":1,"ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg=", "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享者j.jar"},
-{"key":"AI2","name":"💖分享|AI2","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ==", "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享者j.jar"},
-{"key":"AI3","name":"💖分享|AI3","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp", "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享者j.jar"},
+{"key":"雷电","name":"💖分享雷电","type":3,"api":"csp_Slys","playerType":1,"ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg=", "jar":"http://tv.laohu.cool/laohujar.jar"},
+{"key":"AI2","name":"💖分享|AI2","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ==", "jar":"http://tv.laohu.cool/laohujar.jar"},
+{"key":"AI3","name":"💖分享|AI3","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp", "jar":"http://tv.laohu.cool/laohujar.jar"},
 	{
       "key": "fxz-LB",
       "name": "💖分享蜡笔",
