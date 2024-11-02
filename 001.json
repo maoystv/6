@@ -219,6 +219,40 @@
       "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
       "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享影酷.js"
     },
+	 {
+      "key": "高清资源网",
+      "name": "💖分享高清",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
+      "categories": [
+        "短剧",
+        "爽文短剧",
+        "动作片",
+        "国产剧",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "大陆综艺",
+        "国产动漫"
+      ]
+    },
+    {
+      "key": "fxz真不卡",
+      "name": "💖分享不卡",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/%E6%BB%A1%E5%93%A5%E7%BA%BF%E8%B7%AF.json"
+    },
     {
       "key": "csp_appys_fxz酒客",
       "name": "💖分享酒客",
@@ -332,16 +366,16 @@
       "ext": "https://m.jmzp.net.cn","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/FxzHm.jar"
     },
 		{
-            "key": "fxzgy",
-            "name": "💖分享腾云",
-            "playerType": 1,
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://110.40.61.7:81/api.php/app/"
-        },
+        "key": "fxzgy",
+       "name": "💖分享腾云",
+      "type": 3,
+      "api": "http://kxrj.site:55/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://kxrj.site:55/lib/js/腾腾4K.js"
+    },
  {
 	"key": "hipy_js_fxztx1",
 	"name": "💖分享腾腾",
