@@ -806,8 +806,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://4k.4u4.cn",
-                "danmu": 
+                "site": "https://4k.4u4.cn"
             }
         },
         {
@@ -821,8 +820,7 @@
             "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://www.misou.fun",
-                "danmu": 
+                "site": "https://www.misou.fun"
             }
         },
         {
@@ -836,8 +834,7 @@
             "changeable": 1,
             "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "danmu": 
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
             }
         },
 
