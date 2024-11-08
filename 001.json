@@ -343,6 +343,16 @@
 			"changeable": 0,
 			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享摘星.js"
 		},
+	{
+		"key": "php_bttwoo",
+		"name": "💖分享彼特",
+		"type": 4,
+		"api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
+		"searchable": 1,
+		"quickSearch": 0,
+		"filterable": 0,
+		"changeable": 0
+	  },
     {
 "key":"fxz凡人追剧","name":"💖分享凡人","type":3,"api":"csp_AppFr","jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.zip","searchable":1,"quickSearch":0,"changeable":0,"ext":"KhYl01KelCEl+6MsvwnzaPusskytDBtcrHmF5gioReBS94fKHAcEZKYBPY49yQk2cmRHx02ABdJlrmBGDCSmDqsO+8bj25/UQR7nNZL4MyO9j3Ebzzhd6eXcFfgLedFRrj+RspzamxuLlU2XhI4spvLmabEoV8Ts/4XM0/Q5eGrZuYyyWwcjDb2Rkc9LDxfLCQ=="},
 
