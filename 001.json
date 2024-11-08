@@ -124,6 +124,17 @@
     },
     {"key":"央视剧场","name":"🇨🇳央视大全","type":3,"api":"https://8815.kstore.space/lib/央视剧场.js","searchable":1,"changeable":1,"timeout":10},
 {
+  "key": "hipy_js_KTV歌厅[听]",
+  "name": "💖分享歌厅",
+  "type": 3,
+  "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
+},
+	{
       "key": "2400部恐怖电影📲",
       "name": "💖分享电影",
       "type": 3,
