@@ -232,7 +232,13 @@
             "jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
             "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
         },
-    {"key":"xiaoxiong","name":"💖分享小熊","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://154.9.252.167:190/lib/小熊.php?ggao=免费使用","playUrl":"json:http://154.9.252.167:190/json/xiaoxiong.php?key=137811046&url=","categories":[]},
+     {
+      "key": "xiaoxiong",
+      "name": "💖分享小熊",
+      "type": 3,
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "ext": "http://47.99.102.252/drpy_js/%E5%B0%8F%E7%86%8A.js"
+    },
     
   {
       "key": "高清资源网",
