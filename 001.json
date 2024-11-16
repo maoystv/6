@@ -3610,8 +3610,8 @@
 
 //电视直播
 
- "lives":[{"name":"💖分享者直播","type":0,"url":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/000/master/live20220813.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-	 {"name":"💖分享者直播2","type":0,"url":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/000/master/分享者ZB.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+ "lives":[{"name":"💖分享者直播","type":0,"url":"https://ghp.ci/raw.githubusercontent.com/maoystv/000/master/live20220813.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+	 {"name":"💖分享者直播2","type":0,"url":"https://ghp.ci/raw.githubusercontent.com/maoystv/000/master/分享者ZB.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	 {
 		    "name": "🚨开心直播",
             "type":0,
