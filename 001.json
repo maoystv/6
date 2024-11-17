@@ -132,7 +132,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/KTV歌厅.js"
+  "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/KTV歌厅.js"
 },
 	{
       "key": "2400部恐怖电影📲",
@@ -340,13 +340,13 @@
 			"key": "fxz布蕾",
 			"name": "💖分享布蕾",
 			"type": 3,
-			"api": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+			"api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/bulei4K.js"
+			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/bulei4K.js"
 		},
 		{
 			"key": "fxz摘星",
