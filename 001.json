@@ -311,6 +311,28 @@
 			"changeable": 0,
 			"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/bulei4K.js"
 		},
+	{
+      "key": "星空影院_js",
+      "name": "💖分享星空",
+      "type": 3,
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/JS/分享星空.js"
+    },
+    {
+      "key": "熊猫TV_js",
+      "name": "💖分享熊猫",
+      "type": 3,
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/JS/分享熊猫.js"
+    },
 		{
 			"key": "fxz摘星",
 			"name": "💖分享摘星",
@@ -368,7 +390,6 @@
             }
         }, 
 {"key":"fxz小猫咪","name":"💖分享猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
- {"key": "农民采集","name": "💖分享悯农","type": 1,"api": "https://www.xncnews.com/api.php/provide/vod/"},
 	{"key":"csp_fxzzjt","name":"💖分享剧兔","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zjtu.one/api.php/app/"},
         {"key":"csp_fxzhl","name":"💖分享河狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.heli888.cc/api.php/app/"},
 	{
