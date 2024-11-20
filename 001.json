@@ -229,6 +229,13 @@
       "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
       "ext": "http://47.99.102.252/drpy_js/%E5%B0%8F%E7%86%8A.js"
     },
+	{
+      "key": "fxzyingtan",
+      "name": "💖分享探戈",
+      "type": 3,
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "ext": "http://47.99.102.252/js/yt.js"
+    },
     
   {
       "key": "高清资源网",
