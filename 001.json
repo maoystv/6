@@ -238,6 +238,7 @@
       "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
       "ext": "http://47.99.102.252/js/yt.js"
     },
+	 {"key":"csp_fxz视觉","name":"💖分享视觉","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://3450.kstore.vip/shijue.py","playerType":2,"filterable":1},
     
   {
       "key": "高清资源网",
