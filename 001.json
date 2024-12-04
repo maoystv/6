@@ -2485,15 +2485,35 @@
         "header": {"User-Agent": "okhttp/4.9.1"}}},
  
     
-     {
-      "name": "💖分享主解a+",
-      "type": 1,
-      "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url=",
-      "ext": {
-        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
-          "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
-        ],
-        "header": {"User-Agent": "okhttp/4.9.1"}}},
+        {
+			"name": "💖分享主解a+",
+			"type": 1,
+			"url": "https://www.mpanso.com/muou/qilin.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
     {"name":"💖分享主解a*","type":1,"url":"http://jx.jwl.icu/jx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
         {
     "name": "💖分享主解b",
