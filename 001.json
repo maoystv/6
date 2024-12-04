@@ -213,7 +213,28 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/nmys.json","jar":""},
-            {
+             {
+      "key": "zhaixing",
+      "name": "💖分享星星",
+      "type": 3,
+      "api": "csp_AppZX",
+      "jar": "https://d.kstore.dev/download/7337/tw/lib/1020.jar",
+      "playerType": 2
+    },
+    {
+      "key": "csp_XSX",
+      "name": "💖分享视讯",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "csp_Xsx",
+      "jar": "https://d.kstore.dev/download/7337/tw/lib/1020.jar",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+	{
             "key": "洽洽影视",
 	            "name": "💖分享洽洽",
             "type": 3,
@@ -2514,6 +2535,33 @@
 				}
 			}
 		},
+      {
+      "name": "💖分享主解a-",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ]
+      }
+    },
     {"name":"💖分享主解a*","type":1,"url":"http://jx.jwl.icu/jx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
         {
     "name": "💖分享主解b",
