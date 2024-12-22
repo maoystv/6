@@ -191,7 +191,7 @@
       "playerType":1,
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
    
-       {
+         {
       "key": "fxzczzy",
       "name": "💖分享厂长*",
       "type": 3,
@@ -199,9 +199,10 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "ext":"https://www.czzy77.com/",
+      "ext":"https://www.czzyvideo.com/",
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
-       {"key":"fxz欢视","name":"💖分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+       {"key":"fxz欢视","name":"💖分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar","ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
+       {"key":"木星","name":"💖分享木星","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM", "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
       {"key":"fxz热播","name":"💖分享热播","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1, "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar","ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"fxz南瓜","name":"💖分享南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1, "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
 	{
