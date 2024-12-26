@@ -204,6 +204,16 @@
       {"key":"fxz热播","name":"💖分享热播","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1, "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar","ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"fxz南瓜","name":"💖分享南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1, "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
 	{
+      "key": "drpyS_闪电优汐[盘]",
+      "name": "💖分享优汐",
+      "type": 4,
+      "api": "http://47.99.102.252:5757/api/闪电优汐[盘]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+	{
             "key": "csp_XYQHikerNm",
             "name": "💖分享糯米",
             "type": 3,
