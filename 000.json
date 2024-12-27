@@ -216,13 +216,13 @@
       "ext": ""
     },
 	{
-"key":"fxz皮皮虾"
-"name":"💖分享皮虾"
-"type":3
-"api":"csp_AppYsV2"
-"searchable":1
-"quickSearch":1
-"filterable":1
+"key":"fxz皮皮虾",
+"name":"💖分享皮虾",
+"type":3,
+"api":"csp_AppYsV2",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
 "ext":"http://38.55.250.149:1314/api.php/app/"
 },
 	{
@@ -2667,6 +2667,17 @@
             },
             "type": "1"
         },
+	{
+      "name": "💖分享专解",
+      "type": "1",
+      "url": "http://45.207.215.101:5423/index.php?url=",
+      "ext": {
+        "flag": [
+          "PPXLG",
+          "皮皮虾4K"
+        ]
+      }
+    },
 {
             "name": "💕分享虾米",
             "type": 0,
