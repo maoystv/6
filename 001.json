@@ -355,7 +355,17 @@
       "ext": "http://47.99.102.252/js/yt.js"
     },
 	 {"key":"csp_fxz视觉","name":"💖分享视觉","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://drive.almondcloud.cn/f/q3JKT9/shijue.py","playerType":2,"filterable":1},
-    
+    {
+			"key": "csp_猎手",
+			"name": "💖分享猎手",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"api": "https://drive.almondcloud.cn/f/mnyRt1/py_%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+			"playerType": 2,
+			"filterable": 1
+		},
   {
       "key": "高清资源网",
       "name": "💖分享高清",
