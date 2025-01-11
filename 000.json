@@ -219,12 +219,20 @@
 "key":"fxz皮皮虾",
 "name":"💖分享皮虾",
 "type":3,
-"api":"csp_AppYsV2",
+"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"http://38.55.250.149:1314/api.php/app/"
+"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/js/pp.js"
 },
+
+ {
+      "key": "ky1080",
+      "name": "💖分享酷云",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/js/keyun.js"
+    },
+    {"key":"csp_fxz视觉","name":"💖分享视觉","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/js/sj.js","playerType":1,"filterable":1},
 	{
             "key": "csp_XYQHikerNm",
             "name": "💖分享糯米",
@@ -303,12 +311,6 @@
       }
     },
 
- {
-      "key": "ky1080",
-      "name": "💖分享酷云",
-      "type": 3,
-      "api": "http://47.99.102.252/js/openkuyun.js"
-    },
 {"key":"壹伴","name":"💖分享壹伴","type":3,"api":"csp_Xdai","playerType":2,"ext":"caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg=", "jar":"http://tv.laohu.cool/laohujar.jar"},
 	{
       "key": "zhaixing",
@@ -349,14 +351,8 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
       "ext": "http://47.99.102.252/drpy_js/%E5%B0%8F%E7%86%8A.js"
     },
-	{
-      "key": "fxzyingtan",
-      "name": "💖分享探戈",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "ext": "http://47.99.102.252/js/yt.js"
-    },
-	 {"key":"csp_fxz视觉","name":"💖分享视觉","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://drive.almondcloud.cn/f/q3JKT9/shijue.py","playerType":2,"filterable":1},
+	
+	 {"key":"csp_fxz视觉2","name":"💖分享视觉*","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://drive.almondcloud.cn/f/q3JKT9/shijue.py","playerType":2,"filterable":1},
     {
 			"key": "csp_猎手",
 			"name": "💖分享猎手",
