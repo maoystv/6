@@ -346,6 +346,17 @@
 			"playerType": 2,
 			"filterable": 1
 		},
+	 {
+			"key": "csp_嗷呜",
+			"name": "💖分享嗷呜",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/嗷呜.py",
+			"playerType": 2,
+			"filterable": 1
+		},
   {
       "key": "高清资源网",
       "name": "💖分享高清",
