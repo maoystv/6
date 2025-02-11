@@ -185,7 +185,16 @@
       "searchable": 1,
       "changeable": 1
     },
-
+ {
+      "key": "py_jieyingshi",
+      "name": "💖分享影界",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/py_jieyingshi.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
 {
       "key": "fxzjpyy",
       "name": "💖分享金牌*",
