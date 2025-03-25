@@ -248,7 +248,7 @@
 {"key": "腾","name": "💝分享腾腾","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/py/py_腾.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 {"key": "爱","name": "💝分享爱爱","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/py/py_爱.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 {"key": "xpg","name": "💝分享小小","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/py/py_xpg.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	    
-
+{"key":"py_aigua","name":"💖分享爱瓜","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/爱瓜TVAPP.py","searchable":1,"filterable":0,"changeable":0},
 {"key":"py_悠悠APP","name":"💖分享悠悠","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/悠悠APP.py","searchable":1,"filterable":0,"changeable":0},
 {"key":"py_火车太顺APP","name":"💖分享火车","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/火车太顺APP.py","searchable":1,"filterable":0,"changeable":0},
 {"key":"py_甜圈短剧","name":"💖分享甜圈","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/html/甜圈短剧.py","searchable":1,"filterable":0,"changeable":0},
