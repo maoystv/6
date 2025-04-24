@@ -97,7 +97,7 @@ class Spider(Spider):
             'vod_actor': c.eq(1)('a').text(),
             'vod_director': c.eq(2)('a').text(),
             'vod_content': data('.detail-con p').text().split('：')[-1],
-            'vod_play_from': mac_from.group(1) if mac_from else '分享者在线',
+            'vod_play_from': mac_from.group(1) if mac_from else '呜呜呜',
             'vod_play_url': mac_url
         }
         return {'list': [vod]}
