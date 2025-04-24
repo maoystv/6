@@ -1,5 +1,5 @@
 import { Crypto, load, _ } from 'assets://js/lib/cat.js';
-let siteUrl = 'https://wwgz.cn';
+let siteUrl = 'https://www.wwgz.cn';
 let siteKey = '';
 let siteType = 0;
 let headers = {
