@@ -27,7 +27,7 @@ var rule = {
       'User-Agent': 'okhttp/4.3.1'
       
     };
-    //let responseText = request("http://39.104.230.177:1122/lxjx/myyk.php?url=" + input, { headers: headers });
+    //let responseText = request("http://xi.zhangbokeji.top/api/jsonindex.php/?key=unQjMePERREjnHcmuZ&url=" + input, { headers: headers });
     let responseText = request("http://xi.zhangbokeji.top/api/jsonindex.php/?key=unQjMePERREjnHcmuZ&url=" + input, { headers: headers });
     console.log("响应文本:", responseText); // 查看原始响应内容
 
