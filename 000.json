@@ -539,7 +539,7 @@
    "quickSearch": 1,
    "api": "https://caiji.dbzy.tv/api.php/provide/vod/"
   }, 
-  {"key": "0duapp","name": "💝分享零度","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/py/零度影视APP.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	    
+  {"key": "0duapp","name": "💝分享零度","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/py/零度影视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	    
 
 {
       "key": "py_haoshuai",
