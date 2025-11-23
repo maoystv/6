@@ -565,6 +565,26 @@
                 "动漫"
             ]
         },
+	{
+            "key": "快映fox",
+            "name": "💝分享快映",
+            "type": 3,
+            "changeable": 0,
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/js/appfox.js",
+            "ext": {
+                "host": "https://www.snys2.xyz:443",
+                "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+                "source_order": ["tianyi-14","alist1"]
+            }
+        },
+ {
+            "key": "私人",
+            "name": "💝分享私人",
+            "type": 3,
+            "changeable": 1,
+            "api": "csp_AppYsV2",
+            "ext": "https://v.catcs.cc/api.php/v1.vod"
+        },/
     {
       "key": "忍者4K",
       "name": "💖分享忍者",
@@ -1697,6 +1717,41 @@
         }
       }
     },
+	{
+      "name": "💝分享者测试",
+      "type": 1,
+      "url": "http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
 {
       "name": "💕分享者嗅探",
       "type": 0,
@@ -2189,5 +2244,6 @@
         
         
         
+
 
 
