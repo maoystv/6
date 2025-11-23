@@ -1,18 +1,4 @@
 {
-// 每日一言 (随机显示欢迎语)
-"dairyWords": [{
-    "name": "rating",
-    "request": {
-     "method": "GET",
-     "url": {
-      "raw": "https://v.api.aa1.cn/api/yiyan/index.php?type=get"
-     }
-    },
-    "response": {
-        "result": "$.data.content"
-    },
-    "expires" : "43200"
-}],
 
 
 
@@ -2770,3 +2756,4 @@
         
         
         
+
