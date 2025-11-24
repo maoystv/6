@@ -81,6 +81,16 @@
 			"filterable": 0,
 			"timeout": 60
 		},
+	{
+			"key": "py_guazi",
+			"name": "💖分享瓜子",
+			"type": 3,
+			"api": "https://d.kstore.dev/download/4127/py/瓜子.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"filterable": 0,
+			"timeout": 60},
         {
   "key": "t1_dian_ying_tian_tang",
   "name": "💝分享天堂",
@@ -2305,6 +2315,7 @@
         
         
         
+
 
 
 
