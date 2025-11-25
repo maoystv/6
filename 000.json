@@ -231,7 +231,26 @@
                 "proxy": "","thread": 0,"device_name":"My Computer","client":"Hills Windows","client_version":"0.3.2","device_id":"a9f74849-83d5-4a28-8b85-a087af1402e3"
             }
         },
-        
+        {
+            "key": "快映fox",
+            "name": "💝分享快映",
+            "type": 3,
+            "changeable": 0,
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/js/appfox.js",
+            "ext": {
+                "host": "https://www.snys2.xyz:443",
+                "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+                "source_order": ["tianyi-14","alist1"]
+            }
+        },
+ {
+            "key": "私人",
+            "name": "💝分享私人",
+            "type": 3,
+            "changeable": 1,
+            "api": "csp_AppYsV2",
+            "ext": "https://v.catcs.cc/api.php/v1.vod"
+        }, 
   {
       "key": "金蝉",
       "name": "💝分享金蝉",
@@ -2315,6 +2334,7 @@
         
         
         
+
 
 
 
