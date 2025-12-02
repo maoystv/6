@@ -251,6 +251,50 @@
             "api": "csp_AppYsV2",
             "ext": "https://v.catcs.cc/api.php/v1.vod"
         }, 
+	{
+			"key": "py_jutouse",
+			"name": "💝分享剧透",
+			"type": 3,
+			"api": "https://d.kstore.dev/download/4127/py/剧透社.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"filterable": 0,
+			"timeout": 60
+		},
+		{
+			"key": "py_dianyingyunji",
+			"name": "💝分享云集",
+			"type": 3,
+			"api": "https://d.kstore.dev/download/4127/py/电影云集.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"filterable": 0,
+			"timeout": 60
+		},
+         {
+			"key": "飞牛影视",
+			"name": "💝分享飞牛",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://d.kstore.dev/download/4127/js/飞牛影视.js"
+		},
+		 {
+			"key": "999X片",
+			"name": "💝分享三九",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://d.kstore.dev/download/4127/js/999X片.js"
+		},
   {
       "key": "金蝉",
       "name": "💝分享金蝉",
@@ -2334,6 +2378,7 @@
         
         
         
+
 
 
 
