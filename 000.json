@@ -175,14 +175,10 @@
       "playerType": 2,"jar":"https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i79425533i486k8459ljik4g1jg41k6gi0h2850784gj2lk207j5k2ji745gl8478h6h3321l84j2j7lh2li1g0562546ligk98gi74"
     },
-    {
-      "key": "优质",
-      "name": "💝分享优质",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,"jar":"https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i794252728181hk0980i2lhl1j905ikjh3170584h43l8gh0l090242905hk1i01i8g80220khi93llh21hk1l43g2609hikh92k02jji32g07lll4k18l8g0ill1ki272j208349655gi1k71g652gh3gj6374li9kg3jj977gl13g"
-    },   {"key":"AI3","name":"💝分享AI-3","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2, "jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"},
+	{"key":"客星","name":"💝分享客星","type":3,"api":"csp_Xdai","playerType":2,"jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"},
+        {"key":"柠檬","name":"💝分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
+        {"key":"追剧","name":"💝分享追剧","type":3,"api":"csp_TTian","playerType":2,"jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l2681i6g94li291li"},
+	{"key":"AI3","name":"💝分享AI-3","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2, "jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"},
           {
       "key": "爆炸",
       "name": "💝分享爆炸",
@@ -2378,6 +2374,7 @@
         
         
         
+
 
 
 
