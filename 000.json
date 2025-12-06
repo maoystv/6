@@ -139,6 +139,17 @@
             "changeable": 0,
             "quickSearch": 0,
             "filterable": 0},
+	{
+            "key": "八戒影视",
+            "name": "💝分享八戒",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/4127/py/八戒影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
 
           {
 			"key": "py_xiongdi",
@@ -516,17 +527,6 @@
             },
             "changeable": 1
         },  
-        {
-            "key": "八戒影视",
-            "name": "💝分享八戒",
-            "type": 3,
-            "api": "https://d.kstore.dev/download/4127/py/八戒影视.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
           {
             "key": "薯片",
             "name": "💝分享乐视",
@@ -2374,6 +2374,7 @@
         
         
         
+
 
 
 
