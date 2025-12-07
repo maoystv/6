@@ -138,7 +138,28 @@
             "changeable": 0,
             "quickSearch": 0,
             "filterable": 0},
-
+{
+			"key": "八戒影视",
+			"name": "💝分享八戒",
+			"type": 3,
+			"api": "https://d.kstore.dev/download/4127/py/八戒影视.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"filterable": 0,
+			"timeout": 60
+		},
+		 {
+			"key": "py_qiwei",
+			"name": "💝分享七味",
+			"type": 3,
+			"api": "https://d.kstore.dev/download/4127/py/七味.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"filterable": 0,
+			"timeout": 60
+		},
           {
 			"key": "py_xiongdi",
 			"name": "💝分享兄弟",
@@ -515,17 +536,6 @@
             },
             "changeable": 1
         },  
-        {
-            "key": "八戒影视",
-            "name": "💝分享八戒",
-            "type": 3,
-            "api": "https://d.kstore.dev/download/4127/py/八戒影视.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
           {
             "key": "薯片",
             "name": "💝分享乐视",
@@ -2640,6 +2650,7 @@
         
         
         
+
 
 
 
