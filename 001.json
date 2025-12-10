@@ -185,7 +185,10 @@
   {"key": "LIBVIO","name": "💝分享立波","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/LIBVIO.py","searchable": 1,"quickSearch": 0,"changeable": 0,"filterable": 0,"timeout": 60},
 {"key":"南瓜","name":"💝分享南瓜","type":3,"api":"csp_NanGua","playerType":2,"jar":"https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
       {"key":"热播","name":"💝分享热播","type":3,"api":"csp_TTian","playerType":2,"jar":"https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l3888jig44gi291li"},
-           {"key":"AI二","name":"💝分享聚搜","type":3,"api":"csp_qiao2","playerType":2,"jar":"https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
+           {"key":"AI二","name":"💝分享聚搜","type":3,"api":"csp_qiao2","playerType":2,"ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9",
+      "jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E"},
+      {"key":"AI3","name":"💝分享AI-3","type":3,"api":"csp_qiao2","playerType":2,"ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9",
+      "jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E"}, 
       
    {
       "key": "kafeiys",
@@ -198,7 +201,7 @@
     {"key":"客星","name":"💝分享客星","type":3,"api":"csp_Xdai","playerType":2,"jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"},
         {"key":"柠檬","name":"💝分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
         {"key":"追剧","name":"💝分享追剧","type":3,"api":"csp_TTian","playerType":2,"jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l2681i6g94li291li"},
-	{"key":"AI3","name":"💝分享AI-3","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2, "jar": "https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"},
+
           {
       "key": "爆炸",
       "name": "💝分享爆炸",
@@ -2650,6 +2653,7 @@
         
         
         
+
 
 
 
