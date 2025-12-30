@@ -225,22 +225,10 @@
       "changeable": 0,
       "ext": "https://gh.clun.top/raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/main/%E8%85%BE%E4%BA%914k.js"
     },
- {
-            "key": "hohaiemby",
-            "name": "💝分享EMBY",
-            "type": 3,
-            "api": "https://d.kstore.dev/download/4127/PY/enby.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "server": "https://emby.hohai.eu.org:443",
-                "username": "chuxin666",
-                "password": "ycc123456",
-                "proxy": "","thread": 0,"device_name":"My Computer","client":"Hills Windows","client_version":"0.3.2","device_id":"a9f74849-83d5-4a28-8b85-a087af1402e3"
-            }
-        },
+	{"key": "hohaiemby","name": "💝分享EMBY","type": 3,"api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/js/Emby.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
+{"key": "Emby小雅","name": "💝分享动漫","type": 3,"api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/js/Emby小雅.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
+{"key": "js集合","name": "💝分享js集","type": 4,"api": "http://zhangqun1818.serv00.net/js.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"changeable": 1},
+{"key": "采集集合","name": "💝分享合集","type": 4,"api": "http://zhangqun1818.serv00.net/cj/cjjh.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"ext":"1","changeable": 1},
         {
             "key": "快映fox",
             "name": "💝分享快映",
@@ -2377,6 +2365,7 @@
         
         
         
+
 
 
 
