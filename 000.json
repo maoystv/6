@@ -92,41 +92,18 @@
 			"filterable": 0,
 			"timeout": 60},
         {
-  "key": "t1_dian_ying_tian_tang",
+  
+			{ "key": "t1_dian_ying_tian_tang",
   "name": "💝分享天堂",
-  "type": 1,
-  "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0,
-  "changeable": 0,
-  "playUrl": "json:https://py.doube.eu.org/parse_dytt?url=",
-  "categories": [
-    "动作片",
-    "喜剧片",
-    "爱情片",
-    "科幻片",
-    "恐怖片",
-    "剧情片",
-    "战争片",
-    "国产剧",
-    "香港剧",
-    "韩国剧",
-    "欧美剧",
-    "记录片",
-    "台湾剧",
-    "日本剧",
-    "海外剧",
-    "泰国剧",
-    "大陆综艺",
-    "港台综艺",
-    "日韩综艺",
-    "欧美综艺",
-    "国产动漫",
-    "日韩动漫",
-    "欧美动漫",
-    "港台动漫",
-    "短剧",
+  "type": 3,
+  "api": "https://d.kstore.dev/download/4127/js/分享天堂.js",
+  "style":{"type":"rect","ratio":1.33},
+"changeable":1},
+          {"key":"独播库_async","name":"💝分享独播","type":3,"api":"https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/laozhang/独播库.js","style":{"type":"rect","ratio":1.33},
+"changeable":1},
+{"key":"3Q影视_async","name":"💝分享三Q","type":3,"api":"https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/laozhang/3Q影视.js","style":{"type":"rect","ratio":1.33},
+"changeable":1},
+          {"key":"剧下饭","name":"💝分享虾饭","type":3,"changeable":0,"api":"https://cnb.cool/baoheapi/bhmb/-/git/raw/main/dp/py/AppV2.py","ext":{"api":"http://yjyi.juyongjiu.com:80/icciu_api.php/v1.vod","datasignkey":"6QQNUsP3PkD2ajJCPCY8","apisignkey":"lvdoutv-1.0.0"}},,
     "动画片"
   ]
 }, 
@@ -2365,6 +2342,7 @@
         
         
         
+
 
 
 
