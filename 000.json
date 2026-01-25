@@ -123,6 +123,7 @@
 			"filterable": 0,
 			"timeout": 60
 		},
+	{"key": "端木","name": "💝分享端木","type": 3,"api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/py/端木.py","style": {"type": "rect","ratio": 1.33},"changeable": 1},
 		 {
 			"key": "py_qiwei",
 			"name": "💝分享七味",
@@ -2338,6 +2339,7 @@
         
         
         
+
 
 
 
