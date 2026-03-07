@@ -2047,8 +2047,9 @@
     {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 
 //jar+壁纸
-
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765","wallpaper":"https://sgmao.serv00.net/image/", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
+ "spider": "https://d.kstore.dev/download/4127/Jar/分享者0.zip;md5;f2f74d72c025a19ba4ade4d148d6d419",
+  "wallpaper": "https://sgmao.serv00.net/image/",
+"notice": "一个分享者 提示：软件和接口完全免费，请勿上当购买！",
 
 //电视直播
 
@@ -2399,6 +2400,7 @@
         
         
         
+
 
 
 
