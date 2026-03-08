@@ -87,7 +87,7 @@
 			"changeable": 0,
 			"filterable": 0,
 			"timeout": 60},
-        {
+
 
           {"key":"独播库_async","name":"💝分享独播","type":3,"api":"https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/laozhang/独播库.js","style":{"type":"rect","ratio":1.33},
 "changeable":1},
@@ -318,23 +318,6 @@
   "filterable": 0,
   "changeable": 0
 },
-		  {
-      "key": "西瓜",
-      "name": "💝分享西瓜",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "jar":
-"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-      "ext": {
-        "分类": "电影$20#连续剧$37#动漫$43#综艺$45",
-        "分类url": "https://sszzyy.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "线路标题": "data-toggle=\"tab\">&&</a>"
-      }
-    },
     {
       "key": "猫眼资源采集",
       "name": "💝分享猫眼",
@@ -2200,6 +2183,7 @@
         
         
         
+
 
 
 
