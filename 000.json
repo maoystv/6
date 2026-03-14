@@ -89,7 +89,43 @@
 			"filterable": 0,
 			"timeout": 60},
 
-
+{
+            "key": "csp_XBPQ",
+            "name": "💝分享专线",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "timeout": 12,
+            "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
+            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
+        },
+        {
+            "key": "csp_XBPQ2",
+            "name": "💝分享小豆",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "timeout": 12,
+            "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
+            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.6\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"16\"}"
+        },
+{
+            "key": "秒看",
+            "name": "💝分享秒看",
+            "type": 3,
+            "timeout": 15,
+            "api": "https://13826.kstore.vip/getapp.py",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "host": "https://mk1080.top/get.txt",
+                "指定域名": "1",
+                "数据密钥": "c60d88b2eep53za8",
+                "数据向量": "c60d88b2eep53za8",
+                "接口版本": "/api.php/getappapi",
+                "登录类型": "token",
+                "认证令牌": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
+            }
+        },
           {"key":"独播库_async","name":"💝分享独播","type":3,"api":"https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/laozhang/独播库.js","style":{"type":"rect","ratio":1.33},
 "changeable":1},
        
