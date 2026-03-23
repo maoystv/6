@@ -76,6 +76,31 @@
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 0,   "filterable": 0},
+	{
+      "key": "分享农民",
+      "name": "💝分享农民",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":
+"https://d.kstore.dev/download/4127/Xbpq/xbpq+%283%29.jar",
+      "ext":"https://d.kstore.dev/download/4127/Xbpq/分享农民.json"
+    },
+        {
+            "key": "影探",
+            "name": "💝分享臻彩",
+            "type": 3,
+            "api": "https://tvv.tw/https://raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/TV/yingtan.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "恋鱼影视",
+            "name": "💝分享恋鱼",
+            "type": 4,
+            "api": "https://catbox.n13.club/t9/lianyu.php"
+        },
          {"key": "剧海大全","name": "💝分享剧海","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/剧海大全.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},    
 {"key": "毒舌影视","name": "💝分享毒舌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/毒舌影视.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
         {
