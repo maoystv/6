@@ -1555,7 +1555,16 @@
                 }
             }
         },
-       
+       {
+            "name": "💝分享者解析+",
+            "type": 0,
+            "url": "https://yparse.ik9.cc/index.php?url="
+        },
+        {
+            "name": "💝分享者解析-",
+            "type": 0,
+            "url": "https://jx.2s0.cn/player/?url="
+        },
   {
       "name": "💝分享者解析",
       "type": 0,
