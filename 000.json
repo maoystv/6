@@ -93,6 +93,13 @@
         },
 	{"key":"fxz小猫咪","name":"💖分享猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl": "json:https://api.jxapi.cc/api/?key=87169fe0f2971cedba3d7c9d6718882e&url="
 },
+	{
+            "key": "云播",
+            "name": "💝分享云播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享云.json"
+        },
        {
 			"key": "人人影视",
 			"name": "💝分享人人",
