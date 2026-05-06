@@ -1908,7 +1908,7 @@
 
 //电视直播
 
- "lives":[{"name":"💖分享者直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/TV/live20220813.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+ "lives":[{"name":"💖分享者直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/TV/live20220813.txt"},
           {
             "name": "💝分享者直播+",
             "type": 0,
