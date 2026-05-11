@@ -100,6 +100,16 @@
             "api": "csp_XBPQ",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享云.json"
         },
+{
+            "key": "枫叶",
+            "name": "💝分享枫叶",
+            "type": 4,
+            "api": "https://199525.xyz:1111/video/%E6%9E%AB%E5%8F%B6",
+            "header": {
+                "token": "JT"
+            }
+        },
+	
        {
 			"key": "人人影视",
 			"name": "💝分享人人",
