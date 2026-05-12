@@ -109,6 +109,32 @@
                 "token": "JT"
             }
         },
+{
+            "key": "小鹿视频ᵍᵉᵗ",
+            "name": "💝分享小鹿",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+            "ext": {
+                "host": "https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt",
+                "key": "x5Bep6Q78VCeYnPS",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "首发",
+            "name": "💝分享首发",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+            "ext": {
+                "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
+                "key": "FTgP4Gq8zPiqbt7M",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
 	
        {
 			"key": "人人影视",
