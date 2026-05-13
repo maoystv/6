@@ -198,18 +198,18 @@
             "type": 3,
             "api": "https://gitee.com/s-7/tv/raw/0/JB.py"
         },
-       {
+        {
             "key": "橘子",
             "name": "💝分享橘子",
             "type": 3,
-            "api": "https://gitee.com/s-7/tv/raw/0/Fei.py",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/Fei.py",
             "ext": "https://dmc.yy-fun.cc/feiapp"
         },
         {
             "key": "奇迹",
             "name": "💝分享奇迹",
             "type": 3,
-            "api": "https://gitee.com/s-7/tv/raw/0/AppGet.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/AppGet.js",
             "searchable": 1,
             "changeable": 1,
             "ext": {
@@ -220,24 +220,11 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-        {
-            "key": "爱影",
-            "name": "💝分享爱影",
-            "type": 3,
-            "api": "https://gitee.com/s-7/tv/raw/0/AppGet.js",
-            "ext": {
-                "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt",
-                "key": "nzEqOYYH3QzHuEPl",
-                "init": "V122",
-                "api": 2,
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
+          {
             "key": "爱剧",
             "name": "💝分享爱剧",
             "type": 3,
-            "api": "https://gitee.com/s-7/tv/raw/0/ppx.py",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
             "ext": "http://43.248.117.123:4680"
         },
 
