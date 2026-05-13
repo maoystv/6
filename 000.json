@@ -192,11 +192,11 @@
             "changeable": 1
         },
 
-	 {
+	  {
             "key": "1剧吧",
             "name": "💝分享剧吧",
             "type": 3,
-            "api": "https://gitee.com/s-7/tv/raw/0/JB.py"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/JB.py"
         },
         {
             "key": "橘子",
