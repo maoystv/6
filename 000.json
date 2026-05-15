@@ -109,6 +109,19 @@
                 "token": "JT"
             }
         },
+	{
+            "key": "muxi_night",
+            "name": "💝分享木兮",
+            "type": 4,
+            "api": "https://199525.xyz:1111/video/muxi_night",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "header": {
+                "token": "JT"
+            }
+        },
 {
             "key": "小鹿视频ᵍᵉᵗ",
             "name": "💝分享小鹿",
