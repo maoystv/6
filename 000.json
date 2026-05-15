@@ -101,27 +101,12 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享云.json"
         },
 {
-            "key": "枫叶",
-            "name": "💝分享枫叶",
-            "type": 4,
-            "api": "https://199525.xyz:1111/video/%E6%9E%AB%E5%8F%B6",
-            "header": {
-                "token": "JT"
-            }
-        },
-	{
-            "key": "muxi_night",
-            "name": "💝分享木兮",
-            "type": 4,
-            "api": "https://199525.xyz:1111/video/muxi_night",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "header": {
-                "token": "JT"
-            }
-        },
+            "key": "皮皮",
+            "name": "💝分享皮皮",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/s-7-7/0/refs/heads/0/ppx.py",
+            "ext": "http://154.94.224.98:8762"
+        },        
 {
             "key": "小鹿视频ᵍᵉᵗ",
             "name": "💝分享小鹿",
