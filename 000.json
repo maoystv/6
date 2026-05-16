@@ -106,7 +106,17 @@
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/s-7-7/0/refs/heads/0/ppx.py",
             "ext": "http://154.94.224.98:8762"
-        },        
+        },   
+	 {
+      "key": "枫叶",
+      "name": "💖分享枫叶",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
 {
             "key": "小鹿视频ᵍᵉᵗ",
             "name": "💝分享小鹿",
