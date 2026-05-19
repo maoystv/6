@@ -100,6 +100,12 @@
             "api": "csp_XBPQ",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享云.json"
         },
+	{
+      "key": "天天影院",
+      "name": "💝分享云天",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/天天影视.py"
+    },
 {
             "key": "皮皮",
             "name": "💝分享皮皮",
