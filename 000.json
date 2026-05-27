@@ -149,7 +149,38 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-	
+	{
+      "key": "四叶草",
+      "name": "💝分享幸运",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/sss.txt",
+        "key": "wNCwbXzr0Bm6cS2C",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+{
+      "key": "葫芦",
+      "name": "💝分享葫芦",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "key": "8R33VQSxzmCaHpEX",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+     {
+      "key": "火云",
+      "name": "💝分享火云",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/hy.js"
+    },
        {
 			"key": "人人影视",
 			"name": "💝分享人人",
