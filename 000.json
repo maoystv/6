@@ -181,13 +181,15 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/hy.js"
     },
-{
-      "key": "爱看剧",
-      "name": "💝分享看剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/AppToV5.py",
-      "ext": "http://43.248.117.123:4680"
-    },
+{"key":"spider_2054142162412507137",
+	"name":"💝分享巴卜",
+	"type":4,
+	"api":"http://115.191.55.109:7023/api/tvbox/source/2054142162412507137?token=phcB9KDg6dzm8lNH5uG67q5BXdf0X3dR",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"changeable":0,
+	"playable":1},
     {
       "key": "追剧",
       "name": "💝分享追剧",
