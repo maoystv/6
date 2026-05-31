@@ -382,16 +382,7 @@
             }
         },
 
-	 {
-      "key": "建安解析",
-      "name": "💝分享建安",
-      "type": 1,
-      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playUrl": "json:https://api.jxapi.cc/api/?key=87169fe0f2971cedba3d7c9d6718882e&url="
-    },   
+
 
 {
             "key": "HB海纳",
@@ -529,15 +520,7 @@
       "changeable": 1,
       "playurl": "json:https://www.iqiyizyjx.com/?url="
     },
-            {
-            "key": "分享者在线",
-            "name": "💝分享蓝光",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "http://m51.gotto.top/api.php/v1.vod"
-        }, 
+            
 {
             "key": "久久",
             "name": "💝分享久久",
