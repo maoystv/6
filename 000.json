@@ -80,19 +80,18 @@
                 "ver": 3
             }
         },
-        {
+    {
             "key": "789",
             "name": "💝分享酒吧",
             "type": 1,
             "api": "https://www.caiji.cyou/api.php/provide/vod",
             "searchable": 1,
-            "playUrl": "json:https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url=",
+            "playUrl": "json:https://api.huaqi.pro/api/?key=4fd28a31e1e6d316d32d3b6546768643&url=",
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 0
         },
-	{"key":"fxz小猫咪","name":"💖分享猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl": "json:https://api.jxapi.cc/api/?key=87169fe0f2971cedba3d7c9d6718882e&url="
-},
+        {"api":"http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2060294730700296192?token=baiyetv_box","filterable":0,"key":"spider_2060294730700296192","name":"💝分享茶杯","searchable":1,"type":4},
 	{
             "key": "云播",
             "name": "💝分享云播",
@@ -1560,12 +1559,22 @@
       "type": 2,
       "url": "Sequence"
     },
-
-	{
-            "name": "💝分享者解析0",
+{
+            "name": "💝分享者解析®",
             "type": 1,
-            "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+            "url": "https://json.cfysoft.cc/api/?key=6af47759daf81f86dc123f0f519bf73d&url="
         },
+        {
+            "name": "💝分享者解析©",
+            "type": 1,
+            "url": "https://json.xmi6.com/api/?key=2CkQXrfnaanrht0gCQ&url="
+        },
+        {
+            "name": "💝分享者解析①",
+            "type": 1,
+            "url": "https://api.huaqi.pro/api/?key=4fd28a31e1e6d316d32d3b6546768643&url="
+        },
+
 	{
             "name": "💝分享者解析-",
             "type": 0,
