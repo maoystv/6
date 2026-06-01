@@ -86,7 +86,7 @@
             "type": 1,
             "api": "https://www.caiji.cyou/api.php/provide/vod",
             "searchable": 1,
-            "playUrl": "json:https://api.huaqi.pro/api/?key=4fd28a31e1e6d316d32d3b6546768643&url=",
+            "playUrl": "json:https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url=",
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -99,12 +99,6 @@
             "type": 3,
             "api": "https://mpimg.cn/down.php/9a74bfc73bb24b1582d75d4fc1af6bee.py",
             "ext": "http://v.2video.cc"
-        },
-        {
-            "api": "https://newtv.ggff.net/jubaba?token=fhJadO1R",
-            "key": "呜剧",
-            "name": "💝分享嗷呜",
-            "type": 4
         },
         {
             "key": "GIMI",
@@ -1566,16 +1560,22 @@
             "type": 1,
             "url": "https://json.cfysoft.cc/api/?key=6af47759daf81f86dc123f0f519bf73d&url="
         },
-        {
-            "name": "💝分享者解析©",
-            "type": 1,
-            "url": "https://json.xmi6.com/api/?key=2CkQXrfnaanrht0gCQ&url="
-        },
-        {
+     {
             "name": "💝分享者解析①",
             "type": 1,
-            "url": "https://api.huaqi.pro/api/?key=4fd28a31e1e6d316d32d3b6546768643&url="
+            "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
         },
+{
+            "name": "💝分享者解析©",
+            "type": 1,
+            "url": "http://nsys.hundong.xyz/api/?key=EdG87gW0IDYarx9ry5&url="
+        },
+        {
+            "name": "💝分享者解析⊕",
+            "type": 1,
+            "url": "https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url="
+        },
+       
 
 	{
             "name": "💝分享者解析-",
