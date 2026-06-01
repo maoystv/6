@@ -92,6 +92,30 @@
             "filterable": 0
         },
         {"api":"http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2060294730700296192?token=baiyetv_box","filterable":0,"key":"spider_2060294730700296192","name":"💝分享茶杯","searchable":1,"type":4},
+	
+	{
+            "key": "测试v4",
+            "name": "💝分享威士",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/9a74bfc73bb24b1582d75d4fc1af6bee.py",
+            "ext": "http://v.2video.cc"
+        },
+        {
+            "api": "https://newtv.ggff.net/jubaba?token=fhJadO1R",
+            "key": "呜剧",
+            "name": "💝分享嗷呜",
+            "type": 4
+        },
+        {
+            "key": "GIMI",
+            "name": "💝分享劇迷",
+            "type": 3,
+            "api": "https://pan.szfx.top/down.php/a0aba0b564b9d8115d18e78395f3091b.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
 	{
             "key": "云播",
             "name": "💝分享云播",
@@ -814,12 +838,7 @@
             "changeable": 1
         },
 
-            {
-         "key":"嗷呜金牌影院",
-         "name":"💝分享嗷呜",
-         "type":3,
-         "api":"https://tvbot.dpdns.org/py_jinpai.py"
-      },
+    
 {
       "key": "荐片采集",
       "name": "💝分享荐片",
