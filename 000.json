@@ -91,7 +91,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {"api":"http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2060294730700296192?token=baiyetv_box","filterable":0,"key":"spider_2060294730700296192","name":"💝分享茶杯","searchable":1,"type":4},
+
 	
 	{
             "key": "测试v4",
@@ -1564,6 +1564,15 @@
             "name": "💝分享者解析①",
             "type": 1,
             "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
+        },
+	{
+            "name": "💝分享者解析②",
+            "type": 1,
+            "url": "https://player.gimy.bot/u/parse.php?url="},
+{
+            "name": "💝分享者解析③",
+            "type": 1,
+            "url": "http://106.12.58.21:5657/Vqq5656.php/?url="
         },
 {
             "name": "💝分享者解析©",
