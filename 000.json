@@ -67,30 +67,7 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
             "searchable": 1,
             "changeable": 0,
-            "quickSearch": 0,   "filterable": 0},  
-
-	{
-            "key": "快映",
-            "name": "💝分享快映",
-            "type": 3,
-            "changeable": 0,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/快映.js",
-            "ext": {
-                "host": "https://www.baidukuaiy.top",
-                "ver": 3
-            }
-        },
-    {
-            "key": "789",
-            "name": "💝分享酒吧",
-            "type": 1,
-            "api": "https://www.caiji.cyou/api.php/provide/vod",
-            "searchable": 1,
-            "playUrl": "json:https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url=",
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+            "quickSearch": 0,   "filterable": 0}, 
 
 	
         {
@@ -212,6 +189,16 @@
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
             "ext": "http://43.248.117.123:4680"
+        },
+	{
+            "key": "gimyai_note",
+            "name": "💝分享Gimy",
+            "logo": "https://gimyai.tw/images/ogimage.png",
+            "type": 4,
+            "api": "http://189.1.224.165:4676/proxy.php?code=duanwu&target=1e174175874826938529",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },
 	{
       "key": "雄鹰",
