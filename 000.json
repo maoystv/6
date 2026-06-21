@@ -134,6 +134,19 @@
                 "ua": "okhttp/3.10.0"
             }
         },
+	 {
+            "key": "爱影",
+            "name": "💝分享爱影",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+            "ext": {
+                "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/lib/q23.txt",
+                "key": "nzEqOgYk3QzHuEP8",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
 	{
       "key": "四叶草",
       "name": "💝分享幸运",
