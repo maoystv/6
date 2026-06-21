@@ -93,13 +93,6 @@
         },
 
 	
-	{
-            "key": "测试v4",
-            "name": "💝分享威士",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/9a74bfc73bb24b1582d75d4fc1af6bee.py",
-            "ext": "http://v.2video.cc"
-        },
         {
             "key": "GIMI",
             "name": "💝分享劇迷",
@@ -110,26 +103,14 @@
             "changeable": 1,
             "filterable": 1
         },
-	{
-            "key": "云播",
-            "name": "💝分享云播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享云.json"
-        },
+	
 	{
       "key": "天天影院",
       "name": "💝分享云天",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/天天影视.py"
     },
-{
-            "key": "皮皮",
-            "name": "💝分享皮皮",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/s-7-7/0/refs/heads/0/ppx.py",
-            "ext": "http://154.94.224.98:8762"
-        },   
+ 
 	 {
       "key": "枫叶",
       "name": "💖分享枫叶",
@@ -140,26 +121,13 @@
       "quickSearch": 0,
       "filterable": 0
     },
-{
-            "key": "小鹿视频ᵍᵉᵗ",
-            "name": "💝分享小鹿",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-            "ext": {
-                "host": "https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt",
-                "key": "x5Bep6Q78VCeYnPS",
-                "init": "V122",
-                "api": 2,
-                "ua": "okhttp/3.10.0"
-            }
-        },
         {
             "key": "首发",
             "name": "💝分享首发",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
             "ext": {
-                "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
+                "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/601.txt",
                 "key": "FTgP4Gq8zPiqbt7M",
                 "init": "V122",
                 "api": 2,
@@ -179,6 +147,38 @@
         "ua": "okhttp/3.10.0"
       }
     },
+	 {
+            "key": "布布",
+            "name": "💝分享布布",
+            "type": 3,
+            "api": "https://pan.szfx.top/down.php/ca1d0aee761c0cf8d47d1fddcddb9a30.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "JD",
+            "name": "💝分享起点",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/99ed736540ae820ae00d67669d22dc90.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://qp.69mini.com/api.php/app/"
+        },
+        {
+            "key": "miaokan_4k",
+            "name": "💝分享秒看",
+            "type": 4,
+            "api": "http://189.1.224.165:4676/proxy.php?code=duanwu&target=063f7be8a0f990abe1de",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
 {
       "key": "葫芦",
       "name": "💝分享葫芦",
@@ -220,16 +220,7 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/hy.js"
     },
-    {
-      "key": "追剧",
-      "name": "💝分享追剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/追剧.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
+
 	
        {
 			"key": "人人影视",
@@ -252,54 +243,6 @@
 			"changeable": 0,
 			"filterable": 0,
 			"timeout": 60},
-
-	 {
-            "key": "奇奇1",
-            "name": "💝分享奇奇",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/奇奇.js",
-            "searchable": 1,
-            "ext": {
-                "host": "http://110.42.67.221:8003/",
-                "key": "123456789abcdefg",
-                "init": "V122",
-                "api": 2,
-                "ua": "okhttp/3.10.0"
-            },
-            "categories": [
-                "电视剧",
-                "综艺",
-                "短剧",
-                "动漫",
-                "少儿",
-                "学习"
-            ]
-        },
-         {
-            "key": "布布",
-            "name": "💝分享布布",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/布布.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
-
-	  {
-            "key": "1剧吧",
-            "name": "💝分享剧吧",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/JB.py"
-        },
-        {
-            "key": "橘子",
-            "name": "💝分享橘子",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/Fei.py",
-            "ext": "https://dmc.yy-fun.cc/feiapp"
-        },
         {
             "key": "奇迹",
             "name": "💝分享奇迹",
@@ -337,32 +280,7 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-        {
-            "key": "suisui-岁-至臻清风-7",
-            "name": "💝分享清风",
-            "type": 4,
-            "api": "http://sspa8.top:8100/php/清风.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "一次性-奇点影视",
-            "name": "💝分享起点",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "手机",
-                "简介": "剧情介绍:+讲述的是：&&",
-                "多线数组": "solid transparent;\"&&</a>",
-                "多线链接": "href=\"&&\"",
-                "线路数组": "solid transparent;\"&&</a>",
-                "线路标题": ">&&<",
-                "分类url": 
-                "https://qidianyingshi.net/top/{cateId}-{area}-time-{class}-----{catePg}---{year}.html",
-                "分类": "短剧$6#电视剧$2#电影$1#动漫$4#综艺$3"
-            }
-        },
+        
 {
             "key": "drpyS_集百动漫[漫]",
             "name": "💝分享集百",
@@ -376,20 +294,7 @@
             "类型": "影视",
             "lang": "ds",
             "ext": ""
-        },
-{
-            "key": "咕噜画",
-            "name": "💝分享咕噜",
-            "type": 3,
-            "changeable": 0,
-            "api": "https://17264.kstore.space/Appfox.min.js",
-            "ext": {
-                "host": "http://www.yingsw.top",
-                "timeout": 8,
-                "key": "guluyinghua_123",
-                "sign": "679543610991810f19698c187e5e106e"
-            }
-        },
+},
 
 
 
@@ -671,18 +576,6 @@
 },
   
         {"key": "永乐","name": "💝分享永乐","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/永乐视频.py","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""},
-{"key": "热播2","name": "💝分享热热","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	
-          
-  {
-			"key": "tt",
-			"name": "💝分享自用",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://150.158.112.123/jar/tx.js"
-    },
  {"key": "hohaiemby","name": "💝分享EMBY","type": 3,"api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/js/Emby.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key": "Emby小雅","name": "💝分享动漫","type": 3,"api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/js/Emby小雅.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key": "js集合","name": "💝分享js集","type": 4,"api": "http://zhangqun1818.serv00.net/js.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"changeable": 1},
