@@ -266,7 +266,34 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-    
+	{
+            "key": "皮皮虾",
+            "name": "💝分享皮皮",
+            "type": 3,
+            "api": "https://pan.szfx.top/down.php/540e0c721a30390c4f5d2d77b8286905.py",
+            "ext": "http://43.248.117.123:4680"
+        },
+        {"key":"fxz小猫咪","name":"💖分享猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl": "json:https://player.gimy.bot/u/parse.php?url="
+},
+      {
+            "key": "Acfun",
+            "name": "💖分享Acfun",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py"
+        },
+        {
+            "key": "咕噜画",
+            "name": "💝分享咕噜",
+            "type": 3,
+            "changeable": 0,
+            "api": "https://fastlink.cokey.xyz/f/oPJvI9/Appfox.min.js",
+            "ext": {
+                "host": "http://www.yingsw.top",
+                "timeout": 8,
+                "key": "guluyinghua_123",
+                "sign": "679543610991810f19698c187e5e106e"
+            }
+        },
 
 	{
             "key": "猫头鹰",
@@ -282,21 +309,6 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-        
-{
-            "key": "drpyS_集百动漫[漫]",
-            "name": "💝分享集百",
-            "type": 4,
-            "api": "http://115.191.55.109:9097/api/集百动漫[漫]?pwd=50721480be241243",
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 0,
-            "title": "集百动漫[漫]",
-            "author": "EylinSir",
-            "类型": "影视",
-            "lang": "ds",
-            "ext": ""
-},
 
 
 
