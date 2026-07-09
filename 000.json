@@ -160,15 +160,15 @@
             "ext": "https://qp.69mini.com/api.php/app/"
         },
         {
-            "key": "miaokan_4k",
-            "name": "💝分享秒看",
-            "type": 4,
-            "api": "http://189.1.224.165:4676/proxy.php?code=duanwu&target=063f7be8a0f990abe1de",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
+      "key": "csp_歪比",
+      "name": "💖分享巴卜",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/歪比.py",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
 {
       "key": "葫芦",
       "name": "💝分享葫芦",
