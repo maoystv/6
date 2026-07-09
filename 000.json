@@ -229,18 +229,26 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/hy.js"
     },
 
-	
-       {
-			"key": "人人影视",
-			"name": "💝分享人人",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享双人.js"
-		},
+ {
+      "key": "csp_七猫",
+      "name": "💖分享七猫",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/七猫.py",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+      {
+      "key": "csp_麻花",
+      "name": "💖分享麻花",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/麻花.py",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
         {
 			"key": "py_guazi",
 			"name": "💖分享瓜子",
