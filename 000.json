@@ -98,19 +98,33 @@
       "quickSearch": 0,
       "filterable": 0
     },
-        {
-            "key": "首发",
-            "name": "💝分享首发",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-            "ext": {
-                "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/601.txt",
-                "key": "FTgP4Gq8zPiqbt7M",
-                "init": "V122",
-                "api": 2,
-                "ua": "okhttp/3.10.0"
-            }
-        },
+
+	{
+      "key": "首发",
+      "name": "💝分享首发",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt",
+        "key": "FTgP4Gq8zPiqbt7M",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+{
+      "key": "四叶草",
+      "name": "💝分享幸运",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/kkk.txt",
+        "key": "8eeObuwrmS3lRDEs",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
 	 {
             "key": "爱影",
             "name": "💝分享爱影",
@@ -124,20 +138,8 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-	{
-      "key": "四叶草",
-      "name": "💝分享幸运",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
-      "ext": {
-        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/sss.txt",
-        "key": "wNCwbXzr0Bm6cS2C",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-	 {
+	
+  	 {
             "key": "布布",
             "name": "💝分享布布",
             "type": 3,
@@ -191,17 +193,7 @@
             "ext": "http://43.248.117.123:4680"
         },
 	{
-            "key": "gimyai_note",
-            "name": "💝分享Gimy",
-            "logo": "https://gimyai.tw/images/ogimage.png",
-            "type": 4,
-            "api": "http://189.1.224.165:4676/proxy.php?code=duanwu&target=1e174175874826938529",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-	{
-      "key": "雄鹰",
+       "key": "雄鹰",
       "name": "💝分享雄鹰",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
