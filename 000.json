@@ -192,6 +192,19 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
             "ext": "http://43.248.117.123:4680"
         },
+	 {
+      "key": "秒看",
+      "name": "💝分享秒看",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "playerType": 2,
+      "ext": {
+        "host": "https://mk1080.top/",
+        "key": "c60d88b2eep53za8",
+        "Iv": "c60d88b2eep53za8",
+        "token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c"
+        }
+    },
 	{
        "key": "雄鹰",
       "name": "💝分享雄鹰",
