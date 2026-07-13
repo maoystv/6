@@ -205,6 +205,45 @@
         "token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c"
         }
     },
+	 {
+      "key": "py_酷我",
+      "name": "💖分享酷我",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/酷我音乐.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+
+        {
+            "key": "高清",
+            "name": "💝分享高清",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt",
+                "key": "FTgP4Gq8zPiqbt7M",
+                 "init": "V122",
+                 "api": 2,
+                 "ua": "okhttp/3.10.0"
+            }
+        },
+{
+            "key": "魔方",
+            "name": "💝分享魔方",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "https://www.douy32mf.top",
+                "key": "1234567887654321",
+                 "Iv": "1234567887654321"
+            }
+        },
 	{
        "key": "雄鹰",
       "name": "💝分享雄鹰",
