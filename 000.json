@@ -6,6 +6,7 @@
       "name": "💖分享本地",
       "type": 3,
       "api": "csp_Local",
+	  "jar":"http://rihou.cc:88/jar/vox.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
