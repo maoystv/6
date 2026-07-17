@@ -20,7 +20,7 @@
             "filterable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享douban.js"
         },
-        {"key":"csp_Config","name":"💝分享配置","type":3,"api":"csp_Config","jar":"https://bitbucket.org/guot55/bhkj/raw/main/pro/jar/vox.jar","searchable":0,"changeable":0},
+        {"key":"csp_Config","name":"💝分享配置","type":3,"api":"csp_Config","jar":"http://rihou.cc:88/jar/vox.jar","searchable":0,"changeable":0},
         
 	  {"key": "央视片库","name": "🇨🇳分享央视","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享央视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
      {"key": "央视综艺","name": "🇨🇳分享综艺","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/央视综艺.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
@@ -1459,8 +1459,8 @@
             "name": "💝分享推送",
             "type": 3,
             "api": "csp_Push",
-            "jar":"https://bitbucket.org/guot55/bhkj/raw/main/pro/jar/vox.jar",
-            "searchable": 0,
+            "jar":"http://rihou.cc:88/jar/vox.jar",
+	        "searchable": 0,
             "filterable": 0,
             "changeable": 0
         }],
