@@ -412,14 +412,7 @@
 			"playerType": 2,
 			"filterable": 1
 		},
- 
           {
-            "key": "益达影院",
-            "name": "💝分享益达",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享益达.js"
-        },
-           {
             "key": "cat_夸克影院",
             "name": "💝分享夸克",
             "type": 3,
@@ -451,7 +444,7 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享星辰.js"
         },
 	
-           {"key": "剧海大全","name": "💝分享剧海","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/剧海大全.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},    
+         
 {"key": "毒舌影视","name": "💝分享毒舌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/毒舌影视.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
         
         {
