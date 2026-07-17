@@ -86,13 +86,7 @@
             "changeable": 1,
             "filterable": 1
         },
-	
-	{
-      "key": "天天影院",
-      "name": "💝分享云天",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/天天影视.py"
-    },
+
  
 	 {
       "key": "枫叶",
@@ -366,31 +360,6 @@
                 "api": 2,
                 "ua": "okhttp/3.10.0"
             }
-        },
-
-
-
-{
-            "key": "HB海纳",
-            "name": "💝分享海纳",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "",
-            "ext": "http://103.45.162.207:25252/仅供测试/lib/海纳影视.json"
-        },
-        {
-            "key": "MO尘-drpyS_飞牛影视",
-            "name": "💝分享一起",
-            "type": 4,
-            "api": "http://115.191.55.109:9097/api/飞牛影视?pwd=50721480be241243",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "title": "飞牛影视",
-            "author": "EylinSir",
-            "类型": "影视",
-            "lang": "ds",
-            "ext": ""
         },
 	{
       "key": "py_jieyingshi",
