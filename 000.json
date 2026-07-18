@@ -538,39 +538,7 @@
             "changeable": 0,
             "quickSearch": 0,
             "filterable": 0},
- {
-            "key": "py_qiwei",
-            "name": "💝分享七味",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/py/七味.py",
-            "searchable": 1,
-            "changeable": 0,
-            "quickSearch": 0,
-            "filterable": 0},
-          
-          {
-			"key": "py_xiongdi",
-			"name": "💝分享兄弟",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/py/兄弟影视.py",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"filterable": 0,
-			"timeout": 60
-		},
-          {"key": "端木","name": "💝分享端木","type": 3,"api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/py/端木.py","style": {"type": "rect","ratio": 1.33},"changeable": 1},
-          {
-			"key": "py_aiyifan",
-			"name": "💝分享一帆",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/爱一帆.py",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"filterable": 0,
-			"timeout": 60
-		},
+ 
          {"key": "js_en_gf","name": "💝分享官方","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/en_gf.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},  
           
           {"key":"聚合短剧_async","name":"💝分享短剧","type":3,"api":"https://gh-proxy.org/https:/raw.githubusercontent.com/cluntop/cluntop.github.io/main/js/聚合短剧.js","style":{"type":"rect","ratio":1.33},
