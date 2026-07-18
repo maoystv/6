@@ -76,17 +76,46 @@
       "api": "http://qp.69mini.com/api.php/provide/vod/",
       "playUrl": "json:http://103.236.72.166:188/api/?key=veniDOaEzSzIThZsyb&url="
     },
-	
-        {
-            "key": "GIMI",
-            "name": "💝分享劇迷",
-            "type": 3,
-            "api": "https://pan.szfx.top/down.php/a0aba0b564b9d8115d18e78395f3091b.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
-        },
+	 {
+      "key": "y",
+      "name": "💝分享映川",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "https://ys.xiaos12.cn",
+        "key": "chfgjfrhhf628vw1",
+        "Iv": "chfgjfrhhf628vw1"
+      }
+    },
+    {
+      "key": "星河",
+      "name": "💝分享星河",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
+        "key": "kj37zs29q22jk96t",
+        "init": "V122",
+        "api":2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+{"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666","filterable":0,"key":"2070335664787820544","name":"💝分享热播","searchable":1,"type":4},
+{
+      "key": "4K电影网",
+      "name": "💝分享电影",
+      "type": 3,
+      "api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
 
  
 	 {
@@ -108,19 +137,6 @@
       "ext": {
         "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt",
         "key": "FTgP4Gq8zPiqbt7M",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-{
-      "key": "四叶草",
-      "name": "💝分享幸运",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
-      "ext": {
-        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/kkk.txt",
-        "key": "8eeObuwrmS3lRDEs",
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
