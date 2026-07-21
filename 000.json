@@ -78,17 +78,13 @@
     },
 	
  {
-      "key": "y",
-      "name": "💝分享映川",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "key": "悦",
+      "name": "💝分享神马",
+      "api": "http://8.148.229.212:802/问鼎4k/lib/神马影院.js",
       "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "host": "https://ys.xiaos12.cn",
-        "key": "chfgjfrhhf628vw1",
-        "Iv": "chfgjfrhhf628vw1"
-      }
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
     },
     {
       "key": "星河",
@@ -233,22 +229,6 @@
       "filterable": 0,
       "changeable": 0
     },
-
-        {
-            "key": "高清",
-            "name": "💝分享高清",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt",
-                "key": "FTgP4Gq8zPiqbt7M",
-                 "init": "V122",
-                 "api": 2,
-                 "ua": "okhttp/3.10.0"
-            }
-        },
 {
             "key": "魔方",
             "name": "💝分享魔方",
