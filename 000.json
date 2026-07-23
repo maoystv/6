@@ -242,6 +242,26 @@
                  "Iv": "1234567887654321"
             }
         },
+{
+            "key": "火锅",
+            "name": "💝分享山海",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+            "ext": {
+                "host": "https://ios.hgyx.vip",
+                "key": "062dec75d039980e",
+                "Iv": "062dec75d039980e",
+                "ua": "Dart/3.5 (dart:io)"
+            }
+        },
+         {
+      "key": "CO4K",
+      "name": "💝分享咖啡",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list"
+    },
+	
 	{
        "key": "雄鹰",
       "name": "💝分享雄鹰",
