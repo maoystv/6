@@ -220,6 +220,39 @@
         }
     },
 	 {
+      "key": "茶杯狐PY",
+      "name": "💝分享茶杯",
+      "type": 3,
+      "api": "https://dogpan.com/f/wjgxUy/茶杯狐影视.py",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+        {
+            "key": "奈飞4K",
+            "name": "💝分享奈飞",
+            "type": 1,
+            "api": "https://api.wsyzy.net/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "4K电影",
+                "Netflix电影",
+                "Netflix自制剧"
+            ]
+        },
+        {
+            "key": "爬虫影视",
+            "name": "💝分享爬虫",
+            "type": 1,
+            "api": "https://dy.7772888.xyz/api.php/tvbox",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	 {
       "key": "py_酷我",
       "name": "💖分享酷我",
       "type": 3,
