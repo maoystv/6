@@ -78,15 +78,6 @@
     },
 	
  {
-      "key": "悦",
-      "name": "💝分享神马",
-      "api": "http://8.148.229.212:802/问鼎4k/lib/神马影院.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
-    {
       "key": "星河",
       "name": "💝分享星河",
       "type": 3,
@@ -125,34 +116,33 @@
       "filterable": 0
     },
 
-	{
+{
       "key": "首发",
       "name": "💝分享首发",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
       "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt",
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
         "key": "FTgP4Gq8zPiqbt7M",
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
       }
     },
-
-	 {
+    {
             "key": "爱影",
             "name": "💝分享爱影",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
             "ext": {
-                "host": "http://222.211.75.252:26168",
-                "key": "nzEqOgYk3QzHuEP8",
+                "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt",
+                "key": "0UKM8jkasM8tdzgW",
                 "init": "V122",
                 "api": 2,
                 "ua": "okhttp/3.10.0"
             }
         },
-	
+
   	 {
             "key": "布布",
             "name": "💝分享布布",
