@@ -92,6 +92,18 @@
         "ua": "okhttp/3.10.0"
       }
     },
+
+	{
+      "key": "咕噜咕噜",
+      "name": "💝分享咕噜",
+      "type": 4,
+      "api": "http://bu.970088.xyz/video/咕噜99?platform=ysc&token=688988",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": ""
+    },
 {"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666","filterable":0,"key":"2070335664787820544","name":"💝分享热播","searchable":1,"type":4},
 {
       "key": "4K电影网",
