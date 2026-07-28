@@ -110,27 +110,7 @@
       "type": 4,
       "api": "http://bu.970088.xyz/video/映视界?platform=ysc&token=688988"
     },
-{
-    "key": "枫叶影院",
-    "name": "💝分享枫叶",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/枫叶影院.py",
-    "ext": {
-        "publish_url": "https://www.vip1949.com/",
-        "default_sites": [
-            "https://www.cd-zj.com",
-            "https://maihaolian.com",
-            "https://zzztool.com"
-        ],
-        "host": "https://www.cd-zj.com",
-        "cookie": "verify_success=1; your_cookie_here",
-        "fyck": "",
-        "debug": false,
-        "parse_map": {
-            "YYNB": "https://zzrs.mfdyvip.com",
-            "JD4K": "https://fgsrg.hzqingshan.com"
-        }
-    },
+
  
     {
             "key": "爱影",
