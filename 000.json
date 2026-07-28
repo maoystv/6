@@ -104,19 +104,35 @@
       "filterable": 1,
       "playerType": 2
     },
+	{
+      "key": "映视界",
+      "name": "💝分享视界",
+      "type": 4,
+      "api": "http://bu.970088.xyz/video/映视界?platform=ysc&token=688988"
+    },
+{
+    "key": "枫叶影院",
+    "name": "💝分享枫叶",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/枫叶影院.py",
+    "ext": {
+        "publish_url": "https://www.vip1949.com/",
+        "default_sites": [
+            "https://www.cd-zj.com",
+            "https://maihaolian.com",
+            "https://zzztool.com"
+        ],
+        "host": "https://www.cd-zj.com",
+        "cookie": "verify_success=1; your_cookie_here",
+        "fyck": "",
+        "debug": false,
+        "parse_map": {
+            "YYNB": "https://zzrs.mfdyvip.com",
+            "JD4K": "https://fgsrg.hzqingshan.com"
+        }
+    },
  
 	 {
-      "key": "枫叶",
-      "name": "💖分享枫叶",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-
-{
       "key": "首发",
       "name": "💝分享首发",
       "type": 3,
@@ -252,19 +268,7 @@
       "filterable": 0,
       "changeable": 0
     },
-{
-            "key": "魔方",
-            "name": "💝分享魔方",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "host": "https://www.douy32mf.top",
-                "key": "1234567887654321",
-                 "Iv": "1234567887654321"
-            }
-        },
+
 {
             "key": "火锅",
             "name": "💝分享山海",
