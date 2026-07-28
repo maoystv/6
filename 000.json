@@ -178,6 +178,22 @@
         "ua": "okhttp/3.10.0"
       }
     },
+
+	  {
+      "key": "映视界",
+      "name": "💝分享视界",
+      "type": 4,
+      "api": "http://bu.970088.xyz/video/映视界?platform=ysc&token=688988"
+    },
+    {
+    "key": "枫叶,影院",
+    "name": "💝分享枫叶",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/枫叶影院.py",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1
+},
 	 {"key":"官采","name":"💝分享官源","type":1,"api":"https://cj.jusj.top/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
           {
             "key": "爱剧",
