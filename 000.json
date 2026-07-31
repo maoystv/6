@@ -76,7 +76,16 @@
       "api": "http://qp.69mini.com/api.php/provide/vod/",
       "playUrl": "json:http://103.236.72.166:188/api/?key=veniDOaEzSzIThZsyb&url="
     },
-	
+
+	{
+            "key": "速搜",
+            "name": "速搜",
+            "type": 3,
+            "api": "https://meow.668yun.top/c/psH0LdZklYEg/速搜.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
  {
       "key": "星河",
       "name": "💝分享星河",
