@@ -78,6 +78,17 @@
     },
 
 	{
+      "key": "针不错",
+      "name": "💝分享不错",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://appcmszbc.zbc4k.app",
+        "key": "pYrEkiWRYhBLTUTC",
+        "Iv": "pYrEkiWRYhBLTUTC"
+      }
+    },
+	{
             "key": "速搜",
             "name": "💝分享速搜",
             "type": 3,
