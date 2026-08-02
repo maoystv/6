@@ -95,6 +95,12 @@
       "api": "http://bu.970088.xyz/video/剧_sm_buye?platform=ysc&token=688988"
     },
 	{
+      "key": "皮皮虾",
+      "name": "💝分享虾皮",
+      "type": 4,
+      "api": "http://bu.970088.xyz/video/皮皮虾?platform=ysc&token=688988"
+    },
+	{
             "key": "速搜",
             "name": "💝分享速搜",
             "type": 3,
