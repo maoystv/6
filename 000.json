@@ -94,6 +94,22 @@
       "type": 4,
       "api": "http://bu.970088.xyz/video/剧_sm_buye?platform=ysc&token=688988"
     },
+
+	 {
+      "key": "wp",
+      "name": "💝分享网盘",
+      "type": 4,
+      "api": "http://bu.970088.xyz/video/star2?platform=ysc&token=688988"
+    },
+    {
+      "key": "xcm",
+      "name": "💝分享熊大",
+      "type": 4,
+      "api": "http://sy.xuntuyun.cn:20394/zy.php/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	{
       "key": "皮皮虾",
       "name": "💝分享虾皮",
