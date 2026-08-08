@@ -110,12 +110,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
-      "key": "皮皮虾",
-      "name": "💝分享虾皮",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/皮皮虾?platform=ysc&token=688988"
-    },
+	  {
+            "key": "分享者yt",
+            "name": "💝分享影探",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/d54607dcfda8be03a4ee7d7e5ccec542.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 	{
       "key": "咕噜咕噜",
       "name": "💝分享咕噜",
@@ -275,30 +278,6 @@
         "token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c"
         }
     },
-	 {
-      "key": "茶杯狐PY",
-      "name": "💝分享茶杯",
-      "type": 3,
-      "api": "https://dogpan.com/f/wjgxUy/茶杯狐影视.py",
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-        {
-            "key": "奈飞4K",
-            "name": "💝分享奈飞",
-            "type": 1,
-            "api": "https://api.wsyzy.net/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "4K电影",
-                "Netflix电影",
-                "Netflix自制剧"
-            ]
-        },
         {
             "key": "爬虫影视",
             "name": "💝分享爬虫",
