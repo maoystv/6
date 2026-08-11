@@ -69,15 +69,8 @@
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 0,   "filterable": 0}, 
-{
-      "key": "迷你",
-      "name": "💝分享迷你",
-      "type": 1,
-      "api": "http://qp.69mini.com/api.php/provide/vod/",
-      "playUrl": "json:http://103.236.72.166:188/api/?key=veniDOaEzSzIThZsyb&url="
-    },
 
-	{
+{
       "key": "针不错",
       "name": "💝分享不戳",
       "type": 3,
@@ -89,28 +82,20 @@
       }
     },
 	{
-      "key": "剧迷",
-      "name": "💝分享剧迷",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/剧_sm_buye?platform=ysc&token=688988"
-    },
-
-	 {
-      "key": "wp",
+      "key": "腾爱优b站.js",
+      "name": "💝分享AYTM",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/腾爱优b站.js",
+      "changeable": 0
+    }, 
+    {
+      "key": "网盘",
       "name": "💝分享网盘",
       "type": 4,
-      "api": "http://bu.970088.xyz/video/star2?platform=ysc&token=688988"
+      "api": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"
     },
-    {
-      "key": "xcm",
-      "name": "💝分享熊大",
-      "type": 4,
-      "api": "http://sy.xuntuyun.cn:20394/zy.php/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	  {
+
+	   {
             "key": "分享者yt",
             "name": "💝分享影探",
             "type": 3,
@@ -208,18 +193,7 @@
             "changeable": 1
         },
         {
-            "key": "JD",
-            "name": "💝分享起点",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/99ed736540ae820ae00d67669d22dc90.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://qp.69mini.com/api.php/app/"
-        },
-        {
-      "key": "csp_歪比",
+    ."key": "csp_歪比",
       "name": "💖分享巴卜",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/歪比.py",
@@ -239,15 +213,8 @@
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
-      }
-    },
-
-	  {
-      "key": "映视界",
-      "name": "💝分享视界",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/映视界?platform=ysc&token=688988"
-    },
+      },
+ 
     {
     "key": "枫叶,影院",
     "name": "💝分享枫叶",
