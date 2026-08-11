@@ -166,7 +166,17 @@
         "ua": "okhttp/3.10.0"
       }
     },
- 
+
+	 {
+      "key": "csp_歪比",
+      "name": "💖分享巴卜",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/歪比.py",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
             "key": "爱影",
             "name": "💝分享爱影",
@@ -192,17 +202,9 @@
             },
             "changeable": 1
         },
+
+	
         {
-    ."key": "csp_歪比",
-      "name": "💖分享巴卜",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/歪比.py",
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-{
       "key": "葫芦",
       "name": "💝分享葫芦",
       "type": 3,
