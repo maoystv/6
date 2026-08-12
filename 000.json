@@ -1489,7 +1489,16 @@
       "url": "Sequence"
     },
 
-	
+	{
+      "name": "💝分享者解析❶",
+      "type": 1,
+      "url": "http://1.94.244.214:8889/geturl?url="
+    },
+    {
+      "name": "💝分享者解析❷",
+      "type": 0,
+      "url": "http://jx.abplayer.top/?u{}rl="
+    },
 {
       "name": "💝分享者解析⊗",
       "type": 1,
@@ -1607,53 +1616,6 @@
                     "User-Agent": "okhttp/4.9.1"
                 }
             }
-        },
-        {
-            "name": "💖分享者解析2",
-            "type": 1,
-            "url": "http://mg.itufm.top/mg.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905",
-                    "QD4K",
-                    "iyf",
-                    "duanju",
-                    "gzcj",
-                    "GTV",
-                    "GZYS",
-                    "weggz",
-                    "Ace"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-   {
-            "name": "💖分享者解析3",
-            "type": 1,
-            "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="
-        },
-        {
-            "name": "💖分享者解析4",
-            "type": 1,
-            "url": "http://1.94.221.189:88/algorithm.php?url="
         },
   
   {
