@@ -70,6 +70,21 @@
             "changeable": 0,
             "quickSearch": 0,   "filterable": 0}, 
 
+	{
+      "key": "星河",
+      "name": "💝分享星河",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
+        "key": "kj37zs29q22jk96t",
+        "init": "V122",
+        "api":2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
 {
       "key": "针不错",
       "name": "💝分享不戳",
@@ -104,9 +119,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	{"key": "怀桑","name": "💝分享奇迹","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js","searchable": 1,"changeable": 1,"ext": {"host": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt","key": "kj37zs29q22jk96t","Iv": "kj37zs29q22jk96t","init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"}},
 
 	 {"key": "TVB云播","name": "💝分享云播","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1},
 	{
@@ -118,21 +130,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
- {
-      "key": "星河",
-      "name": "💝分享星河",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "host": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-        "key": "kj37zs29q22jk96t",
-        "init": "V122",
-        "api":2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
 
 {"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666","filterable":0,"key":"2070335664787820544","name":"💝分享热播","searchable":1,"type":4},
 {
