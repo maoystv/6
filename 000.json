@@ -120,7 +120,7 @@
             "filterable": 1
         },
 
-{"key": "TVB云播","name": "💝分享云播","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1},
+{"key": "TVB云播","name": "💝分享云播","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable": 0,"quickSearch": 1,"filterable": 0,"changeable": 0},
 	 {
       "key": "高清",
       "name": "💝分享高清",
