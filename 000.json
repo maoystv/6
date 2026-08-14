@@ -85,6 +85,12 @@
         "ua": "okhttp/3.10.0"
       }
     },
+	 {
+      "key": "多多",
+      "name": "💝分享多多",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/e6c2f2043c93824f4762996844e72bf5.py"
+    },
 {
       "key": "针不错",
       "name": "💝分享不戳",
