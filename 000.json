@@ -113,29 +113,37 @@
       "key": "网盘",
       "name": "💝分享网盘",
       "type": 4,
-      "api": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"
+      "api": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"},
+
+  {
+      "key": "厂长影视",
+      "name": "💝分享厂长",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/厂长影视.py"
     },
-
-	   {
-            "key": "分享者yt",
-            "name": "💝分享影探",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/d54607dcfda8be03a4ee7d7e5ccec542.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
+    {
+      "key": "豆花影视",
+      "name": "💝分享豆花",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/豆花影视.py"
+    },
+    {
+      "key": "初见影视",
+      "name": "💝分享初见",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/初见影视.py"
+    },
+     {
+      "key": "追影",
+      "name": "💝分享追影",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/追影.py",
+      "changeable": 0
+    },
 {"key": "TVB云播","name": "💝分享云播","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable": 0,"quickSearch": 1,"filterable": 0,"changeable": 0},
 	 {"key": "新闪雷","name": "💝分享闪雷","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/js/新闪雷.js","header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}},
 	{
-      "key": "高清",
-      "name": "💝分享高清",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/gq.js"
-    },
-	{
-            "key": "速搜",
+         "key": "速搜",
             "name": "💝分享速搜",
             "type": 3,
             "api": "https://meow.668yun.top/c/psH0LdZklYEg/速搜.py",
