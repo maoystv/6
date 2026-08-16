@@ -96,12 +96,15 @@
         "Iv": "O3K6rYx75Q4xtiIE"
       }
     },
-     {
-      "key": "4K",
-      "name": "💝分享影探",
-      "type": 4,
-      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
-    },
+      {
+   "key": "py_yunduo",
+   "name": "💝分享云朵",
+   "type": 3,
+   "api": "https://clun.top/py/yunduo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
 	 {
       "key": "多多",
       "name": "💝分享多多",
