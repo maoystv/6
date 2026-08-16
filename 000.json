@@ -86,6 +86,23 @@
       }
     },
 	 {
+      "key": "世界",
+      "name": "💝分享世界",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://appcms.4ksj.app",
+        "key": "O3K6rYx75Q4xtiIE",
+        "Iv": "O3K6rYx75Q4xtiIE"
+      }
+    },
+     {
+      "key": "4K",
+      "name": "💝分享影探",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
+    },
+	 {
       "key": "多多",
       "name": "💝分享多多",
       "type": 3,
