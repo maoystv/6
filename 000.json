@@ -106,21 +106,24 @@
    "changeable": 1
   },
 	 {
+      "key": "高清点播",
+      "name": "💝分享高清",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/高清点播🍀TG @hshsjk9.py",
+      "changeable": 0
+    },
+    {
+      "key": "草莓影视",
+      "name": "💝分享草莓",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/草莓影视🍀TG @hshsjk9.py",
+      "changeable": 0
+    },
+	 {
       "key": "多多",
       "name": "💝分享多多",
       "type": 3,
       "api": "https://mpimg.cn/down.php/e6c2f2043c93824f4762996844e72bf5.py"
-    },
-{
-      "key": "针不错",
-      "name": "💝分享不戳",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
-      "ext": {
-        "host": "https://appcmszbc.zbc4k.app",
-        "key": "pYrEkiWRYhBLTUTC",
-        "Iv": "pYrEkiWRYhBLTUTC"
-      }
     },
 	{
       "key": "腾爱优b站.js",
