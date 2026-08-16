@@ -120,6 +120,12 @@
       "changeable": 0
     },
 	 {
+      "key": "蝶卡影视",
+      "name": "💝分享蝶卡",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"
+    },
+	 {
       "key": "多多",
       "name": "💝分享多多",
       "type": 3,
