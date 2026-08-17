@@ -85,21 +85,10 @@
         "ua": "okhttp/3.10.0"
       }
     },
-	 {
-            "key": "猫头鹰1",
-            "name": "💝分享蓝鹰",
-            "type": 3,
-            "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
-            "searchable": 1,
-            "ext": {
-                "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-                "key": "ca94b06ca359d80e",
-                "init": "V122",
+	{"key": "蓝鹰","name": "💝分享蓝鹰","type": 3,"api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js","searchable": 1,"changeable": 1,"ext": {"host": "http://103.217.190.91:5566","key": "hagYExMdMkeWfemK","Iv": "hagYExMdMkeWfemK",  "init": "V122",
                 "api": 2,
-                "ua": "okhttp/3.10.0"
-            }
-        },
-	 {
+                "ua": "okhttp/3.10.0"}},
+	{
       "key": "4K",
       "name": "💝分享影探",
       "type": 4,
@@ -438,20 +427,6 @@
             }
         },
 
-	{
-            "key": "猫头鹰",
-            "name": "💝分享蓝鹰",
-            "type": 3,
-            "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
-            "searchable": 1,
-            "ext": {
-                "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-                "key": "ca94b06ca359d80e",
-                "init": "V122",
-                "api": 2,
-                "ua": "okhttp/3.10.0"
-            }
-        },
 	{
       "key": "py_jieyingshi",
       "name": "💖分享界影",
