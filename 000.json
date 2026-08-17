@@ -85,15 +85,15 @@
         "ua": "okhttp/3.10.0"
       }
     },
-	{
-            "key": "猫头鹰",
+	 {
+            "key": "猫头鹰1",
             "name": "💝分享蓝鹰",
             "type": 3,
             "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
             "searchable": 1,
             "ext": {
-                "host": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
-                "key": "zxPtEUDGVllIUhDB",
+                "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+                "key": "ca94b06ca359d80e",
                 "init": "V122",
                 "api": 2,
                 "ua": "okhttp/3.10.0"
