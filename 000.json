@@ -114,6 +114,22 @@
    "quickSearch": 1,
    "changeable": 1
   },
+	  {
+            "key": "漫闪",
+            "name": "💝分享漫闪",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/37a8852cebefc099a91b65fcccb5a375.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "歪比巴卜",
+            "name": "💝分享巴卜",
+            "type": 3,
+            "playerType": 2,
+            "api": "https://mpimg.cn/down.php/6f7f933b02ae7a30553c474642e92347.py"
+        },
 	 {
       "key": "高清点播",
       "name": "💝分享高清",
@@ -249,16 +265,6 @@
       }
     },
 
-	 {
-      "key": "csp_歪比",
-      "name": "💖分享巴卜",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/歪比.py",
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
     {
             "key": "爱影",
             "name": "💝分享爱影",
