@@ -219,6 +219,19 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/瓜子APP.py"
     },
+	{
+            "key": "魔方",
+            "name": "💝分享魔方",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "https://www.douy32mf.top",
+                "key": "1234567887654321",
+                 "Iv": "1234567887654321"
+            }
+        },
 	  {
       "key": "V5影视",
       "name": "💝分享威武",
