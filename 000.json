@@ -134,12 +134,24 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"
     },
-	 {
-      "key": "多多",
-      "name": "💝分享多多",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/e6c2f2043c93824f4762996844e72bf5.py"
-    },
+	  {
+   "key": "py_duoduo",
+   "name": "💝分享多多",
+   "type": 3,
+   "api": "https://clun.top/py/duoduo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+     {
+   "key": "py_kkys",
+   "name": "💝分享可可",
+   "type": 3,
+   "api": "https://clun.top/py/kkys.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
 	{
       "key": "腾爱优b站.js",
       "name": "💝分享AYTM",
