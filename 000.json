@@ -88,6 +88,13 @@
 	{"key": "蓝鹰","name": "💝分享蓝鹰","type": 3,"api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js","searchable": 1,"changeable": 1,"ext": {"host": "http://103.217.190.91:5566","key": "hagYExMdMkeWfemK","Iv": "hagYExMdMkeWfemK",  "init": "V122",
                 "api": 2,
                 "ua": "okhttp/3.10.0"}},
+ {
+      "key": "橘汁",
+      "name": "💝分享橘汁",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/dcdcff871e1139b45b15efe353872cc5.py"
+    },
+	
 	{
       "key": "4K",
       "name": "💝分享影探",
