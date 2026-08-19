@@ -112,7 +112,12 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/FoFo影院🍀TG @hshsjk9.py"
     },
-	
+	{
+      "key": "红枫叶",
+      "name": "💝分享红叶",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享者枫叶.py"
+    },
 	{
       "key": "4K",
       "name": "💝分享影探",
@@ -231,13 +236,7 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/追影.py",
       "changeable": 0
     },
-	 {
-      "key": "枫叶4K",
-      "name": "💝分享枫叶",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枫叶4K.py",
-      "changeable": 0
-    },
+	 
      {
       "key": "GZ",
       "name": "💝分享瓜子",
@@ -257,13 +256,7 @@
                  "Iv": "1234567887654321"
             }
         },
-	  {
-      "key": "V5影视",
-      "name": "💝分享威武",
-      "type": 3,
-      "api": "https://dogpan.com/f/98X1c2/V5影视.py",
-      "ext": "http://43.248.117.123:4680"
-    },
+	  
 {"key": "TVB云播","name": "💝分享云播","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable": 0,"quickSearch": 1,"filterable": 0,"changeable": 0},
 	 {"key": "新闪雷","name": "💝分享闪雷","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/js/新闪雷.js","header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}},
 	{
@@ -277,17 +270,7 @@
         },
 
 {"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666","filterable":0,"key":"2070335664787820544","name":"💝分享热播","searchable":1,"type":4},
-{
-      "key": "4K电影网",
-      "name": "💝分享电影",
-      "type": 3,
-      "api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
+
 	
 {
       "key": "首发",
