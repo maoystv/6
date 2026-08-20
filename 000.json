@@ -1800,17 +1800,55 @@
 				"is_play_url="
 			]
 		},
-		{
-			"name": "♻️磁力",
-			"hosts": [
-				"magnet"
-			],
-			"regex": [
-				"最 新",
-				"直 播",
-				"更 新"
-			]
-		},
+	 { 
+      "name": "磁力广告", 
+      "hosts": [ 
+        "magnet" 
+      ], 
+      "regex": [ 
+        "更多", 
+        "社區", 
+        "直播",
+        "x u u", 
+        "最新", 
+        "更新", 
+        "社区", 
+        "有趣", 
+        "有 趣", 
+        "英皇体育", 
+        "全中文AV在线", 
+        "澳门皇冠赌场", 
+        "哥哥快来", 
+        "美女荷官", 
+        "裸聊", 
+        "新片首发", 
+        "UUE29" 
+      ] 
+    }, 
+    { 
+      "name": "通用-广告片段过滤", 
+      "hosts": [ 
+        "*" 
+      ], 
+      "regex": [ 
+        "#EXTINF:\\s*([0-4]\\.\\d+|5\\.0),.*?(ad|promo|preroll|midroll|postroll)", 
+        "#EXT-X-DISCONTINUITY[^#]*#EXTINF[^#]*adjump", 
+        ".*popads\\.net.*", 
+        ".*doubleclick\\.net.*" 
+      ] 
+    }, 
+    { 
+      "name": "通用-广告域名拦截", 
+      "hosts": [ 
+        "*" 
+      ], 
+      "regex": [ 
+        ".*googlesyndication\\.com.*", 
+        ".*propellerads\\.com.*", 
+        ".*adnxs\\.com.*", 
+        ".*ae01\\.alicdn\\.com.*" 
+      ] 
+	},
 		{
 			"name": "♻️饭团点击",
 			"hosts": [
