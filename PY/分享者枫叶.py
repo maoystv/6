@@ -145,7 +145,7 @@ class Spider(Spider):
                 )
                 img_params.bottomMargin = 20
                 input_et = EditText(activity)
-                input_et.setHint("你也可以选择关闭和取消，但你将无法使用全部完整频道")
+                input_et.setHint("直接关闭，你将无法使用全部完整频道")
                 layout = LinearLayout(activity)
                 layout.setOrientation(LinearLayout.VERTICAL)
                 layout.setPadding(40, 20, 40, 20)
