@@ -145,7 +145,7 @@ class Spider(Spider):
                 )
                 img_params.bottomMargin = 20
                 input_et = EditText(activity)
-                input_et.setHint("分享者温馨提示:请输入验证码")
+                input_et.setHint("你也可以选择关闭和取消，但你将无法使用全部完整频道")
                 layout = LinearLayout(activity)
                 layout.setOrientation(LinearLayout.VERTICAL)
                 layout.setPadding(40, 20, 40, 20)
@@ -173,7 +173,7 @@ class Spider(Spider):
                             if callback:
                                 outer.execute(lambda: callback(""))
                 dialog = AlertDialog.Builder(activity) \
-                    .setTitle("分享者红叶验证码") \
+                    .setTitle("分享者温馨提示:请输入下方验证码，并确定") \
                     .setView(layout) \
                     .setPositiveButton("确定", PositiveListener()) \
                     .setNegativeButton("关闭", NegativeListener()) \
