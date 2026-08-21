@@ -173,7 +173,7 @@ class Spider(Spider):
                             if callback:
                                 outer.execute(lambda: callback(""))
                 dialog = AlertDialog.Builder(activity) \
-                    .setTitle("分享者红叶验证码") \
+                    .setTitle("分享者验证码") \
                     .setView(layout) \
                     .setPositiveButton("确定", PositiveListener()) \
                     .setNegativeButton("关闭", NegativeListener()) \
