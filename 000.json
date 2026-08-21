@@ -278,18 +278,16 @@
         "ua": "okhttp/3.10.0"
       }
     },
-{
-      "key": "爱影视",
-      "name": "💝分享爱影",
-      "type": 3,
-      "api": "csp_WhaleApp",
-      "jar": "https://raw.gitcode.com/suixin00/1/blobs/aef0d68bc6250926da5b5a51777422b48edb7632/XM.jar",
-      "ext": {
-        "proxy": "https://www.tangsan.fun/jingyu.php",
-        "site": "aiyingshi",
-        "pic": "http://222.211.75.252:23433"
-      }
-    },
+	 {
+   "key": "py_shanzha",
+   "name": "💝分享山楂",
+   "type": 3,
+   "api": "https://clun.top/py/shanzha.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {}
+  },
     {
       "key": "YunZhenXiang",
       "name": "💝分享帧享",
