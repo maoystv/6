@@ -41,16 +41,17 @@
         },
    {"key":"py_直播平台","name":"💖分享平台","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/直播平台.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 
-	 {
-            "key": "kktd",
-            "name": "💝分享糖豆",
-            "type": 1,
-            "api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+	  {
+      "key": "TangDou_Spider",
+      "name": "💝分享糖豆",
+      "type": 3,
+      "api": "csp_AppTd",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
 	{
       "key": "t4直播转点播",
       "name": "💝分享教育",
@@ -293,16 +294,6 @@
       "timeout": 12,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
       "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
-    },
-     {
-      "key": "小鹿",
-      "name": "💝分享小路",
-      "type": 3,
-      "api": "csp_AppGet",
-       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext":"https://xiaolu.pwwhu.cn|x5Bep6Q78VCeYnPS|V122|2|okhttp/3.10.0"
     },
 {
             "key": "魔方",
