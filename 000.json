@@ -79,7 +79,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "host": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
+        "host": "http://110.42.67.130:1226",
         "key": "kj37zs29q22jk96t",
         "init": "V122",
         "api":2,
