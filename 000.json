@@ -46,7 +46,7 @@
       "name": "💝分享糖豆",
       "type": 3,
       "api": "csp_AppTd",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -252,7 +252,7 @@
       "name": "💝分享剧圈",
       "type": 3,
       "api": "csp_App99",
-       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
+       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
       "ext": {
         "host": "http://124.221.3.182:19987/app/bn",
         "appkey": "d1f0c269eab74d93821fffc9befdbbba",
@@ -271,7 +271,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
       "ext": {
         "appName": "小苹果",
         "commonKey": "ed5fdsgucxumegqa",
@@ -292,7 +292,7 @@
       "api": "csp_AppGet",
       "quickSearch": 1,
       "timeout": 12,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
       "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
     },
 {
@@ -300,13 +300,13 @@
             "name": "💝分享魔方",
             "type": 3,
             "api": "csp_AppGet",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
             "searchable": 1,
             "changeable": 1,
             "ext":"https://www.douy32mf.top|1234567887654321|V119"
         },
     {"key": "王子","name": "💝分享王子","type": 3,"api": "csp_AppGet",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js","searchable": 1,"changeable": 1,"ext":"https://app.95112475.xyz|5a9w6x58dsq6z3a6|V119|okhttp/3.10.0"},
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7","searchable": 1,"changeable": 1,"ext":"https://app.95112475.xyz|5a9w6x58dsq6z3a6|V119|okhttp/3.10.0"},
   	 {
             "key": "布布",
             "name": "💝分享布布",
