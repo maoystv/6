@@ -266,16 +266,6 @@
       }
     },
 	 {
-   "key": "py_shanzha",
-   "name": "💝分享山楂",
-   "type": 3,
-   "api": "https://clun.top/py/shanzha.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {}
-  },
-    {
       "key": "YunZhenXiang",
       "name": "💝分享帧享",
       "type": 3,
@@ -283,7 +273,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.gitcode.com/suixin00/1/blobs/aef0d68bc6250926da5b5a51777422b48edb7632/XM.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
       "ext": {
         "index_url": "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
         "key_api": "https://www.tangsan.fun/zx.php"
@@ -297,7 +287,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.gitcode.com/suixin00/1/blobs/aef0d68bc6250926da5b5a51777422b48edb7632/XM.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js",
       "ext": {
         "appName": "小苹果",
         "commonKey": "ed5fdsgucxumegqa",
