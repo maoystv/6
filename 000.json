@@ -119,12 +119,6 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享者枫叶.py"
     },
-	{
-      "key": "4K",
-      "name": "💝分享影探",
-      "type": 4,
-      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
-    },
 	 {
        "key": "py_yunduo",
    "name": "💝分享云朵",
@@ -169,12 +163,6 @@
       "name": "💝分享好剧",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/好剧屋.py"
-    },
-	 {
-      "key": "蝶卡影视",
-      "name": "💝分享蝶卡",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"
     },
 	  {
    "key": "py_duoduo",
@@ -231,9 +219,7 @@
 	 {"key": "新闪雷","name": "💝分享闪雷","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/js/新闪雷.js","header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}},
 	
 
-{"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666","filterable":0,"key":"2070335664787820544","name":"💝分享热播","searchable":1,"type":4},
-
-	
+{"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666","filterable":0,"key":"2070335664787820544","name":"💝分享热播","searchable":1,"type":4},	
 {
       "key": "首发",
       "name": "💝分享首发",
@@ -246,6 +232,26 @@
         "api": 2,
         "ua": "okhttp/3.10.0"
       }
+    },
+
+	 {
+      "key": "电影侠",
+      "name": "💝分享影侠",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/电影侠🍀TG @hshsjk9.py"
+    },
+          {
+      "key": "影视大全",
+      "name": "💝分享大全",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/影视大全🍀TG @hshsjk9.py"
+    },
+    
+     {
+      "key": "VS影院",
+      "name": "💝分享影院",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/VS影院🍀TG @hshsjk9.py"
     },
 	 {
       "key": "剧圈",
@@ -662,16 +668,7 @@
         {"key":"爱奇艺","name":"💝分享奇艺","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://kong88.dpdns.org/lib/爱奇艺.js"},
         {"key":"优酷视频","name":"💝分享优酷","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://kong88.dpdns.org/lib/优酷视频.js"},
          {"key":"360影视","name":"💝分享360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-    {
-      "key": "闪影视界",
-      "name": "💝分享闪影",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-    },
+
    
          {
             "key": "土豆浏览器",
@@ -1059,45 +1056,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "categories": ["电视剧", "电影", "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "动作片", "爱情片", "喜剧片", "恐怖片", "战争片", "纪录片", "科幻片", "剧情片", "动画片", "动漫", "内地剧", "中国动漫", "日本动漫", "欧美动漫", "综艺", "台湾剧", "短剧", "体育赛事"]
-    }, 
-       {
-            "key": "csp_SNzy",
-            "name": "🧊索尼高清",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "国产剧",
-                "欧美剧",
-                "香港剧",
-                "韩国剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]			
-        },	
-     
-        		
+    }, 		
 		{"key":"极速","name":"️✈️极速采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
               
     
@@ -1123,34 +1082,6 @@
                 "记录片"
             ]
         },
-        {
-      "key": "光速资源",
-      "name": "💯光速切片",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": ["大陆剧",
-"韩国剧",
-"香港剧",
-"台湾剧",
-"欧美剧",
-"动作片",
-"科幻片",
-"战争片",
-"奇幻片",
-"喜剧片",
-"爱情片",
-"恐怖片",
-"犯罪片",
-"悬疑片",
-"惊悚片",
-"剧情片",
-"冒险片",
-"记录片",
-"综艺",
-"动漫"
-]},	
 {"key":"飘零影院","name":"🥀飘零天涯","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
