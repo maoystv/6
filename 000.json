@@ -93,7 +93,7 @@
       "key": "橘汁",
       "name": "💝分享橘汁",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/dcdcff871e1139b45b15efe353872cc5.py"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享橘子.py"
     },
 	{
       "key": "咕噜",
@@ -167,7 +167,7 @@
             "key": "漫闪",
             "name": "💝分享漫闪",
             "type": 3,
-            "api": "https://mpimg.cn/down.php/37a8852cebefc099a91b65fcccb5a375.py",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享者漫闪.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -177,7 +177,7 @@
             "name": "💝分享巴卜",
             "type": 3,
             "playerType": 2,
-            "api": "https://mpimg.cn/down.php/6f7f933b02ae7a30553c474642e92347.py"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享巴卜.py"
         },
 	 {
       "key": "高清点播",
