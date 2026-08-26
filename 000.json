@@ -136,17 +136,11 @@
         "tabsSet": "极速蓝光"
       }
     },
-    {
-      "key": "pomo",
-      "name": "💝分享pomo",
+     {
+      "key": "飞流视频",
+      "name": "💝分享飞流",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/pomo🍀TG @hshsjk9.py"
-    },
-    {
-      "key": "FoFo影院",
-      "name": "💝分享FoFo",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/FoFo影院🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/飞流视频🍀TG @hshsjk9.py"
     },
 	{
       "key": "红枫叶",
