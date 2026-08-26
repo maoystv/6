@@ -1116,14 +1116,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://d.kstore.dev/download/4127/js/电影港.json","jar":""},
-{"key":"哔哩合集","name":"🅱️哔哩合集","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享合集.json"},
-{"key":"哔哩一集","name":"🅱️哔哩一集","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享套餐1.json"},
-{"key":"哔哩二集","name":"🅱️哔哩二集","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享套餐2.json"},
-{"key":"哔哩美食","name":"🅱️分享美食","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享美食.json"},
-{"key":"哔哩戏曲","name":"🅱️分享戏曲","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享戏曲.json"},
-{"key":"哔哩MV","name":"🅱️分享歌曲","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享歌曲MV.json"},
-{"key":"哔哩演唱会","name":"🅱️分享演唱","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享演唱会.json"},
-		
+
 
       {
             "key": "88js",
@@ -1243,28 +1236,13 @@
 			"timeout": 60
 		},
           
- {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/兔小贝.js"},
 
-{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"},
-{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"},
-{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
-{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
 
 {"key":"xbpq_喵次元","name":"💖喵喵动漫","type":3,"api":"csp_XBPQ","filterable":1,"changeable":1,"ext":{"简介":"分享者提醒您请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p>","分类url":"https://www.catwcy.com/show/{cateId}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类":"日本动漫$1#动漫电影$2#欧美动漫$25#4K专区$26","搜索url":"/search.html?wd={wd}"}},
 {"key":"58动漫网","name":"💖之家动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"分享者提醒您:请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","搜索url":"https://dbwyt.com/search.php?searchword={wd}","分类url":"https://dbwyt.com/wuba/{cateId}-{catePg}.html","分类":"国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"}},
 {"key":"动漫大全","name":"💖大全动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"分享者特别提醒您：请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","线路数组":"<aclass=\"hl-tabs-btnhl-slide-swiper\"&&</a>","线路标题":"</i>&nbsp;&&</a>+集","分类url":"https://dingdingdm.com/list/{cateId}-{catePg}.html","分类":"动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"}},
 {"key":"58动漫","name":"💖吾吧动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"分享者特别提醒您：请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","线路数组":"data-toggle=\"tab&&</a>","线路标题":">&&<","搜索url":"http://www.ting38.com/search.php?searchword={wd}","分类url":"http://www.ting38.com/ting/{cateId}-{catePg}.html","分类":"新番日漫$1#国产动漫$2#欧美动漫$3#动漫电影$4"}},
 
-        {
-            "key": "🚌动漫巴士",
-            "name": "动漫巴士",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/动漫巴士.json"
-        },
         {
             "key": "🌸樱花动漫",
             "name": "樱花动漫",
