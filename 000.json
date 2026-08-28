@@ -229,7 +229,18 @@
       "name": "💝分享网盘",
       "type": 4,
       "api": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"},
-
+{
+      "key": "首映网",
+      "name": "💝分享首映",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/首映网🍀TG @hshsjk9.py"
+    },
+       {
+      "key": "一起影视",
+      "name": "💝分享一起",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/一起影视🍀TG @hshsjk9.py"
+    },
   {
       "key": "厂长影视",
       "name": "💝分享厂长",
