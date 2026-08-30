@@ -788,6 +788,9 @@ CGTN-西语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/
 北京卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8
 东方卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8
 深圳卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8
+
+浙江卫视,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视,http://124.90.45.52:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8
 湖南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8
 天津卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236217/index.m3u8
