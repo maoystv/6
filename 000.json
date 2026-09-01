@@ -51,15 +51,6 @@
       "filterable": 1,
       "ext": ""
     },
-	{
-      "key": "t4直播转点播",
-      "name": "💝分享教育",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp16",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
 
     {
             "key": "csp_XYQHikerNm",
