@@ -100,7 +100,6 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享咕噜.py"
     },
-	{"key": "cupfox_in","name": "💝分享杯狐","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/js/茶杯狐.js","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}},
  {"key": "华谊影视","name": "💝分享华谊","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
 	 {
       "key": "大马猴",
