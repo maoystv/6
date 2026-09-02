@@ -277,6 +277,16 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/VS影院🍀TG @hshsjk9.py"
     },
+	 {
+      "key": "壹影视",
+      "name": "💝分享一哥",
+      "type": 3,
+      "api": "csp_YiYs",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	{
       "key": "爱影视+",
       "name": "💝分享爱影",
