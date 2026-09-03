@@ -83,7 +83,7 @@
       "key": "橘汁",
       "name": "💝分享橘汁",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享橘子.py"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/橘汁视频.py"
     },
 	{
       "key": "咕噜",
@@ -91,7 +91,7 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享咕噜.py"
     },
- {"key": "华谊影视","name": "💝分享华谊","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
+ {"key": "华谊影视","name": "💝分享华谊","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/华谊影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
 	 {
       "key": "大马猴",
       "name": "💝分享大马",
