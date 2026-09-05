@@ -160,12 +160,15 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/飞流视频🍀TG @hshsjk9.py"
     },
-	{
-      "key": "红枫叶",
-      "name": "💝分享红叶",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享者枫叶.py"
-    },
+	 {
+    "key": "枫叶,影院",
+    "name": "💝分享红叶",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/枫叶影院.py",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1
+},
 	 {
        "key": "py_yunduo",
    "name": "💝分享云朵",
