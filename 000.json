@@ -169,15 +169,6 @@
     "changeable": 1,
     "filterable": 1
 },
-	 {
-       "key": "py_yunduo",
-   "name": "💝分享云朵",
-   "type": 3,
-   "api":"https://gh-proxy.com/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/云朵影视.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1
-  },
 	  {
             "key": "漫闪",
             "name": "💝分享漫闪",
