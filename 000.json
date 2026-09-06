@@ -112,11 +112,17 @@
                 "pic": "http://222.211.75.252:23433"
             }
         },
-	{
-      "key": "云朵影视",
+	 {
+      "key": "不错",
+      "name": "💝分享不戳",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/bc80799ad66c35679f558aa92eb42ebc.py"
+    },
+    {
+      "key": "云朵",
       "name": "💝分享云朵",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/云朵影视.py"
+      "api": "https://mpimg.cn/down.php/a72a82dc1181e9b43bc9da9ec56e7029.py"
     },
 	{
       "key": "大马猴",
