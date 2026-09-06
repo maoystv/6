@@ -112,7 +112,12 @@
                 "pic": "http://222.211.75.252:23433"
             }
         },
-	
+	{
+      "key": "云朵影视",
+      "name": "💝分享云朵",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/云朵影视.py"
+    },
 	{
       "key": "大马猴",
       "name": "💝分享大马",
