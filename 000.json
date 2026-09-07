@@ -125,6 +125,16 @@
       "api": "https://mpimg.cn/down.php/a72a82dc1181e9b43bc9da9ec56e7029.py"
     },
 	{
+      "key": "樱之空动漫",
+      "name": "💝分享樱空",
+      "type": 3,
+      "api": "https://sub.lytvs.top/pydl/yingzhikongdongman.py?tk=cj_f215e4ef",
+      "ext": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "category": "综合"
+    },
+	{
       "key": "大马猴",
       "name": "💝分享大马",
       "type": 3,
@@ -972,11 +982,7 @@
  "jar": "",
 "searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","搜索url":"https://www.heitujc.com/search/-------------.html?wd={wd}","搜索数组":"<a class=\"video-pic&&</a","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","分类url":"https://www.heitujc.com/screen/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},  
 
-{"key":"csp_樱之空","name":"💖分享樱空","type":3,"api":"csp_XBPQ",
-   "jar": "",
-"ext":{"主页url":"https://www.skr2.cc/","数组":"class=\"vodlist_item&&</div></li>","简介":"style=\"display:none;\"><span>&&</span>","线路数组":"<a&&</a>","线路标题":"分享者在线+>&nbsp;线路</a>","播放数组":"class=\"content_playlist&&</ul>","播放列表":"<li>&&</li>","播放标题":">&&</a>","分类url":"https://www.skr2.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类":"电影$84#大陆剧$81#港台剧$82#桜剧$32#桜漫$1#日漫$46#国漫$47#美漫$85#综艺$91"}},
-	 {"key":"csp_fxzwj",
-  "name":"💖分享问界",
+ { "name":"💖分享问界",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
