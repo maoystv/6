@@ -165,11 +165,23 @@
         "tabsSet": "极速蓝光"
       }
     },
-     {
-      "key": "飞流视频",
-      "name": "💝分享飞流",
+      {
+      "key": "不错",
+      "name": "💝分享不戳",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/飞流视频🍀TG @hshsjk9.py"
+      "api": "https://mpimg.cn/down.php/bc80799ad66c35679f558aa92eb42ebc.py"
+    },
+    {
+      "key": "云朵",
+      "name": "💝分享云朵",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/a72a82dc1181e9b43bc9da9ec56e7029.py"
+    },
+	{
+      "key": "剧下饭",
+      "name": "💝分享下饭",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"
     },
 	 {
     "key": "枫叶,影院",
