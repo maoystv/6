@@ -538,8 +538,7 @@
             "api": "https://pan.szfx.top/down.php/540e0c721a30390c4f5d2d77b8286905.py",
             "ext": "http://43.248.117.123:4680"
         },
-        {"key":"fxz小猫咪","name":"💖分享猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl": "json:https://player.gimy.bot/u/parse.php?url="
-},
+       
       {
             "key": "Acfun",
             "name": "💖分享Acfun",
@@ -560,16 +559,6 @@
             }
         },
 
-	{
-      "key": "py_jieyingshi",
-      "name": "💖分享界影",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/py_jieyingshi.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
     {
             "key": "py_金牌影视",
             "name": "💖分享金牌",
@@ -583,14 +572,6 @@
                 "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
             }
         },
-          {
-            "key": "csp_xhapp",
-            "name": "💖分享新河",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/分享新河.py",
-            "searchable": 1,
-            "changeable": 0,
-            "quickSearch": 0,   "filterable": 0},  
           {
       "key": "分享农民",
       "name": "💝分享农民",
@@ -692,7 +673,6 @@
   
         {"key": "永乐","name": "💝分享永乐","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/永乐视频.py","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""},
  {"key": "hohaiemby","name": "💝分享EMBY","type": 3,"api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/js/Emby.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
-{"key": "Emby小雅","name": "💝分享动漫","type": 3,"api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/js/Emby小雅.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key": "js集合","name": "💝分享js集","type": 4,"api": "http://zhangqun1818.serv00.net/js.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key": "采集集合","name": "💝分享合集","type": 4,"api": "http://zhangqun1818.serv00.net/cj/cjjh.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"ext":"1","changeable": 1},
   
@@ -767,8 +747,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-		
-     {"key": "juxiafan","name": "💝分享剧匣","type": 3,"api": "csp_AppYsV2","ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"},
          
 		 { "key": "五大采集平台采", "name": "❤️‍分享官采", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://39.105.18.5:5565/api.php/app/" },
          { "key": "全片源", "name": "💖分享全网", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2, "ext": "http://chaoqianys.top:91/api.php/app/" } , 
