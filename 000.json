@@ -135,6 +135,18 @@
       "category": "综合"
     },
 	{
+      "key": "蛙蛙",
+      "name": "💝分享蛙蛙",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/mmcb/wawa.php/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "xcm",
+      "name": "💝分享熊大",
+      "type": 4,
+      "api": "http://sy.xuntuyun.cn:20394/ctyx.php/api.php/provide/vod/?ac=list"
+    },
+	{
       "key": "大马猴",
       "name": "💝分享大马",
       "type": 3,
