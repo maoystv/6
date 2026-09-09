@@ -152,6 +152,22 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/大马猴🍀TG @hshsjk9.py"
     },
+	{
+			"key": "新4K",
+			"name": "💝分享奇迹",
+			"type": 1,
+			"api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod/"
+		}, 
+		{
+			"key": "戒",
+			"name": "💝分享界影",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者视界.js",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0
+		}, 
 	 {
       "key": "cat_优夏网",
       "name": "💝分享优夏",
