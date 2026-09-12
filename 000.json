@@ -60,22 +60,13 @@
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 0,   "filterable": 0}, 
-
-	{
-      "key": "星河",
-      "name": "💝分享星河",
+ {
+      "key": "小苹果.py",
+      "name": "💝分享苹果",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "host": "http://110.42.67.130:1226",
-        "key": "kj37zs29q22jk96t",
-        "init": "V122",
-        "api":2,
-        "ua": "okhttp/3.10.0"
-      }
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享者小苹果.py"
     },
+	
 	{"key": "蓝鹰","name": "💝分享蓝鹰","type": 3,"api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js","searchable": 1,"changeable": 1,"ext": {"host": "http://103.217.190.91:5566","key": "hagYExMdMkeWfemK","Iv": "hagYExMdMkeWfemK",  "init": "V122",
                 "api": 2,
                 "ua": "okhttp/3.10.0"}},
@@ -375,28 +366,7 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
     },
-     {
-      "key": "苹果",
-      "name": "💝分享苹果",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
-      "ext": {
-        "appName": "小苹果",
-        "commonKey": "ed5fdsgucxumegqa",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.juechufsh.android.xpg1",
-        "host": "",
-        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
-        "version": "1.0.0.3",
-        "decrypt": "1"
-      }
-    },
+    
  {
       "key": "4K影视2",
       "name": "💝分享视界",
