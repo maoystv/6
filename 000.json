@@ -159,15 +159,23 @@
 			"api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod/"
 		}, 
 		{
-			"key": "戒",
-			"name": "💝分享界影",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者视界.js",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0
-		}, 
+      "key": "开端影视",
+      "name": "💝分享开端",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开端影视.py"
+    },
+    {
+      "key": "果果短剧",
+      "name": "💝分享果果",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/果果短剧.py"
+    },
+    {
+      "key": "白洋影院",
+      "name": "💝分享白洋",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
+    },
 	 {
       "key": "cat_优夏网",
       "name": "💝分享优夏",
