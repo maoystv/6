@@ -291,8 +291,6 @@
 	 {"key": "新闪雷","name": "💝分享闪雷","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/js/新闪雷.js","header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}},
 	
 
-{"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666","filterable":0,"key":"2070335664787820544","name":"💝分享热播","searchable":1,"type":4},
-
 	 {
       "key": "电影侠",
       "name": "💝分享影侠",
