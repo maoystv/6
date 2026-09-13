@@ -125,12 +125,7 @@
       "quickSearch": 1,
       "category": "综合"
     },
-	{
-      "key": "蛙蛙",
-      "name": "💝分享蛙蛙",
-      "type": 4,
-      "api": "http://8.134.205.252:39466/mmcb/wawa.php/api.php/provide/vod/?ac=list"
-    },
+	
     {
       "key": "xcm",
       "name": "💝分享熊大",
@@ -189,18 +184,6 @@
         "catesSet": "电影&电视剧&综艺&动漫&纪录片",
         "tabsSet": "极速蓝光"
       }
-    },
-      {
-      "key": "不错",
-      "name": "💝分享不戳",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/bc80799ad66c35679f558aa92eb42ebc.py"
-    },
-    {
-      "key": "云朵",
-      "name": "💝分享云朵",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/a72a82dc1181e9b43bc9da9ec56e7029.py"
     },
 	{
       "key": "剧下饭",
@@ -340,6 +323,18 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/VS影院🍀TG @hshsjk9.py"
     },
+
+	{
+			"key": "nangua",
+			"name": "💝分享南瓜",
+			"type": 3,
+			"api": "csp_NanGua",
+			"playerType": 2,
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+			"ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+		},
+    {"key":"柠檬","name":"💝分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
+   {"key":"蝴蝶","name":"💝分享蝴蝶","type":3,"api":"csp_Xdai","playerType":2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939791h1l239kj0g853i291lik7jk45j8i66j6l46590lkli918523h02826lh29i74948i3116h18kkgii17kki579606ik1h6kjlh2k8l36ll62h11k10g8"},
 	 {
       "key": "壹影视",
       "name": "💝分享一哥",
