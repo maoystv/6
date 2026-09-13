@@ -162,17 +162,6 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
     },
-	 {
-      "key": "cat_优夏网",
-      "name": "💝分享优夏",
-      "type": 3,
-      "api": "https://7337.kstore.vip/xw/js/优夏.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "changeable": 1
-    },
    
     {
       "key": "cat_荐片app",
