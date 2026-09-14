@@ -231,12 +231,16 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/草莓影视.py",
       "changeable": 0
     },
-	{
-      "key": "好剧屋",
-      "name": "💝分享好剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/好剧屋.py"
-    },
+	 
+   {
+   "key": "py_duoduo",
+   "name": "💝分享多多",
+   "type": 3,
+   "api": "https://clun.top/py/duoduo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
 	  
      {
    "key": "py_kkys",
