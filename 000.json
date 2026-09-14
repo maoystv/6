@@ -83,7 +83,24 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享咕噜.py"
     },
  {"key": "华谊影视","name": "💝分享华谊","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
-	 {
+	 
+	{
+      "key": "yunduo",
+      "name": "💝分享云朵",
+      "type": 3,
+      "api": "./JS/分享者yunduo.js",
+      "ext": {
+        "host": "https://323433ssdfd.top",
+        "pkg": "com.sunshine.tv",
+        "sk": "SK-thanks",
+        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
+        "ver": "7",
+        "updateId": "01a00b72-a18d-77ac-9921-9dbe96573441",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A"
+      }
+    },
+	{
             "key": "应该可以",
             "name": "💝分享4|K",
             "type": 3,
@@ -109,12 +126,7 @@
       "type": 3,
       "api": "https://mpimg.cn/down.php/bc80799ad66c35679f558aa92eb42ebc.py"
     },
-    {
-      "key": "云朵",
-      "name": "💝分享云朵",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/a72a82dc1181e9b43bc9da9ec56e7029.py"
-    },
+    
 	{
       "key": "樱之空动漫",
       "name": "💝分享樱空",
