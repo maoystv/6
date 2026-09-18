@@ -107,6 +107,12 @@
       "api": "./PY/云朵影视1.py"
     },
 	{
+      "key": "看剧AI",
+      "name": "💝分享看剧",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py"
+    },
+	{
             "key": "应该可以",
             "name": "💝分享4|K",
             "type": 3,
