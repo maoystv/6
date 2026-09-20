@@ -550,7 +550,7 @@
             "filterable": 1,
             "playerType": 2,
             "ext": {
-                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+                "site":"https://www.lwdys.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
             }
         },
           {
@@ -778,28 +778,7 @@
       "changeable": 1
    },
 	
-		{
-			"key": "csp_努努",
-			"name": "💖分享努努",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"api": "https://d.kstore.dev/download/4127/PY/分享努努.py",
-			"playerType": 2,
-			"filterable": 1
-		},
-
-{
-      "key": "py_wawa",
-      "name": "💖分享哇哇",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/wawa.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
+	
    {
       "key": "千梦影视",
       "name": "💖分享千梦",
@@ -866,38 +845,7 @@
             ]
         },
  
-     {
-    "key": "狐狸君磁力",
-    "name": "💖分享狐狸",
-    "type": 3,
-    "changeable": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "api": "csp_XBPQ",
-     "jar":"",
-    "ext": {
-       "搜索模式": "1",
-    "搜索url": "https://www.foxjun.com/s/?q={wd}",
-    "搜索数组": "class=\"media\">&&/div>",
-    "搜索图片": "src=\"&&\"",
-    "搜索标题": "《&&》",
-    "搜索副标题": "》&&\"",
-    "搜索链接": "href=\"&&\"",
-    "标题": "《&&》",
-    "副标题": "》&&\"",
-    "影片年代": "上映日期：&&</p>",
-    "影片类型": "类型：&&</p>",
-    "主演": "主演：&&</p>",
-    "简介": "简介：&&</p>",
-    "播放数组": "<tbody>&&</tbody>",
-    "播放列表": "<a&&/a>[包含:magnet]",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\"",
-    "分类url": "https://www.foxjun.com/channel/{cateId}.html?apage1={catepg}",
-    "分类": "国产剧$guochanju#电影$dianying#动画$donghua#美欧剧$meiouju#日韩剧$rihanju"
-    }
-},
+
 	
      {
 	"key": "hipy_js_fxzhz",
@@ -969,29 +917,7 @@
  "jar": "",
 "searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","搜索url":"https://www.heitujc.com/search/-------------.html?wd={wd}","搜索数组":"<a class=\"video-pic&&</a","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","分类url":"https://www.heitujc.com/screen/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},  
 
- { "name":"💖分享问界",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
-            "ext":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享WJ.json"},
 
-	{"key":"csp_Jpys","name":"💖分享金牌",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片地区": "分享者制作",
-                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
-                "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
-            }
-        },
 	
 	
 	{
