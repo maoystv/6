@@ -98,7 +98,7 @@
       "key": "分享者影巢.py",
       "name": "💝分享影巢",
       "type": 3,
-      "api": ".PY/分享者影巢.py"
+      "api": "./PY/分享者影巢.py"
     },
  {"key": "华谊影视","name": "💝分享华谊","type": 3,"api": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
 	 
