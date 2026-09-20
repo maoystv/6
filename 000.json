@@ -82,6 +82,24 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/分享咕噜.py"
     },
+	 {
+      "key": "分享者咕噜.py",
+      "name": "💝分享咕噜-",
+      "type": 3,
+      "api": "./lib/分享者咕噜.py"
+    },
+    {
+      "key": "分享者南瓜.py",
+      "name": "💝分享南瓜",
+      "type": 3,
+      "api": "./lib/分享者南瓜.py"
+    },
+    {
+      "key": "分享者影巢.py",
+      "name": "💝分享影巢",
+      "type": 3,
+      "api": "./lib/分享者影巢.py"
+    },
  {"key": "华谊影视","name": "💝分享华谊","type": 3,"api": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
 	 
 	{
@@ -118,20 +136,7 @@
             "type": 3,
             "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
         },
-    {
-            "key": "爱影视+",
-            "name": "💝分享爱影",
-            "type": 3,
-            "api": "https://fastlink.cokey.xyz/f/aLgkSJ/whaleapp.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "proxy": "https://www.tangsan.fun/jingyu.php",
-                "site": "aiyingshi",
-                "pic": "http://222.211.75.252:23433"
-            }
-        },
+
 	 {
       "key": "不错",
       "name": "💝分享不戳",
