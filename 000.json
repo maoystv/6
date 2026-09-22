@@ -89,10 +89,25 @@
       "api": "./PY/分享者咕噜.py"
     },
     {
-      "key": "分享者南瓜.py",
-      "name": "💝分享南瓜",
-      "type": 3,
-      "api": "./PY/分享者南瓜.py"
+      "key": "用不了多久,请勿扒取",
+      "name": "💝分享临时",
+      "type": 1,
+      "api": "http://110.42.66.100:12678/api.php",
+      "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "header": "json",
+      "categories": [
+        "电视剧",
+        "电影",
+        "动漫",
+        "综艺",
+        "日韩剧",
+        "美剧",
+        "少儿"
+      ]
     },
 	{
       "key": "分享皮克网.py",
@@ -387,17 +402,7 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
     },
-    
- {
-      "key": "4K影视2",
-      "name": "💝分享视界",
-      "type": 3,
-      "api": "csp_AppGet",
-      "quickSearch": 1,
-      "timeout": 12,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
-      "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
-    },
+  
 {
             "key": "魔方",
             "name": "💝分享魔方",
@@ -532,19 +537,7 @@
             "type": 3,
             "api": "https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py"
         },
-        {
-            "key": "咕噜画",
-            "name": "💝分享咕噜",
-            "type": 3,
-            "changeable": 0,
-            "api": "https://fastlink.cokey.xyz/f/oPJvI9/Appfox.min.js",
-            "ext": {
-                "host": "http://www.yingsw.top",
-                "timeout": 8,
-                "key": "guluyinghua_123",
-                "sign": "679543610991810f19698c187e5e106e"
-            }
-        },
+       
 
     {
             "key": "py_金牌影视",
