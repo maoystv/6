@@ -88,27 +88,8 @@
       "type": 3,
       "api": "./PY/分享者咕噜.py"
     },
-    {
-      "key": "用不了多久,请勿扒取",
-      "name": "💝分享临时",
-      "type": 1,
-      "api": "http://110.42.66.100:12678/api.php",
-      "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "header": "json",
-      "categories": [
-        "电视剧",
-        "电影",
-        "动漫",
-        "综艺",
-        "日韩剧",
-        "美剧",
-        "少儿"
-      ]
-    },
+    {"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666","filterable":0,"key":"spider_2097848347502055424","name":"💝分享天堂","searchable":1,"type":4},
+    
 	{
       "key": "分享皮克网.py",
       "name": "💝分享皮克",
