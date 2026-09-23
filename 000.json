@@ -96,6 +96,16 @@
       "type": 3,
       "api": "./PY/皮克网.py"
     },
+	 {
+      "key": "py_极速",
+      "name": "💖分享极速",
+      "type": 3,
+      "api": "./PY/极速追剧.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
     {
       "key": "分享者影巢.py",
       "name": "💝分享影巢",
