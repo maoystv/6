@@ -90,12 +90,7 @@
     },
     {"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666","filterable":0,"key":"spider_2097848347502055424","name":"💝分享天堂","searchable":1,"type":4},
     
-	{
-      "key": "分享大师兄.py",
-      "name": "💝分享师兄",
-      "type": 3,
-      "api": "./PY/大师兄影视.py"
-    },
+	{"key": "cupfox_in","name": "💝分享茶杯","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/js/茶杯狐.js","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}},
 	 {
       "key": "py_极速",
       "name": "💖分享极速",
