@@ -91,10 +91,10 @@
     {"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666","filterable":0,"key":"spider_2097848347502055424","name":"💝分享天堂","searchable":1,"type":4},
     
 	{
-      "key": "分享皮克网.py",
-      "name": "💝分享皮克",
+      "key": "分享大师兄.py",
+      "name": "💝分享师兄",
       "type": 3,
-      "api": "./PY/皮克网.py"
+      "api": "./PY/大师兄影视.py"
     },
 	 {
       "key": "py_极速",
