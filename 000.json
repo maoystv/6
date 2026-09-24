@@ -302,7 +302,7 @@
       "key": "一起影视",
       "name": "💝分享一起",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/一起影视.py"
+      "api": "./PY/一起看.py"
     },
   {
       "key": "厂长影视",
