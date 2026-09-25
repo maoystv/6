@@ -101,6 +101,24 @@
       "filterable": 0,
       "changeable": 0
     },
+	{
+      "key": "追剧达人",
+      "name": "💝分享达人",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/追剧达人.py"
+    },
+    {
+      "key": "咸鱼影视",
+      "name": "💝分享咸鱼",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py"
+    },
+    {
+      "key": "ik4k影院",
+      "name": "💝分享ik4k",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ik4k影院.py"
+    },
     {
       "key": "分享者影巢.py",
       "name": "💝分享影巢",
