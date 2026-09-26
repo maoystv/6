@@ -156,6 +156,14 @@
       "api": "https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py"
     },
 	{
+      "key": "看客TV",
+      "name": "💝分享看客",
+      "type": 3,
+      "api": "./PY/看客TV.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
             "key": "应该可以",
             "name": "💝分享4|K",
             "type": 3,
