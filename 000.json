@@ -305,7 +305,7 @@
       "key": "腾爱优b站.js",
       "name": "💝分享AYTM",
       "type": 3,
-      "api": ".PY/腾爱优芒B.py",
+      "api": "./PY/腾爱优芒B.py",
       "changeable": 0
     }, 
     {
