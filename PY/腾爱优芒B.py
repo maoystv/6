@@ -71,7 +71,7 @@ class Spider(_BaseSpider):
         # （2026 年主流解析站已全部转浏览器端 JS 解析，纯 HTTP 无法取直链，
         #   由壳子 WebView 打开解析站播放页是当前唯一通用方案）
         self.parse_sites = [
-            "https://test1.12321app.com/daoliansiquanjia.php?url="
+            "https://test1.12321app.com/daoliansiquanjia.php?url=",
             "https://jx.xmflv.com/?url=",
             "https://jx.playerjy.com/?url=",
             "https://jx.2s0.cn/?url=",
