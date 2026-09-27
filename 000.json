@@ -739,14 +739,31 @@
       "quickSearch": 1,
       "filterable": 0
     },
-         
-		 { "key": "五大采集平台采", "name": "❤️‍分享官采", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://39.105.18.5:5565/api.php/app/" },
-         { "key": "全片源", "name": "💖分享全网", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2, "ext": "http://chaoqianys.top:91/api.php/app/" } , 
-             {"key":"腾讯视频","name":"💝分享腾讯","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://kong88.dpdns.org/lib/腾讯视频.js"},
-        {"key":"芒果视频","name":"💝分享芒果","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://kong88.dpdns.org/lib/芒果视频.js"},
+         {
+      "key": "爱奇艺",
+      "name": "💝分享奇艺",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱奇艺.py"
+    },
+    {
+      "key": "YK",
+      "name": "💝分享优酷",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/优酷视频.py"
+    },
+    {
+      "key": "txvm",
+      "name": "💝分享腾讯",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾讯视频.py"
+    },
+    {
+      "key": "MGtv",
+      "name": "💝分享芒果",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/芒果TV.py"
+    },
         {"key":"哔哩视频JS","name":"💝分享哔哩","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kong88.dpdns.org/lib/哔哩视频.js"},
-        {"key":"爱奇艺","name":"💝分享奇艺","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://kong88.dpdns.org/lib/爱奇艺.js"},
-        {"key":"优酷视频","name":"💝分享优酷","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://kong88.dpdns.org/lib/优酷视频.js"},
          {"key":"360影视","name":"💝分享360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
    
