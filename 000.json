@@ -44,7 +44,7 @@
       "key": "TangDou_Spider",
       "name": "💝分享糖豆",
       "type": 3,
-      "api": "./py/分享者糖豆.py",
+      "api": "./PY/分享者糖豆.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
