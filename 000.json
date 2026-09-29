@@ -88,6 +88,31 @@
       "type": 3,
       "api": "./PY/分享者咕噜.py"
     },
+	 {
+            "key": "马猴网",
+            "name": "💝分享马猴",
+            "type": 3,
+            "api": "./JS/分享者yunduo.js",
+            "ext": {
+                "host": "https://45.150.167.18:8000",
+                "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
+                "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
+                "deviceBrand": "vivo",
+                "deviceModel": "V2309A",
+                "pkg": "com.damahou.tv",
+                "sk": "SK-woniu-thanks",
+                "ver": "1",
+                "filterDef": {
+                    "电影": {
+                        "地区": "大陆,中国",
+                        "类型": "喜剧"
+                    },
+                    "动漫": {
+                        "地区": "大陆,中国"
+                    }
+                }
+            }
+        },
  {
       "key": "分享半日",
       "name": "💝分享半日",
@@ -470,19 +495,6 @@
     {"key":"柠檬","name":"💝分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
    {"key":"蝴蝶","name":"💝分享蝴蝶","type":3,"api":"csp_Xdai","playerType":2,"jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939791h1l239kj0g853i291lik7jk45j8i66j6l46590lkli918523h02826lh29i74948i3116h18kkgii17kki579606ik1h6kjlh2k8l36ll62h11k10g8"},
 
-  
-{
-            "key": "魔方",
-            "name": "💝分享魔方",
-            "type": 3,
-            "api": "csp_AppGet",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
-            "searchable": 1,
-            "changeable": 1,
-            "ext":"https://www.douy32mf.top|1234567887654321|V119"
-        },
-    {"key": "王子","name": "💝分享王子","type": 3,"api": "csp_AppGet",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7","searchable": 1,"changeable": 1,"ext":"https://app.95112475.xyz|5a9w6x58dsq6z3a6|V119|okhttp/3.10.0"},
   	 {
             "key": "布布",
             "name": "💝分享布布",
