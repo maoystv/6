@@ -118,6 +118,21 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
         },
+	{
+            "key": "好好看",
+            "name": "💝分享好看",
+            "type": 3,
+            "api": "./PY/pack.js",
+            "ext": {
+                "appid": "hkan",
+                "channelid": "c300000",
+                "versionName": "3.3.9",
+                "host": "https://vcache.shkjbd.com",
+                "package": "com.hkanC300000V250930.T120445",
+                "sort": "dujia1,dujia",
+                "lineCount": 1
+            }
+        },
    {
       "key": "NYa",
       "name": "💝分享EMBY",
