@@ -40,18 +40,18 @@
         },
    {"key":"py_直播平台","name":"💖分享平台","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/直播平台.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 
-	  {
+ {
       "key": "TangDou_Spider",
       "name": "💝分享糖豆",
       "type": 3,
-      "api": "csp_AppTd",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
+      "api": "./py/分享者糖豆.py",
       "searchable": 1,
+      "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ""
-    },
-
+      "playerType": 2
+        },
+	
     {
             "key": "csp_XYQHikerNm",
             "name": "💖分享在线",
