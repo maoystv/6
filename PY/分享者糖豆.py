@@ -158,7 +158,7 @@ class Spider(Spider):
             # 获取简介内容，优先使用API返回的desc或description，否则使用默认简介
             content = data_info.get('desc', data_info.get('description', '')).strip()
             if not content:
-                content = '醉卧东风祝您身体健康'
+                content = '分享者祝您身体健康'
             
             # 修正：拼接完整缩略图URL
             cover_path = data_info.get('cover', data_info.get('img', ''))
@@ -177,7 +177,7 @@ class Spider(Spider):
                 "vod_actor": data_info.get('teacher', data_info.get('author', '')),
                 "vod_director": "",
                 "vod_content": content,
-                "vod_play_from": "糖豆播放",
+                "vod_play_from": "分享者在线播放",
                 "vod_remarks": f"时长: {data_info.get('duration_str', '未知')}" if 'duration_str' in data_info else ""
             }
             
