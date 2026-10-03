@@ -239,29 +239,18 @@
       "api": "./PY/分享者影巢.py"
     },
  {"key": "华谊影视","name": "💝分享华谊","type": 3,"api": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
-	 
-	{
-      "key": "yunduo",
-      "name": "💝分享云朵",
+	  {
+      "key": "jy.py",
+      "name": "💝分享界影",
       "type": 3,
-      "api": "./JS/分享者yunduo.js",
-      "ext": {
-        "host": "https://323433ssdfd.top",
-        "pkg": "com.sunshine.tv",
-        "sk": "SK-thanks",
-        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
-        "ver": "7",
-        "updateId": "01a00b72-a18d-77ac-9921-9dbe96573441",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A"
-      }
+      "api": "./PY/界影视.py"
     },
-	{
-      "key": "云朵1.py",
-      "name": "💝分享云哚",
-      "type": 3,
-      "api": "./PY/云朵影视1.py"
-    },
+     {
+        	"key": "达达兔影院",
+            "name": "💝分享达兔",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/达达兔影院(关梯).py"
+		},
 	{
       "key": "看剧AI",
       "name": "💝分享看剧",
