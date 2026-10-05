@@ -143,6 +143,12 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
         },
+	{
+      "key": "剧迷",
+      "name": "💝分享剧迷",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/suixin8/00/raw/0/jm.py"
+    },
 {
       "key": "yunduo1",
       "name": "💝分享云朵",
