@@ -176,6 +176,12 @@
         "deviceModel": "V2309A"
       }
     },
+	{
+      "key": "py_8kvod",
+      "name": "💝分享酷客",
+      "type": 3,
+      "api": "./PY/分享者酷客.py"
+    },
 	
 	{
             "key": "好好看",
