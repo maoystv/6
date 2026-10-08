@@ -260,6 +260,20 @@
       "type": 3,
       "api": "https://raw.giteeusercontent.com/suixin8/00/raw/0/yt.py"
     },
+{
+      "key": "js_腾讯视频",
+      "name": "💝分享企鹅",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "ext": "http://china77.hongdus.com/qq.js"
+    },
+     {
+      "key": "lX.py",
+      "name": "💝分享洛雪",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/洛雪TV.py"
+    },
+	
     {"api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666","filterable":0,"key":"spider_2097848347502055424","name":"💝分享天堂","searchable":1,"type":4},
     
 	{"key": "cupfox_in","name": "💝分享茶杯","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/js/茶杯狐.js","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}},
@@ -784,7 +798,7 @@
 "changeable":1},
   
         {"key": "永乐","name": "💝分享永乐","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/X/main/py/永乐视频.py","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""},
- {"key": "hohaiemby","name": "💝分享EMBY","type": 3,"api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/js/Emby.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
+
 {"key": "js集合","name": "💝分享js集","type": 4,"api": "http://zhangqun1818.serv00.net/js.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key": "采集集合","name": "💝分享合集","type": 4,"api": "http://zhangqun1818.serv00.net/cj/cjjh.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"ext":"1","changeable": 1},
   
