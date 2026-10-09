@@ -20,7 +20,7 @@
             "filterable": 0,
             "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享douban.js"
         },
-        {"key":"csp_Config","name":"💝分享配置","type":3,"api":"csp_Config","jar":"http://rihou.cc:88/jar/vox.jar","searchable":0,"changeable":0},
+        {"key":"csp_Config","name":"💝分享配置","type":3,"api":"csp_Config","jar":"./vox.jar","searchable":0,"changeable":0},
         
 	  {"key": "央视片库","name": "🇨🇳分享央视","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/央库云.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
      {"key": "央视综艺","name": "🇨🇳分享综艺","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/央视综艺.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
@@ -182,7 +182,33 @@
       "type": 3,
       "api": "./PY/分享者酷客.py"
     },
-	
+	{
+      "key": "请勿扒取",
+      "name": "💝分享亢龙",
+      "type": 1,
+      "api": "http://110.42.66.100:12678/api.php",
+      "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "header": "json",
+      "categories": [
+        "电视剧",
+        "电影",
+        "动漫",
+        "综艺",
+        "日韩剧",
+        "美剧",
+        "少儿"
+      ]
+    },
+	{
+      "key": "人人视频",
+      "name": "💝分享人人",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/人人视频.py"
+    },
 	{
             "key": "好好看",
             "name": "💝分享好看",
@@ -1371,7 +1397,7 @@
       "name": "🅱️哔哩合集",
       "type": 3,
       "api": "csp_BiliJs",
-      "jar":"http://rihou.cc:88/jar/vox.jar",
+      "jar":"./vox.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -1383,7 +1409,7 @@
       "name": "🅱️哔哩一集",
       "type": 3,
       "api": "csp_BiliJs",
-      "jar":"http://rihou.cc:88/jar/vox.jar",
+      "jar":"./vox.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -1401,7 +1427,7 @@
       "name": "🅱️哔哩二集",
       "type": 3,
       "api": "csp_BiliJs",
-      "jar":"http://rihou.cc:88/jar/vox.jar",
+      "jar":"./vox.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -1419,7 +1445,7 @@
       "name": "🅱️分享美食",
       "type": 3,
       "api": "csp_BiliJs",
-      "jar":"http://rihou.cc:88/jar/vox.jar",
+      "jar":"./vox.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -1437,7 +1463,7 @@
       "name": "🅱️分享戏曲",
       "type": 3,
       "api": "csp_BiliJs",
-      "jar":"http://rihou.cc:88/jar/vox.jar",
+      "jar":"./vox.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -1455,7 +1481,7 @@
       "name": "🅱️分享歌曲",
       "type": 3,
       "api": "csp_BiliJs",
-      "jar":"http://rihou.cc:88/jar/vox.jar",
+      "jar":"./vox.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -1477,7 +1503,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar":"http://rihou.cc:88/jar/vox.jar",
+      "jar":"./vox.jar",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -1494,7 +1520,7 @@
       "name": "📚小学课堂",
       "type": 3,
       "api": "csp_BiliJs",
-       "jar":"http://rihou.cc:88/jar/vox.jar",
+       "jar":"./vox.jar",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -1511,7 +1537,7 @@
       "name": "📚初中课堂",
       "type": 3,
       "api": "csp_BiliJs",
-        "jar":"http://rihou.cc:88/jar/vox.jar",
+        "jar":"./vox.jar",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -1531,7 +1557,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-       "jar":"http://rihou.cc:88/jar/vox.jar",
+       "jar":"./vox.jar",
      "ext": {
         "type": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/高中课堂.json"
       },
@@ -1570,7 +1596,7 @@
             "name": "💝分享推送",
             "type": 3,
             "api": "csp_Push",
-            "jar":"http://rihou.cc:88/jar/vox.jar",
+            "jar":"./vox.jar",
 	        "searchable": 0,
             "filterable": 0,
             "changeable": 0
