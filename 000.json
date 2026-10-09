@@ -290,7 +290,7 @@
       "key": "js_腾讯视频",
       "name": "💝分享企鹅",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "api": "./0.js",
       "ext": "http://china77.hongdus.com/qq.js"
     },
      {
