@@ -1,21 +1,24 @@
 import sys
+import os
 import requests
 import json
 import datetime
 from urllib import parse
 
-LOGIN_URL = "https://account-api.wavve.com/v0.9/signin/wavve?apikey=E5F3E0D30947AA5440556471321BB6D9&credential=none&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all"
-#LOGIN_URL = "https://apis.wavve.com/login?apikey=E5F3E0D30947AA5440556471321BB6D9&client_version=6.0.1&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all"
-SVC_URL = "https://apis.wavve.com/fz/streaming?device=pc&partner=pooq&apikey=E5F3E0D30947AA5440556471321BB6D9&credential={0}&service=wavve&pooqzone=none&region=kor&drm=none&targetage=all&contentid={1}&hdr=sdr&videocodec=avc&audiocodec=ac3&issurround=n&format=normal&withinsubtitle=n&contenttype=live&action=hls&protocol=hls&quality=auto&deviceModelId=Windows%2010&guid=1d191e5c-568a-11ed-b37d-92dd5a1cfeb9&lastplayid=46fa3c25a79145d088caebeeebbee4dc&authtype=cookie&isabr=y&ishevc=n"
-EPG_URL = "https://apis.wavve.com/live/epgs?enddatetime={0}&genre=all&limit=500&offset=0&startdatetime={1}&apikey=E5F3E0D30947AA5440556471321BB6D9&client_version=7.0.40&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all"
-LOGOUT_URL = "https://apis.pooq.co.kr/logout?apikey=E5F3E0D30947AA5440556471321BB6D9&credential={0}&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all"
-#CHDETAIL_URL = "https://apis.pooq.co.kr/live/channels/{0}?device=pc&partner=pooq&pooqzone=none&region=kor&drm=wm&targetage=all&apikey=E5F3E0D30947AA5440556471321BB6D9&credential=none"
-CHDETAIL_URL = "https://apis.wavve.com/live/channels/{0}?apikey=E5F3E0D30947AA5440556471321BB6D9&client_version=6.0.1&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all"
+WAVVE_API_KEY = os.environ.get("WAVVE_API_KEY", "")
+
+LOGIN_URL = "https://account-api.wavve.com/v0.9/signin/wavve?apikey={0}&credential=none&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all".format(WAVVE_API_KEY)
+#LOGIN_URL = "https://apis.wavve.com/login?apikey={0}&client_version=6.0.1&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all".format(WAVVE_API_KEY)
+SVC_URL = "https://apis.wavve.com/fz/streaming?device=pc&partner=pooq&apikey=" + WAVVE_API_KEY + "&credential={0}&service=wavve&pooqzone=none&region=kor&drm=none&targetage=all&contentid={1}&hdr=sdr&videocodec=avc&audiocodec=ac3&issurround=n&format=normal&withinsubtitle=n&contenttype=live&action=hls&protocol=hls&quality=auto&deviceModelId=Windows%2010&guid=1d191e5c-568a-11ed-b37d-92dd5a1cfeb9&lastplayid=46fa3c25a79145d088caebeeebbee4dc&authtype=cookie&isabr=y&ishevc=n"
+EPG_URL = "https://apis.wavve.com/live/epgs?enddatetime={0}&genre=all&limit=500&offset=0&startdatetime={1}&apikey=" + WAVVE_API_KEY + "&client_version=7.0.40&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all"
+LOGOUT_URL = "https://apis.pooq.co.kr/logout?apikey=" + WAVVE_API_KEY + "&credential={0}&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all"
+#CHDETAIL_URL = "https://apis.pooq.co.kr/live/channels/{0}?device=pc&partner=pooq&pooqzone=none&region=kor&drm=wm&targetage=all&apikey={1}&credential=none"
+CHDETAIL_URL = "https://apis.wavve.com/live/channels/{0}?apikey=" + WAVVE_API_KEY + "&client_version=6.0.1&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all"
 
 def doLogin(userId,password):
     try:
         payloads=json.loads('{{"type": "general","id": "{0}","pushid": "","password":"{1}","profile": "0"}}'.format(userId,password))
-        response = requests.post(LOGIN_URL, json=payloads)
+        response = requests.post(LOGIN_URL, json=payloads, timeout=10)
         jsonResp = json.loads(response.text)
 
         credential=jsonResp.get("credential")
@@ -24,7 +27,7 @@ def doLogin(userId,password):
             'Content-Type':'application/json; charset=UTF-8',
             'Wavve-Credential':'{0}'.format(credential)
             }
-        response = requests.post(LOGIN_URL,data=payloads,headers=headers)
+        response = requests.post(LOGIN_URL,data=payloads,headers=headers, timeout=10)
         jsonResp = json.loads(response.text)
         if jsonResp.get("needselectprofile") !='n':
             raise Exception("Unexpected server response.")
@@ -37,7 +40,7 @@ def doLogin(userId,password):
 def doLogout(credential):
     try:
         url=LOGOUT_URL.format(parse.quote(credential))
-        response = requests.options(url)
+        response = requests.options(url, timeout=10)
     except Exception as e:
         return False
     else:
@@ -50,7 +53,7 @@ def getEPG(start,end,credential):
         }
     #url=EPG_URL.format(parse.quote(end),parse.quote(start),parse.quote(credential))
     url=EPG_URL.format(parse.quote(end),parse.quote(start))
-    response = requests.get(url,headers=headers)
+    response = requests.get(url,headers=headers, timeout=10)
     jsonResp = json.loads(response.text)
     jsonList = jsonResp.get("list")
     return jsonList
@@ -61,14 +64,14 @@ def getGenreText(chId):
         'Wavve-Credential':'{0}'.format(credential)
         }
     url=CHDETAIL_URL.format(chId)
-    response = requests.get(url,headers=headers)
+    response = requests.get(url,headers=headers, timeout=10)
     jsonResp = json.loads(response.text)
     return  jsonResp.get("genretext")
 
 def getPlayURL(chId,credential):
     try:
         url=SVC_URL.format(parse.quote(credential),chId)
-        response = requests.get(url)
+        response = requests.get(url, timeout=10)
         jsonResp = json.loads(response.text)
         playUrl = jsonResp.get("playurl")
         awsCookie = jsonResp.get("awscookie")
