@@ -51,7 +51,13 @@
       "filterable": 1,
       "playerType": 2
         },
-	
+	{
+"key": "yangshipin_vod",
+ "name": "💝分享央卫", 
+"type": 3,
+"api": "./py/yangshipin.py", 
+"ext": {}
+},
     {
             "key": "csp_XYQHikerNm",
             "name": "💖分享在线",
@@ -2128,6 +2134,11 @@
             "timeout": 10,
             "playerType": 2
         },
+	 {
+"api": "./py/yangshipin.py",
+"ext": {},
+"name": "💝分享者央视频"
+},
 	{
       "name": "💖分享者直播2",
       "type": 0,
