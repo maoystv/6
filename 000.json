@@ -2127,13 +2127,19 @@
 //电视直播
 
  "lives":[{"name":"💖分享者直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/TV/live20220813.txt"},
-          {
+         
+	 {
             "name": "💝分享者直播+",
             "type": 0,
             "url": "https://xoxo.cn.mt/Lonely.m3u",
             "timeout": 10,
             "playerType": 2
         },
+	 {
+"api": "./py/yangshipin.py",
+"ext": {},
+"name": "💝分享者央视频"
+},
 	{
       "name": "💖分享者直播2",
       "type": 0,
