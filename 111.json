@@ -55,7 +55,7 @@
 "key": "yangshipin_vod",
  "name": "💝分享央卫", 
 "type": 3,
-"api": "./py/yangshipin.py", 
+"api": "./PY/yangshipin.py", 
 "ext": {}
 },
     {
