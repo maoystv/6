@@ -1924,6 +1924,14 @@
 			]
 		},
 		{
+  "hosts": ["xbv2608"],
+  "name": "新葡京(xbv2608)",
+  "regex": [
+    "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY",
+    "#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-KEY:METHOD=AES-128"
+  ]
+},
+		{
 			"name": "♻️索尼",
 			"hosts": [
 				"suonizy",
