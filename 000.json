@@ -183,13 +183,7 @@
       }
     },
 	{
-      "key": "py_8kvod",
-      "name": "💝分享酷客",
-      "type": 3,
-      "api": "./PY/分享者酷客.py"
-    },
-	{
-      "key": "请勿扒取",
+     "key": "请勿扒取",
       "name": "💝分享亢龙",
       "type": 1,
       "api": "http://110.42.66.100:12678/api.php",
@@ -237,7 +231,7 @@
       "api": "./PY/emby.py",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "changeable": 1,
       "ext": {
         "server": "http://ap-cn01.emby.bangumi.ca:8096",
