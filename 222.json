@@ -182,12 +182,7 @@
         "deviceModel": "V2309A"
       }
     },
-	{
-      "key": "py_8kvod",
-      "name": "💝分享酷客",
-      "type": 3,
-      "api": "./PY/分享者酷客.py"
-    },
+
 	{
       "key": "请勿扒取",
       "name": "💝分享亢龙",
@@ -298,6 +293,12 @@
       "type": 3,
       "api": "https://z2.gh-proxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
       "ext": "./qq.js"
+    },
+	{
+      "key": "电影侠.py",
+      "name": "💝分享影侠",
+      "type": 3,
+      "api": "./PY/电影侠.py"
     },
      {
       "key": "lX.py",
