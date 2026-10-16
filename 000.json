@@ -94,6 +94,51 @@
       "type": 3,
       "api": "./PY/分享者咕噜.py"
     },
+	{
+  "key": "懒懒视频APP",
+  "name": "💝分享懒懒",
+  "type": 3,
+  "api": "./JS/llsp.min.js",
+  "ext": {
+    "appId": "522",
+    "verCode": 58,
+    "verName": "2.4.21",
+    "pkg": "com.lanlanys.app",
+    "appKey": "dec99f2e3071ece8c7aa5b2fd5800a6f",
+    "appSecret": "d686e49b39c996326bfe7b5f28846bb8",
+    "soMd5": "99b9e59d555d4bdb5c7adf14c7f901e6",
+    "apkMd5": "78c25ff2caeb04f9199303e01d039eb6",
+    "pkgMd5": "4f7f5abdc826f5e62164fb0d0af1a9b1",
+    "signMd5": "9007968b9871d31ce96ed812d1128f0d",
+    "host": ["https://llsp1.oss-cn-hangzhou.aliyuncs.com/llsp20250605.json","https://llsp-1330823543.cos.ap-guangzhou.myqcloud.com/llsp20250605.json"],
+    "newHost": "http://118.31.73.148:9981",
+    "bizHost": "http://llsp3.terribly.cn",
+    "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqAp1r0KfdEbfAATZXqWMQdEHCfeMdsI7gegO2CtQgzJ5UcXHtdnRUnWd8uKHd5p1jB8ndpTmZEv6BpODgYVLOqAjpO44Z1j6WJVXZ0h19zdjyzzOqhBkEmmKPcQiF+LYqjE/0t0xdNoxgxDBQXyK1PPfmQzfmhhlacQnStL181oCRimZhwEjjha4sqnjmMJTg6JBf6zj5o2btutVT8NUMMZRSmLXqMoDj6oTJapkStlRynihNKn9AiCyozUa6VOmrlZZEnL4yjIgBqYCIS7UAyWE38HeBj7OAEAn7IBrnn1Qrw9u0J2L3Fd40zdHcmBYZa6OF05GNpR1SVlmQtL/QwIDAQAB"
+  }
+},
+{
+  "key": "南瓜视频APP",
+  "name": "💝分享南瓜",
+  "type": 3,
+  "api": "./JS/llsp.min.js",
+  "ext": {
+    "appId": "10003",
+    "verCode": 58,
+    "verName": "1.0.0",
+    "pkg": "com.dongyu.movies",
+    "appKey": "00823f50736454de37cfef8b260c9e35",
+    "appSecret": "aca767d257733a3d97fe125bb9150feb",
+    "soMd5": "28922fee11cea66d7e9f2b5c02151b44",
+    "apkMd5": "415705b07be237654f9a760306f01c9f",
+    "pkgMd5": "725e9c0fda0e0925e234d8256dc08b07",
+    "signMd5": "d97197f84e41b05941688809857e0685",
+    "host": ["https://nanguasp.oss-cn-hangzhou.aliyuncs.com/nannan07124.json"],
+    "newHost": "http://134.175.188.60:4491",
+    "bizHost": "http://134.175.188.60:2025",
+    "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsfgFYt5LTHeDslGbyQb836pa/f9FaJa20ZvU3rq2TaT4QxbhzMz0QlXhxyJA78VEooiFzNsOKJDFZAvAYGHid1BvTkqEmwaUD38WN/gOXWPevX20X13kbKlKctbTzqB6CsKLdxYyjB4awtF6o66cVFwLAjPmeePSxiSIoMKaO8jZakhHlPMhIgztAgd09eX+bSM6pve35k9CV5X2GSey7Dtth4DQz/NZVc8HGb79uhyrwH1h6IV3BKgOoqcpsHUcggoV1bJ3IIT0+WUMM8S9Yo2dh9T2EXc+gmIH0UAIxwKxmO1jTNzTDR7BvOCMnJQs5DIUx409BPdLdg4zg0SbmQIDAQAB",
+    "privateKey": "MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCN9LrnN2+FFW9oTw5ySIQxClbNZyPQyXyueQmsJw9PELWamIvyrVDhsi2862Da83nXRwjzcBsuT3fSq4BETKfRpsOrI3xprN6HyB+aALoYJbdMt5p3liUeyaw9WNxGZ2VhJ+st6ThGNikKRinFgPkOKaocZgefK7MuKI/EJKrj/FFB1WUE1I1/TT5bkIFMmjc8dszKyqxNdDaRgNTNP1Xou0s/tRCgKpmc503wf2h46F94YK6tpbHvYKouCCKps5ieUu+eWsXZmLRfiM0iZQcD0K5wcbrMvWcS/KmElkWPsCOwErpd/EDgeIbVKtsoHPewG8fOta75iCcb8/J56VbZAgMBAAECggEBAI2+8WIvWIvq+3OMfUBgaJ8PU92GP50blAQjmCTuW7r3VF8qM5P+u+ShpkoePnhi5iawJ5/tMTbs4xjZZxrL8EbH3lnk9TYQB6RNkECWuTujbYSNURBYPHihp/sZ39ntJK3+zjbpyedR7Wj05oDwZ8BcmiABQVsOp7xPhD623m0G3wSYtv1bIeCc+vP8pc1kauCPXl5ZyNCUN6XZKH1mvRkGd+VP9hCYr5LOsPVvn3JM8yF5HUJbxltzZVU/m9WcN9D3lcJ9pqpKBd99G1l5zsN+U23+4VvwX8Qhj4ZkNlMCaNndj+6PvhPGMp4+cCpt94I3xh/OqjdrUAd6jnZpioECgYEA709jQ+yFCobRPKzT/PT6KsqVIJJn0FTMXVc1VP5Sn3t5NTQ+iLzOxQRcO1aTNFVgNKhIgsVnVlGh+1Oa2Zor3vXr1eQBjHCZ2zOH+2QdZbRk4GXoOsZ0d203H189SBCTVj20Zd8mL5csBvihIsMjKZ6R62k/mEyOLD+IVuh+axMCgYEAl9sxrVbU1bvGYgHkGWV7BkqYsezOXR65F3eRq8jbNV0YdYN7rnFCStllIJsMCzJBSs2rBD3lcY6/Tk2ThlFIVHVEhgjjRAUIrLHQBJrFKCSusDMGX39Ekk5DZa+5JNak5J7Ikon6klYtDa1G8PFQTJDKTDfQLm/NgryVFS4Np+MCgYEAljLAfcg8NEAroSZkIvbq8OKXOItLRxGB9u+eVIsO9nP7vi3dNdsy96rl7IRI/ea77DDW2eTmF+JChUiS/xJpiJXXADcL1cZyeobcSScr4EKZsdGkMQeP38kXeMRA5TMqFk3CJNIq2GHMS0/Pas8JCb0xnow/UupxrUnu24UumysCgYBKjYuLDVk6gZC45zLEISVQBmmG2LrLztySH9q9msO8JDNw5hdfoi0osChM5LH6ATc68VQnpfeyU6GqYL2vsNIw3M3CfDSPXWVP25BD4nQu7CtzR+m2ErZomdHO54GfC14y+51/DAyfsX02/L4aZm7E2ETpPHGRisQ7jjgnCNAdfwKBgQDSVzfLvsDi2UqbTjyEIeVYPfgm3Owo0fh79rKvinAainQHabVkAezx+RwiJdWeor/08WiyDjFZC86hJOH8gSMLZ2yJw6EVgHqLTvJ+nkYbk0LzvS2gS2h9lDnqOkkKGZBc5l8k/ScCytcDz3WUFEC2TV2CXDj89H14699s1SjpSw=="
+  }
+},
 	 {
             "key": "马猴网",
             "name": "💝分享马猴",
