@@ -332,8 +332,14 @@
       ]
     },
       {
-      "key": "影探",
+      "key": "4K",
       "name": "💝分享影探",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
+    },
+      {
+      "key": "影探",
+      "name": "💝分享影探+",
       "type": 3,
       "api": "https://raw.giteeusercontent.com/suixin8/00/raw/0/yt.py"
     },
