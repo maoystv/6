@@ -200,6 +200,29 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
         },
+
+	{
+            "key": "cat_123TV",
+            "name": "💝分享壹影",
+            "type": 3,
+            "api": "./JS/123TV.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        },
+{
+            "key": "cat_剧迷网",
+            "name": "💝分享剧谜",
+            "type": 3,
+            "api": "./JS/高清剧迷.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        },
 	{
       "key": "剧迷",
       "name": "💝分享剧迷",
