@@ -201,7 +201,13 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
         },
-
+{
+      "key": "ZIP0影视",
+      "name": "💝分享ZIP0",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ZIP0影视.py"
+    },
+	
 	{
             "key": "cat_123TV",
             "name": "💝分享壹影",
@@ -305,48 +311,7 @@
                 "lineCount": 1
             }
         },
-   {
-      "key": "NYa",
-      "name": "💝分享EMBY",
-      "type": 3,
-      "api": "./PY/emby.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "server": "http://ap-cn01.emby.bangumi.ca:8096",
-        "username": "tangsan",
-        "password": "12345678",
-        "proxy": "",
-        "thread": 0,
-        "device_name": "My Computer",
-        "client": "Hills Windows",
-        "client_version": "0.2.2",
-        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-      }
-    },
-     {
-      "key": "七夜内裤",
-      "name": "💝分享七夜",
-      "type": 3,
-      "api": "./PY/emby.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "server": "https://emby.ok.now.cc:443",
-        "username": "diwu",
-        "password": "123456",
-        "proxy": "",
-        "thread": 0,
-        "device_name": "My Computer",
-        "client": "Hills Windows",
-        "client_version": "0.2.2",
-        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-      }
-    },
+
 	{
       "key": "nn",
       "name": "💝分享牛牛",
