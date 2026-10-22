@@ -202,6 +202,13 @@
       }
         },
 {
+      "key": "TVB云.py",
+      "name": "💝分享tvb云",
+      "type": 3,
+      "api": "./PY/TVB云播.py"
+    },
+	
+{
       "key": "ZIP0影视",
       "name": "💝分享ZIP0",
       "type": 3,
