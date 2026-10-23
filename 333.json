@@ -206,6 +206,22 @@
       "type": 3,
       "api": "./PY/TVB云播.py"
     },
+	 {
+      "key": "看剧ai",
+      "name": "💝分享AI看",
+      "type": 3,
+      "api": "./JS/看剧ai.js",
+      "ext": {
+        "cookie": "相对txt路径./config/xxx.txt 或者直接放ck本身    大部分官方线路需要ck 无需登录"
+      },
+      "changeable": 0
+    },
+    {
+      "key": "vidhub.py",
+      "name": "💝分享vidhub",
+      "type": 3,
+      "api": "./PY/vidhub.py"
+    },
 	
 	{
             "key": "cat_123TV",
