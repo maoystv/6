@@ -298,17 +298,16 @@
       "category": "综合"
     },
     {
-      "key": "秒看",
-      "name": "💝分享秒看",
-      "type": 3,
-      "api": "./PY/getapp3.4.6.py",
-      "ext": {
-        "host": "https://mk1080.top/",
-        "key": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "6c73543e2d4f350d9ec4ecbbb78b51b9a6cb7803f5067601108f9561f14c429b"
-      }
-    },
+            "key": "看客联盟[skapp]",
+            "name": "💝分享联盟",
+            "type": 3,
+            "api": "./PY/skapp.py",
+            "ext": {
+                "host": "https://kankelm.cn:2024/appdomain.txt",
+                "key": "ygcnbcvybqqckwqy",
+                "iv": "1583560747143708"
+            }
+        },
     {
             "key": "王子",
             "name": "💝分享王子",
