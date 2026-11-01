@@ -448,7 +448,10 @@
       "key": "影探",
       "name": "💝分享影探",
       "type": 3,
-      "api": "./PY/影探4K.py"
+      "api": "./PY/影探4K.py",
+      "searchable": 0,
+      "quickSearch": 0,
+       "filterable": 0
     },
 {
       "key": "js_腾讯视频",
