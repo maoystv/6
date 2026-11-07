@@ -97,17 +97,17 @@
       "name": "💝分享探戈",
       "type": 3,
       "api": "./PY/影探4K.py",
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "hT.py",
       "name": "💝分享河豚",
       "type": 3,
       "api": "./PY/河豚.py",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
 	{
