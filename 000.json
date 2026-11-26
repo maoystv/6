@@ -135,7 +135,7 @@
       "key": "南瓜JS",
       "name": "💝分享西瓜",
       "type": 3,
-      "api": "./PY/南瓜影视.js",
+      "api": "./PY/南瓜影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
